@@ -1,0 +1,87 @@
+---
+Title: Getting Started - Import Existing Contacts
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005056-getting-started-import-existing-contacts
+Word Count: 450
+Scraped: 2025-10-29T01:38:42.877369
+---
+
+Your audience is the heartbeat of your business. Quickly import your existing contacts from various platforms into one convenient space and start engaging immediately. Having all your contacts together means less hassle, more effective outreach, and building stronger relationships right away.
+TABLE OF CONTENTS
+Import Contacts
+Create New Custom Fields
+Bulk Contact Actions
+Import Contacts
+Streamlining your outreach starts with importing your contacts. Follow these straightforward steps to ensure a smooth import:
+Navigate to
+Contacts
+.
+Click
+Import Contacts
+(the icon looks like a downward arrow pointing into a box).
+In Imports-1 Select Contacts and click Next
+Confirm your file format.
+Upload your file (CSV files up to 50MB).
+Map your file columns to corresponding Contact fields.
+If you have non-standard data, create a new custom field.
+Or select "Don't import data in unmatched columns".
+Fill in the import details (name your import, create lists, set consent preferences, etc.) and click
+Bulk Import.
+Wait for the contacts to finish importing.
+Ready for the next step? Learn more:
+Importing Contacts using a CSV file
+Importing Contacts and Opportunities via CSV
+Allow Duplicate Contacts (Contact Deduplication Preferences)
+Next, you can start segmenting your audience for targeted engagement!
+Create New Custom Fields
+Personalize your contact data to match your unique business needs. Creating custom fields lets you capture exactly the information you find valuable, allowing for precise targeting and richer insights.
+Here's how to set up your custom fields:
+Navigate to
+Settings > Custom Fields
+.
+Click
+Add Field
+.
+Select the type of field you need.
+Fill in the field details (name, group, placeholder, etc.).
+Click
+Save
+.
+Learn more:
+How to Use Custom Fields
+Next, leverage your custom fields to enhance your campaigns and messaging!
+Bulk Contact Actions
+Effortlessly manage large groups of contacts with powerful bulk actions. Whether you're adding tags, sending emails, or initiating automations, bulk actions save you time and amplify your efficiency.
+Here's how you do it:
+Navigate to
+Contacts
+.
+Apply filters to narrow down your audience.
+Select checkboxes next to your chosen contacts.
+Click a bulk action button (e.g., Add to Automation, Send SMS, Send Email).
+Learn more:
+Bulk Activities: Adding Contact Tags to Multiple Contacts
+Bulk Requests – Overview
+Next, explore automation tools to supercharge your outreach!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

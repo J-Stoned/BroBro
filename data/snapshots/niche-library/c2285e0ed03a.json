@@ -1,0 +1,91 @@
+{
+  "snapshot_name": "Personal Injury Attorney Complete Automation System",
+  "snapshot_id": "c2285e0ed03a",
+  "industry": "Personal Injury Attorney / Legal Services",
+  "use_case": "Complete business automation for personal injury attorney businesses including lead generation, appointment booking, and customer retention",
+  "target_audience": "Personal Injury Attorney business owners, legal services professionals",
+  "pricing_model": "Varies by provider",
+  "version": "1.0.0",
+  "last_updated": "2025-11-01",
+  "author": "Multiple Providers",
+  "description": {
+    "overview": "Industry-specific automation system designed for personal injury attorney businesses. Includes lead capture funnels, automated follow-up sequences, appointment booking, customer communication workflows, and review generation. Built on proven best practices for the personal injury attorney industry.",
+    "key_benefits": [
+      "Automated lead capture and nurturing",
+      "Industry-specific funnels for personal injury attorney services",
+      "Appointment scheduling and reminders",
+      "Multi-channel follow-up (Email, SMS, Voicemail)",
+      "Review generation automation",
+      "Customer retention workflows",
+      "Pipeline for tracking leads to customers"
+    ],
+    "ideal_for": [
+      "Personal Injury Attorney businesses wanting to automate operations",
+      "New personal injury attorney businesses needing a complete system",
+      "Established legal services companies looking to scale",
+      "Agencies serving this niche"
+    ]
+  },
+  "components": {
+    "funnels": [
+      {
+        "name": "Personal Injury Attorney Lead Capture Funnel",
+        "purpose": "Convert website visitors into leads"
+      },
+      {
+        "name": "Personal Injury Attorney Quote Request Funnel",
+        "purpose": "Collect quote requests and service details"
+      }
+    ],
+    "workflows": [
+      {
+        "name": "New Lead Welcome Sequence",
+        "trigger": "New lead submission",
+        "purpose": "Engage leads immediately with multi-channel outreach"
+      },
+      {
+        "name": "Appointment Reminder Automation",
+        "trigger": "Appointment booked",
+        "purpose": "Reduce no-shows with automated reminders"
+      },
+      {
+        "name": "Review Request Automation",
+        "trigger": "Service completed",
+        "purpose": "Generate positive reviews automatically"
+      }
+    ],
+    "calendars": [
+      {
+        "name": "Personal Injury Attorney Booking Calendar",
+        "type": "Service Booking",
+        "purpose": "Schedule appointments and consultations"
+      }
+    ],
+    "pipelines": [
+      {
+        "name": "Personal Injury Attorney Sales Pipeline",
+        "stages": [
+          "New Lead",
+          "Contacted",
+          "Quote Sent",
+          "Booked",
+          "Completed"
+        ],
+        "purpose": "Track leads through entire customer journey"
+      }
+    ]
+  },
+  "tags": [
+    "personal-injury-attorney",
+    "legal-services",
+    "lead-generation",
+    "appointments",
+    "automation"
+  ],
+  "source_type": "niche_generated",
+  "available_providers": [
+    "GHL Automations",
+    "Streamline Results",
+    "Top GHL Snapshots"
+  ]
+}

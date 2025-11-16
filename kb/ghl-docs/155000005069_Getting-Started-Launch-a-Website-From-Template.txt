@@ -1,0 +1,93 @@
+---
+Title: Getting Started - Launch a Website From Template
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005069-getting-started-launch-a-website-from-template
+Word Count: 554
+Scraped: 2025-10-29T01:38:52.049418
+---
+
+Launching your own website can feel daunting, but don't worry! Think of it as your digital home—your spot on the internet where customers, friends, or fans can easily find you. With our simple tools and ready-to-go templates, you're just moments away from having a professional-looking website.
+Launching a Website on Your Domain
+Ready to get started? Great!
+Navigate to Sites > Websites
+: First, let's head to the Websites section to kick things off.
+Click New Website
+: Look for the "New Website" button. Easy to find, right?
+Choose Your Starting Point
+:
+From Blank
+: Feeling creative and adventurous? This gives you total freedom!
+From Templates
+: Want something polished and quick? Let's start here.
+Select From Templates and Click Create
+: Browse through our gorgeous templates. Once you've found your match, click "preview" to see it live, then hit
+Continue
+.
+Next, you'll customize your site:
+In Website Editor, Configure Website
+: Play around, tweak colors, add images, and really make it yours.
+Click Save
+: Don't forget to save your masterpiece!
+Click Publish
+: Make it live for the whole world.
+Click Back (to exit Website Editor)
+: Time to wrap things up and get your site online.
+Let's make it official by connecting your domain:
+Click Settings Tab
+: Jump over to the settings to connect your unique web address.
+Under Domain Click Connect Domain
+: Find the domain dropdown and click the
+Connect Domain
+link underneath.
+After clicking Connect Domain you might go straight to this page, in which cast you can enter your domain and click
+Continue
+, or you can click
+Back to Domains
+to go to the Settings > Domains list of domains.
+Click Connect a Domain
+: Enter your domain name, and click "Continue" twice. Almost there!
+If you don't have any domains yet, this is the page you will see. Just click
+Connect a Domain
+.
+Click to connect a website:
+Use the option for blog/funnel/website/etc.
+Enter the domain and click Continue:
+This is where you specify the domain you want your website to launch on.
+Continue and Configure DNS (varies by registrar)
+: Follow the provided instructions. Don't worry, it's simpler than it sounds!
+Click Verify Records
+: Let's make sure everything checks out.
+Navigate back to Website Settings Tab
+: Return to settings one last time.
+Select Domain and Click Save
+: Choose your shiny new domain and save your changes. Congratulations, your website is live!
+Next,
+you can share your new website link with your audience, start exploring analytics, or add more content to enhance your online presence. Happy launching!
+Related Articles
+Setting up Whitelabel Domain, API Domain, Email Sending Domain, Sites Domain, Client Portal Domain & more
+How to Purchase Domain Step by Step
+FAQs, Basic Troubleshooting - Funnels, Websites, Webinars
+Websites Case Study
+How to Add a Domain and Verify DNS Record
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

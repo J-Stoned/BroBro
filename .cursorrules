@@ -1,0 +1,33 @@
+# GHL WHIZ + Josh Wash Context
+
+You are helping with TWO related things:
+
+## 1. GHL WHIZ Project (MCP Server Development)
+- Building a GoHighLevel API MCP server
+- Currently on Story 3.4: Workflow Tools
+- Epic 3 in progress (MCP Server Implementation)
+
+## 2. Josh Wash Setup (Using GHL WHIZ Knowledge Base)
+- Building a complete GoHighLevel system for Josh Wash (pressure washing business)
+- Phone: 413-547-4089
+- Website: joshwashohmygosh.com
+- **CURRENT TASK:** Update notification email to include new hidden form fields
+  - Hidden fields: Stories in home, Square footage, Concrete type
+- **Status:** Form fields created, now need to add merge fields to notification email
+- **Blocker:** A2P 10DLC registration (SMS workflows blocked until approved)
+
+## When User Asks About Josh Wash:
+- Provide expert GHL guidance with exact steps
+- Reference form field names precisely
+- Generate production-ready code if needed
+- Anticipate A2P blocker context
+- Use merge field syntax: {{field_name}}
+
+## Knowledge Base Available:
+- 126 chunks in Chroma at http://localhost:8001
+- GHL documentation, best practices, snapshot templates
+
+## Josh Wash Current Status:
+✅ Website live, Chatbot with 51 FAQs, Phone setup, SMS templates, Email workflows, Dashboards, Hidden form fields
+⏳ Notification email update, Lead scoring, SMS workflows
+🔴 A2P registration blocking SMS

@@ -1,0 +1,54 @@
+---
+Title: WordPress: Domain Connect Integration
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004155-wordpress-domain-connect-integration
+Word Count: 333
+Scraped: 2025-10-29T01:44:52.286828
+---
+
+We’re excited to announce an update to Domain Connect that makes managing domains easier than ever! With this new version, you can save time and skip complicated steps.
+What’s New?
+Supports Major Domain Providers:
+Now, Domain Connect works with GoDaddy, Cloudflare, and IONOS. You can easily use these new features if your domain is with any of these providers.
+Quick Domain Setup:
+Linking your domain from GoDaddy, Cloudflare, or IONOS is now super easy. Just a few clicks, and you’re done — no technical skills needed!
+No More Manual Setup:
+Forget about adjusting DNS settings by hand. With Domain Connect, everything is set up automatically, so you don’t have to worry about the details.
+Saves You Time:
+Domain Connect takes care of everything, making domain setup fast and easy. This means you can focus on managing your website instead of dealing with the setup.
+How It Works
+1.    Go to the Dashboard:
+Log into HighLevel and go to the WordPress hosting section.
+2.    Pick Your Site:
+Choose the site you want to connect a new domain to from the dashboard.
+3.    Add Your Domain:
+Click on “Add Domain” under the “Manage Your Domains” section.
+4.    Enter Domain Name:
+Type in the domain name you want to link to your website.
+5.    Auto Configure:
+Click “Auto Configure” to start connecting your domain.
+6.    Complete the Process:
+Follow any remaining steps to finish connecting your domain.
+With this update, Domain Connect makes setting up your domain easier and quicker, so you can get straight to managing your site!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

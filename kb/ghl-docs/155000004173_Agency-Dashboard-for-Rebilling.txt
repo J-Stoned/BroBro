@@ -1,0 +1,51 @@
+---
+Title: Agency Dashboard for Rebilling
+Category: Agency View
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004173-agency-dashboard-for-rebilling
+Word Count: 261
+Scraped: 2025-10-29T01:39:42.615091
+---
+
+Agencies have clear visibility into their revenue and costs pertaining to Rebilling within HighLevel, which they can slice and dice by each product and each sub-account.
+Data is only available in the dashboard for the previous 6 months.
+Please note: Dashboard might reflect negative revenue in case of subscription cancellations due to proration calculations.
+How to use the Rebilling Dashboard
+Go to your Agency account and click Agency Dashboard > Rebilling tab.
+Filter by Subaccount
+Filter by Product
+Filter by Dates
+Toggle only rebilled transactions (enabling this will exclude all transactions where your client was not rebilled from the calculations)
+Total Rebilling Revenue
+Total Usage Costs
+Total Gross Profit
+Revenue Distribution across all products
+Cost Distribution across all products
+Profit Distribution across all products
+Revenue Growth
+Profit Growth
+To filter by subaccount, click on the subaccount dropdown and search.
+You can select more than one subaccount or clear all. Click apply to return to the dashboard with the filter(s) active.
+You can filter by products by clicking the Product dropdown.
+You can also filter by dates using the calendar picker. Click confirm to apply.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

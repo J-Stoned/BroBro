@@ -1,0 +1,91 @@
+---
+Title: Getting Started - Create New Contact
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005055-getting-started-create-new-contact
+Word Count: 453
+Scraped: 2025-10-29T01:38:41.733094
+---
+
+Add your first contact effortlessly and begin building meaningful engagement right away.
+TABLE OF CONTENTS
+Create New Contact
+Edit Existing Contact
+Delete an Existing Contact
+Create New Custom Fields
+Create New Contact
+Let's dive right in by adding your very first contact. Establishing your network starts with this simple step:
+Navigate to
+Contacts
+in the main menu.
+Click the
+Add Contact
+button.
+Enter the contact details (name, email, phone, etc.). Remember, the more information you provide, the easier it will be to personalize your engagements. If you don't see the contact field you need to add information to, use the Create New Custom Field checklist.
+Click
+Save
+.
+Did you know?
+When a Form or Survey is filled out by a new lead, a new contact is automatically created!
+Edit Existing Contact
+Keep your contact information current and accurate. Editing contacts is quick and straightforward, ensuring your data stays up-to-date:
+Navigate to
+Contacts
+.
+Click on a contact row to open the
+contact card
+you wish to edit.
+3. Make the necessary updates on the left-hand side.
+If you don't see the contact field you need to add information to, use the Create New Custom Field checklist.
+Click
+Save
+to apply your changes.
+Delete an Existing Contact
+Deleting any contacts will also remove the corresponding: Conversations, Notes, Opportunities, Tasks, Appointments, Manual Actions, Community Group Owners. It will also stop any active campaigns and workflows for the contacts. Deleted contacts can be restored within 2 months
+Follow these steps to delete a contact:
+Navigate to
+Contacts
+in the main menu.
+Select the contact you would like to delete using the checkbox to the left of the name. Then click the
+Delete
+button
+Confirm for action by typing
+DELETE
+in the popup window. Then click the
+Delete
+button.
+Create New Custom Fields
+Custom fields allow you to tailor your contact database to fit your specific business requirements. Easily track the data that's most important to you and your team:
+Navigate to
+Settings > Custom Fields
+.
+2. Click
+Add Field
+.
+3. Choose the
+type
+of field you want to create (e.g., text, dropdown, date).
+4. Complete the field details (name, group, placeholder, etc.). This helps ensure your team understands exactly what information is needed. Click
+Save
+.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

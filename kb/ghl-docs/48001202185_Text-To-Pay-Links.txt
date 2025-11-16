@@ -1,0 +1,35 @@
+---
+Title: Text-To-Pay Links
+Category: Payments
+URL: https://help.gohighlevel.com/support/solutions/articles/48001202185-text-to-pay-links
+Word Count: 167
+Scraped: 2025-10-29T01:49:56.453492
+---
+
+To create Payment Links:
+Step 1 - Integrate Sub-Account With Stripe:
+Integrate the sub-account with Stripe by going to Settings Payments and click the "Connect Your Stripe Account" button and follow the steps to integrate Stripe.
+Step 2 - Create An Invoice From A Conversation:
+Go to a conversation and click the payment icon below the text editor. In the modal that pops up, give the Invoice a name, price, and then set a Link Expiration/Due Date and hit Save. The payment link will then appear in the conversation editor.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,40 @@
+---
+Title: Marketplace Apps - Managing External Connections
+Category: App Marketplace
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004585-marketplace-apps-managing-external-connections
+Word Count: 243
+Scraped: 2025-10-29T01:56:03.671681
+---
+
+Apps enable you to integrate HighLevel with third-party applications. To achieve this integration, you must connect the app with the third-party application. This document explains how these connections work and are managed.
+Understanding the basics
+All connections are made at the sub-account level. So each sub-account will have a unique connection with the third-party app
+If you're installing an app that requires external connection to a particular sub-account, the connection request will launch immediately after the installation is completed.
+If you are bulk-installing an app across multiple sub-accounts, then the connection request is not automatically launched during installations. Since the connections are established at individual sub-account level, your sub-account users must connect the app within the sub-account marketplace.
+What authentication methods are supported?
+We currently support three types of authentication methods:
+OAuth - Login with third-party app and authorise the integration
+API Keys - Copy API key from the third-party app and paste it in HighLevel
+Basic Auth - Username/Password credentials of your third party app
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

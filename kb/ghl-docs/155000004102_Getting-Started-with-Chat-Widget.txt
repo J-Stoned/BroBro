@@ -1,0 +1,100 @@
+---
+Title: Getting Started with Chat Widget
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004102-getting-started-with-chat-widget
+Word Count: 787
+Scraped: 2025-10-29T01:45:24.684329
+---
+
+Chat Widget is one of ways to convert visitors to potential leads. Chat Widget helps you to enhance customer experience to provide immediate support when and where customers need it.
+TABLE OF CONTENTS
+What are Chat Widgets?
+Key Benefits of Chat Widgets
+Chat Type Options
+Using Conversation AI Within a Chat Widget
+How To Install Chat Widgets
+Frequently Asked Questions
+Related Articles
+What are Chat Widgets?
+The HighLevel Chat Widget is an embeddable messenger that lets website visitors start real‑time conversations with your team by Live Chat, Email/SMS, or WhatsApp—all routed directly into your HighLevel inbox.
+Key Benefits of Chat Widgets
+Chat widgets provide a range of benefits, especially for businesses looking to enhance customer engagement, improve support efficiency, and drive conversions. Here are some of the key advantages:
+Real-Time Customer Support:
+Users get instant answers to their questions, reducing wait times and improving the overall customer experience
+Improved Customer Experience:
+Faster Issues can be resolved immediately, enhancing customer satisfaction and loyalty.
+Increased Conversions:
+Encourage interaction by offering help when customers need it, helping to prevent cart abandonment and increase conversion rates
+Increased Engagement:
+Proactively engage users based on behavior, such as spending a long time on a product page
+Cost Savings:
+Automating responses to common questions through a chatbot reduces the volume of queries that need human support, saving on labor costs
+Increased Efficiency:
+By handling multiple conversations at once, chat widgets improve support efficiency
+Chat Type Options
+Chat Widget is provided in three options:
+1. Email and SMS Chat
+This chat will collect the visitor’s information so that you can respond to them via SMS or email later. It is great for small teams that are not staffed 24x7 [
+What is LC Email
+and
+What is LC Phone
+]
+2. Live Chat
+Live chat is a real-time, 2 way conversation within the chat widget. Great for teams with 24x7 coverage or with Conversation AI installed.
+3.
+WhatsApp Chat
+A WhatsApp integrated 2 way conversation on chat widget. The user needs a Whatsapp approved number. It is also great for small teams that are not staffed 24x7
+Using Conversation AI Within a Chat Widget
+Use Conversational AI directly inside the chat widget to greet visitors and deliver instant answers around the clock, so every inquiry receives a response even when your team is away.
+For setup and advanced options, see
+Conversational AI Bot Explained
+.
+How To Install Chat Widgets
+1. Go to
+Sites > Chat Widget
+2. Click on the
+New
+button to start the chat widget.
+3. Select the type of the chat widget, the user wants to add on landing page.
+4. Once you select the chat widget type, there will three settings to deploy the chat widget
+1. Widget -
+User selects the themes, icons and welcome messages. User can also select the avatar and placement of chat widget. User can configure different sizes of chat widget.
+2.  Chat Window -
+Chat window allows user to customise the title, intro message and contact form customisations. It also allows business to add their own brand url in the chat widget for more visibility and meet any compliance regulations with checkboxes.
+Note - Based on the type of chat widget the options get added in the configuration.
+3. Messaging -
+Here the user configure the acknowledgement of message and icons. They can also configure the language of chat widget.
+Once the Chat widget is configured, the user can copy the code for landing page or Google tag manager and add it in wordpress. User can go to Funnels, Websites, Blogs to select the chat widget type to directly get added
+Frequently Asked Questions
+Q: Can I customize my chat widget messaging per page?
+The current configuration of the webchat widget does not allow for dynamic messaging. Although the widget can be used on multiple pages, the messaging will remain consistent with the initial setup.
+Q: Can I create multiple chat widgets in a sub-account?
+Yes. To learn more on how to add multiple chat widgets, see:
+How to Add Multiple Chat Widgets to the Same Website
+Related Articles
+How to Use the All-in-One Chat Widget
+Conversation AI Bot - Explained
+How to Add Multiple Chat Widgets to the Same Website
+How to Install HighLevel's Chat Widget
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

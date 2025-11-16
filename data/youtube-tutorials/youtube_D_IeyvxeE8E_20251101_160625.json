@@ -1,0 +1,760 @@
+{
+  "video_id": "D_IeyvxeE8E",
+  "url": "https://www.youtube.com/watch?v=D_IeyvxeE8E",
+  "title": "Did You Know HighLevel Can Email Leads the Second They Hit Submit?",
+  "channel": "HighLevel",
+  "channel_id": "UCXFiV4qDX5ipE-DQcsm1j4g",
+  "upload_date": "20251031",
+  "duration": 238,
+  "view_count": 99,
+  "like_count": 5,
+  "description": "For a 14-day free trial, click https://www.gohighlevel.com/?utm_source=youtube&utm_medium=video&utm_campaign=video_did_you_know\n———\nWant someone from the team to walk you through it? Click here https://speakwith.us/success\n———\nVisit the Did You Know blog for other great resources https://www.gohighlevel.com/blog/category/did-you-know\n———\nFor more information about this and other topics, be sure to visit the knowledge base https://help.gohighlevel.com/support/solutions\n———\nFor other helpful tutorials, visit our Content Army playlist https://www.youtube.com/playlist?list=PLUjgZhyQd8yUgxV6579GC5uh75YigrLLq\n\nDiscover how HighLevel's forms and workflows automate email responses the moment a form is submitted. Learn how to create and customize forms, set up triggers, and streamline communication for enhanced lead engagement.\n\n00:00 Introduction to HighLevel's Email Automation\n00:45 Setting Up Your First Form\n00:56 Customizing Your Form\n01:26 Integrating the Form into Your Website\n01:48 Creating an Automated Workflow\n02:25 Personalizing Your Automated Emails\n03:23 Publishing and Benefits of HighLevel\n03:49 Conclusion and Additional Resources",
+  "tags": [],
+  "categories": [
+    "Education"
+  ],
+  "transcript": "Whoever emails first usually wins. With High Lee, that's you. Did you know High Lee can email leads the second they hit submit? Speed to lead matters more than anything. With High Level's forms and workflows, the moment someone fills out a form, your system can instantly fire off a personalized email so you're the first one in their inbox. That means follow-up happens automatically, instantly, and in your brand's voice. Here's what it looks like in action. The second a form is submitted, High Level triggers a workflow. That workflow sends a custom email and that email can be personalized with the lead's name, the page or the offer they came from and any other details you captured. Inside the email, you can guide them to the clear next step like booking an appointment, downloading a resource or hitting reply. On the back end, the lead activity is logged, assigned to the right team member and everyone stays in the loop. So while the prospect feels like you responded instantly, everything happened automatically. All right, let me show you how it works. Inside your highle account, if you come down to sites and then up to forms on the right hand side here, you can create a form. Then for this demo, I'm going to choose from a template. Click continue and then choose this one over here. It will then take you to the form builder where you can customize it and then add any other details that you need to capture. So if I like this design already, but I don't want to capture the phone number, I can just click on delete. And let's say I want to add their birthday, I just drag it in. And now people can put in their name, put in their date of birth, their email, and tell us their skincare needs. Then when they click on get in touch, we can now build a workflow or an automation to automatically send an email out specific to the person who filled in this form. So once you like your form you can click on save in the top right corner and then if you want to integrate it into your current website then all you have to do is click on integrate on the left hand side. If you already have a website on a different platform then you can just take the embed code and then embed it on that site. If you're using Hilo's native website builder then you can just add the form straight onto the site by adding this element. But regardless of which way you do it whenever it's live and somebody fills it out we can still capture that information. Now we move on to step two and that's to send out the email once somebody has filled in this information. To do that you're going to come outside of this form builder. Click on back in the top left corner and then you want to come down to automation. Then we're going to click on create workflow. Start from scratch and now we are inside the workflow builder. So give it a name at the top like customerf filled in skincare form. And then what we want to do is add a trigger. The trigger is what is the thing that needs to happen in order for this automation to fire. In this case it's when somebody fills out the form. So we're going to select form by clicking on add new trigger. Come to the search bar and type form. Then we're going to come down to form submitted. Then we're going to choose the form we just created. So, we're going to say form is it was the skincare contact form. Click on save trigger. And now we can move on to the next step which is adding the email into the automation. Very simply, you click on the plus button, type an email, click on send email, add your from name, add the from email, add the subject line, and then come down to the message. If you have already built a template, then you can just select the template right over here. But if you want to type the email from scratch, you can do it inside this message block over here. In this email, I'm going to type, \"Hey, thank you for signing up.\" You can find your free skincare plan attached below. But what's really cool is I can add the custom value straight into the email and it'll pull from the information that the customer put onto the form. Like for instance, their name. So if I want to say, \"Hey, thank you for signing up.\" I can just come here, put space, click on the custom value button, say contact first name. Now it'll pull that information and say, \"Hey, John, thank you for signing up.\" So it will be personalized for every customer. And then if I created the skincare plan, I would attach it down here, upload the document, and then click on save action. There are so many possibilities that you can use that email for like even adding a booking link where customers can go ahead and take action immediately. But for now, we just sent them their free plan and once we're ready to publish it, all we have to do is click on publish and then save in the top right corner. Now, this workflow is live. So again, every time somebody fills in that form, they will now automatically get this email. Agencies love this feature because it's a proven win in the response race. Being the first in the inbox dramatically increases the reply and booking rates. It's all built inside of High Lee, so there's no need to patch a whole bunch of different tools together. And once you've built it once for one client, you can clone it and roll it out to every client in minutes. It's fast, it's scalable, and it's impactful. So that's how High Leo can email these the second somebody hits submit. For more information about this or other Highle features, be sure to check out our YouTube channel, blog, and help docs. The links are in the description below. My name is Ben and thank you for watching.",
+  "transcript_entries": [
+    {
+      "text": "Whoever emails first usually wins. With",
+      "start": 0.08,
+      "duration": 3.839
+    },
+    {
+      "text": "High Lee, that's you. Did you know High",
+      "start": 2.08,
+      "duration": 3.679
+    },
+    {
+      "text": "Lee can email leads the second they hit",
+      "start": 3.919,
+      "duration": 3.681
+    },
+    {
+      "text": "submit? Speed to lead matters more than",
+      "start": 5.759,
+      "duration": 3.441
+    },
+    {
+      "text": "anything. With High Level's forms and",
+      "start": 7.6,
+      "duration": 3.2
+    },
+    {
+      "text": "workflows, the moment someone fills out",
+      "start": 9.2,
+      "duration": 3.68
+    },
+    {
+      "text": "a form, your system can instantly fire",
+      "start": 10.8,
+      "duration": 3.919
+    },
+    {
+      "text": "off a personalized email so you're the",
+      "start": 12.88,
+      "duration": 3.28
+    },
+    {
+      "text": "first one in their inbox. That means",
+      "start": 14.719,
+      "duration": 2.801
+    },
+    {
+      "text": "follow-up happens automatically,",
+      "start": 16.16,
+      "duration": 3.199
+    },
+    {
+      "text": "instantly, and in your brand's voice.",
+      "start": 17.52,
+      "duration": 3.12
+    },
+    {
+      "text": "Here's what it looks like in action. The",
+      "start": 19.359,
+      "duration": 3.041
+    },
+    {
+      "text": "second a form is submitted, High Level",
+      "start": 20.64,
+      "duration": 3.6
+    },
+    {
+      "text": "triggers a workflow. That workflow sends",
+      "start": 22.4,
+      "duration": 3.68
+    },
+    {
+      "text": "a custom email and that email can be",
+      "start": 24.24,
+      "duration": 3.199
+    },
+    {
+      "text": "personalized with the lead's name, the",
+      "start": 26.08,
+      "duration": 3.039
+    },
+    {
+      "text": "page or the offer they came from and any",
+      "start": 27.439,
+      "duration": 3.441
+    },
+    {
+      "text": "other details you captured. Inside the",
+      "start": 29.119,
+      "duration": 3.201
+    },
+    {
+      "text": "email, you can guide them to the clear",
+      "start": 30.88,
+      "duration": 3.199
+    },
+    {
+      "text": "next step like booking an appointment,",
+      "start": 32.32,
+      "duration": 3.759
+    },
+    {
+      "text": "downloading a resource or hitting reply.",
+      "start": 34.079,
+      "duration": 3.761
+    },
+    {
+      "text": "On the back end, the lead activity is",
+      "start": 36.079,
+      "duration": 3.201
+    },
+    {
+      "text": "logged, assigned to the right team",
+      "start": 37.84,
+      "duration": 3.2
+    },
+    {
+      "text": "member and everyone stays in the loop.",
+      "start": 39.28,
+      "duration": 3.04
+    },
+    {
+      "text": "So while the prospect feels like you",
+      "start": 41.04,
+      "duration": 2.96
+    },
+    {
+      "text": "responded instantly, everything happened",
+      "start": 42.32,
+      "duration": 3.04
+    },
+    {
+      "text": "automatically. All right, let me show",
+      "start": 44.0,
+      "duration": 3.12
+    },
+    {
+      "text": "you how it works. Inside your highle",
+      "start": 45.36,
+      "duration": 3.519
+    },
+    {
+      "text": "account, if you come down to sites and",
+      "start": 47.12,
+      "duration": 3.759
+    },
+    {
+      "text": "then up to forms on the right hand side",
+      "start": 48.879,
+      "duration": 3.84
+    },
+    {
+      "text": "here, you can create a form. Then for",
+      "start": 50.879,
+      "duration": 3.121
+    },
+    {
+      "text": "this demo, I'm going to choose from a",
+      "start": 52.719,
+      "duration": 3.121
+    },
+    {
+      "text": "template. Click continue and then choose",
+      "start": 54.0,
+      "duration": 3.28
+    },
+    {
+      "text": "this one over here. It will then take",
+      "start": 55.84,
+      "duration": 2.879
+    },
+    {
+      "text": "you to the form builder where you can",
+      "start": 57.28,
+      "duration": 3.04
+    },
+    {
+      "text": "customize it and then add any other",
+      "start": 58.719,
+      "duration": 3.281
+    },
+    {
+      "text": "details that you need to capture. So if",
+      "start": 60.32,
+      "duration": 3.2
+    },
+    {
+      "text": "I like this design already, but I don't",
+      "start": 62.0,
+      "duration": 3.04
+    },
+    {
+      "text": "want to capture the phone number, I can",
+      "start": 63.52,
+      "duration": 3.12
+    },
+    {
+      "text": "just click on delete. And let's say I",
+      "start": 65.04,
+      "duration": 3.2
+    },
+    {
+      "text": "want to add their birthday, I just drag",
+      "start": 66.64,
+      "duration": 3.28
+    },
+    {
+      "text": "it in. And now people can put in their",
+      "start": 68.24,
+      "duration": 3.36
+    },
+    {
+      "text": "name, put in their date of birth, their",
+      "start": 69.92,
+      "duration": 3.76
+    },
+    {
+      "text": "email, and tell us their skincare needs.",
+      "start": 71.6,
+      "duration": 3.76
+    },
+    {
+      "text": "Then when they click on get in touch, we",
+      "start": 73.68,
+      "duration": 3.04
+    },
+    {
+      "text": "can now build a workflow or an",
+      "start": 75.36,
+      "duration": 3.119
+    },
+    {
+      "text": "automation to automatically send an",
+      "start": 76.72,
+      "duration": 3.439
+    },
+    {
+      "text": "email out specific to the person who",
+      "start": 78.479,
+      "duration": 3.361
+    },
+    {
+      "text": "filled in this form. So once you like",
+      "start": 80.159,
+      "duration": 3.28
+    },
+    {
+      "text": "your form you can click on save in the",
+      "start": 81.84,
+      "duration": 3.04
+    },
+    {
+      "text": "top right corner and then if you want to",
+      "start": 83.439,
+      "duration": 2.961
+    },
+    {
+      "text": "integrate it into your current website",
+      "start": 84.88,
+      "duration": 2.72
+    },
+    {
+      "text": "then all you have to do is click on",
+      "start": 86.4,
+      "duration": 2.88
+    },
+    {
+      "text": "integrate on the left hand side. If you",
+      "start": 87.6,
+      "duration": 3.04
+    },
+    {
+      "text": "already have a website on a different",
+      "start": 89.28,
+      "duration": 2.64
+    },
+    {
+      "text": "platform then you can just take the",
+      "start": 90.64,
+      "duration": 2.96
+    },
+    {
+      "text": "embed code and then embed it on that",
+      "start": 91.92,
+      "duration": 3.44
+    },
+    {
+      "text": "site. If you're using Hilo's native",
+      "start": 93.6,
+      "duration": 3.199
+    },
+    {
+      "text": "website builder then you can just add",
+      "start": 95.36,
+      "duration": 3.04
+    },
+    {
+      "text": "the form straight onto the site by",
+      "start": 96.799,
+      "duration": 3.201
+    },
+    {
+      "text": "adding this element. But regardless of",
+      "start": 98.4,
+      "duration": 3.12
+    },
+    {
+      "text": "which way you do it whenever it's live",
+      "start": 100.0,
+      "duration": 3.04
+    },
+    {
+      "text": "and somebody fills it out we can still",
+      "start": 101.52,
+      "duration": 3.04
+    },
+    {
+      "text": "capture that information. Now we move on",
+      "start": 103.04,
+      "duration": 3.039
+    },
+    {
+      "text": "to step two and that's to send out the",
+      "start": 104.56,
+      "duration": 3.12
+    },
+    {
+      "text": "email once somebody has filled in this",
+      "start": 106.079,
+      "duration": 2.801
+    },
+    {
+      "text": "information. To do that you're going to",
+      "start": 107.68,
+      "duration": 2.799
+    },
+    {
+      "text": "come outside of this form builder. Click",
+      "start": 108.88,
+      "duration": 3.279
+    },
+    {
+      "text": "on back in the top left corner and then",
+      "start": 110.479,
+      "duration": 3.441
+    },
+    {
+      "text": "you want to come down to automation.",
+      "start": 112.159,
+      "duration": 3.041
+    },
+    {
+      "text": "Then we're going to click on create",
+      "start": 113.92,
+      "duration": 3.28
+    },
+    {
+      "text": "workflow. Start from scratch and now we",
+      "start": 115.2,
+      "duration": 3.84
+    },
+    {
+      "text": "are inside the workflow builder. So give",
+      "start": 117.2,
+      "duration": 3.68
+    },
+    {
+      "text": "it a name at the top like customerf",
+      "start": 119.04,
+      "duration": 3.6
+    },
+    {
+      "text": "filled in skincare form. And then what",
+      "start": 120.88,
+      "duration": 3.279
+    },
+    {
+      "text": "we want to do is add a trigger. The",
+      "start": 122.64,
+      "duration": 3.119
+    },
+    {
+      "text": "trigger is what is the thing that needs",
+      "start": 124.159,
+      "duration": 3.201
+    },
+    {
+      "text": "to happen in order for this automation",
+      "start": 125.759,
+      "duration": 3.28
+    },
+    {
+      "text": "to fire. In this case it's when somebody",
+      "start": 127.36,
+      "duration": 3.2
+    },
+    {
+      "text": "fills out the form. So we're going to",
+      "start": 129.039,
+      "duration": 3.121
+    },
+    {
+      "text": "select form by clicking on add new",
+      "start": 130.56,
+      "duration": 3.52
+    },
+    {
+      "text": "trigger. Come to the search bar and type",
+      "start": 132.16,
+      "duration": 3.2
+    },
+    {
+      "text": "form. Then we're going to come down to",
+      "start": 134.08,
+      "duration": 2.72
+    },
+    {
+      "text": "form submitted. Then we're going to",
+      "start": 135.36,
+      "duration": 2.959
+    },
+    {
+      "text": "choose the form we just created. So,",
+      "start": 136.8,
+      "duration": 3.28
+    },
+    {
+      "text": "we're going to say form is it was the",
+      "start": 138.319,
+      "duration": 4.0
+    },
+    {
+      "text": "skincare contact form. Click on save",
+      "start": 140.08,
+      "duration": 3.6
+    },
+    {
+      "text": "trigger. And now we can move on to the",
+      "start": 142.319,
+      "duration": 2.961
+    },
+    {
+      "text": "next step which is adding the email into",
+      "start": 143.68,
+      "duration": 3.279
+    },
+    {
+      "text": "the automation. Very simply, you click",
+      "start": 145.28,
+      "duration": 3.599
+    },
+    {
+      "text": "on the plus button, type an email, click",
+      "start": 146.959,
+      "duration": 4.0
+    },
+    {
+      "text": "on send email, add your from name, add",
+      "start": 148.879,
+      "duration": 4.08
+    },
+    {
+      "text": "the from email, add the subject line,",
+      "start": 150.959,
+      "duration": 3.681
+    },
+    {
+      "text": "and then come down to the message. If",
+      "start": 152.959,
+      "duration": 3.041
+    },
+    {
+      "text": "you have already built a template, then",
+      "start": 154.64,
+      "duration": 2.56
+    },
+    {
+      "text": "you can just select the template right",
+      "start": 156.0,
+      "duration": 2.48
+    },
+    {
+      "text": "over here. But if you want to type the",
+      "start": 157.2,
+      "duration": 2.8
+    },
+    {
+      "text": "email from scratch, you can do it inside",
+      "start": 158.48,
+      "duration": 3.119
+    },
+    {
+      "text": "this message block over here. In this",
+      "start": 160.0,
+      "duration": 2.959
+    },
+    {
+      "text": "email, I'm going to type, \"Hey, thank",
+      "start": 161.599,
+      "duration": 2.64
+    },
+    {
+      "text": "you for signing up.\" You can find your",
+      "start": 162.959,
+      "duration": 2.961
+    },
+    {
+      "text": "free skincare plan attached below. But",
+      "start": 164.239,
+      "duration": 2.961
+    },
+    {
+      "text": "what's really cool is I can add the",
+      "start": 165.92,
+      "duration": 2.959
+    },
+    {
+      "text": "custom value straight into the email and",
+      "start": 167.2,
+      "duration": 3.119
+    },
+    {
+      "text": "it'll pull from the information that the",
+      "start": 168.879,
+      "duration": 3.041
+    },
+    {
+      "text": "customer put onto the form. Like for",
+      "start": 170.319,
+      "duration": 2.961
+    },
+    {
+      "text": "instance, their name. So if I want to",
+      "start": 171.92,
+      "duration": 3.36
+    },
+    {
+      "text": "say, \"Hey, thank you for signing up.\" I",
+      "start": 173.28,
+      "duration": 4.0
+    },
+    {
+      "text": "can just come here, put space, click on",
+      "start": 175.28,
+      "duration": 4.4
+    },
+    {
+      "text": "the custom value button, say contact",
+      "start": 177.28,
+      "duration": 4.08
+    },
+    {
+      "text": "first name. Now it'll pull that",
+      "start": 179.68,
+      "duration": 3.52
+    },
+    {
+      "text": "information and say, \"Hey, John, thank",
+      "start": 181.36,
+      "duration": 3.2
+    },
+    {
+      "text": "you for signing up.\" So it will be",
+      "start": 183.2,
+      "duration": 2.8
+    },
+    {
+      "text": "personalized for every customer. And",
+      "start": 184.56,
+      "duration": 3.2
+    },
+    {
+      "text": "then if I created the skincare plan, I",
+      "start": 186.0,
+      "duration": 3.28
+    },
+    {
+      "text": "would attach it down here, upload the",
+      "start": 187.76,
+      "duration": 3.36
+    },
+    {
+      "text": "document, and then click on save action.",
+      "start": 189.28,
+      "duration": 3.44
+    },
+    {
+      "text": "There are so many possibilities that you",
+      "start": 191.12,
+      "duration": 3.28
+    },
+    {
+      "text": "can use that email for like even adding",
+      "start": 192.72,
+      "duration": 3.36
+    },
+    {
+      "text": "a booking link where customers can go",
+      "start": 194.4,
+      "duration": 3.119
+    },
+    {
+      "text": "ahead and take action immediately. But",
+      "start": 196.08,
+      "duration": 2.879
+    },
+    {
+      "text": "for now, we just sent them their free",
+      "start": 197.519,
+      "duration": 3.201
+    },
+    {
+      "text": "plan and once we're ready to publish it,",
+      "start": 198.959,
+      "duration": 3.2
+    },
+    {
+      "text": "all we have to do is click on publish",
+      "start": 200.72,
+      "duration": 3.2
+    },
+    {
+      "text": "and then save in the top right corner.",
+      "start": 202.159,
+      "duration": 3.761
+    },
+    {
+      "text": "Now, this workflow is live. So again,",
+      "start": 203.92,
+      "duration": 3.52
+    },
+    {
+      "text": "every time somebody fills in that form,",
+      "start": 205.92,
+      "duration": 3.28
+    },
+    {
+      "text": "they will now automatically get this",
+      "start": 207.44,
+      "duration": 3.439
+    },
+    {
+      "text": "email. Agencies love this feature",
+      "start": 209.2,
+      "duration": 2.959
+    },
+    {
+      "text": "because it's a proven win in the",
+      "start": 210.879,
+      "duration": 2.801
+    },
+    {
+      "text": "response race. Being the first in the",
+      "start": 212.159,
+      "duration": 3.36
+    },
+    {
+      "text": "inbox dramatically increases the reply",
+      "start": 213.68,
+      "duration": 3.52
+    },
+    {
+      "text": "and booking rates. It's all built inside",
+      "start": 215.519,
+      "duration": 3.28
+    },
+    {
+      "text": "of High Lee, so there's no need to patch",
+      "start": 217.2,
+      "duration": 2.56
+    },
+    {
+      "text": "a whole bunch of different tools",
+      "start": 218.799,
+      "duration": 2.241
+    },
+    {
+      "text": "together. And once you've built it once",
+      "start": 219.76,
+      "duration": 2.88
+    },
+    {
+      "text": "for one client, you can clone it and",
+      "start": 221.04,
+      "duration": 3.279
+    },
+    {
+      "text": "roll it out to every client in minutes.",
+      "start": 222.64,
+      "duration": 3.2
+    },
+    {
+      "text": "It's fast, it's scalable, and it's",
+      "start": 224.319,
+      "duration": 3.2
+    },
+    {
+      "text": "impactful. So that's how High Leo can",
+      "start": 225.84,
+      "duration": 3.28
+    },
+    {
+      "text": "email these the second somebody hits",
+      "start": 227.519,
+      "duration": 3.121
+    },
+    {
+      "text": "submit. For more information about this",
+      "start": 229.12,
+      "duration": 3.36
+    },
+    {
+      "text": "or other Highle features, be sure to",
+      "start": 230.64,
+      "duration": 3.28
+    },
+    {
+      "text": "check out our YouTube channel, blog, and",
+      "start": 232.48,
+      "duration": 2.72
+    },
+    {
+      "text": "help docs. The links are in the",
+      "start": 233.92,
+      "duration": 2.8
+    },
+    {
+      "text": "description below. My name is Ben and",
+      "start": 235.2,
+      "duration": 4.0
+    },
+    {
+      "text": "thank you for watching.",
+      "start": 236.72,
+      "duration": 2.48
+    }
+  ],
+  "duration_seconds": 239.2,
+  "language": "en",
+  "is_generated": true,
+  "method": "youtube-transcript-api",
+  "scraped_date": "2025-11-01T16:06:25.258710",
+  "word_count": 1059
+}

@@ -1,0 +1,49 @@
+---
+Title: Subscription & Refund trigger for payments
+Category: Payments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002213-subscription-refund-trigger-for-payments
+Word Count: 330
+Scraped: 2025-10-29T01:49:46.718033
+---
+
+With additional triggers around payments, business users have more control over automations built around lead conversion processes.
+Along with the current support for Payment Received, Order Submitted trigger and Invoice trigger, we have added the support for 2 new additional triggers
+1. Subscription Trigger
+Allows to automate processes around the status changes for subscriptions
+When a subscription is created for a customer
+When the subscription moves over from trial to active
+When a subscription is cancelled
+Businesses can also use subscription status filters to create IF conditions based on status changes or the product associated with the subscription and can also make use of the custom values inside Payments custom values.
+2. Refund Trigger
+Allows automations to be built around payments that are processed as refunds by you or your sales agents. Users will be able to trigger a workflow based on a refund attempt and then branch conditions based on:
+Whether the refund was success or failed
+Whether the refund was for full amount or partial amount
+OR based on the amount or source of the refund
+Refund custom values are also available inside the Payments section in custom values to allow businesses to send customised notifications based on different scenarios
+These triggers work with Stripe, Authorize.net and NMI integrations available under Payments -> Integrations
+For Paypal, the trigger only works when a subscription is created and not on any further actions. All functionalities will be available soon for PayPal
+Related Articles
+How Subscriptions work with NMI/Authorize.net
+How Subscriptions work with Stripe
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

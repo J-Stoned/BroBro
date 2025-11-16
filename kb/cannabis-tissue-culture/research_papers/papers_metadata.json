@@ -1,0 +1,501 @@
+{
+  "papers": [
+    {
+      "title": "The Past, Present and Future of Cannabis sativa Tissue Culture",
+      "filename": "general_overview_The_Past,_Present_and_Future_o.txt"
+    },
+    {
+      "title": "Cannabis sativa: From Therapeutic Uses to Micropropagation and Beyond",
+      "filename": "micropropagation_overview_Cannabis_sativa:_From_Therapeu.txt"
+    },
+    {
+      "title": "Advances and Perspectives in Tissue Culture and Genetic Engineering of Cannabis",
+      "filename": "genetic_engineering_Advances_and_Perspectives_in_T.txt"
+    },
+    {
+      "title": "Medical Cannabis and Industrial Hemp Tissue Culture: Present Status and Future Potential",
+      "filename": "general_overview_Medical_Cannabis_and_Industria.txt"
+    },
+    {
+      "title": "An Alternative In Vitro Propagation Protocol of Cannabis sativa L. - Photoautotrophic Rooting",
+      "filename": "photoautotrophic_culture_An_Alternative_In_Vitro_Propag.txt"
+    },
+    {
+      "title": "Importance of Media Composition and Explant Type in Cannabis sativa Tissue Culture",
+      "filename": "media_formulation_Importance_of_Media_Compositio.txt"
+    },
+    {
+      "title": "Cryopreservation of 13 Commercial Cannabis sativa Genotypes Using In Vitro Nodal Explants",
+      "filename": "cryopreservation_Cryopreservation_of_13_Commerc.txt"
+    },
+    {
+      "title": "Cryopreservation of Shoot Tips of Elite Cultivars of Cannabis sativa L. by Droplet Vitrification",
+      "filename": "cryopreservation_Cryopreservation_of_Shoot_Tips.txt"
+    },
+    {
+      "title": "Recalcitrance of Cannabis sativa to de novo regeneration - Multi-genotype Replication Study",
+      "filename": "recalcitrance_Recalcitrance_of_Cannabis_sati.txt"
+    },
+    {
+      "title": "Development of a Direct in vitro Plant Regeneration Protocol From Cannabis sativa L. Seedling Explants",
+      "filename": "regeneration_protocols_Development_of_a_Direct_in_vit.txt"
+    },
+    {
+      "title": "A Temporary Immersion System to Improve Cannabis sativa Micropropagation",
+      "filename": "Bioreactor Systems - TIS_A_Temporary_Immersion_System_t.txt"
+    },
+    {
+      "title": "Cannabis sativa L. Micropropagation in Temporary Immersion Bioreactor System",
+      "filename": "Bioreactor Systems - TIS_Cannabis_sativa_L._Micropropag.txt"
+    },
+    {
+      "title": "Fungal and bacterial contamination control in cannabis tissue culture",
+      "filename": "Contamination Control_Fungal_and_bacterial_contamina.txt"
+    },
+    {
+      "title": "Challenges in the acclimatization step of micropropagated woody plants",
+      "filename": "Acclimatization & Hardening_Challenges_in_the_acclimatizat.txt"
+    },
+    {
+      "title": "Acclimatization of micropropagated plants: a physiological perspective",
+      "filename": "Acclimatization & Hardening_Acclimatization_of_micropropag.txt"
+    },
+    {
+      "title": "Somaclonal variation in cannabis tissue culture and cannabinoid profiles",
+      "filename": "Genetic Fidelity & Somaclonal Variation_Somaclonal_variation_in_cannab.txt"
+    },
+    {
+      "title": "Elicitation strategies to enhance cannabinoid production in plant cell cultures",
+      "filename": "Secondary Metabolite Production_Elicitation_strategies_to_enha.txt"
+    },
+    {
+      "title": "Cytokinin and auxin ratios in organogenesis vs embryogenesis in cannabis",
+      "filename": "Plant Growth Regulators_Cytokinin_and_auxin_ratios_in_.txt"
+    },
+    {
+      "title": "HpLVd screening protocols in cannabis tissue culture operations",
+      "filename": "Virus & Viroid Management_HpLVd_screening_protocols_in_c.txt"
+    },
+    {
+      "title": "Agrobacterium-mediated transformation of cannabis for enhanced cannabinoid production",
+      "filename": "Genetic Transformation_Agrobacterium-mediated_transfo.txt"
+    },
+    {
+      "title": "Polyploidy induction and characterization in cannabis tissue culture",
+      "filename": "Polyploidy & Ploidy Manipulation_Polyploidy_induction_and_chara.txt"
+    },
+    {
+      "title": "Commercial-scale cannabis micropropagation systems and cost analysis",
+      "filename": "Commercial Scale-Up_Commercial-scale_cannabis_micr.txt"
+    },
+    {
+      "title": "Scaling micropropagation from laboratory to commercial production: lessons from cannabis",
+      "filename": "Commercial Scale-Up_Scaling_micropropagation_from_.txt"
+    },
+    {
+      "title": "A Temporary Immersion System to Improve Cannabis sativa Micropropagation",
+      "filename": "Bioreactor Systems - TIS_A_Temporary_Immersion_System_t.txt"
+    },
+    {
+      "title": "Medical Cannabis and Industrial Hemp Tissue Culture: Present Status and Future Potential",
+      "filename": "Bioreactor Systems - Overview_Medical_Cannabis_and_Industria.txt"
+    },
+    {
+      "title": "An Alternative In Vitro Propagation Protocol of Cannabis sativa L. for Commercial Production",
+      "filename": "Micropropagation Protocols_An_Alternative_In_Vitro_Propag.txt"
+    },
+    {
+      "title": "Fungal and Bacterial Contamination Control in Cannabis Tissue Culture",
+      "filename": "Contamination Control_Fungal_and_Bacterial_Contamina.txt"
+    },
+    {
+      "title": "Cannabis sativa: From Therapeutic Uses to Micropropagation and Beyond",
+      "filename": "Tissue Culture Overview_Cannabis_sativa:_From_Therapeu.txt"
+    },
+    {
+      "title": "Hop Latent Viroid: A Hidden Threat to the Cannabis Industry",
+      "filename": "Virus & Viroid Management - HLVd_Hop_Latent_Viroid:_A_Hidden_Th.txt"
+    },
+    {
+      "title": "Transmission, Spread, Longevity and Management of Hop Latent Viroid in Cannabis",
+      "filename": "Virus & Viroid Management - HLVd_Transmission,_Spread,_Longevit.txt"
+    },
+    {
+      "title": "Establishment of an Agrobacterium-mediated Genetic Transformation and CRISPR/Cas9-mediated Targeted Mutagenesis in Hemp",
+      "filename": "Genetic Transformation - CRISPR_Establishment_of_an_Agrobacter.txt"
+    },
+    {
+      "title": "Advances and Perspectives in Tissue Culture and Genetic Engineering of Cannabis (Extended)",
+      "filename": "Genetic Engineering - Comprehensive_Advances_and_Perspectives_in_T.txt"
+    },
+    {
+      "title": "Acclimatization of Micropropagated Cannabis Plants",
+      "filename": "Acclimatization & Hardening_Acclimatization_of_Micropropag.txt"
+    },
+    {
+      "title": "Somaclonal Variation in Cannabis Tissue Culture and Cannabinoid Profiles",
+      "filename": "Genetic Fidelity & Somaclonal Variation_Somaclonal_Variation_in_Cannab.txt"
+    },
+    {
+      "title": "Elicitation Strategies to Enhance Cannabinoid Production in Plant Cell Cultures",
+      "filename": "Secondary Metabolite Production_Elicitation_Strategies_to_Enha.txt"
+    },
+    {
+      "title": "Use of Temporary Immersion Bioreactors for Secondary Metabolite Production",
+      "filename": "Bioreactor Systems - Secondary Metabolites_Use_of_Temporary_Immersion_Bio.txt"
+    },
+    {
+      "title": "A Temporary Immersion System to Improve Cannabis sativa Micropropagation",
+      "filename": "Bioreactor Systems - TIS_A_Temporary_Immersion_System_t.txt"
+    },
+    {
+      "title": "Medical Cannabis and Industrial Hemp Tissue Culture: Present Status and Future Potential",
+      "filename": "Bioreactor Systems - Overview_Medical_Cannabis_and_Industria.txt"
+    },
+    {
+      "title": "An Alternative In Vitro Propagation Protocol of Cannabis sativa L. for Commercial Production",
+      "filename": "Micropropagation Protocols_An_Alternative_In_Vitro_Propag.txt"
+    },
+    {
+      "title": "Fungal and Bacterial Contamination Control in Cannabis Tissue Culture",
+      "filename": "Contamination Control_Fungal_and_Bacterial_Contamina.txt"
+    },
+    {
+      "title": "Cannabis sativa: From Therapeutic Uses to Micropropagation and Beyond",
+      "filename": "Tissue Culture Overview_Cannabis_sativa:_From_Therapeu.txt"
+    },
+    {
+      "title": "Hop Latent Viroid: A Hidden Threat to the Cannabis Industry",
+      "filename": "Virus & Viroid Management - HLVd_Hop_Latent_Viroid:_A_Hidden_Th.txt"
+    },
+    {
+      "title": "Transmission, Spread, Longevity and Management of Hop Latent Viroid in Cannabis",
+      "filename": "Virus & Viroid Management - HLVd_Transmission,_Spread,_Longevit.txt"
+    },
+    {
+      "title": "Establishment of an Agrobacterium-mediated Genetic Transformation and CRISPR/Cas9-mediated Targeted Mutagenesis in Hemp",
+      "filename": "Genetic Transformation - CRISPR_Establishment_of_an_Agrobacter.txt"
+    },
+    {
+      "title": "Advances and Perspectives in Tissue Culture and Genetic Engineering of Cannabis (Extended)",
+      "filename": "Genetic Engineering - Comprehensive_Advances_and_Perspectives_in_T.txt"
+    },
+    {
+      "title": "Somaclonal Variation in Cannabis Tissue Culture and Cannabinoid Profiles",
+      "filename": "Genetic Fidelity & Somaclonal Variation_Somaclonal_Variation_in_Cannab.txt"
+    },
+    {
+      "title": "Elicitation Strategies to Enhance Cannabinoid Production in Plant Cell Cultures",
+      "filename": "Secondary Metabolite Production_Elicitation_Strategies_to_Enha.txt"
+    },
+    {
+      "title": "Use of Temporary Immersion Bioreactors for Secondary Metabolite Production",
+      "filename": "Bioreactor Systems - Secondary Metabolites_Use_of_Temporary_Immersion_Bio.txt"
+    },
+    {
+      "title": "Cryopreservation of Shoot Tips of Elite Cultivars of Cannabis sativa L. by Droplet Vitrification",
+      "filename": "Cryopreservation_Cryopreservation_of_Shoot_Tips.txt"
+    },
+    {
+      "title": "Cryopreservation of 13 Commercial Cannabis Genotypes Vitrification Protocol",
+      "filename": "Cryopreservation - Commercial Genotypes_Cryopreservation_of_13_Commerc.txt"
+    },
+    {
+      "title": "Propagation through Alginate Encapsulation of Axillary Buds of Cannabis sativa L.",
+      "filename": "Synthetic Seeds_Propagation_through_Alginate_E.txt"
+    },
+    {
+      "title": "Cannabis Synthetic Seeds: An Alternative Approach for Commercial Scale Clonal Propagation",
+      "filename": "Synthetic Seeds_Cannabis_Synthetic_Seeds:_An_A.txt"
+    },
+    {
+      "title": "Cannabis Synthetic Seeds: Commercial Scale and Germplasm Conservation",
+      "filename": "Synthetic Seeds - Commercial_Cannabis_Synthetic_Seeds:_Comm.txt"
+    },
+    {
+      "title": "A Temporary Immersion System to Improve Cannabis sativa Micropropagation",
+      "filename": "Bioreactor Systems - TIS_A_Temporary_Immersion_System_t.txt"
+    },
+    {
+      "title": "Medical Cannabis and Industrial Hemp Tissue Culture: Present Status and Future Potential",
+      "filename": "Bioreactor Systems - Overview_Medical_Cannabis_and_Industria.txt"
+    },
+    {
+      "title": "An Alternative In Vitro Propagation Protocol of Cannabis sativa L. for Commercial Production",
+      "filename": "Micropropagation Protocols_An_Alternative_In_Vitro_Propag.txt"
+    },
+    {
+      "title": "Fungal and Bacterial Contamination Control in Cannabis Tissue Culture",
+      "filename": "Contamination Control_Fungal_and_Bacterial_Contamina.txt"
+    },
+    {
+      "title": "Cannabis sativa: From Therapeutic Uses to Micropropagation and Beyond",
+      "filename": "Tissue Culture Overview_Cannabis_sativa:_From_Therapeu.txt"
+    },
+    {
+      "title": "Hop Latent Viroid: A Hidden Threat to the Cannabis Industry",
+      "filename": "Virus & Viroid Management - HLVd_Hop_Latent_Viroid:_A_Hidden_Th.txt"
+    },
+    {
+      "title": "Transmission, Spread, Longevity and Management of Hop Latent Viroid in Cannabis",
+      "filename": "Virus & Viroid Management - HLVd_Transmission,_Spread,_Longevit.txt"
+    },
+    {
+      "title": "Establishment of an Agrobacterium-mediated Genetic Transformation and CRISPR/Cas9-mediated Targeted Mutagenesis in Hemp",
+      "filename": "Genetic Transformation - CRISPR_Establishment_of_an_Agrobacter.txt"
+    },
+    {
+      "title": "Advances and Perspectives in Tissue Culture and Genetic Engineering of Cannabis (Extended)",
+      "filename": "Genetic Engineering - Comprehensive_Advances_and_Perspectives_in_T.txt"
+    },
+    {
+      "title": "Somaclonal Variation in Cannabis Tissue Culture and Cannabinoid Profiles",
+      "filename": "Genetic Fidelity & Somaclonal Variation_Somaclonal_Variation_in_Cannab.txt"
+    },
+    {
+      "title": "Elicitation Strategies to Enhance Cannabinoid Production in Plant Cell Cultures",
+      "filename": "Secondary Metabolite Production_Elicitation_Strategies_to_Enha.txt"
+    },
+    {
+      "title": "Use of Temporary Immersion Bioreactors for Secondary Metabolite Production",
+      "filename": "Bioreactor Systems - Secondary Metabolites_Use_of_Temporary_Immersion_Bio.txt"
+    },
+    {
+      "title": "Cryopreservation of Shoot Tips of Elite Cultivars of Cannabis sativa L. by Droplet Vitrification",
+      "filename": "Cryopreservation_Cryopreservation_of_Shoot_Tips.txt"
+    },
+    {
+      "title": "Cryopreservation of 13 Commercial Cannabis Genotypes Vitrification Protocol",
+      "filename": "Cryopreservation - Commercial Genotypes_Cryopreservation_of_13_Commerc.txt"
+    },
+    {
+      "title": "Propagation through Alginate Encapsulation of Axillary Buds of Cannabis sativa L.",
+      "filename": "Synthetic Seeds_Propagation_through_Alginate_E.txt"
+    },
+    {
+      "title": "Cannabis Synthetic Seeds: An Alternative Approach for Commercial Scale Clonal Propagation",
+      "filename": "Synthetic Seeds_Cannabis_Synthetic_Seeds:_An_A.txt"
+    },
+    {
+      "title": "Cannabis Synthetic Seeds: Commercial Scale and Germplasm Conservation",
+      "filename": "Synthetic Seeds - Commercial_Cannabis_Synthetic_Seeds:_Comm.txt"
+    },
+    {
+      "title": "A Temporary Immersion System to Improve Cannabis sativa Micropropagation",
+      "filename": "Bioreactor Systems - TIS_A_Temporary_Immersion_System_t.txt"
+    },
+    {
+      "title": "Medical Cannabis and Industrial Hemp Tissue Culture: Present Status and Future Potential",
+      "filename": "Bioreactor Systems - Overview_Medical_Cannabis_and_Industria.txt"
+    },
+    {
+      "title": "An Alternative In Vitro Propagation Protocol of Cannabis sativa L. for Commercial Production",
+      "filename": "Micropropagation Protocols_An_Alternative_In_Vitro_Propag.txt"
+    },
+    {
+      "title": "Fungal and Bacterial Contamination Control in Cannabis Tissue Culture",
+      "filename": "Contamination Control_Fungal_and_Bacterial_Contamina.txt"
+    },
+    {
+      "title": "Cannabis sativa: From Therapeutic Uses to Micropropagation and Beyond",
+      "filename": "Tissue Culture Overview_Cannabis_sativa:_From_Therapeu.txt"
+    },
+    {
+      "title": "Hop Latent Viroid: A Hidden Threat to the Cannabis Industry",
+      "filename": "Virus & Viroid Management - HLVd_Hop_Latent_Viroid:_A_Hidden_Th.txt"
+    },
+    {
+      "title": "Transmission, Spread, Longevity and Management of Hop Latent Viroid in Cannabis",
+      "filename": "Virus & Viroid Management - HLVd_Transmission,_Spread,_Longevit.txt"
+    },
+    {
+      "title": "Establishment of an Agrobacterium-mediated Genetic Transformation and CRISPR/Cas9-mediated Targeted Mutagenesis in Hemp",
+      "filename": "Genetic Transformation - CRISPR_Establishment_of_an_Agrobacter.txt"
+    },
+    {
+      "title": "Advances and Perspectives in Tissue Culture and Genetic Engineering of Cannabis (Extended)",
+      "filename": "Genetic Engineering - Comprehensive_Advances_and_Perspectives_in_T.txt"
+    },
+    {
+      "title": "Somaclonal Variation in Cannabis Tissue Culture and Cannabinoid Profiles",
+      "filename": "Genetic Fidelity & Somaclonal Variation_Somaclonal_Variation_in_Cannab.txt"
+    },
+    {
+      "title": "Elicitation Strategies to Enhance Cannabinoid Production in Plant Cell Cultures",
+      "filename": "Secondary Metabolite Production_Elicitation_Strategies_to_Enha.txt"
+    },
+    {
+      "title": "Use of Temporary Immersion Bioreactors for Secondary Metabolite Production",
+      "filename": "Bioreactor Systems - Secondary Metabolites_Use_of_Temporary_Immersion_Bio.txt"
+    },
+    {
+      "title": "Cryopreservation of 13 Commercial Cannabis sativa Genotypes Using In Vitro Nodal Explants",
+      "filename": "Cryopreservation_Cryopreservation_of_13_Commerc.txt"
+    },
+    {
+      "title": "Cryopreservation of Shoot Tips of Elite Cultivars of Cannabis sativa L. by Droplet Vitrification",
+      "filename": "Cryopreservation_Cryopreservation_of_Shoot_Tips.txt"
+    },
+    {
+      "title": "Cryopreservation of 13 Commercial Cannabis Genotypes Vitrification Protocol",
+      "filename": "Cryopreservation - Commercial Genotypes_Cryopreservation_of_13_Commerc.txt"
+    },
+    {
+      "title": "Effect of different cryoprotectants and transfer temperatures on survival rate of hemp cell suspension",
+      "filename": "Cryopreservation - Cell Suspension_Effect_of_different_cryoprotec.txt"
+    },
+    {
+      "title": "Propagation through Alginate Encapsulation of Axillary Buds of Cannabis sativa L.",
+      "filename": "Synthetic Seeds_Propagation_through_Alginate_E.txt"
+    },
+    {
+      "title": "Cannabis Synthetic Seeds: An Alternative Approach for Commercial Scale Clonal Propagation",
+      "filename": "Synthetic Seeds_Cannabis_Synthetic_Seeds:_An_A.txt"
+    },
+    {
+      "title": "Cannabis Synthetic Seeds: Commercial Scale and Germplasm Conservation",
+      "filename": "Synthetic Seeds - Commercial_Cannabis_Synthetic_Seeds:_Comm.txt"
+    },
+    {
+      "title": "A Temporary Immersion System to Improve Cannabis sativa Micropropagation",
+      "filename": "Bioreactor Systems - TIS_A_Temporary_Immersion_System_t.txt"
+    },
+    {
+      "title": "Medical Cannabis and Industrial Hemp Tissue Culture: Present Status and Future Potential",
+      "filename": "Bioreactor Systems - Overview_Medical_Cannabis_and_Industria.txt"
+    },
+    {
+      "title": "An Alternative In Vitro Propagation Protocol of Cannabis sativa L. for Commercial Production",
+      "filename": "Micropropagation Protocols_An_Alternative_In_Vitro_Propag.txt"
+    },
+    {
+      "title": "Fungal and Bacterial Contamination Control in Cannabis Tissue Culture",
+      "filename": "Contamination Control_Fungal_and_Bacterial_Contamina.txt"
+    },
+    {
+      "title": "Cannabis sativa: From Therapeutic Uses to Micropropagation and Beyond",
+      "filename": "Tissue Culture Overview_Cannabis_sativa:_From_Therapeu.txt"
+    },
+    {
+      "title": "Hop Latent Viroid: A Hidden Threat to the Cannabis Industry",
+      "filename": "Virus & Viroid Management - HLVd_Hop_Latent_Viroid:_A_Hidden_Th.txt"
+    },
+    {
+      "title": "Transmission, Spread, Longevity and Management of Hop Latent Viroid in Cannabis",
+      "filename": "Virus & Viroid Management - HLVd_Transmission,_Spread,_Longevit.txt"
+    },
+    {
+      "title": "Establishment of an Agrobacterium-mediated Genetic Transformation and CRISPR/Cas9-mediated Targeted Mutagenesis in Hemp",
+      "filename": "Genetic Transformation - CRISPR_Establishment_of_an_Agrobacter.txt"
+    },
+    {
+      "title": "Advances and Perspectives in Tissue Culture and Genetic Engineering of Cannabis (Extended)",
+      "filename": "Genetic Engineering - Comprehensive_Advances_and_Perspectives_in_T.txt"
+    },
+    {
+      "title": "Somaclonal Variation in Cannabis Tissue Culture and Cannabinoid Profiles",
+      "filename": "Genetic Fidelity & Somaclonal Variation_Somaclonal_Variation_in_Cannab.txt"
+    },
+    {
+      "title": "Elicitation Strategies to Enhance Cannabinoid Production in Plant Cell Cultures",
+      "filename": "Secondary Metabolite Production_Elicitation_Strategies_to_Enha.txt"
+    },
+    {
+      "title": "Use of Temporary Immersion Bioreactors for Secondary Metabolite Production",
+      "filename": "Bioreactor Systems - Secondary Metabolites_Use_of_Temporary_Immersion_Bio.txt"
+    },
+    {
+      "title": "Cryopreservation of 13 Commercial Cannabis sativa Genotypes Using In Vitro Nodal Explants",
+      "filename": "Cryopreservation_Cryopreservation_of_13_Commerc.txt"
+    },
+    {
+      "title": "Cryopreservation of Shoot Tips of Elite Cultivars of Cannabis sativa L. by Droplet Vitrification",
+      "filename": "Cryopreservation_Cryopreservation_of_Shoot_Tips.txt"
+    },
+    {
+      "title": "Cryopreservation of 13 Commercial Cannabis Genotypes Vitrification Protocol",
+      "filename": "Cryopreservation - Commercial Genotypes_Cryopreservation_of_13_Commerc.txt"
+    },
+    {
+      "title": "Effect of different cryoprotectants and transfer temperatures on survival rate of hemp cell suspension",
+      "filename": "Cryopreservation - Cell Suspension_Effect_of_different_cryoprotec.txt"
+    },
+    {
+      "title": "Propagation through Alginate Encapsulation of Axillary Buds of Cannabis sativa L.",
+      "filename": "Synthetic Seeds_Propagation_through_Alginate_E.txt"
+    },
+    {
+      "title": "Cannabis Synthetic Seeds: An Alternative Approach for Commercial Scale Clonal Propagation",
+      "filename": "Synthetic Seeds_Cannabis_Synthetic_Seeds:_An_A.txt"
+    },
+    {
+      "title": "Cannabis Synthetic Seeds: Commercial Scale and Germplasm Conservation",
+      "filename": "Synthetic Seeds - Commercial_Cannabis_Synthetic_Seeds:_Comm.txt"
+    },
+    {
+      "title": "Effects of steam sterilization - Full Text",
+      "filename": "Contamination Control_Effects_of_steam_sterilization.txt"
+    },
+    {
+      "title": "Variables Affecting Shoot Growth - Contamination Section",
+      "filename": "Contamination Control_Variables_Affecting_Shoot_Grow.txt"
+    },
+    {
+      "title": "Advances and Perspectives in Tissue Culture and Genetic Engineering",
+      "filename": "Genetic Stability & Somaclonal Variation_Advances_and_Perspectives_in_T.txt"
+    },
+    {
+      "title": "Somatic Mutation Accumulations in Micropropagated Cannabis",
+      "filename": "Genetic Stability & Somaclonal Variation_Somatic_Mutation_Accumulations.txt"
+    },
+    {
+      "title": "Medical Cannabis and Industrial Hemp Tissue Culture",
+      "filename": "Genetic Stability & Somaclonal Variation_Medical_Cannabis_and_Industria.txt"
+    },
+    {
+      "title": "Advances and Perspectives - MDPI",
+      "filename": "Genetic Stability & Somaclonal Variation_Advances_and_Perspectives_-_MD.txt"
+    },
+    {
+      "title": "Effect of Explant Source on Phenotypic Changes - PMC",
+      "filename": "Genetic Stability & Somaclonal Variation_Effect_of_Explant_Source_on_Ph.txt"
+    },
+    {
+      "title": "Optimal Hormone and Mineral Salts Levels in Tissue Culture Media",
+      "filename": "Media Formulation & Hormone Optimization_Optimal_Hormone_and_Mineral_Sa.txt"
+    },
+    {
+      "title": "Cannabis sativa: From Therapeutic Uses to Micropropagation",
+      "filename": "Media Formulation & Hormone Optimization_Cannabis_sativa:_From_Therapeu.txt"
+    },
+    {
+      "title": "Impact of Different Phytohormones on Cannabis",
+      "filename": "Media Formulation & Hormone Optimization_Impact_of_Different_Phytohormo.txt"
+    },
+    {
+      "title": "Optimizing cannabis cultivation - in vitro flowering system",
+      "filename": "Media Formulation & Hormone Optimization_Optimizing_cannabis_cultivatio.txt"
+    },
+    {
+      "title": "Effects of novel synthetic cytokinin derivatives in hemp",
+      "filename": "Media Formulation & Hormone Optimization_Effects_of_novel_synthetic_cyt.txt"
+    },
+    {
+      "title": "Auxin-cytokinin synergism for genetically stable plants",
+      "filename": "Media Formulation & Hormone Optimization_Auxin-cytokinin_synergism_for_.txt"
+    },
+    {
+      "title": "The Past, Present and Future of Cannabis Tissue Culture",
+      "filename": "Explant Source & Selection_The_Past,_Present_and_Future_o.txt"
+    },
+    {
+      "title": "Medical Cannabis and Industrial Hemp - Explant Methods",
+      "filename": "Explant Source & Selection_Medical_Cannabis_and_Industria.txt"
+    }
+  ],
+  "total_fetched": 123,
+  "last_updated": "2025-11-14T01:50:37.741909",
+  "deduplication_complete": true,
+  "files_deleted": 0,
+  "current_count": 31
+}

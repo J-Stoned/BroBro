@@ -1,0 +1,101 @@
+---
+Title: Associating Contacts using Custom Labels
+Category: Contacts
+URL: https://help.gohighlevel.com/support/solutions/articles/155000003918-associating-contacts-using-custom-labels
+Word Count: 807
+Scraped: 2025-10-29T01:42:21.970774
+---
+
+Managing relationships between contacts is an important aspect of organizing customer data efficiently. HighLevel CRM’s Contact Associations feature allows structured connections between contacts and other objects, such as business partners, family members, and employees. This guide provides a comprehensive overview of setting up and managing these associations to improve CRM organization.
+TABLE OF CONTENTS
+What Are Contact Associations?
+Key Benefits of Contact Associations
+Where to View Contact Associations
+How to Create a Contact Associations
+How to View / Link Contacts Using Associations
+Managing and Editing Associations
+Frequently Asked Questions
+What Are Contact Associations?
+Contact Associations enable structured relationships between contacts and objects in HighLevel CRM. Instead of managing disconnected profiles, associations provide clear connections between related entities, such as spouses, managers, employees, or linked objects.
+Types of Association Labels
+Single Label:
+A label that applies to both contacts in the association (e.g., “Colleague”).
+Pair Labels:
+Distinct labels for each contact in the relationship (e.g., “Manager” and “Employee,” “Buyer” and “Seller”).
+Key Benefits of Contact Associations
+Improved Contact Organization:
+Associations provide a structured way to manage relationships between contacts, making it easier to track connections and access relevant information in one place.
+Streamlined Communication:
+By linking related contacts, businesses can quickly reference and reach out to connected individuals, ensuring smoother interactions and improved collaboration.
+Enhanced Relationship Management:
+Whether it’s family connections, business partnerships, or internal hierarchies, associations help businesses understand and manage relationships effectively.
+Efficient CRM Workflow:
+With clear associations in place, users can reduce duplicate data entry, quickly update linked contacts, and maintain a well-organized CRM system.
+Where to View Contact Associations
+Contact associations can be accessed in two main areas:
+Contact Profile View:
+Within a contact’s profile, the right-side panel contains the Associations icon, which displays related objects and linked contacts.
+Objects Management Section:
+The Settings > Objects > Contacts section provides an overview of all associations, enabling the creation and management of labels and relationships.
+How to Create a Contact Associations
+Creating associations involves a few steps:
+Open the Objects Section
+Go to Settings > Objects, then select Contacts.
+Click "Create Association"
+Select the "+ Create Association" button to define a new relationship.
+Choose the Associated Object
+Pick an object, such as Contacts, Surfboards, or another available entity.
+Select the Label Type
+Determine if the relationship requires a Single Label (e.g., "Partner") or Pair Labels (e.g., "Buyer - Seller").
+Define the Relationship Type
+Select between Many-to-Many or Many-to-One associations.
+How to View / Link Contacts Using Associations
+Once an association is created, linking contacts follows these steps:
+Open a Contact Profile
+Navigate to the Contacts section and select a contact’s profile.
+Click the Association Icon
+Located on the right-side panel, this provides access to association options.
+Add the Relationship
+Click “Add”, select the relevant contact, and assign an appropriate label.
+Confirm the Association
+The linked contact appears in the Related Objects section, and the association updates both profiles automatically.
+Managing and Editing Associations
+Editing an Existing Association
+Go to Settings > Objects > Contacts, find the relevant association, and modify it using the three-dot menu (⋮).
+Removing an Association
+Within a Contact Profile, navigate to the Related Objects section, locate the associated contact, and remove the link.
+Frequently Asked Questions
+Q. What is the difference between Single and Pair Labels?
+Single Label: Both contacts receive the same label (e.g., "Colleague").
+Pair Labels: Each contact has a distinct role in the relationship (e.g., "Manager" and "Employee").
+Q. Can associations be used in automations or workflows?
+At present, associations serve as an organizational tool. Future updates may introduce automation capabilities.
+Q. Can contacts be linked to custom objects?
+Yes, contacts can be associated with predefined objects such as Surfboards, with additional custom object support expected in future updates.
+Q. Can an association label be deleted?
+Yes, but deleting a label is permanent and requires removing all linked associations first.
+Q. How many associations can a single contact have?
+A contact can have up to 10 associations, and one label can link up to 1000 contacts.
+This feature allows users to associate multiple contacts with one another using custom labels. This is particularly useful for businesses that need to manage relationships between contacts, such as family members or business associates. If you are looking to streamline communication and data organization for linked contacts, the information below will guide you through the key functionalities, benefits, and how to effectively use this feature.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

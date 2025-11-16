@@ -1,0 +1,49 @@
+---
+Title: Enabling Cross-Site Tracking (3rd Party Cookies)
+Category: Miscellaneous
+URL: https://help.gohighlevel.com/support/solutions/articles/155000000178-enabling-cross-site-tracking-3rd-party-cookies-
+Word Count: 226
+Scraped: 2025-10-29T01:53:46.245722
+---
+
+Safari on MacOS
+Launch Safari
+Open Safari by clicking on the Safari icon located in the dock or by searching for "Safari" using Spotlight (Cmd + Space) and selecting the application.
+Access Safari Preferences
+In the top menu, click on "Safari" and then select "Preferences" or "Settings" from the drop-down menu. Alternatively, you can use the keyboard shortcut (Cmd + comma) to directly access the Preferences window.
+Open the Privacy Tab
+Once the Preferences window appears, click on the "Privacy" tab at the top.
+Customize Website Tracking Options
+In the Privacy tab, you'll see various options related to website tracking. By default, Safari blocks cross-site tracking. To enable it, uncheck the box next to "Prevent cross-site tracking."
+Close Preferences
+After adjusting the desired settings, close the Preferences window.
+Chrome on MacOS
+Coming Soon
+Chrome on Windows
+Coming Soon
+Firefox on Windows
+Coming Soon
+Microsoft Edge on Windows
+Coming Soon
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

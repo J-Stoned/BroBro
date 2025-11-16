@@ -1,0 +1,36 @@
+---
+Title: HighLevel How-To's: Build A Payment Page To Sign Up New Clients
+Category: University
+URL: https://help.gohighlevel.com/support/solutions/articles/48001162995-highlevel-how-to-s-build-a-payment-page-to-sign-up-new-clients
+Word Count: 106
+Scraped: 2025-10-29T01:53:20.428723
+---
+
+More Tutorials From the Community
+https://youtu.be/ZlhHZeS1nbg
+https://www.youtube.com/watch?v=Cw1JvTlVLTM
+https://youtu.be/5FA0nnZf41A
+Please note
+that due to changes made by Stripe, the "Stripe Layout" options shown in the video are no longer available.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

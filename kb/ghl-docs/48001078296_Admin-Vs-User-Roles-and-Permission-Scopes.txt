@@ -1,0 +1,69 @@
+---
+Title: Admin Vs. User Roles and Permission Scopes
+Category: Settings
+URL: https://help.gohighlevel.com/support/solutions/articles/48001078296-admin-vs-user-roles-and-permission-scopes
+Word Count: 378
+Scraped: 2025-10-29T01:50:45.300119
+---
+
+The following is a table outlining permissions of sub-account level roles.
+Sub-Account Level User Roles
+Quick-Reference Permission Matrix.
+Agency-Only
+Sub-Account-Only
+Available in Both
+Create / Edit / Delete Sub-Accounts
+Pipelines & Opportunities
+User Management (Admins can add/edit users within their level)
+Manage SaaS Mode & Reselling
+Workflows / Campaigns
+Dashboard Reporting
+Global Integrations (Mailgun, Twilio Rebilling, Google API, etc.)
+Calendars & Appointment Settings
+Media Library
+Snapshot Management
+Conversations (SMS, Email, Chat)
+Audit Logs
+Agency-Level Billing & Branding
+Contact Management & Smart Lists
+Agency Settings (Company Info, Rebilling Settings)
+Reputation Management
+White-Label Settings (Custom Domains, Logos, Colors)
+Funnel & Website Builder
+Note:
+If a permission is not listed, assume it inherits the broader role’s default capabilities at its respective level.
+Admins can change the role of a particular user by going to
+Settings > My Staff > Edit (pencil icon) > Scroll to and expand "User Roles"
+Frequently Asked Questions
+Q. Can an Agency Admin restrict a Sub-Account Admin from accessing certain features?
+No. Agency Admins cannot customize Sub-Account Admin role permissions directly. Sub-Account Admins always inherit full access within their assigned sub-account. To limit scope, create a
+User
+role instead of an Admin role in that sub-account.
+Q. If a permission is available at both Agency and Sub-Account levels, does the Agency Admin override Sub-Account Admins?
+Yes. Agency Admins hold global authority. For permissions like user management, reporting, or media library, Agency Admin actions apply across all sub-accounts, while Sub-Account Admins manage only within their assigned sub-account.
+Q. What happens if a user is added at the Agency level and then also given access to a Sub-Account?
+The user will have
+two role scopes
+: agency-wide access from their Agency role, plus sub-account-specific access from their Sub-Account role. Permissions don’t cancel out—they stack, with the broader Agency permissions always taking precedence.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

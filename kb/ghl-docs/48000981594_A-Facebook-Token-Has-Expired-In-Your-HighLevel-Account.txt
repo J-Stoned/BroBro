@@ -1,0 +1,45 @@
+---
+Title: A Facebook Token Has Expired In Your HighLevel Account
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/48000981594-a-facebook-token-has-expired-in-your-highlevel-account
+Word Count: 253
+Scraped: 2025-10-29T01:57:53.040217
+---
+
+If you received an email with a subject that says "A Facebook Token Has Expired In Your HighLevel Account", this means that the Facebook integration for one of your accounts has become disconnected.
+To reconnect:
+1. Select the account indicated in the email you received from the "Switch To An Account" dropdown
+2. In the left hand side-bar, scroll down and click "Settings"
+3. From the menu at the top of the screen, click "Integrations"
+4. Click the "Connect" button under the Facebook icon
+5. In the window that pops up, continue as yourself, select the Facebook page that you want to connect then click the "Connect Page" button
+Why Did This Connection Break?
+There are several reasons that could cause an integration to break. The most common are:
+A user changes their password
+The Facebook token naturally expires after a period of time
+A user de-authorizes your app
+A user logs out of Facebook
+A user changes page permission or adds/removes a user
+A virtual assistant in another country logs in without using a VPN
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

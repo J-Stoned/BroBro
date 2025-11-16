@@ -1,0 +1,39 @@
+---
+Title: SMS Templates (Snippets) - Overview
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/48000981405-sms-templates-snippets-overview
+Word Count: 174
+Scraped: 2025-10-29T01:43:03.569195
+---
+
+Now you can easily create and save templates, eliminating the need to repeatedly write the same emails or SMS.
+This feature allows you to maintain consistency in your marketing efforts.
+SMS TEMPLATES
+On your subaccount, click on conversations
+Click on 'Templates , Here, you can create, edit, or delete your templates.
+EMAIL TEMPLATES
+On your subaccount click on marketing
+Click on 'Templates, here you can create, edit, or delete your EMAIL templates, in here you can also manage your SMS templates.
+You will be able to use your SMS templates (snippets) in conversations, triggers, campaigns, and workflows.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

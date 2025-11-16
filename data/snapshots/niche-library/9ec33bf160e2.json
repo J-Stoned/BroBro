@@ -1,0 +1,91 @@
+{
+  "snapshot_name": "Intellectual Property Complete Automation System",
+  "snapshot_id": "9ec33bf160e2",
+  "industry": "Intellectual Property / Legal Services",
+  "use_case": "Complete business automation for intellectual property businesses including lead generation, appointment booking, and customer retention",
+  "target_audience": "Intellectual Property business owners, legal services professionals",
+  "pricing_model": "Varies by provider",
+  "version": "1.0.0",
+  "last_updated": "2025-11-01",
+  "author": "Multiple Providers",
+  "description": {
+    "overview": "Industry-specific automation system designed for intellectual property businesses. Includes lead capture funnels, automated follow-up sequences, appointment booking, customer communication workflows, and review generation. Built on proven best practices for the intellectual property industry.",
+    "key_benefits": [
+      "Automated lead capture and nurturing",
+      "Industry-specific funnels for intellectual property services",
+      "Appointment scheduling and reminders",
+      "Multi-channel follow-up (Email, SMS, Voicemail)",
+      "Review generation automation",
+      "Customer retention workflows",
+      "Pipeline for tracking leads to customers"
+    ],
+    "ideal_for": [
+      "Intellectual Property businesses wanting to automate operations",
+      "New intellectual property businesses needing a complete system",
+      "Established legal services companies looking to scale",
+      "Agencies serving this niche"
+    ]
+  },
+  "components": {
+    "funnels": [
+      {
+        "name": "Intellectual Property Lead Capture Funnel",
+        "purpose": "Convert website visitors into leads"
+      },
+      {
+        "name": "Intellectual Property Quote Request Funnel",
+        "purpose": "Collect quote requests and service details"
+      }
+    ],
+    "workflows": [
+      {
+        "name": "New Lead Welcome Sequence",
+        "trigger": "New lead submission",
+        "purpose": "Engage leads immediately with multi-channel outreach"
+      },
+      {
+        "name": "Appointment Reminder Automation",
+        "trigger": "Appointment booked",
+        "purpose": "Reduce no-shows with automated reminders"
+      },
+      {
+        "name": "Review Request Automation",
+        "trigger": "Service completed",
+        "purpose": "Generate positive reviews automatically"
+      }
+    ],
+    "calendars": [
+      {
+        "name": "Intellectual Property Booking Calendar",
+        "type": "Service Booking",
+        "purpose": "Schedule appointments and consultations"
+      }
+    ],
+    "pipelines": [
+      {
+        "name": "Intellectual Property Sales Pipeline",
+        "stages": [
+          "New Lead",
+          "Contacted",
+          "Quote Sent",
+          "Booked",
+          "Completed"
+        ],
+        "purpose": "Track leads through entire customer journey"
+      }
+    ]
+  },
+  "tags": [
+    "intellectual-property",
+    "legal-services",
+    "lead-generation",
+    "appointments",
+    "automation"
+  ],
+  "source_type": "niche_generated",
+  "available_providers": [
+    "GHL Automations",
+    "Streamline Results",
+    "Top GHL Snapshots"
+  ]
+}

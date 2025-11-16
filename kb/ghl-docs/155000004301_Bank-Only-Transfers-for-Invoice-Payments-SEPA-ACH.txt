@@ -1,0 +1,118 @@
+---
+Title: Bank-Only Transfers for Invoice Payments (SEPA & ACH)
+Category: Payments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004301-bank-only-transfers-for-invoice-payments-sepa-ach-
+Word Count: 607
+Scraped: 2025-10-29T01:49:26.630893
+---
+
+This article explains how to configure invoices to support
+bank-only transfers
+in HighLevel. This new feature provides businesses with the flexibility to offer direct bank transfers as the sole payment option, making the invoicing process simpler for businesses and clients who prefer non-card payments.
+TABLE OF CONTENTS
+What are Bank-Only Transfers?
+Key Benefits of Bank-Only Transfers
+How to Set Up Bank-Only Transfers in Invoices
+Step 1: Access the Invoices Section
+Step 2: Create or Edit an Invoice
+Step 3: Select Bank Transfer Payment Option
+Step 4: Save and Send the Invoice
+Common Use Cases for Bank-Only Transfers
+Frequently Asked Questions
+Related Articles
+What are Bank-Only Transfers?
+The
+Bank-Only Transfer
+feature allows businesses to restrict payment options on invoices to
+ONLY
+bank transfers
+. By selecting this option, businesses can ensure that their clients pay exclusively via bank transfer, avoiding credit card transactions altogether.
+This feature is designed to:
+Enhance customization of payment methods.
+Support businesses operating in regions or industries where bank transfers are the norm.
+Reduce transaction fees associated with card payments.
+Key Benefits of Bank-Only Transfers
+Lower Costs
+: Avoid high processing fees associated with credit card payments.
+Business Flexibility
+: Cater to clients and industries that prefer or require direct bank-to-bank transactions.
+Simplified Payment Process
+: Streamline invoicing by focusing on a single, secure payment option.
+How to Set Up Bank-Only Transfers in Invoices
+Step 1:
+Access the Invoices Section
+Log in to your HighLevel account.
+Navigate to the
+Invoices
+section from the main dashboard.
+Step 2:
+Create or Edit an Invoice
+To create a new invoice, click on
++ Create Invoice
+.
+To edit an existing invoice, locate it in the list and click
+Edit
+.
+Step 3:
+Select Bank Transfer Payment Option
+Scroll to the
+Payment Options
+section.
+Choose
+Bank Transfer
+as the exclusive payment method.
+Step 4:
+Save and Send the Invoice
+After configuring the payment option, click
+Save
+.
+Use the
+Send Invoice
+button to email the invoice to your client.
+Common Use Cases for Bank-Only Transfers
+Regional Needs
+: Businesses in areas with low credit card usage.
+Transaction Fees
+: Companies that are aiming to minimize transaction costs by avoiding card processing fees.
+Secure Payments
+: Clients requiring direct and secure bank-to-bank transactions.
+Frequently Asked Questions
+Q: Can I enable both card payments and bank transfers on the same invoice?
+Yes and no. You would need to enable
+"All Valid Payment Methods"
+, which would enable more than just card payments and bank transfers. This specific feature is designed to make bank transfers the exclusive payment option for an invoice.
+Q: Does this feature require Stripe integration?
+Yes, enabling bank transfers involves configuring your Stripe account to handle these payments. To learn more about setting up bank transfer capabilities, check out this help article:
+ACH Debit Payment Method on Invoices
+Q: Is this feature available for all HighLevel plans?
+Yes, as long as invoicing is included in your plan.
+Q: How do I track payments made via bank-only transfers?
+Payments are recorded under the
+Invoices
+section, similar to other payment methods.
+Related Articles
+How to Create Invoices in HighLevel
+Manage Payment Methods Displayed with Stripe Integration
+ACH Debit Payment Method on Invoices
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

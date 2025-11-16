@@ -1,0 +1,66 @@
+---
+Title: Download & Install HighLevel's Desktop App for Mac (Private Beta)
+Category: Mobile & Desktop App
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006704-download-install-highlevel-s-desktop-app-for-mac-private-beta-
+Word Count: 371
+Scraped: 2025-10-29T01:54:26.379384
+---
+
+This quick guide walks you through getting the Mac app onto your computer and logging in for the first time.
+TABLE OF CONTENTS
+Step 1: Access Private Beta
+Step 2: Submit Beta Request Form
+Step 3: Download the Desktop App
+Step 3: Install Desktop App
+Step 4: Sign in to HighLevel
+Step 1:
+Access Private Beta
+Scan the QR code below or click the link below to get access to the HighLevel desktop app private beta.
+Link to Request Form:
+https://links.marketing.gohighlevel.com/qr/f_rN9UNjs6F3
+Step 2:
+Submit Beta Request Form
+Input your email address and submit the request form
+to the HighLevel team for access to the
+desktop app private beta.
+Step 3:
+Download the Desktop App
+You will receive an email from the HighLevel Product Team with your desktop download link.
+If you don’t see it, look in the Promotions or Spam folder.
+Open the email and click Download Mac App.
+After clicking the download link, your browser will download a .dmg file.
+Step 3:
+Install Desktop App
+Once your browser is finished downloading the app, double-click the file to begin the install process.
+Open the .dmg file.
+In the window that appears, drag the HighLevel icon into the Applications folder.
+When the copy finishes, close the installer window and eject “HighLevel” from Finder. You can delete the .dmg file.
+Step 4:
+Sign in to HighLevel
+Once you've installed the desktop app, the last step is to sign into your HighLevel account!
+Open HighLevel from your Applications folder.
+Click Sign in to HighLevel in the app. A browser window will open for secure sign-in.
+Log in with your HighLevel account. When you see the prompt to launch the desktop app, click Open HighLevel.
+You’re in! You should now see your Agency Dashboard inside the desktop app.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

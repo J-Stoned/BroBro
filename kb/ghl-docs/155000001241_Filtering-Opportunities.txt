@@ -1,0 +1,56 @@
+---
+Title: Filtering Opportunities
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001241-filtering-opportunities
+Word Count: 326
+Scraped: 2025-10-29T01:44:05.643313
+---
+
+Use a filter to segregate and view specific data on your opportunity board. Filters support both standard and custom fields
+In This Article
+Creating a Filter
+Filter Conditions
+Filter Types
+Creating a Filter
+Filters can be accessed by clicking the filter icon in the top right corner of the opportunities board. Multiple filters can be applied at the same time in two different configurations (explained below)
+Filter Conditions
+Two types of filter conditional logic are possible: AND and OR
+AND - Every condition must be met for each opportunity
+OR - At least one condition must be met for each opportunity
+These filter conditions can be changed using the toggle on the top right of the filter right sidebar
+Filter Types
+The filters are divided into 2 groups:
+Standard Filters - Based on opportunity activity and standard fields
+Owner
+Status
+Campaign Type - This filter allows you to filter based on which campaign the opportunity was created from in case it was created from a campaign. You can find campaigns in the platform under Automations. Please note any further development on campaigns has been discontinued.
+Last Stage Change
+Created on
+Updated on
+Lead Value
+Opportunity won on
+Opportunity lost on
+Custom Filters - Filters for Custom fields in opportunities (except File Upload and Signature Field)
+By default, a pipeline has the opportunities filtered to show only the "Open" opportunities. If you are unable to find an opportunity, do ensure the correct filters and search is applied on the list.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,152 @@
+---
+Title: New Sub-Accounts List UI for $97 & $297 Agency Plans
+Category: Agency View
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005749-new-sub-accounts-list-ui-for-97-297-agency-plans
+Word Count: 889
+Scraped: 2025-10-29T01:39:49.427618
+---
+
+The Sub-Accounts List in HighLevel has been updated with a new, modern interface. Agencies on the $97 and $297 plans can now access advanced filtering, bulk actions, and improved performance—offering the same streamlined experience available to $497 Pro users.
+TABLE OF CONTENTS
+What is the Sub-Accounts List Revamp?
+Key Benefits of the Sub-Accounts List Revamp
+Old View VS New View Sub-Account List View
+Advanced Filtering in the Sub-Accounts List
+Step 1: Add a Basic Filter
+Step 2: Add Nested Filters (Optional)
+Step 3: Apply and Review Filter Results
+Bulk Actions for Sub-Account Management
+Frequently Asked Questions
+Related Articles
+What is the Sub-Accounts List Revamp?
+The Sub-Accounts List Revamp is a major update to the Sub-Accounts management page for agencies on HighLevel’s $97 and $297 plans. This update introduces a visually refreshed interface, enhanced performance, and new management tools by migrating the module to HighLevel’s micro-app framework. The result is a more efficient, scalable, and user-friendly way to manage all your client accounts from one place.
+Key Benefits of the Sub-Accounts List Revamp
+The redesigned Sub-Accounts List delivers several improvements to help agencies manage their client accounts more efficiently:
+Modern, Unified UI:
+Enjoy a visually consistent experience across all plan tiers, with updated typography, spacing, icons, and layout.
+Faster Performance:
+Experience quicker page loads and smoother interactions, reducing time spent on routine management tasks.
+Advanced Filtering:
+Quickly locate specific sub-accounts using intuitive filter controls.
+Bulk Actions:
+Perform actions on multiple sub-accounts at once, streamlining repetitive tasks.
+Responsive Design:
+Seamlessly manage accounts on any device, with layouts optimized for desktops, tablets, and mobile screens.
+Future-Ready Infrastructure:
+Benefit from the micro-app architecture, enabling faster rollout of upcoming features like sub-account tagging and column customization.
+Old View VS New View Sub-Account List View
+Old View
+New View
+Advanced Filtering in the Sub-Accounts List
+The
+new Sub-Accounts List UI
+in HighLevel now includes an
+Advanced Filter
+option, available to agency users on the
+$97 and $297 plans
+. These filters help you quickly find sub-accounts based on specific platform features, configurations, or status.
+Step 1:
+Add a Basic Filter
+Click on the
+Filter(Funnel)
+button at the top of the Sub-Accounts List.
+The
+Advanced Filters panel
+will slide open, displaying four filter categories:
+General
+(e.g., Date Added, Snapshots)
+Reselling
+(e.g., Listings, WhatsApp, Email, AI tools)
+Rebilling
+(e.g., Email/Phone Verification, LC Premium)
+LeadConnector
+(e.g., LC Email, LC Phone)
+Click on any
+Search
+Filed
+of your choice under any of the above four categories.
+Select the
+Conditions
+you want to filter by for the particular search filed.
+Add an
+OR Logic filter
+by clicking the
++ Add Filter
+button.
+OR Logic:
+At least one condition must be true for a result to be shown. Filters are applied so that data matching any one of the conditions is included.
+Example:
+If you filter by (
+LC Email is Enabled or LC Phone is Enabled), this will return sub-accounts that have either LC Email or LC Phone enabled (or both).
+Step 2:
+Add Nested Filters (Optional)
+Click on the
++ Add Nested Filter
+button.
+This filter works on the
+AND Logic.
+And Logic:
+All conditions must be true for a result to be shown. Filters are combined so that the data must match every specified condition.
+Example:
+If you filter by (Date Added after Jan 1 and LC Email is Enabled), this will only show sub-accounts that were added after Jan 1 and also have LC Email enabled.
+Step 3:
+Apply and Review Filter Results
+Click
+Apply
+to run the filters.
+The system will return matching sub-accounts. If no results match, a message will appear:
+“No more locations found.”
+Bulk Actions for Sub-Account Management
+Bulk actions allow agencies to efficiently manage multiple sub-accounts at once, reducing repetitive manual work.
+Use checkboxes to select individual sub-accounts or click on the
+Select
+all
+check box.
+Once you have selected desired sub-accounts, click on the
+Bulk
+Actions
+dropdown.
+You have two bulk actions available:
+Pause Sub-Account
+and
+Enable Rebilling
+.
+Click on the
+Bulk Action History
+(Clock) icon to see previous bulk action logs.
+Frequently Asked Questions
+Q: Is the new Sub-Accounts List available to all HighLevel users?
+The revamped Sub-Accounts List is available to agencies on the $97 and $297 plans, and is already standard for $497 Pro users.
+Q: Will enabling the new UI affect my existing sub-accounts or data?
+No, the update only changes the interface and management tools. Your sub-account data remains unchanged.
+Q: Is the new Sub-Accounts List mobile-friendly?
+Yes, the updated UI is fully responsive and optimized for all screen sizes.
+Q: Do I need to pay extra to access the new Sub-Accounts List?
+No, the feature is included in your existing $97 or $297 plan.
+Related Articles
+Getting Started - Agency Launchpad Overview
+Agency | Managing user roles & permissions
+Agency Dashboard for Rebilling
+Understanding the Agency Owner Role in Your Agency Account: What You Need to Know
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

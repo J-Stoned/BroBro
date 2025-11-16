@@ -1,0 +1,148 @@
+---
+Title: The All-New Contact Detail Page
+Category: Contacts
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006651-the-all-new-contact-detail-page
+Word Count: 883
+Scraped: 2025-10-29T01:42:06.474793
+---
+
+The all-new HighLevel Contact Detail Page delivers a faster, cleaner, and smarter way to view every customer interaction in one place. This article explains what changed, why it matters, and how to start using productivity-boosting upgrades like Auto-Save, collapsible panels, and instant keyboard navigation.
+IMPORTANT
+: Bulk Prospecting is currently available in Labs. If you don’t see it, ask an admin to enable it at Agency Settings > Labs. For more, refer to
+Labs Features - Complete Overview
+.
+TABLE OF CONTENTS
+What is the All-New Contact Detail Page?
+Key Improvements at a Glance
+Left Panel: Contact Information
+Center Panel: Conversations & Activities
+Right Panel: Action Modules
+Auto-Save: How It Works
+Keyboard Shortcuts
+Associations: Companies, Opportunities & Custom Objects
+Quality of Life Enhancements
+Frequently Asked Questions
+What is the All-New Contact Detail Page?
+Re-engineered from the ground up, the Contact Detail Page is the central workspace where you can review contact information, track conversations, log activities, and launch actions—now optimized for speed and usability. The redesign replaces endless scrolling with a three-panel layout, surfaces critical data at a glance, and remembers your personal view preferences for a truly streamlined CRM experience.
+Key Improvements at a Glance
+Modern design:
+Faster, consistent, and visually streamlined layout.
+Auto-Save:
+Changes save automatically when you leave a field — no clicks needed.
+Smart Navigation:
+Move between contacts using keyboard shortcuts.
+Collapsible panels:
+Focus on what matters most, and the system remembers your layout.
+Inline associations:
+View and edit Companies, Opportunities, and Custom Objects right from the contact page.
+Cleaner right panel:
+Unified experience for Tasks, Notes, Documents, Payments, and Appointments.
+Hide empty fields:
+Reduce clutter and view only what’s filled.
+Search inside fields:
+Quickly locate data or folders.
+Left Panel: Contact Information
+This is where you’ll find and manage all the key details about your contact.
+Key Actions:
+Edit the profile picture directly.
+Update contact details such as name, email, phone, and tags.
+Use the
+DND
+tab to configure communication preferences.
+Use the
+Actions
+tab for quick utilities (like managing workflows and client portal).
+Tips
+: Toggle “Hide Empty Fields” to focus only on filled data. Use Search Fields & Folders to jump straight to the information you need.
+Center Panel: Conversations & Activities
+This section shows the complete history of your interactions with the contact. You can:
+View messages, calls, and notes in one place.
+Track appointments, opportunities, and activity logs.
+Quickly create new notes, send messages, or log calls.
+Right Panel: Action Modules
+The right panel is now fully collapsible and remembers your last active tab. You can access:
+1. Activities -
+Track
+appointments
+, form submissions,
+and
+activity logs.
+2. Associations -
+Add, remove, or view
+Companies, Opportunities, and Custom Objects.
+The “Associations” section lets you view and manage all linked records without leaving the page.
+You can: Add a company or opportunity directly.
+3. Tasks
+— Create, edit, or check off contact-specific tasks.
+4. Notes
+— Log key updates or client discussions.
+5. Appointments
+— View upcoming or past meetings.
+6. Documents
+— View sent or received files.
+7. Payments
+— Track invoices, subscriptions, and transactions.
+Auto-Save: How It Works
+Auto-Save is one of the most powerful new additions.
+When enabled,
+your edits are saved automatically
+the moment you leave a field — no manual “Save” click required.
+Steps
+: Open any contact record. Make an edit — you’ll see a
+Save bar
+appear at the bottom. Click on "Enable Auto-Save" from the kebab (3 dots) menu.
+Click
+“Enable Auto-Save”
+when prompted.
+Confirm from the modal — this will apply the setting to your sub-account. Admins can also enable or disable Auto-Save from:
+Settings → Contacts → Details Tab → Auto-Save toggle
+Once enabled, all users in the sub-account will automatically save edits as they work.
+Keyboard Shortcuts
+Save time with these new shortcuts:
+→ / ←
+— Move between contacts in the list.
+ESC
+— Collapse right panel.
+CTRL + S (or CMD + S)
+— Manual save (if Auto-Save is off).
+Associations: Companies, Opportunities & Custom Objects
+View and edit company details on the same page.
+Access all custom object relationships at a glance.
+Quality of Life Enhancements
+Panels and tabs now
+remember your last state
+— no need to re-expand or collapse each time.
+Consistent spacing, typography, and component behavior for a professional, clutter-free look.
+Unified design language and
+empty states
+across all modules (Tasks, Documents, Notes, Payments).
+Frequently Asked Questions
+Q: Will Auto-Save apply to everyone in my account?
+Yes. Once enabled by an admin, Auto-Save is active for all users in that sub-account.
+Q: Can I revert changes saved by Auto-Save?
+You can always edit a field again — Auto-Save updates the record immediately, maintaining a complete activity log.
+Q: Why can’t I see the “Enable Auto-Save” button?
+You may already have it enabled. Check under
+Settings → Contacts → Details Tab.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

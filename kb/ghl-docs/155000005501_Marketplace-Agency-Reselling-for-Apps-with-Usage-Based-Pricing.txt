@@ -1,0 +1,179 @@
+---
+Title: Marketplace- Agency Reselling for Apps with Usage-Based Pricing
+Category: App Marketplace
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005501-marketplace-agency-reselling-for-apps-with-usage-based-pricing
+Word Count: 917
+Scraped: 2025-10-29T01:55:41.892599
+---
+
+This article shows how
+agencies
+can
+enable reselling for usage-based Marketplace Apps. Agencies can now apply a markup on usage-based services to create a new revenue stream while delivering value to their clients.
+TABLE OF CONTENTS
+What is the Agency Reselling for Usage-Based Apps?
+Key Benefits of Agency Reselling for Usage-Based Apps
+How to Configure & Use Agency Reselling for Usage-Based Apps
+Step 1: Navigate to the App Reselling Section
+Step 2: Filter for Usage-Based Apps
+Step 3: Configure Pricing and Margins
+Step 4: Install the App for Sub-accounts from Agency Account
+Step 5: Install the App from Sub-accounts
+Frequently Asked Questions
+Related Articles
+What is the Agency Reselling for Usage-Based Apps?
+The Agency Reselling feature allows agency admins to apply a custom markup to usage-based services offered by apps in the HighLevel Marketplace. Agencies can resell these services to their clients while earning additional margin on the usage-based spend. This feature is a key step in unlocking the Marketplace as a revenue-generating opportunity for both agencies and developers.
+Key Benefits of Agency Reselling for Usage-Based Apps
+Discover how this new feature can enhance your agency’s offerings and profitability:
+Flexible Revenue Generation:
+Set custom markups on usage-based Marketplace apps to create new profit streams.
+Streamlined Management:
+Benefit from a revamped reselling page with a simplified layout, making it easier to configure and manage reselling options.
+Enhanced Search and Filtering:
+Quickly find and manage apps with improved search and filter tools.
+Admin-Only Controls:
+Ensure only agency admins can view and adjust reselling configurations, maintaining control and security.
+Developer Enablement:
+Supports developers in monetizing their apps through agency reselling, expanding the Marketplace ecosystem.
+How to Configure & Use Agency Reselling
+for Usage-Based Apps
+Proper setup ensures you can maximize your reselling potential and manage your offerings efficiently. Follow these steps to get started:
+Note:
+Only agency admins will see and configure the reselling markup. Clients will be billed accordingly based on the agency’s configured markup.
+Step 1:
+Navigate to the App Reselling Section
+Sign in to your A
+gency account
+.
+In the left-hand menu, click on
+App
+Marketplace
+.
+Click on the
+App Reselling
+tab.
+Step 2:
+Filter for Usage-Based Apps
+Click on the
+Pricing
+tab.
+Select
+Usage-Based
+from the pricing filter dropdown.
+You can also search for apps manually.
+Step 3:
+Configure Pricing and Margins
+Choose the app you want to resell.
+Click on
+Set Usage-Based Pricing
+button for the particular app
+.
+Review the
+developer's usage pricing
+for each service or action.
+In the
+Your Profit
+field, enter the additional amount you want to charge above the base price.
+The
+final resell price
+is automatically calculated and displayed.
+Once all pricing values are set, click
+Save.
+Step 4:
+Install the App for Sub-accounts from Agency Account
+Click on the
+app name
+to open the installation window in a new tab.
+Click on the
+Install
+button.
+Select the
+S
+ub-account or accounts
+where the app should be installed.
+Click
+Continue
+.
+Click
+Allow and Install.
+The app will now be installed in the selected sub-account with
+usage-based pricing enabled
+and your custom markup applied.
+Step 5:
+Install the App from Sub-accounts
+If the app
+supports sub-account level installation
+, both
+users and admins
+can
+install it directly within the sub-account
+.
+Note:
+The
+usage-based pricing configured at the agency level
+will be
+visible in both the agency and sub-account views
+.
+Login to the
+sub-account
+.
+Click on
+App Marketplace
+from the left-hand menu.
+Search and
+find the App
+in the marketplace.
+Click on the
+App Name
+to open the installation window.
+Click on the
+Install
+button.
+Click on the
+Allow and Install
+button.
+Frequently Asked Questions
+Q: Who can set and manage reselling markups for usage-based apps?
+Only agency admins have access to set and manage reselling markups for usage-based apps in the Marketplace.
+Q: Are all Marketplace apps eligible for agency reselling?
+Only apps with usage-based pricing currently support the agency reselling feature.
+Q: Can I set different markups for different clients?
+Markups are set at the app level for all clients; client-specific markups are not currently supported.
+Q: Will my clients see the original app pricing or my marked-up price?
+Clients will only see the price you set, including your markup.
+Q: What happens if no markup is set?
+If no markup is set, clients are billed the base app usage fee only.
+Q: Can I revert to the original app pricing after setting a markup?
+Yes, you can adjust or remove your markup at any time through the app reselling configuration page.
+Q: Are there any restrictions on the markup amount I can set?
+There are currently no restrictions, but best practices recommend setting competitive and fair markups.
+Q: Will developers be notified when their apps are being resold by agencies?
+Developers have visibility into app reselling activities and will soon be able to recommend reselling rates.
+Related Articles
+How to resell Marketplace Apps
+Rebilling, Reselling, and Wallets Explained
+Managing Marketplace App Permissions: White Label Agency Control
+Agency-Level Marketplace Apps Installation
+App Marketplace - Refund Policy
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

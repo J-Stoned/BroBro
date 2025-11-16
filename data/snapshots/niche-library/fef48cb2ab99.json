@@ -1,0 +1,91 @@
+{
+  "snapshot_name": "Weight Loss Clinic Complete Automation System",
+  "snapshot_id": "fef48cb2ab99",
+  "industry": "Weight Loss Clinic / Healthcare & Medical",
+  "use_case": "Complete business automation for weight loss clinic businesses including lead generation, appointment booking, and customer retention",
+  "target_audience": "Weight Loss Clinic business owners, healthcare & medical professionals",
+  "pricing_model": "Varies by provider",
+  "version": "1.0.0",
+  "last_updated": "2025-11-01",
+  "author": "Multiple Providers",
+  "description": {
+    "overview": "Industry-specific automation system designed for weight loss clinic businesses. Includes lead capture funnels, automated follow-up sequences, appointment booking, customer communication workflows, and review generation. Built on proven best practices for the weight loss clinic industry.",
+    "key_benefits": [
+      "Automated lead capture and nurturing",
+      "Industry-specific funnels for weight loss clinic services",
+      "Appointment scheduling and reminders",
+      "Multi-channel follow-up (Email, SMS, Voicemail)",
+      "Review generation automation",
+      "Customer retention workflows",
+      "Pipeline for tracking leads to customers"
+    ],
+    "ideal_for": [
+      "Weight Loss Clinic businesses wanting to automate operations",
+      "New weight loss clinic businesses needing a complete system",
+      "Established healthcare & medical companies looking to scale",
+      "Agencies serving this niche"
+    ]
+  },
+  "components": {
+    "funnels": [
+      {
+        "name": "Weight Loss Clinic Lead Capture Funnel",
+        "purpose": "Convert website visitors into leads"
+      },
+      {
+        "name": "Weight Loss Clinic Quote Request Funnel",
+        "purpose": "Collect quote requests and service details"
+      }
+    ],
+    "workflows": [
+      {
+        "name": "New Lead Welcome Sequence",
+        "trigger": "New lead submission",
+        "purpose": "Engage leads immediately with multi-channel outreach"
+      },
+      {
+        "name": "Appointment Reminder Automation",
+        "trigger": "Appointment booked",
+        "purpose": "Reduce no-shows with automated reminders"
+      },
+      {
+        "name": "Review Request Automation",
+        "trigger": "Service completed",
+        "purpose": "Generate positive reviews automatically"
+      }
+    ],
+    "calendars": [
+      {
+        "name": "Weight Loss Clinic Booking Calendar",
+        "type": "Service Booking",
+        "purpose": "Schedule appointments and consultations"
+      }
+    ],
+    "pipelines": [
+      {
+        "name": "Weight Loss Clinic Sales Pipeline",
+        "stages": [
+          "New Lead",
+          "Contacted",
+          "Quote Sent",
+          "Booked",
+          "Completed"
+        ],
+        "purpose": "Track leads through entire customer journey"
+      }
+    ]
+  },
+  "tags": [
+    "weight-loss-clinic",
+    "healthcare-medical",
+    "lead-generation",
+    "appointments",
+    "automation"
+  ],
+  "source_type": "niche_generated",
+  "available_providers": [
+    "GHL Automations",
+    "Streamline Results",
+    "Top GHL Snapshots"
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "snapshot_name": "Pressure Washing Lead Generation System",
+  "snapshot_id": "pw-lead-gen-v1",
+  "industry": "Pressure Washing / Home Services",
+  "use_case": "Complete lead capture and nurturing system for pressure washing businesses",
+  "target_audience": "Pressure washing business owners, home service contractors",
+  "pricing_model": "Free",
+  "version": "1.0.0",
+  "last_updated": "2025-11-01",
+  "author": "Josh Wash / BroBro",
+
+  "description": {
+    "overview": "A comprehensive lead generation snapshot designed specifically for pressure washing businesses. Includes proven funnels, automated follow-up sequences, and appointment booking workflows that convert more leads into paying customers. Built on industry best practices and optimized for local service businesses.",
+    "key_benefits": [
+      "Automated lead capture from Facebook ads, Google ads, and website traffic",
+      "Multi-channel follow-up sequences (email, SMS, voicemail drops)",
+      "Appointment booking automation with reminder sequences",
+      "Pipeline for tracking leads from inquiry to completed job",
+      "Pre-built service request forms optimized for pressure washing quotes",
+      "Reduces manual follow-up time by 80%"
+    ],
+    "ideal_for": [
+      "Pressure washing companies looking to automate lead follow-up",
+      "New businesses needing a proven lead generation system",
+      "Established companies wanting to scale their operations",
+      "Home service contractors expanding into pressure washing"
+    ]
+  },
+
+  "components": {
+    "funnels": [
+      {
+        "name": "Instant Quote Funnel",
+        "pages": ["Landing Page", "Quote Form", "Thank You Page"],
+        "purpose": "Capture leads interested in immediate quotes",
+        "conversion_goal": "Get contact info and service details for instant quote"
+      },
+      {
+        "name": "Service Area Landing Page",
+        "pages": ["Service Area Page", "Contact Form"],
+        "purpose": "SEO-optimized pages for local service areas",
+        "conversion_goal": "Generate local leads through organic search"
+      }
+    ],
+    "workflows": [
+      {
+        "name": "New Lead Welcome Sequence",
+        "trigger": "Form submission on quote funnel",
+        "steps": [
+          "Immediate SMS confirmation with ETA for quote",
+          "Email with company info and service details",
+          "Follow-up SMS within 5 minutes if no response",
+          "Phone call attempt after 15 minutes",
+          "Email with case studies and testimonials after 2 hours",
+          "Final SMS offer after 24 hours"
+        ],
+        "purpose": "Engage new leads immediately and maximize conversion rate"
+      },
+      {
+        "name": "Appointment Reminder Sequence",
+        "trigger": "Appointment booked in calendar",
+        "steps": [
+          "Confirmation SMS immediately after booking",
+          "Email confirmation with service details",
+          "Reminder SMS 24 hours before",
+          "Reminder SMS 2 hours before with tech info",
+          "Post-service review request SMS"
+        ],
+        "purpose": "Reduce no-shows and collect reviews automatically"
+      },
+      {
+        "name": "Abandoned Quote Follow-Up",
+        "trigger": "Quote form started but not completed",
+        "steps": [
+          "SMS after 15 minutes offering help",
+          "Email with special offer after 1 hour",
+          "Phone call attempt after 24 hours"
+        ],
+        "purpose": "Recover leads who abandoned the quote process"
+      },
+      {
+        "name": "Lost Lead Re-Engagement",
+        "trigger": "Lead marked as lost in pipeline",
+        "steps": [
+          "Wait 30 days",
+          "Email with seasonal promotion",
+          "SMS with limited-time offer",
+          "Final email with case study"
+        ],
+        "purpose": "Win back leads who didn't convert initially"
+      }
+    ],
+    "calendars": [
+      {
+        "name": "Free Estimate Calendar",
+        "type": "Service Booking",
+        "purpose": "Schedule on-site estimates for pressure washing jobs"
+      },
+      {
+        "name": "Service Appointment Calendar",
+        "type": "Service Booking",
+        "purpose": "Schedule confirmed pressure washing service appointments"
+      }
+    ],
+    "forms": [
+      {
+        "name": "Instant Quote Request",
+        "fields": [
+          "Name",
+          "Phone",
+          "Email",
+          "Service Address",
+          "Service Type (Driveway/House/Deck/Commercial)",
+          "Square Footage/Size",
+          "Urgency (ASAP/This Week/This Month/Just Browsing)"
+        ],
+        "purpose": "Collect essential info for providing accurate quotes"
+      },
+      {
+        "name": "Service Area Contact Form",
+        "fields": [
+          "Name",
+          "Phone",
+          "Email",
+          "Service Needed",
+          "Property Type"
+        ],
+        "purpose": "Simple contact form for service area pages"
+      }
+    ],
+    "email_templates": [
+      {
+        "name": "Welcome Email - New Lead",
+        "purpose": "First email after quote request",
+        "subject_line": "Thanks for your quote request! Here's what happens next..."
+      },
+      {
+        "name": "Case Study Email",
+        "purpose": "Build trust with before/after examples",
+        "subject_line": "How we transformed [Similar Property] - See the results"
+      },
+      {
+        "name": "Seasonal Promotion",
+        "purpose": "Re-engage old leads with timely offers",
+        "subject_line": "Spring cleaning special - Save 20% this week only"
+      }
+    ],
+    "sms_templates": [
+      {
+        "name": "Instant Quote Confirmation",
+        "purpose": "Immediate response to quote requests"
+      },
+      {
+        "name": "Appointment Reminder 24hr",
+        "purpose": "Reduce no-shows with advance reminder"
+      },
+      {
+        "name": "Tech On The Way",
+        "purpose": "2-hour reminder with technician name and photo"
+      },
+      {
+        "name": "Review Request",
+        "purpose": "Collect 5-star reviews after service"
+      }
+    ],
+    "campaigns": [
+      {
+        "name": "Facebook Lead Nurture",
+        "type": "Mixed (Email + SMS)",
+        "purpose": "Convert Facebook ad leads into booked appointments"
+      },
+      {
+        "name": "Google LSA Follow-Up",
+        "type": "SMS-heavy",
+        "purpose": "Quick response to Google Local Service Ad leads"
+      }
+    ],
+    "pipelines": [
+      {
+        "name": "Lead to Customer Pipeline",
+        "stages": [
+          "New Lead",
+          "Quote Sent",
+          "Follow-Up Needed",
+          "Appointment Scheduled",
+          "Service Completed",
+          "Payment Received",
+          "Review Requested"
+        ],
+        "purpose": "Track every lead through the entire customer journey"
+      }
+    ],
+    "custom_fields": [
+      {
+        "name": "Service Type",
+        "type": "Dropdown",
+        "purpose": "Track what service they're interested in"
+      },
+      {
+        "name": "Property Size",
+        "type": "Text",
+        "purpose": "Calculate accurate quotes"
+      },
+      {
+        "name": "Quote Amount",
+        "type": "Number",
+        "purpose": "Track revenue pipeline"
+      },
+      {
+        "name": "Lead Source",
+        "type": "Text",
+        "purpose": "Track which marketing channel brought the lead"
+      }
+    ],
+    "trigger_links": [
+      {
+        "name": "Book Appointment Now",
+        "action": "Opens calendar booking page and tags as hot lead"
+      },
+      {
+        "name": "Accept Quote",
+        "action": "Moves to 'Appointment Scheduled' stage and sends booking link"
+      }
+    ]
+  },
+
+  "setup_instructions": {
+    "prerequisites": [
+      "GHL account with SMS and email capabilities",
+      "Business phone number connected to GHL",
+      "Twilio or Mailgun integration for email/SMS",
+      "Calendar availability configured"
+    ],
+    "import_steps": [
+      "Step 1: Import the snapshot into your sub-account",
+      "Step 2: Review and activate all workflows (they import as drafts)",
+      "Step 3: Update custom values (business name, phone, address, service areas)",
+      "Step 4: Configure calendar availability and booking settings",
+      "Step 5: Update email and SMS templates with your branding"
+    ],
+    "post_import_configuration": [
+      "Task 1: Connect your Twilio phone number for SMS",
+      "Task 2: Set up email domain authentication (SPF/DKIM)",
+      "Task 3: Add your logo and brand colors to all funnels",
+      "Task 4: Test all workflows by submitting test leads",
+      "Task 5: Configure pipeline notifications for your team",
+      "Task 6: Set up Facebook and Google ad integrations"
+    ],
+    "important_notes": [
+      "All workflows import as DRAFT - you must activate them manually",
+      "Update custom values before activating workflows to avoid sending test data",
+      "Test the entire flow with a real phone number before going live",
+      "Configure your calendar hours to match your service availability",
+      "Review all email/SMS templates for tone and branding consistency"
+    ]
+  },
+
+  "customization_guide": {
+    "quick_customizations": [
+      "Replace logo in funnel pages (use 300x100px transparent PNG)",
+      "Update business name in all templates (use Find & Replace)",
+      "Change primary color scheme to match your brand",
+      "Adjust calendar booking buffer times",
+      "Modify SMS response times based on your availability"
+    ],
+    "advanced_customizations": [
+      "Add more service types to quote form dropdown",
+      "Create separate workflows for commercial vs residential leads",
+      "Integrate with your existing CRM or accounting software",
+      "Add seasonal services (gutter cleaning, window washing) with new funnels",
+      "Implement dynamic pricing based on property size"
+    ],
+    "branding_checklist": [
+      "Logo on all landing pages",
+      "Brand colors in funnel designs",
+      "Company name in email signatures",
+      "Business phone number in all SMS templates",
+      "Service area names updated in SEO pages",
+      "Team member names/photos in workflows"
+    ]
+  },
+
+  "best_practices": [
+    "Respond to leads within 5 minutes - speed is critical for local services",
+    "Use SMS as primary communication channel (higher open rates than email)",
+    "Include before/after photos in follow-up emails to build trust",
+    "Offer limited-time discounts to create urgency",
+    "Request reviews immediately after service completion (within 1 hour)",
+    "Track lead source to optimize your marketing spend",
+    "Use voicemail drops for efficient follow-up at scale",
+    "Set up weekend/after-hours auto-responders",
+    "Segment leads by service type for more relevant follow-up",
+    "A/B test different quote response times to find optimal conversion"
+  ],
+
+  "common_use_cases": [
+    {
+      "scenario": "New lead from Facebook ad clicks 'Get Instant Quote'",
+      "recommended_workflow": "New Lead Welcome Sequence",
+      "tips": [
+        "Immediate SMS builds trust and sets expectations",
+        "Follow up with email containing social proof within 2 hours",
+        "If no response in 24 hours, offer a limited-time discount"
+      ]
+    },
+    {
+      "scenario": "Lead books appointment but hasn't confirmed",
+      "recommended_workflow": "Appointment Reminder Sequence",
+      "tips": [
+        "Send confirmation immediately to reduce buyer's remorse",
+        "24-hour reminder dramatically reduces no-shows",
+        "2-hour reminder with tech info personalizes the experience"
+      ]
+    },
+    {
+      "scenario": "Lead received quote but hasn't booked",
+      "recommended_workflow": "Lost Lead Re-Engagement after 30 days",
+      "tips": [
+        "Don't give up too soon - leads may need service later",
+        "Seasonal promotions work great for re-engagement",
+        "Offer added value (free gutter cleaning with house wash)"
+      ]
+    }
+  ],
+
+  "integrations_required": [
+    {
+      "integration": "Twilio",
+      "required": true,
+      "purpose": "Send SMS and make phone calls for lead follow-up"
+    },
+    {
+      "integration": "Mailgun or SendGrid",
+      "required": true,
+      "purpose": "Send marketing emails with high deliverability"
+    },
+    {
+      "integration": "Facebook Lead Ads",
+      "required": false,
+      "purpose": "Automatically import leads from Facebook ads"
+    },
+    {
+      "integration": "Google Local Services",
+      "required": false,
+      "purpose": "Capture leads from Google LSA platform"
+    },
+    {
+      "integration": "Stripe or Square",
+      "required": false,
+      "purpose": "Collect deposits or payments online"
+    }
+  ],
+
+  "tags": [
+    "pressure-washing",
+    "home-services",
+    "lead-generation",
+    "local-business",
+    "appointment-booking",
+    "sms-automation",
+    "josh-wash"
+  ],
+
+  "related_snapshots": [
+    "pw-customer-retention-v1",
+    "pw-review-generation-v1",
+    "pw-seasonal-campaigns-v1"
+  ]
+}

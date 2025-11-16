@@ -1,0 +1,168 @@
+---
+Title: Custom Objects and Company Objects in Forms, Surveys & Quizzes
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006384-custom-objects-and-company-objects-in-forms-surveys-quizzes
+Word Count: 800
+Scraped: 2025-10-29T01:46:31.105850
+---
+
+TABLE OF CONTENTS
+What They Are
+What You Can Do
+How to Use Them
+Best Practices
+Works Best For
+Won’t Work For
+Quick Fixes
+Examples
+In Short
+What They Are
+Custom Objects
+let you collect structured, business-specific data that doesn’t fit into standard contact fields — for example,
+Properties
+,
+Pets
+, or
+Vehicles
+. This data links back to contacts so you can organize your CRM around what matters most to your business.
+The
+Company Object
+is a built-in object focused on
+business-level data
+(like client organizations, agencies, or vendors). It helps you connect multiple contacts under one company.
+Think of it this way:
+Use
+Custom Objects
+to track
+anything unique to your process or industry
+.
+Use the
+Company Object
+to track
+who the contact works for or represents
+.
+What You Can Do
+Add fields from your custom objects (text, number, date, dropdown, etc.).
+Link data directly to contacts (one-to-one, one-to-many, or many-to-many).
+Automatically sync data updates across linked records.
+Use custom object fields in
+forms, surveys, and quizzes
+.
+Prevent setup issues by limiting each builder to one object type.
+Protect important “primary fields” to avoid breaking associations.
+Company Object specifics:
+Comes with some default fields like
+Name
+,
+Phone
+, and
+Email
+.
+Company Name
+acts as the primary key automatically.
+Can be used with
+Contacts only
+, and each contact can have
+only one company association
+.
+Accessible from contact records, making it easy to see linked company info.
+Custom Object flexibility:
+You define the fields and the primary field.
+Can support
+multiple associations per contact
+.
+Lets you model specialized data that doesn’t belong to Companies, Contacts, or Opportunities.
+How to Use Them
+Go to
+Settings > Custom Objects
+to create or manage custom objects.
+For Companies, go to
+Settings > Companies
+(already built-in).
+Open the
+Form, Survey, or Quiz Builder
+.
+You can add fields
+within the builder only.
+Choose how the object connects to the contact (association settings).
+The system automatically adds the primary field.
+Add more fields of the same object type.
+Save and publish — submissions now link the contact and the object.
+Best Practices
+Use only
+one object type per form/survey/quiz
+.
+Configure the
+association
+as soon as you add a custom object field.
+Define a
+primary field
+for custom objects — the system will use the first one if missing.
+For Companies, remember the primary key (Company Name) is already set.
+Keep object names simple and consistent to avoid confusion.
+Avoid using Company or Custom Object fields together in the same builder.
+Works Best For
+Custom Objects:
+Industry-specific tracking (e.g., properties, pets, vehicles, cases, or assets).
+Company Object:
+B2B relationships — linking multiple contacts under one business.
+Keeping structured, consistent, and connected data across your CRM.
+Won’t Work For
+Mixing multiple object types in a single form.
+Bulk updates or advanced reporting (not yet supported).
+Creating or sharing forms/surveys/quizzes with Company or Custom Object fields via the Template Library.
+Sharing custom fields or custom objects across sub-accounts.
+Adding custom values to custom object fields (not supported).
+Quick Fixes
+Association not loading?
+Check your internet or object setup.
+Mixed object error?
+Remove old object fields before adding new ones.
+Primary field missing?
+Define one in settings; the system uses the first field if none exists.
+Removed primary field?
+All fields will be cleared from the builder — re-add manually.
+Company not showing under contact?
+Make sure the company exists in
+Settings > Companies
+.
+Examples
+Real Estate:
+Create a Custom Object for “Properties” to store location, size, and price. Each record can link to multiple contacts (tenants, buyers, or owners).
+Veterinary Clinic:
+Use a Custom Object for “Pets” — each pet record links to the owner’s contact and includes breed, medical notes, and vaccination data.
+Agency or B2B Setup:
+Use the Company Object to store business-level info like company name, phone, and billing address. Then associate multiple client contacts with that company.
+In Short
+Custom Objects
+let you structure your CRM data however your business needs — flexible, scalable, and built for customization.
+The Company Object
+is simpler — a fixed structure for managing organizations and their related contacts.
+Use both together to get a complete view of your relationships:
+Custom Objects
+for specialized data.
+Company Object
+for business-level connections.
+Clean, linked, and purpose-driven CRM data — all in one place.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

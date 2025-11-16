@@ -1,0 +1,81 @@
+---
+Title: Getting Started - Setup Facebook and Instagram Messenger
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005068-getting-started-setup-facebook-and-instagram-messenger
+Word Count: 353
+Scraped: 2025-10-29T01:38:50.921942
+---
+
+Ever feel overwhelmed jumping between different platforms to answer messages from your customers? Let's simplify things! By connecting Facebook and Instagram Messenger directly to your CRM, you'll have all your conversations in one spot. You'll streamline your responses, engage with your customers faster, and ultimately create a smoother communication experience for everyone involved.
+TABLE OF CONTENTS
+Integrate Facebook & Instagram
+Link Instagram to Facebook
+Integrate Facebook & Instagram
+First, let's get Facebook and Instagram working together within your CRM. This integration will be a game changer in how quickly and effectively you communicate with customers.
+Head over to
+Settings > Integrations
+.
+Click on
+Connect
+under Facebook & Instagram.
+Log in
+to Facebook and choose your Facebook
+page
+(make sure it's the one
+connected to Instagram
+).
+Click
+Connect Facebook & Instagram
+.
+Lastly, hit
+Sync Leads
+.
+Learn More
+Facebook Troubleshooting - Integration Issues
+Facebook Multi page Troubleshoot
+Facebook Pages missing in Manage Pages during integration
+Connect Instagram Business or Creator to Facebook (allows posting to IG)
+Link Instagram to Facebook
+Now, let's ensure Instagram and Facebook are fully linked so your messages flow seamlessly into one inbox. Trust us—this step will save you tons of time!
+Navigate to your
+Facebook account
+and log in to your page.
+Click on
+Account > Settings
+.
+Use the search bar to find
+Linked Accounts
+.
+Select
+Instagram
+and click
+Connect
+.
+Keep the toggle on to
+enable Instagram messages
+to appear in your inbox.
+Authenticate
+your Instagram login credentials.
+Fantastic job! You're now set up to effortlessly handle your social interactions. Next, consider testing the integration by sending a test message to confirm everything is working smoothly.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

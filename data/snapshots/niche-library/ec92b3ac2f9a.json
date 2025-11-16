@@ -1,0 +1,91 @@
+{
+  "snapshot_name": "Life Coach Complete Automation System",
+  "snapshot_id": "ec92b3ac2f9a",
+  "industry": "Life Coach / Fitness & Wellness",
+  "use_case": "Complete business automation for life coach businesses including lead generation, appointment booking, and customer retention",
+  "target_audience": "Life Coach business owners, fitness & wellness professionals",
+  "pricing_model": "Varies by provider",
+  "version": "1.0.0",
+  "last_updated": "2025-11-01",
+  "author": "Multiple Providers",
+  "description": {
+    "overview": "Industry-specific automation system designed for life coach businesses. Includes lead capture funnels, automated follow-up sequences, appointment booking, customer communication workflows, and review generation. Built on proven best practices for the life coach industry.",
+    "key_benefits": [
+      "Automated lead capture and nurturing",
+      "Industry-specific funnels for life coach services",
+      "Appointment scheduling and reminders",
+      "Multi-channel follow-up (Email, SMS, Voicemail)",
+      "Review generation automation",
+      "Customer retention workflows",
+      "Pipeline for tracking leads to customers"
+    ],
+    "ideal_for": [
+      "Life Coach businesses wanting to automate operations",
+      "New life coach businesses needing a complete system",
+      "Established fitness & wellness companies looking to scale",
+      "Agencies serving this niche"
+    ]
+  },
+  "components": {
+    "funnels": [
+      {
+        "name": "Life Coach Lead Capture Funnel",
+        "purpose": "Convert website visitors into leads"
+      },
+      {
+        "name": "Life Coach Quote Request Funnel",
+        "purpose": "Collect quote requests and service details"
+      }
+    ],
+    "workflows": [
+      {
+        "name": "New Lead Welcome Sequence",
+        "trigger": "New lead submission",
+        "purpose": "Engage leads immediately with multi-channel outreach"
+      },
+      {
+        "name": "Appointment Reminder Automation",
+        "trigger": "Appointment booked",
+        "purpose": "Reduce no-shows with automated reminders"
+      },
+      {
+        "name": "Review Request Automation",
+        "trigger": "Service completed",
+        "purpose": "Generate positive reviews automatically"
+      }
+    ],
+    "calendars": [
+      {
+        "name": "Life Coach Booking Calendar",
+        "type": "Service Booking",
+        "purpose": "Schedule appointments and consultations"
+      }
+    ],
+    "pipelines": [
+      {
+        "name": "Life Coach Sales Pipeline",
+        "stages": [
+          "New Lead",
+          "Contacted",
+          "Quote Sent",
+          "Booked",
+          "Completed"
+        ],
+        "purpose": "Track leads through entire customer journey"
+      }
+    ]
+  },
+  "tags": [
+    "life-coach",
+    "fitness-wellness",
+    "lead-generation",
+    "appointments",
+    "automation"
+  ],
+  "source_type": "niche_generated",
+  "available_providers": [
+    "GHL Automations",
+    "Streamline Results",
+    "Top GHL Snapshots"
+  ]
+}

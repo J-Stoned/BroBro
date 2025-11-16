@@ -1,0 +1,137 @@
+---
+Title: Getting Started - Launch A Funnel
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005057-getting-started-launch-a-funnel
+Word Count: 548
+Scraped: 2025-10-29T01:38:44.028107
+---
+
+Ready to turn your website visitors into loyal customers? Setting up a high-converting funnel is easier than you think! Follow these simple steps to quickly capture leads, enhance your marketing efficiency, and grow your customer base.
+TABLE OF CONTENTS
+Create a Funnel Options
+Create a Funnel From Template
+Create a Form
+Edit an Existing Funnel
+Add a Domain to a Funnel
+Create a Funnel Options
+Every great journey starts with the first step, and in this case, it’s creating your funnel. Let's get started:
+Go to
+Sites > Funnels
+.
+Click
+New Funnel
+, then select one of these options:
+From Blank
+(build your own)
+Funnel AI
+(AI-powered creation)
+From Templates
+(use a pre-designed funnel)
+Next step:
+Ready for more? Dive into customizing your funnel design to match your brand personality!
+Create a Funnel From Template
+Save time and start strong! Templates provide a professional design that's proven to convert, allowing you to focus on fine-tuning rather than starting from scratch.
+Navigate to
+Sites > Funnels
+Click New Funnel > From Template >
+Continue
+Open the
+Template Library
+.
+Search, filter, and sort through the templates.
+Preview
+your chosen funnel template.
+Click
+Continue
+.
+Customize it in the
+Funnel Editor
+.
+Click
+Save
+.
+Learn More:
+Template Library Overview & Setup
+Next step:
+Take your funnel further—integrate a custom form to collect valuable visitor information.
+Create a Form
+Forms are the heart of lead generation. Design a form that's engaging and easy to fill out, capturing the right information effortlessly.
+Navigate to the
+Form Builder
+(either through the Form Picker in the Funnel Editor or directly).
+Click
+Add Form
+.
+Customize fields and branding using the
+Form Editor
+.
+Click
+Save
+.
+Learn More:
+How to Create a Contact Form in HighLevel
+Next step:
+Optimize your form further with automations to follow up instantly!
+Edit an Existing Funnel
+Keep your funnels fresh and relevant. Easily update existing funnels to respond quickly to market changes or new strategies.
+Navigate to
+Sites > Funnels
+.
+Select
+and click your funnel from the Funnel List.
+Make your edits in the
+Funnel Editor
+.
+Click
+Save
+.
+Next step:
+Why not check analytics to see how well your updates are performing?
+Add a Domain to a Funnel
+Your funnel deserves a memorable domain. Connect your funnel to your own domain to enhance credibility and professionalism.
+Go to
+Settings > Domains
+.
+Click
+Connect a Domain
+.
+Enter your domain and click
+Continue
+.
+Follow the instructions provided to set up
+DNS records
+(varies by registrar).
+Click
+Verify Records
+.
+Link your domain with the funnel.
+Click
+Proceed to Finish
+.
+Learn More:
+How to Add a Domain and Verify DNS Record
+How to set up Root Domain/Subdomain for your Funnels/Websites?
+Next step:
+You're ready to launch! Share your funnel and watch your leads flow in!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

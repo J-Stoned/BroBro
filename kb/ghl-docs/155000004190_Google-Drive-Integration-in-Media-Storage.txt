@@ -1,0 +1,86 @@
+---
+Title: Google Drive Integration in Media Storage
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004190-google-drive-integration-in-media-storage
+Word Count: 635
+Scraped: 2025-10-29T01:57:39.109818
+---
+
+This article explains how to integrate Google Drive with HighLevel’s Media Storage. With this integration, you can seamlessly sync files, manage media efficiently, and centralize your file storage. Learn how to set up the integration and use it to streamline your workflow.
+TABLE OF CONTENTS
+What is the Google Drive Integration?
+Benefits of Integrating Google Drive
+How to Integrate Google Drive to Media Library
+Notes and Limitations
+Frequently Asked Questions
+What is the Google Drive Integration?
+The Google Drive integration allows you to connect your Google Drive account with HighLevel’s Media Storage. This enables you to sync and access files from Google Drive directly within HighLevel. The integration supports features such as file organization, previewing, and folder management, helping you manage your media files more efficiently.
+Benefits of Integrating Google Drive
+Centralized File Management
+: Access and manage all your media files, including CRM documents, funnel assets, and Google Drive files, from one platform.
+Enhanced Productivity
+: Changes made to files in Google Drive automatically sync to HighLevel, eliminating the need for manual uploads or repetitive tasks.
+Unified Storage
+: Organize files into folders, preview media, and manage your files seamlessly across both platforms.
+Increased Flexibility
+: Access and manage your files from your CRM or Google Drive with ease.
+How to Integrate Google Drive to Media Library
+Step 1:
+Connect Your Google Drive
+Navigate to the
+Media Storage
+section in HighLevel.
+Click on
+Connect Google Drive
+in the top-right corner of the Media Library.
+Follow the on-screen prompts to log in to your Google Drive account.
+Grant access to HighLevel when prompted.
+PLEASE NOTE:
+Once you have successfully connected your Google Drive account, you will see a number appear where the integration button used to be showing how much space you are currently occupying in your Google Drive account.
+Step 2:
+Access Google Drive Files
+Once connected, click on the
+Google Drive icon
+or select
+Google Drive
+from the dropdown menu in the Media Storage.
+You will see your Google Drive files and folders displayed alongside HighLevel’s native media files.
+Notes and Limitations
+Two-Way Sync
+: Any changes to files in Google Drive, such as uploads or deletions, will reflect in HighLevel.
+Rename and Delete Restrictions
+: You cannot rename or delete files in Google Drive directly from HighLevel. These actions are disabled to protect your Google Drive data.
+Folder Creation
+: You can create folders and upload files in both the root directory and subfolders.
+Frequently Asked Questions
+Q: Can I rename or delete Google Drive files from HighLevel?
+No, renaming or deleting Google Drive files from HighLevel is disabled to protect the integrity of your files.
+Q: How often does the sync occur?
+The sync happens in real-time. Any changes made in Google Drive will be instantly reflected in HighLevel’s Media Storage.
+Q: Can I organize Google Drive files within HighLevel?
+Yes, you can drag and drop files, create folders, and organize your Google Drive files within HighLevel’s Media Storage.
+Q: Are files stored in HighLevel or Google Drive?
+Files remain stored in Google Drive, but HighLevel provides an interface to access and manage them seamlessly.
+With Google Drive integration, managing your media files has never been easier. Streamline your workflows, centralize file access, and enjoy the flexibility of synchronized storage. For further assistance, check out additional resources in the knowledge base or contact support!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

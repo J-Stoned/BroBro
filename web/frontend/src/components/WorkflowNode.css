@@ -1,0 +1,146 @@
+/* WorkflowNode.css - GHL Native Style */
+
+.workflow-node-container {
+  transition: all 0.2s ease;
+}
+
+.workflow-node {
+  width: 220px;
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 12px 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.workflow-node:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.workflow-node.selected {
+  border: 3px solid #3b82f6;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
+  padding: 9px 13px; /* Adjust padding to compensate for thicker border */
+}
+
+/* Selection checkbox */
+.node-checkbox {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 18px;
+  height: 18px;
+  background: #eff6ff;
+  border: 2px solid #3b82f6;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Card header */
+.node-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.node-icon {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.node-title {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 500;
+  color: #1f2937;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.4;
+}
+
+.node-menu {
+  flex-shrink: 0;
+  color: #9ca3af;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: all 0.15s ease;
+}
+
+.node-menu:hover {
+  background: #f3f4f6;
+  color: #6b7280;
+}
+
+.node-menu:active {
+  background: #e5e7eb;
+}
+
+/* Card subtitle */
+.node-subtitle {
+  font-size: 13px;
+  color: #6b7280;
+  padding-left: 28px; /* Align with title (icon width + gap) */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.3;
+}
+
+/* Connection anchors */
+.connection-anchor {
+  cursor: crosshair;
+  transition: all 0.15s ease;
+}
+
+.connection-anchor:hover {
+  fill: #3b82f6;
+  stroke: #3b82f6;
+  r: 8;
+}
+
+/* States */
+.workflow-node-container.dragging {
+  opacity: 0.6;
+}
+
+.workflow-node-container.connecting .connection-anchor {
+  fill: #3b82f6;
+  stroke: #3b82f6;
+  r: 8;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .workflow-node {
+    width: 200px;
+    padding: 10px 14px;
+  }
+
+  .workflow-node.selected {
+    padding: 7px 11px;
+  }
+
+  .node-title {
+    font-size: 13px;
+  }
+
+  .node-subtitle {
+    font-size: 12px;
+  }
+}

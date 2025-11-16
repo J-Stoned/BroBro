@@ -1,0 +1,475 @@
+{
+  "video_id": "AocTn6xBtAI",
+  "url": "https://www.youtube.com/watch?v=AocTn6xBtAI",
+  "title": "HighLevel Sites Upgrade: Faster Uptime, Performance & Reliability Now Live!",
+  "channel": "HighLevel",
+  "channel_id": "UCXFiV4qDX5ipE-DQcsm1j4g",
+  "upload_date": "20251030",
+  "duration": 167,
+  "view_count": 374,
+  "like_count": 13,
+  "description": "Start your free 30-day trial: https://www.gohighlevel.com/blog-trials?utm_source=youtube\n\nBig news! 🎉 HighLevel’s Websites, Funnels, Webinars, and Ecommerce Sites just got a major upgrade for better uptime, speed, and reliability across the board.\n\nIn this video, we’ll walk you through what’s new and how these improvements will help you deliver faster, smoother experiences for your clients and customers.\n\nYou’ll discover:\n✅ Enhanced site uptime for uninterrupted performance\n✅ Faster loading speeds across all site types\n✅ Improved reliability for ecommerce and webinar pages\n\nExperience unmatched stability and performance — now live on HighLevel’s upgraded site infrastructure!",
+  "tags": [],
+  "categories": [
+    "Education"
+  ],
+  "transcript": "Hey, happy Thursday everybody. Sean coming at you from High Level. So now this is going to get filed under not a awesome amazing visual but an awesome amazing feature and a good example of how the Highle team has your back. So this is actually an update across the board that's fully automatic. Whoop sorry fully automatic for funnels, websites, webinars, ecom, blogs, pretty much all of the web stuff. And really what this is all about is better uptime, better performance, and better reliability. So, uh, essentially the details here is we've implemented the Cloudflare edge caching with stale cache strategy. That's kind of a big fancy term, but it basically significantly improves uptime reliability across funnels, websites, webinars, and ecom stores. In addition, we've also enabled Cloudflare always online, which acts as a third backup layer. Uh, so that if you, for whatever reason, there's an outage, you're going to still stay online, which is super cool. Um, and so a couple of things here. So, this is triple layer. The idea is triple layer resiliency. So obviously when you when a when any of these pages are rendered you can sort of think about it like they originally created on the server then we have a caching layer that we already put in place today and now we've added a third layer of caching also um which is very cool. So the goal here is zero downtime automatic recovery which is really awesome. So the goal would be like okay so let's pretend for a minute that like I don't know you make a you make a change to something and it causes the page to go down or I don't know like what the scenario would be per se but the idea is you're like oh no what do I do? Well the good news is instead of that like change getting pushed out to the world and causing an issue that Cloudflare third layer back will actually sit there until you recover. So you're not going to end up pushing any of those faults out to the to the world which is cool. Also, what this gives you is a a bigger increase in performance because the improved cache headers and timeout handling keep the load times a lot faster. So, this is really really cool. There's a bunch of details here uh that you can kind of weed through if you'd like. But what this really does is it just tells you uh what uh what in the world is going on. Also, right here, if if uh there's any changes that need to be made, you'll see this banner kind of in the domains section. So the idea here is if you haven't already migrated uh uh your domains to our Cloudflare infrastructure, you can do that. Super easy. You just go to domains in URL redirects and click the fix now button and it'll walk you through it. Um so anyways, um and then for those you already have done that, which is most people, uh you don't have to do anything. So anyhow, hopefully that is enough to to kind of give you that perspective on how this all works. If you have more questions, obviously reach out to support. They can help you kind of walk through this. But I just wanted to get this out because I think a lot of these changes um on this level are super important from a day-to-day use perspective, but they don't get as much excitement and love sometimes because they're hard to see. So, I really like to point it out when the team does these things because they're super impactful. So, anyways, on that note, I hope you're having an awesome Thursday and I'll see you in the next video. Thanks.",
+  "transcript_entries": [
+    {
+      "text": "Hey, happy Thursday everybody. Sean",
+      "start": 0.48,
+      "duration": 3.04
+    },
+    {
+      "text": "coming at you from High Level. So now",
+      "start": 2.0,
+      "duration": 4.64
+    },
+    {
+      "text": "this is going to get filed under not a",
+      "start": 3.52,
+      "duration": 4.96
+    },
+    {
+      "text": "awesome amazing visual but an awesome",
+      "start": 6.64,
+      "duration": 3.76
+    },
+    {
+      "text": "amazing feature and a good example of",
+      "start": 8.48,
+      "duration": 4.32
+    },
+    {
+      "text": "how the Highle team has your back. So",
+      "start": 10.4,
+      "duration": 3.92
+    },
+    {
+      "text": "this is actually an update across the",
+      "start": 12.8,
+      "duration": 3.12
+    },
+    {
+      "text": "board that's fully automatic. Whoop",
+      "start": 14.32,
+      "duration": 3.2
+    },
+    {
+      "text": "sorry fully automatic for funnels,",
+      "start": 15.92,
+      "duration": 3.84
+    },
+    {
+      "text": "websites, webinars, ecom, blogs, pretty",
+      "start": 17.52,
+      "duration": 4.0
+    },
+    {
+      "text": "much all of the web stuff. And really",
+      "start": 19.76,
+      "duration": 3.92
+    },
+    {
+      "text": "what this is all about is better uptime,",
+      "start": 21.52,
+      "duration": 3.28
+    },
+    {
+      "text": "better performance, and better",
+      "start": 23.68,
+      "duration": 3.12
+    },
+    {
+      "text": "reliability. So, uh, essentially the",
+      "start": 24.8,
+      "duration": 4.0
+    },
+    {
+      "text": "details here is we've implemented the",
+      "start": 26.8,
+      "duration": 4.96
+    },
+    {
+      "text": "Cloudflare edge caching with stale cache",
+      "start": 28.8,
+      "duration": 4.72
+    },
+    {
+      "text": "strategy. That's kind of a big fancy",
+      "start": 31.76,
+      "duration": 3.2
+    },
+    {
+      "text": "term, but it basically significantly",
+      "start": 33.52,
+      "duration": 3.12
+    },
+    {
+      "text": "improves uptime reliability across",
+      "start": 34.96,
+      "duration": 3.2
+    },
+    {
+      "text": "funnels, websites, webinars, and ecom",
+      "start": 36.64,
+      "duration": 3.919
+    },
+    {
+      "text": "stores. In addition, we've also enabled",
+      "start": 38.16,
+      "duration": 4.48
+    },
+    {
+      "text": "Cloudflare always online, which acts as",
+      "start": 40.559,
+      "duration": 4.561
+    },
+    {
+      "text": "a third backup layer. Uh, so that if",
+      "start": 42.64,
+      "duration": 4.239
+    },
+    {
+      "text": "you, for whatever reason, there's an",
+      "start": 45.12,
+      "duration": 3.279
+    },
+    {
+      "text": "outage, you're going to still stay",
+      "start": 46.879,
+      "duration": 4.481
+    },
+    {
+      "text": "online, which is super cool. Um, and so",
+      "start": 48.399,
+      "duration": 4.32
+    },
+    {
+      "text": "a couple of things here. So, this is",
+      "start": 51.36,
+      "duration": 3.44
+    },
+    {
+      "text": "triple layer. The idea is triple layer",
+      "start": 52.719,
+      "duration": 4.881
+    },
+    {
+      "text": "resiliency. So obviously when you when a",
+      "start": 54.8,
+      "duration": 4.239
+    },
+    {
+      "text": "when any of these pages are rendered you",
+      "start": 57.6,
+      "duration": 3.119
+    },
+    {
+      "text": "can sort of think about it like they",
+      "start": 59.039,
+      "duration": 3.36
+    },
+    {
+      "text": "originally created on the server then we",
+      "start": 60.719,
+      "duration": 3.121
+    },
+    {
+      "text": "have a caching layer that we already put",
+      "start": 62.399,
+      "duration": 2.881
+    },
+    {
+      "text": "in place today and now we've added a",
+      "start": 63.84,
+      "duration": 3.76
+    },
+    {
+      "text": "third layer of caching also um which is",
+      "start": 65.28,
+      "duration": 4.4
+    },
+    {
+      "text": "very cool. So the goal here is zero",
+      "start": 67.6,
+      "duration": 4.24
+    },
+    {
+      "text": "downtime automatic recovery which is",
+      "start": 69.68,
+      "duration": 3.68
+    },
+    {
+      "text": "really awesome. So the goal would be",
+      "start": 71.84,
+      "duration": 3.68
+    },
+    {
+      "text": "like okay so let's pretend for a minute",
+      "start": 73.36,
+      "duration": 4.48
+    },
+    {
+      "text": "that like I don't know you make a you",
+      "start": 75.52,
+      "duration": 4.16
+    },
+    {
+      "text": "make a change to something and it causes",
+      "start": 77.84,
+      "duration": 3.84
+    },
+    {
+      "text": "the page to go down or I don't know like",
+      "start": 79.68,
+      "duration": 3.759
+    },
+    {
+      "text": "what the scenario would be per se but",
+      "start": 81.68,
+      "duration": 3.36
+    },
+    {
+      "text": "the idea is you're like oh no what do I",
+      "start": 83.439,
+      "duration": 3.201
+    },
+    {
+      "text": "do? Well the good news is instead of",
+      "start": 85.04,
+      "duration": 3.36
+    },
+    {
+      "text": "that like change getting pushed out to",
+      "start": 86.64,
+      "duration": 3.36
+    },
+    {
+      "text": "the world and causing an issue that",
+      "start": 88.4,
+      "duration": 3.359
+    },
+    {
+      "text": "Cloudflare third layer back will",
+      "start": 90.0,
+      "duration": 4.32
+    },
+    {
+      "text": "actually sit there until you recover. So",
+      "start": 91.759,
+      "duration": 3.841
+    },
+    {
+      "text": "you're not going to end up pushing any",
+      "start": 94.32,
+      "duration": 3.839
+    },
+    {
+      "text": "of those faults out to the to the world",
+      "start": 95.6,
+      "duration": 4.8
+    },
+    {
+      "text": "which is cool. Also, what this gives you",
+      "start": 98.159,
+      "duration": 4.561
+    },
+    {
+      "text": "is a a bigger increase in performance",
+      "start": 100.4,
+      "duration": 4.079
+    },
+    {
+      "text": "because the improved cache headers and",
+      "start": 102.72,
+      "duration": 3.679
+    },
+    {
+      "text": "timeout handling keep the load times a",
+      "start": 104.479,
+      "duration": 3.841
+    },
+    {
+      "text": "lot faster. So, this is really really",
+      "start": 106.399,
+      "duration": 3.76
+    },
+    {
+      "text": "cool. There's a bunch of details here uh",
+      "start": 108.32,
+      "duration": 3.2
+    },
+    {
+      "text": "that you can kind of weed through if",
+      "start": 110.159,
+      "duration": 3.121
+    },
+    {
+      "text": "you'd like. But what this really does is",
+      "start": 111.52,
+      "duration": 4.16
+    },
+    {
+      "text": "it just tells you uh what uh what in the",
+      "start": 113.28,
+      "duration": 4.72
+    },
+    {
+      "text": "world is going on. Also, right here, if",
+      "start": 115.68,
+      "duration": 4.079
+    },
+    {
+      "text": "if uh there's any changes that need to",
+      "start": 118.0,
+      "duration": 3.119
+    },
+    {
+      "text": "be made, you'll see this banner kind of",
+      "start": 119.759,
+      "duration": 3.68
+    },
+    {
+      "text": "in the domains section. So the idea here",
+      "start": 121.119,
+      "duration": 5.201
+    },
+    {
+      "text": "is if you haven't already migrated uh uh",
+      "start": 123.439,
+      "duration": 4.561
+    },
+    {
+      "text": "your domains to our Cloudflare",
+      "start": 126.32,
+      "duration": 3.2
+    },
+    {
+      "text": "infrastructure, you can do that. Super",
+      "start": 128.0,
+      "duration": 3.2
+    },
+    {
+      "text": "easy. You just go to domains in URL",
+      "start": 129.52,
+      "duration": 3.12
+    },
+    {
+      "text": "redirects and click the fix now button",
+      "start": 131.2,
+      "duration": 3.6
+    },
+    {
+      "text": "and it'll walk you through it. Um so",
+      "start": 132.64,
+      "duration": 3.76
+    },
+    {
+      "text": "anyways, um and then for those you",
+      "start": 134.8,
+      "duration": 2.96
+    },
+    {
+      "text": "already have done that, which is most",
+      "start": 136.4,
+      "duration": 2.72
+    },
+    {
+      "text": "people, uh you don't have to do",
+      "start": 137.76,
+      "duration": 3.52
+    },
+    {
+      "text": "anything. So anyhow, hopefully that is",
+      "start": 139.12,
+      "duration": 4.16
+    },
+    {
+      "text": "enough to to kind of give you that",
+      "start": 141.28,
+      "duration": 3.44
+    },
+    {
+      "text": "perspective on how this all works. If",
+      "start": 143.28,
+      "duration": 2.72
+    },
+    {
+      "text": "you have more questions, obviously reach",
+      "start": 144.72,
+      "duration": 2.64
+    },
+    {
+      "text": "out to support. They can help you kind",
+      "start": 146.0,
+      "duration": 3.04
+    },
+    {
+      "text": "of walk through this. But I just wanted",
+      "start": 147.36,
+      "duration": 2.959
+    },
+    {
+      "text": "to get this out because I think a lot of",
+      "start": 149.04,
+      "duration": 3.6
+    },
+    {
+      "text": "these changes um on this level are super",
+      "start": 150.319,
+      "duration": 4.081
+    },
+    {
+      "text": "important from a day-to-day use",
+      "start": 152.64,
+      "duration": 3.2
+    },
+    {
+      "text": "perspective, but they don't get as much",
+      "start": 154.4,
+      "duration": 3.44
+    },
+    {
+      "text": "excitement and love sometimes because",
+      "start": 155.84,
+      "duration": 3.36
+    },
+    {
+      "text": "they're hard to see. So, I really like",
+      "start": 157.84,
+      "duration": 3.039
+    },
+    {
+      "text": "to point it out when the team does these",
+      "start": 159.2,
+      "duration": 2.96
+    },
+    {
+      "text": "things because they're super impactful.",
+      "start": 160.879,
+      "duration": 2.881
+    },
+    {
+      "text": "So, anyways, on that note, I hope you're",
+      "start": 162.16,
+      "duration": 3.12
+    },
+    {
+      "text": "having an awesome Thursday and I'll see",
+      "start": 163.76,
+      "duration": 4.72
+    },
+    {
+      "text": "you in the next video. Thanks.",
+      "start": 165.28,
+      "duration": 3.2
+    }
+  ],
+  "duration_seconds": 168.48,
+  "language": "en",
+  "is_generated": true,
+  "method": "youtube-transcript-api",
+  "scraped_date": "2025-11-01T16:06:52.117279",
+  "word_count": 641
+}

@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Vector database
+chroma_db/
+
+# Knowledge base raw and processed files
+kb/*/raw/
+kb/*/processed/
+kb/ghl-docs/raw/
+kb/ghl-docs/processed/
+kb/youtube-transcripts/by-creator/
+kb/youtube-transcripts/by-topic/
+kb/youtube-transcripts/index.json
+kb/youtube-transcripts/failed.log
+kb/ghl-docs/failed.log
+
+# Test coverage
+coverage/
+*.lcov
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp

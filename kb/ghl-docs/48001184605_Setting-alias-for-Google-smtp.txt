@@ -1,0 +1,34 @@
+---
+Title: Setting alias for Google smtp
+Category: Email
+URL: https://help.gohighlevel.com/support/solutions/articles/48001184605-setting-alias-for-google-smtp
+Word Count: 102
+Scraped: 2025-10-29T01:41:43.446696
+---
+
+Learn more on
+Masking Sender Emails - From Name & Address
+Learn more about
+Why Can't I use My Free Email Address As The SMTP?
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

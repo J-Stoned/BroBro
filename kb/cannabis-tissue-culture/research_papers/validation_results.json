@@ -1,0 +1,473 @@
+{
+  "total_files": 45,
+  "files": [
+    {
+      "filename": "Acclimatization & Hardening_Acclimatization_of_micropropag.txt",
+      "topic": "Acclimatization & Hardening",
+      "size_bytes": 244868,
+      "lines": 2801,
+      "status": "valid"
+    },
+    {
+      "filename": "Acclimatization & Hardening_Challenges_in_the_acclimatizat.txt",
+      "topic": "Acclimatization & Hardening",
+      "size_bytes": 763435,
+      "lines": 2252,
+      "status": "valid"
+    },
+    {
+      "filename": "Bioreactor Systems - Overview_Medical_Cannabis_and_Industria.txt",
+      "topic": "Bioreactor Systems - Overview",
+      "size_bytes": 412256,
+      "lines": 4127,
+      "status": "valid"
+    },
+    {
+      "filename": "Bioreactor Systems - Secondary Metabolites_Use_of_Temporary_Immersion_Bio.txt",
+      "topic": "Bioreactor Systems - Secondary Metabolites",
+      "size_bytes": 527428,
+      "lines": 1445,
+      "status": "valid"
+    },
+    {
+      "filename": "Bioreactor Systems - TIS_A_Temporary_Immersion_System_t.txt",
+      "topic": "Bioreactor Systems - TIS",
+      "size_bytes": 244890,
+      "lines": 2801,
+      "status": "valid"
+    },
+    {
+      "filename": "Bioreactor Systems - TIS_Cannabis_sativa_L._Micropropag.txt",
+      "topic": "Bioreactor Systems - TIS",
+      "size_bytes": 244894,
+      "lines": 2801,
+      "status": "valid"
+    },
+    {
+      "filename": "Commercial Scale-Up_Commercial-scale_cannabis_micr.txt",
+      "topic": "Commercial Scale-Up",
+      "size_bytes": 182976,
+      "lines": 3194,
+      "status": "valid"
+    },
+    {
+      "filename": "Commercial Scale-Up_Scaling_micropropagation_from_.txt",
+      "topic": "Commercial Scale-Up",
+      "size_bytes": 426433,
+      "lines": 2083,
+      "status": "valid"
+    },
+    {
+      "filename": "Contamination Control_Effects_of_steam_sterilization.txt",
+      "topic": "Contamination Control",
+      "size_bytes": 229101,
+      "lines": 3981,
+      "status": "valid"
+    },
+    {
+      "filename": "Contamination Control_Fungal_and_bacterial_contamina.txt",
+      "topic": "Contamination Control",
+      "size_bytes": 268281,
+      "lines": 2830,
+      "status": "valid"
+    },
+    {
+      "filename": "Contamination Control_Variables_Affecting_Shoot_Grow.txt",
+      "topic": "Contamination Control",
+      "size_bytes": 539803,
+      "lines": 604,
+      "status": "valid"
+    },
+    {
+      "filename": "Cryopreservation - Cell Suspension_Effect_of_different_cryoprotec.txt",
+      "topic": "Cryopreservation - Cell Suspension",
+      "size_bytes": 125207,
+      "lines": 2468,
+      "status": "valid"
+    },
+    {
+      "filename": "Cryopreservation - Commercial Genotypes_Cryopreservation_of_13_Commerc.txt",
+      "topic": "Cryopreservation - Commercial Genotypes",
+      "size_bytes": 266004,
+      "lines": 3255,
+      "status": "valid"
+    },
+    {
+      "filename": "cryopreservation_Cryopreservation_of_13_Commerc.txt",
+      "topic": "cryopreservation",
+      "size_bytes": 266018,
+      "lines": 3255,
+      "status": "valid"
+    },
+    {
+      "filename": "cryopreservation_Cryopreservation_of_Shoot_Tips.txt",
+      "topic": "cryopreservation",
+      "size_bytes": 149487,
+      "lines": 2507,
+      "status": "valid"
+    },
+    {
+      "filename": "Explant Source & Selection_Medical_Cannabis_and_Industria.txt",
+      "topic": "Explant Source & Selection",
+      "size_bytes": 412222,
+      "lines": 4127,
+      "status": "valid"
+    },
+    {
+      "filename": "Explant Source & Selection_The_Past,_Present_and_Future_o.txt",
+      "topic": "Explant Source & Selection",
+      "size_bytes": 403479,
+      "lines": 3235,
+      "status": "valid"
+    },
+    {
+      "filename": "general_overview_Medical_Cannabis_and_Industria.txt",
+      "topic": "general",
+      "size_bytes": 833772,
+      "lines": 2252,
+      "status": "valid"
+    },
+    {
+      "filename": "general_overview_The_Past,_Present_and_Future_o.txt",
+      "topic": "general",
+      "size_bytes": 403486,
+      "lines": 3235,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Engineering - Comprehensive_Advances_and_Perspectives_in_T.txt",
+      "topic": "Genetic Engineering - Comprehensive",
+      "size_bytes": 627276,
+      "lines": 4040,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Fidelity & Somaclonal Variation_Somaclonal_variation_in_cannab.txt",
+      "topic": "Genetic Fidelity & Somaclonal Variation",
+      "size_bytes": 195205,
+      "lines": 2728,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Stability & Somaclonal Variation_Advances_and_Perspectives_-_MD.txt",
+      "topic": "Genetic Stability & Somaclonal Variation",
+      "size_bytes": 867670,
+      "lines": 6876,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Stability & Somaclonal Variation_Advances_and_Perspectives_in_T.txt",
+      "topic": "Genetic Stability & Somaclonal Variation",
+      "size_bytes": 627253,
+      "lines": 4040,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Stability & Somaclonal Variation_Effect_of_Explant_Source_on_Ph.txt",
+      "topic": "Genetic Stability & Somaclonal Variation",
+      "size_bytes": 233715,
+      "lines": 2900,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Stability & Somaclonal Variation_Medical_Cannabis_and_Industria.txt",
+      "topic": "Genetic Stability & Somaclonal Variation",
+      "size_bytes": 833735,
+      "lines": 2252,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Stability & Somaclonal Variation_Somatic_Mutation_Accumulations.txt",
+      "topic": "Genetic Stability & Somaclonal Variation",
+      "size_bytes": 248189,
+      "lines": 2720,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Transformation - CRISPR_Establishment_of_an_Agrobacter.txt",
+      "topic": "Genetic Transformation - CRISPR",
+      "size_bytes": 179163,
+      "lines": 3079,
+      "status": "valid"
+    },
+    {
+      "filename": "Genetic Transformation_Agrobacterium-mediated_transfo.txt",
+      "topic": "Genetic Transformation",
+      "size_bytes": 114284,
+      "lines": 2427,
+      "status": "valid"
+    },
+    {
+      "filename": "genetic_engineering_Advances_and_Perspectives_in_T.txt",
+      "topic": "genetic",
+      "size_bytes": 627265,
+      "lines": 4040,
+      "status": "valid"
+    },
+    {
+      "filename": "Media Formulation & Hormone Optimization_Auxin-cytokinin_synergism_for_.txt",
+      "topic": "Media Formulation & Hormone Optimization",
+      "size_bytes": 143916,
+      "lines": 2900,
+      "status": "valid"
+    },
+    {
+      "filename": "Media Formulation & Hormone Optimization_Effects_of_novel_synthetic_cyt.txt",
+      "topic": "Media Formulation & Hormone Optimization",
+      "size_bytes": 367389,
+      "lines": 1987,
+      "status": "valid"
+    },
+    {
+      "filename": "Media Formulation & Hormone Optimization_Impact_of_Different_Phytohormo.txt",
+      "topic": "Media Formulation & Hormone Optimization",
+      "size_bytes": 217471,
+      "lines": 2799,
+      "status": "valid"
+    },
+    {
+      "filename": "Media Formulation & Hormone Optimization_Optimal_Hormone_and_Mineral_Sa.txt",
+      "topic": "Media Formulation & Hormone Optimization",
+      "size_bytes": 129703,
+      "lines": 2869,
+      "status": "valid"
+    },
+    {
+      "filename": "Media Formulation & Hormone Optimization_Optimizing_cannabis_cultivatio.txt",
+      "topic": "Media Formulation & Hormone Optimization",
+      "size_bytes": 455371,
+      "lines": 1372,
+      "status": "valid"
+    },
+    {
+      "filename": "media_formulation_Importance_of_Media_Compositio.txt",
+      "topic": "media",
+      "size_bytes": 919638,
+      "lines": 834,
+      "status": "valid"
+    },
+    {
+      "filename": "Micropropagation Protocols_An_Alternative_In_Vitro_Propag.txt",
+      "topic": "Micropropagation Protocols",
+      "size_bytes": 273878,
+      "lines": 3244,
+      "status": "valid"
+    },
+    {
+      "filename": "photoautotrophic_culture_An_Alternative_In_Vitro_Propag.txt",
+      "topic": "photoautotrophic",
+      "size_bytes": 273879,
+      "lines": 3244,
+      "status": "valid"
+    },
+    {
+      "filename": "Plant Growth Regulators_Cytokinin_and_auxin_ratios_in_.txt",
+      "topic": "Plant Growth Regulators",
+      "size_bytes": 120190,
+      "lines": 2422,
+      "status": "valid"
+    },
+    {
+      "filename": "Polyploidy & Ploidy Manipulation_Polyploidy_induction_and_chara.txt",
+      "topic": "Polyploidy & Ploidy Manipulation",
+      "size_bytes": 384967,
+      "lines": 1627,
+      "status": "valid"
+    },
+    {
+      "filename": "recalcitrance_Recalcitrance_of_Cannabis_sati.txt",
+      "topic": "recalcitrance",
+      "size_bytes": 211647,
+      "lines": 2850,
+      "status": "valid"
+    },
+    {
+      "filename": "regeneration_protocols_Development_of_a_Direct_in_vit.txt",
+      "topic": "regeneration",
+      "size_bytes": 580648,
+      "lines": 1216,
+      "status": "valid"
+    },
+    {
+      "filename": "Secondary Metabolite Production_Elicitation_strategies_to_enha.txt",
+      "topic": "Secondary Metabolite Production",
+      "size_bytes": 107727,
+      "lines": 2408,
+      "status": "valid"
+    },
+    {
+      "filename": "Synthetic Seeds_Propagation_through_Alginate_E.txt",
+      "topic": "Synthetic Seeds",
+      "size_bytes": 125186,
+      "lines": 2468,
+      "status": "valid"
+    },
+    {
+      "filename": "Virus & Viroid Management - HLVd_Transmission,_Spread,_Longevit.txt",
+      "topic": "Virus & Viroid Management - HLVd",
+      "size_bytes": 369067,
+      "lines": 3046,
+      "status": "valid"
+    },
+    {
+      "filename": "Virus & Viroid Management_HpLVd_screening_protocols_in_c.txt",
+      "topic": "Virus & Viroid Management",
+      "size_bytes": 131106,
+      "lines": 2971,
+      "status": "valid"
+    }
+  ],
+  "stats": {
+    "total_files": 45,
+    "total_size_bytes": 16309578,
+    "total_size_mb": 15.55,
+    "average_file_size": 362435,
+    "topics": {
+      "Genetic Stability & Somaclonal Variation": {
+        "count": 5,
+        "total_size": 2810562,
+        "total_lines": 18788
+      },
+      "Media Formulation & Hormone Optimization": {
+        "count": 5,
+        "total_size": 1313850,
+        "total_lines": 11927
+      },
+      "Contamination Control": {
+        "count": 3,
+        "total_size": 1037185,
+        "total_lines": 7415
+      },
+      "Acclimatization & Hardening": {
+        "count": 2,
+        "total_size": 1008303,
+        "total_lines": 5053
+      },
+      "Bioreactor Systems - TIS": {
+        "count": 2,
+        "total_size": 489784,
+        "total_lines": 5602
+      },
+      "Commercial Scale-Up": {
+        "count": 2,
+        "total_size": 609409,
+        "total_lines": 5277
+      },
+      "cryopreservation": {
+        "count": 2,
+        "total_size": 415505,
+        "total_lines": 5762
+      },
+      "Explant Source & Selection": {
+        "count": 2,
+        "total_size": 815701,
+        "total_lines": 7362
+      },
+      "general": {
+        "count": 2,
+        "total_size": 1237258,
+        "total_lines": 5487
+      },
+      "Bioreactor Systems - Overview": {
+        "count": 1,
+        "total_size": 412256,
+        "total_lines": 4127
+      },
+      "Bioreactor Systems - Secondary Metabolites": {
+        "count": 1,
+        "total_size": 527428,
+        "total_lines": 1445
+      },
+      "Cryopreservation - Cell Suspension": {
+        "count": 1,
+        "total_size": 125207,
+        "total_lines": 2468
+      },
+      "Cryopreservation - Commercial Genotypes": {
+        "count": 1,
+        "total_size": 266004,
+        "total_lines": 3255
+      },
+      "Genetic Engineering - Comprehensive": {
+        "count": 1,
+        "total_size": 627276,
+        "total_lines": 4040
+      },
+      "Genetic Fidelity & Somaclonal Variation": {
+        "count": 1,
+        "total_size": 195205,
+        "total_lines": 2728
+      },
+      "Genetic Transformation - CRISPR": {
+        "count": 1,
+        "total_size": 179163,
+        "total_lines": 3079
+      },
+      "Genetic Transformation": {
+        "count": 1,
+        "total_size": 114284,
+        "total_lines": 2427
+      },
+      "genetic": {
+        "count": 1,
+        "total_size": 627265,
+        "total_lines": 4040
+      },
+      "media": {
+        "count": 1,
+        "total_size": 919638,
+        "total_lines": 834
+      },
+      "Micropropagation Protocols": {
+        "count": 1,
+        "total_size": 273878,
+        "total_lines": 3244
+      },
+      "photoautotrophic": {
+        "count": 1,
+        "total_size": 273879,
+        "total_lines": 3244
+      },
+      "Plant Growth Regulators": {
+        "count": 1,
+        "total_size": 120190,
+        "total_lines": 2422
+      },
+      "Polyploidy & Ploidy Manipulation": {
+        "count": 1,
+        "total_size": 384967,
+        "total_lines": 1627
+      },
+      "recalcitrance": {
+        "count": 1,
+        "total_size": 211647,
+        "total_lines": 2850
+      },
+      "regeneration": {
+        "count": 1,
+        "total_size": 580648,
+        "total_lines": 1216
+      },
+      "Secondary Metabolite Production": {
+        "count": 1,
+        "total_size": 107727,
+        "total_lines": 2408
+      },
+      "Synthetic Seeds": {
+        "count": 1,
+        "total_size": 125186,
+        "total_lines": 2468
+      },
+      "Virus & Viroid Management - HLVd": {
+        "count": 1,
+        "total_size": 369067,
+        "total_lines": 3046
+      },
+      "Virus & Viroid Management": {
+        "count": 1,
+        "total_size": 131106,
+        "total_lines": 2971
+      }
+    }
+  }
+}

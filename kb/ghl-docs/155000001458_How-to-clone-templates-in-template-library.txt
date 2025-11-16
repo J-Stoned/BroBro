@@ -1,0 +1,79 @@
+---
+Title: How to clone templates in template library?
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001458-how-to-clone-templates-in-template-library-
+Word Count: 259
+Scraped: 2025-10-29T01:42:58.133855
+---
+
+More Tutorials From the Community
+https://youtu.be/gkUtOinHmQY
+https://youtu.be/7ut-r0lnWPM
+To ensure that you have symmetry in your branding and reduce the time to build a new channel, it is effective to start from an existing template created by you and your team members.
+Who can do it?
+The rights are currently available to only Agency Admin
+Steps to Clone:
+Step
+1
+. Navigate to the
+template library
+and hover over the template you wish to clone
+Step
+2.
+Click on the
+three dots
+at the top right corner
+Step 3
+.
+Click on “
+Clone Template
+” and “
+Confirm”
+OR
+Step
+1
+.
+Navigate to the
+template library
+and hover over the template you wish to clone
+Step
+2.
+Open the template
+Step
+3
+.
+Click on the
+three dots
+at the top right corner
+Step 4.
+Click on “
+Clone Template
+” and “
+Confirm”
+FAQs
+Who can clone templates?
+Agency admins have the access to clone templates
+Can we change the title of the cloned Email Template?
+Yes, click on the edit section to change the title of the cloned template.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

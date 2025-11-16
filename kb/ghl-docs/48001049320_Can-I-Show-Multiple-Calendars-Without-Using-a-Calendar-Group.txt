@@ -1,0 +1,41 @@
+---
+Title: Can I Show Multiple Calendars Without Using a Calendar Group?
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/48001049320-can-i-show-multiple-calendars-without-using-a-calendar-group-
+Word Count: 259
+Scraped: 2025-10-29T01:49:05.147683
+---
+
+How to display more than one calendar on a page
+Video Overview:
+Using Calendar Links:
+1. Open each calendar link in a new tab by clicking the link icons for each calendar
+2. Copy the calendar ID from one calendar then then go to the other calendar, add a comma after its ID, paste the other calendar's ID after the comma, and hit enter to reload the page
+Embedding multiple calendars on a funnel page:
+1. Go to Settings > Appointment Widget and copy the embed code from the first calendar
+2. Go to the funnel page, add a "Custom JS/HTML" element, click "Open Code Editor", and paste the calendar embed code.
+3. In a new tab, go back to Settings > Appointment Widget, change the calendar name dropdown to the second calendar and copy the calendar ID from that calendar
+4. Go back to the funnel page tab that has your Custom JS/HTML element code editor open, add a comma after the calendar ID, paste the second calendar ID, then hit the "Yes, save."
+5. Save your funnel page and preview.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

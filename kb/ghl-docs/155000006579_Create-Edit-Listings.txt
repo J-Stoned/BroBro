@@ -1,0 +1,276 @@
+---
+Title: Create & Edit Listings
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006579-create-edit-listings
+Word Count: 1479
+Scraped: 2025-10-29T01:48:02.464524
+---
+
+This article walks you through how to
+create and edit listings
+in Rentals. It covers everything from adding basic information in the quick-create modal to configuring advanced details like inventory, variants, pricing, booking options, and calendar synchronization.
+TABLE OF CONTENTS
+Overview of Creating and Editing Listings
+How to Create a New Listing?
+Editing a Listing
+General Information
+Inventory & Pricing
+Pricing
+Booking Settings
+Calendar Sync
+Save and Publish
+Frequently Asked Questions
+Related Articles
+Overview of Creating and Editing Listings
+Listings are the foundation of your Rentals setup. Each listing represents a rentable item—like a car, property, or piece of equipment—and contains all associated details such as pricing, duration, and stock availability.
+You can create listings quickly using the
+New Listing modal
+and later configure more advanced settings using the
+Edit Listing page
+, which includes multiple tabs for detailed customization.
+How to Create a New Listing?
+To create a new listing:
+Step 1:
+Navigate to Listings
+Go to
+Calendars → Calendar Settings → Rentals → Listings
+.
+Step 2:
+Create New Listing
+Click the
++ New Listing
+button in the top-right corner. The
+New Listing modal
+will appear.
+Step 3:
+Fill Out Basic Listing Details
+In the
+New Listing modal
+, enter the following fields:
+Listing Image
+— Upload or drag & drop photos to showcase your listing. These images are shown on the booking page.
+Listing Name (required)
+— Add a title for your listing (e.g., “Luxury Villa,” “Compact SUV,” “Professional Camera Set”).
+Description
+— Provide a brief for the listing to communicate about its features, what all is included or is offered.
+Base Price & Booking Unit
+— Set the cost per selected time unit. E.g., $50/hour
+Category
+— Select a category to group listings
+Status
+— Mark the listing as
+Active
+(visible) or
+Inactive
+(hidden) on the booking website.
+Tip:
+Keep listings inactive until you finish setup to avoid early bookings.
+Step 4:
+Advanced Settings
+Once complete, click
+Advanced Settings
+at the bottom to open the detailed setup. Here you are able to make edits covering:
+General Information
+Inventory & Pricing
+Booking Settings
+Calendar Sync
+More information on each area will be covered later in this article.
+Editing a Listing
+To edit a listing:
+Step 1:
+Navigate to Listings
+Go to
+Calendars → Calendar Settings → Rentals → Listings
+.
+Step 2:
+Select a Listing
+Click the
+edit icon(Pencil)
+next to the listing you would like to edit
+Step 3:
+Make Edits
+The
+E
+dit Listings
+Screen will open. The
+Edit Listing
+screen includes four main tabs:
+General Information
+Inventory & Pricing
+Booking Settings
+Calendar Sync
+Each tab focuses on a specific part of your rental configuration. More information on each are can be found in the following sections.
+General Information
+This tab lets you modify listing basics and visuals.
+Available Fields:
+Listing Image
+— Add or replace multiple images to form a gallery.
+Listing Name
+— Update the title for admin and customer display.
+Description
+— Edit or expand rental details and highlights.
+Category
+— Reassign to a different category if needed.
+Status
+— Toggle between Active and Inactive.
+Enable Listing Specific Form
+— Toggle this ON incase you'd want to collect some separate information from the user when this listing is booked.
+Note:
+Listing specific form is skipped incase multiple listings are added to the cart
+Pro Tip:
+Use high-quality images and descriptive summaries to boost engagement and conversions.
+Inventory & Pricing
+This section controls your stock availability, listing variations and defines how much customers pay for rentals and supports advanced pricing logic.
+Inventory
+Inventory
+— Turn this on to manage available stock. If disabled, the whole listing is considered as one bookable unit.
+Stock
+— The total number of units available for booking.
+Variants
+Variants allow you to offer different versions of the same listing (e.g., multiple car types or room categories).
+When variants are enabled, you can set the
+Booking Unit
+as Hour, Day, Week, or Month which is used across all variants.
+To Add a Variant:
+Toggle on
+Variants
+Click
++ New.
+Fill in the following details:
+Variant Name
+(e.g., Sedan, Deluxe Room)
+Stock
+— Stock for that specific variant (if enabled).
+Base Price
+— The price specific to that variant.
+Security Deposit (optional)
+— Set refundable or card-on-file deposit values. (if enabled)
+Click
+Confirm
+to save.
+Note:
+Inventory and pricing are tracked individually for each variant if enabled.
+Example:
+A camera rental company might list:
+Canon EOS R5 – Body Only ($70/day, Qty: 3)
+Canon EOS R5 – With Lens ($90/day, Qty: 2)
+Pricing
+Base Price:
+The standard rental cost before any adjustments.
+Advanced Pricing Options:
+Seasonal Pricing
+— Adjust rates for specific date ranges (e.g., increase by 20% during holidays).
+Day of Week Pricing
+— Configure unique rates for weekdays or weekends.
+Hour of Day Pricing
+— Set different rates for certain hours (applies to hourly listings only).
+Duration Discounts
+— Offer price reductions for longer bookings (e.g., 10% off after 7 days).
+Quantity Discounts
+— Apply discounts for bulk bookings (e.g., 15% off for 5+ units).
+Learn more about pricing logic in this article:
+Pricing & Discounts.
+Booking Settings
+The
+Booking Settings
+tab defines how customers schedule rentals and ensures smooth time-based control.
+Booking Period Type:
+Date & Time
+Selector
+— Customers pick custom start and end times while booking.
+Fixed Duration
+— Customers choose from pre-set intervals (e.g., 4 hours, 1 day, 1 week).
+Tip:
+If Time Selector is disabled in Global Settings, customers are not shown time selector(s) on the booking page.
+Additional Fields:
+Minimum Duration
+— Shortest booking duration allowed.
+Maximum Duration
+— Longest permitted rental duration.
+Pre/Post Buffer Time
+— Add setup or cleaning time before and after bookings.
+Minimum Scheduling Notice
+— Required notice time before a booking can start.
+Maximum Advance Booking Window
+— The furthest date customers can book ahead.
+Example:
+For a property rental:
+Minimum Duration: 1 day
+Maximum Duration: 30 days
+Buffer: 2 hours before & after
+Advance Window: 3 months ahead
+Note:
+While bookings must start and end within your business operating hours, rental durations can extend beyond them.
+Calendar Sync
+The
+Calendar Sync
+tab allows you to sync your rental listing bookings with external calendar platforms. This prevents double-booking by automatically syncing availability between systems.
+Features:
+Import Calendar (iCal URL):
+Add external iCal links (ending with .ics format to import bookings from third-party platforms. Imported bookings appear as blocked time slots within your Rentals calendar.
+Export Calendar:
+Generate and copy your unique iCal link to sync your Rentals availability with external platforms. This ensures that changes made in Rentals are reflected externally.
+Sync Frequency:
+Bookings from external platforms are imported automatically every 2 hours to keep availability accurate.
+You can re-sync manually in between if needed using the "Refresh" action available against the imported calendar.
+Pro Tip:
+Always verify iCal links before saving to ensure synchronization between Rentals and external platforms functions properly.
+Notes:
+If a listing has variants enabled, the imported calendar will block slots for all the variants.
+If inventory is enabled for a listing, the whole inventory is blocked for the time duration for which the booking is imported.
+Save and Publish
+Once you’ve completed setup:
+Click
+Save Changes
+in the top-right corner.
+Click
+View Booking Page
+to preview how the listing appears to customers.
+Activate the listing when it’s ready to go live.
+Tip:
+Test listings on your Booking Website to confirm correct pricing, durations, and synchronization behavior.
+Frequently Asked Questions
+Q: Can I add multiple images?
+Yes. You can upload up to 30 images per listing.
+Q: Can I disable inventory?
+Yes. If you only have one unit available, you can leave inventory disabled—the entire listing will be booked as one unit.
+Q: Can I skip variants?
+Yes. Variants are optional and only needed for listings with multiple configurations.
+Q: Can I edit the pricing unit later?
+Yes, but changing the unit (e.g., from day to hour) will recalculate pricing and duration behavior.
+Q: Do buffer times apply globally?
+Yes. Buffers apply automatically before and after each booking.
+Q: How often does Calendar Sync update?
+External bookings are imported every 2 hours to ensure up-to-date availability.
+Q: Can I disconnect a synced calendar?
+Yes. You can remove iCal links from the Calendar Sync tab at any time.
+Related Articles
+Understanding Listings & Categories
+Configuring Pricing & Discounts
+Global Settings in Rentals
+Calendar View for Rentals
+Overview of Bookings
+Creating a Booking
+Editing a Rental Booking
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

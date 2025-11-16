@@ -1,0 +1,91 @@
+{
+  "snapshot_name": "Trucking Complete Automation System",
+  "snapshot_id": "6a4fe4c3f318",
+  "industry": "Trucking / Industrial & B2B",
+  "use_case": "Complete business automation for trucking businesses including lead generation, appointment booking, and customer retention",
+  "target_audience": "Trucking business owners, industrial & b2b professionals",
+  "pricing_model": "Varies by provider",
+  "version": "1.0.0",
+  "last_updated": "2025-11-01",
+  "author": "Multiple Providers",
+  "description": {
+    "overview": "Industry-specific automation system designed for trucking businesses. Includes lead capture funnels, automated follow-up sequences, appointment booking, customer communication workflows, and review generation. Built on proven best practices for the trucking industry.",
+    "key_benefits": [
+      "Automated lead capture and nurturing",
+      "Industry-specific funnels for trucking services",
+      "Appointment scheduling and reminders",
+      "Multi-channel follow-up (Email, SMS, Voicemail)",
+      "Review generation automation",
+      "Customer retention workflows",
+      "Pipeline for tracking leads to customers"
+    ],
+    "ideal_for": [
+      "Trucking businesses wanting to automate operations",
+      "New trucking businesses needing a complete system",
+      "Established industrial & b2b companies looking to scale",
+      "Agencies serving this niche"
+    ]
+  },
+  "components": {
+    "funnels": [
+      {
+        "name": "Trucking Lead Capture Funnel",
+        "purpose": "Convert website visitors into leads"
+      },
+      {
+        "name": "Trucking Quote Request Funnel",
+        "purpose": "Collect quote requests and service details"
+      }
+    ],
+    "workflows": [
+      {
+        "name": "New Lead Welcome Sequence",
+        "trigger": "New lead submission",
+        "purpose": "Engage leads immediately with multi-channel outreach"
+      },
+      {
+        "name": "Appointment Reminder Automation",
+        "trigger": "Appointment booked",
+        "purpose": "Reduce no-shows with automated reminders"
+      },
+      {
+        "name": "Review Request Automation",
+        "trigger": "Service completed",
+        "purpose": "Generate positive reviews automatically"
+      }
+    ],
+    "calendars": [
+      {
+        "name": "Trucking Booking Calendar",
+        "type": "Service Booking",
+        "purpose": "Schedule appointments and consultations"
+      }
+    ],
+    "pipelines": [
+      {
+        "name": "Trucking Sales Pipeline",
+        "stages": [
+          "New Lead",
+          "Contacted",
+          "Quote Sent",
+          "Booked",
+          "Completed"
+        ],
+        "purpose": "Track leads through entire customer journey"
+      }
+    ]
+  },
+  "tags": [
+    "trucking",
+    "industrial-b2b",
+    "lead-generation",
+    "appointments",
+    "automation"
+  ],
+  "source_type": "niche_generated",
+  "available_providers": [
+    "GHL Automations",
+    "Streamline Results",
+    "Top GHL Snapshots"
+  ]
+}

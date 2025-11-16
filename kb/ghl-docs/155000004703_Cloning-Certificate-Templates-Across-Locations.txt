@@ -1,0 +1,64 @@
+---
+Title: Cloning Certificate Templates Across Locations
+Category: Certificates
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004703-cloning-certificate-templates-across-locations
+Word Count: 255
+Scraped: 2025-10-29T01:56:49.199683
+---
+
+Overview
+Users can now clone certificate templates from one location to another, making it easier to replicate and reuse designs. This feature allows cloning for up to
+three locations at a time
+while ensuring all associated elements are transferred seamlessly.
+Key Highlights:
+✔ Clone certificate templates across multiple locations (up to 3 at a time).
+✔ Automatically migrates all media files and images associated with the template.
+✔ Retains all template configurations and version history.
+✔ Option to clone within the same location as well.
+How to Clone a Certificate Template
+Navigate to:
+Go to
+Memberships
+>
+Certificates
+.
+Initiate Cloning:
+Click on the
+three-dots (⋮)
+next to the template you want to clone.
+Select
+Clone
+from the menu.
+Configure Cloning Settings:
+Edit the Template Name
+(if needed).
+Select the locations
+where you want to clone the template (up to 3 locations).
+Complete the Process:
+Confirm your selection, and the system will replicate the template along with all media files, configurations, and version history.
+Note:
+You can also
+clone a certificate template within the same location
+if needed.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

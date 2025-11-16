@@ -1,0 +1,208 @@
+---
+Title: Customize Default Naming Conventions for New SaaS Accounts
+Category: Agency View
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006065-customize-default-naming-conventions-for-new-saas-accounts
+Word Count: 909
+Scraped: 2025-10-29T01:39:47.146426
+---
+
+Discover the new configuration in the SaaS Configurator that lets your agency control how
+new
+SaaS sub-accounts are named at creation. Choose between the
+Customer’s name
+or the business
+Company Name
+to reduce post-onboarding edits and improve clarity across search, reporting, and client communications. This article explains the options, behavior, setup, and external checkout requirements so your team can adopt the best convention for your workflow.
+TABLE OF CONTENTS
+What Is the Default Naming Convention for New SaaS Sub-Accounts?
+Key Benefits of Default Naming Convention for New SaaS Subscribers
+How To Setup Default Naming Convention for New SaaS Subscribers
+Naming Convention Options
+External Checkout Integration
+Behavior & Examples
+Frequently Asked Questions
+Related Articles
+What Is the Default Naming Convention for New SaaS Sub-Accounts?
+This setting defines the
+default naming convention
+used when HighLevel creates a
+new SaaS sub-account
+during checkout. Agencies can pick
+Company Name
+(the business provided during checkout) or keep the traditional
+Customer Name + ’s Account
+format. The choice applies to
+future
+sign-ups and does
+not
+rename existing accounts.
+Note:
+This option lives in the
+SaaS Configurator
+at the Agency level and is available to agencies with
+SaaS Mode
+on the
+Agency Pro ($497) plan
+. If you’re on Starter or Freelancer, upgrade to
+Agency Pro
+to access SaaS Configurator features.
+Key Benefits of Default Naming Convention for New SaaS Subscribers
+Improved Clarity:
+Sub-account names reflect the operating business rather than only the buyer’s personal name.
+Enhanced Client Experience:
+Reduces manual post-onboarding updates by applying your preferred naming automatically.
+Operational Efficiency:
+Makes accounts easier to search, filter, and recognize for support and success teams.
+Flexible Options:
+Switch between
+Company Name
+and
+Customer Name + ’s Account
+to match your internal workflow.
+How To Setup Default Naming Convention for New SaaS Subscribers
+Open
+SaaS Configurator
+→
+Advanced Settings
+→
+Sub-Account
+Onboarding
+.
+Under
+Sub-Account Onboarding
+, choose one:
+Company Name
+(recommended for business-forward clarity), or
+Customer Name + ’s Account
+(useful if your team searches primarily by owner).
+Click
+Save
+. New SaaS sub-accounts created via HighLevel funnels (and supported external checkouts) will now follow your selection.
+Naming Convention Options
+Review what each option does so you can align the default with how your team identifies and supports new customers.
+Company Name
+— Uses the
+business name
+provided at checkout so the sub-account clearly represents the client’s brand.
+Example:
+Acme Dental
+Customer Name + ’s Account
+— Uses the buyer’s personal name with
+’s Account
+appended.
+Example:
+Jane Smith’s Account
+Note:
+If the Company Name field is not present or is left empty during checkout, HighLevel defaults to Customer Name + ’s Account.
+External Checkout Integration
+You can extend the same naming behavior
+beyond
+HighLevel funnel checkouts by passing the client’s business name from your external checkout into HighLevel as metadata.
+Ensure your external checkout sends a
+non-empty
+companyName
+subscription metadata
+value.
+Keep the SaaS Configurator set to
+Use Company Name
+to apply the business name when metadata is present.
+If
+companyName
+is missing or empty, HighLevel falls back to
+Customer Name + ’s Account
+.
+Example metadata payload (illustrative):
+{
+"subscription"
+:
+{
+"metadata"
+:
+{
+"companyName"
+:
+"Acme Dental"
+}
+}
+}
+Behavior & Examples
+These quick examples clarify what you and your clients will see after signup so expectations are aligned.
+If “Company Name” is selected and provided at checkout:
+Resulting sub-account:
+Acme Dental
+If “Company Name” is selected but not provided:
+Resulting sub-account:
+Jane Smith’s Account
+(fallback to customer name)
+If “Customer Name + ’s Account” is selected:
+Resulting sub-account:
+Jane Smith’s Account
+Note:
+After Account Creation admins can update the
+Location’s Friendly Business Name
+later if needed. Changing this later does not retroactively change past confirmations or emails already sent.
+Frequently Asked Questions
+Q:
+Does this setting affect existing SaaS accounts?
+No. It applies only to
+new
+SaaS sign-ups after you save the setting.
+Q:
+What happens if no Company Name is provided during checkout?
+HighLevel defaults to
+Customer Name + ’s Account
+.
+Q: Can we change the default later?
+Yes. Update the option in
+SaaS Configurator
+at any time. It applies to
+future
+sign-ups.
+Q:
+How do we enable this for external checkouts?
+Send a
+non-empty
+companyName
+in subscription metadata and keep the setting on
+Use Company Name
+.
+Q:
+Will changing the setting rename previously created accounts?
+No. There’s no retroactive renaming.
+Q: Does this influence merge fields like
+{{location.name}}
+in communications?
+The initial Location name reflects the chosen convention at creation. Messages using
+{{location.name}}
+will display that name unless it’s edited later in the Location settings.
+Q:
+Could unusual characters in Company Name cause issues?
+Use standard alphanumeric characters where possible for best results. If a name is not accepted by your external checkout or looks incorrect, edit the Location name after creation.
+Related Articles
+SaaS Configurator: Onboarding
+SaaS Mode – Full Setup Guide & FAQ
+Guide to SaaS Plan Creation, Sales, and Customer Onboarding
+Using Stripe Checkout Pages For SaaS Mode Plans
+Convert Existing Sub-Account to SaaS Mode Subscription Plan
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,109 @@
+---
+Title: How to fix links in the email that do not open?
+Category: Email
+URL: https://help.gohighlevel.com/support/solutions/articles/48001151622-how-to-fix-links-in-the-email-that-do-not-open-
+Word Count: 495
+Scraped: 2025-10-29T01:41:49.226605
+---
+
+When we open the links sent from HighLevel, it's going to email.mg.yourdomain.com, which is the Mailgun subdomain you set up for the location
+here
+. It is because we need to change the links in the email for tracking statistics.
+The Cname record you added when you set up in the domain provider is essential for Mailgun to track the open and click tracking, and unsubscribed.
+The record for
+email.mg.yourdomain.com
+should be
+pointing to Mailgun.org, that's how they are able to fetch data and show the email stats.
+If you are seeing this error when clicking the link: This site can't be reached /  says
+email.mg.yourdomain.com
+refused to connect when you have your own Mailgun domain/subdomain set up
+That means the CNAME record might not be set up properly.
+1. To verify that, copy the
+red highlighted
+in the image above --->
+email.mg.yourdomain.com
+Depending on the subdomain you set up with Mailgun,
+For example:
+If you set up
+mg.companyname.com
+,
+You will look up the cname record for
+email.
+mg.companyname.com
+If you set up
+replies.companyname.com
+,
+You will look up the cname record for
+email.
+replies.companyname.com
+If you set up
+support.companyname.com
+,
+You will look up the cname record for
+email.
+support.companyname.com
+2. Go to
+MX toolbox
+or
+Whatsmydns
+to look up the Cname record:
+MX toolbox
+:
+Whatsmydns
+:
+3. If it says DNS records not found:
+a. login to your domain provider
+b. Go to DNS records and check the CNAME record
+4. If it is already pointing to
+mailgun.org:
+a. Go to
+Mailgun
+-> Click the
+Sending
+tab on the left ->
+Domain Settings
+b.
+Edit the Tracking Protocol
+c. Send the email test again from HighLevel
+Here's
+How to Enable HTTPS Tracking Links
+5. If the info above does not help, please get in touch with the support team
+of your domain provider for assistance. You can show them we need to add these records here:
+6. If the domain provider verified all DNS records are good to go, please
+reach out to HL support
+.
+Common issues:
+1. If The CNAME record includes the root domain, it will not work here:
+If you are using GoDaddy or Namecheap, be sure to omit the root domain from the record so it is
+email.mg
+only
+Host name:
+Depending on the subdomain you are trying to set up, if you are trying to set up
+mg.companyname.com The host name will be
+email.mg
+replies.companyname.com The host name will be
+email.replies
+support.companyname.com The host name will be
+email.support
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

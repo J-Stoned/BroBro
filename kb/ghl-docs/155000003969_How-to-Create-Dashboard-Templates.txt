@@ -1,0 +1,99 @@
+---
+Title: How to Create Dashboard Templates
+Category: Dashboards
+URL: https://help.gohighlevel.com/support/solutions/articles/155000003969-how-to-create-dashboard-templates
+Word Count: 633
+Scraped: 2025-10-29T01:51:25.541326
+---
+
+Dashboard templates streamline the process of replicating dashboards across different sub-accounts, saving time and effort. This guide provides a step-by-step walkthrough for creating a dashboard template and using it to create new dashboards. Learn how to efficiently manage and reuse dashboards with these simple steps.
+Table of Contents:
+1.    What Are Dashboard Templates?
+2.    Why Should You Use Dashboard Templates?
+3.    Where to Find Dashboard Templates?
+4.    How to Create Dashboard Templates
+5.    Frequently Asked Questions
+What Are Dashboard Templates?
+Dashboard templates are reusable frameworks designed to replicate dashboards across multiple sub-accounts. By saving an existing dashboard as a template, you can maintain consistency across your accounts while significantly reducing setup time. Templates make it easy to standardize reporting and ensure every account has access to essential metrics and visualizations.
+Why Should You Use Dashboard Templates?
+Using dashboard templates helps solve common challenges in managing dashboards across multiple accounts. These include:
+•
+Time-Saving:
+Eliminates the need to manually recreate dashboards for each sub-account.
+•
+Consistency:
+Ensures uniformity in data representation across accounts.
+•
+Scalability:
+Streamlines processes for agencies managing multiple clients.
+•
+Efficiency:
+Simplifies updates and modifications by centralizing dashboard templates.
+Where to Find Dashboard Templates?
+To access dashboard templates:
+1.    Switch to Agency View in your software.
+2.    Navigate to the Template Library section to
+browse, create, or manage dashboard templates directly from this area.
+How to Create Dashboard Templates
+Follow these steps to create a dashboard template:
+Step 1: Switch to Agency View
+Ensure you’re in the Agency View mode of your software.
+Step 2: Navigate to Template Library
+In the Agency View, locate and click on Template Library in the navigation menu.
+Step 3: Create a New Template
+Click on Create a Template to start the process of creating a dashboard template.
+Step 4: Select Source Sub-Account
+Choose the sub-account that contains the source dashboard you want to replicate.
+Step 5: Choose Product Type
+From the dropdown menu, select Dashboards as the product type.
+Step 6: Select the Dashboard
+Pick the dashboard you wish to turn into a template, then click
+"Continue."
+Step 7: Add Details
+Provide additional information, such as:
+•    A relevant category for organization.
+•    Tags for easier searchability.
+•    A description and cover image for identification.
+Step 8: Publish the Template
+After reviewing your settings, click Publish Template. Your new template will now be visible in the Template List.
+Quick Tip:
+To quickly upload a dashboard as a template, click on the three dots next to the dashboard and select Upload as Template.
+How to Create a New Dashboard Using Templates
+Follow these steps to create a new dashboard from an existing template:
+Step 1: Navigate to the Dashboard Page
+Go to the Dashboard page in your account.
+Step 2: Click on Add Dashboard
+Click the blue dashboard icon with the dropdown and select Add Dashboard.
+Step 3: Select From Template Library
+Choose From Template Library in the options provided. Click
+"Select"
+tab at the bottom.
+Step 4: Choose the Template
+Browse the library, select the template you want to use. On the next page, and click
+"Continue"
+button located at the top right corner.
+Step 5: You're All Set!
+lGive it a moment to add the template to your dashboard. Once done, you can go to "edit" option to customize the layout of the dashboard.
+Frequently Asked Questions
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

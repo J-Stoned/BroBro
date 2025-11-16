@@ -1,0 +1,72 @@
+---
+Title: Mailgun - Overview
+Category: Email
+URL: https://help.gohighlevel.com/support/solutions/articles/48000981677-mailgun-overview
+Word Count: 534
+Scraped: 2025-10-29T01:41:35.672095
+---
+
+For complete step-by-step instructions on how to setup Mailgun in HighLevel,
+see this article
+TABLE OF CONTENTS
+What is Mailgun?
+How much will Mailgun cost?
+What domain should I use?
+There are two different ways to set up Mailgun with HighLevel:
+1. One Sub-domain
+2. Multiple Sub-domains
+Frequently Asked Questions
+Related Articles
+What is Mailgun?
+Mailgun is a third-party service we use to send emails in bulk. Similar to how we use Twilio to send text messages and calls. For new onboarding agencies, you will be using
+LC email
+by default, which is living under our Mailgun account.
+How much will Mailgun cost?
+Mailgun's Foundation plan is starting at $35/month. Learn more about
+Mailgun pricing here
+.
+What domain should I use?
+We recommend using a subdomain with Mailgun, like "mg.mydomain.com". Using a subdomain you will be able to send emails from your root domain e.g. "you@mydomain.com".
+If using a subdomain please make sure that you configure MX records for the subdomain for optimal delivery. This is configured within your Mailgun account.
+Note: You can only add domains you own. You will need to update the domain's DNS records to verify that you are an authorized owner or sender for this domain.
+There are two different ways to set up Mailgun with HighLevel:
+Pros:
+Cons:
+1. One Sub-domain
+You can set up one sub-domain in Mailgun for your marketing agency domain and use that same sub-domain for email sending across all of your client accounts in HighLevel
+Easy setup - only need to set up one subdomain for your domain which you already have access to
+Emails are white-labeled to your marketing agency domain or you can buy a generic domain so it will not show any agency branding
+If your domain gets disabled (gets a bad score due to bounce rates) email will stop working for all of your clients since all of their accounts are powered by the same domain.
+The solution: don't send spammy emails to poor email addresses :-)
+2. Multiple Sub-domains
+You can set up a subdomain in Mailgun for each of your client's domains and use that subdomain for sending for their specific HighLevel account. Once you set up a unique domain/subdomain for each location to capture cold inbound emails.
+Learn more about Cold Email Inbound Setup here.
+Emails are white-labelled per the client domain
+If a client's domain gets disabled email only goes down for their client account
+Difficult setup - time-consuming having to set up a subdomain for all of your clients and getting access to each of their domains
+Frequently Asked Questions
+Currently no frequently asked questions. Submit feedback on this article to help is add questions to this section!
+Related Articles
+How to setup Mailgun for HIghLevel
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,43 @@
+---
+Title: Chat Widget - Business Office Hours in Live Chat
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004104-chat-widget-business-office-hours-in-live-chat
+Word Count: 274
+Scraped: 2025-10-29T01:45:33.066282
+---
+
+Chat Widget is expanding its user experience with mind-blowing support with business office hours in live chat.
+How does it work?
+Go to Sites > Chat Widget
+Select the option of Live chat as the type of chat widget.
+In the chat widget settings, the user can go to
+Chat Window
+tab where there is option of Business Office Hour Setup.
+Users can customize the welcome message for outside office hours using the Outside Office Hours Welcome Message option. The default message will be - We are currently offline.
+Users can set multiple time ranges, ensuring no overlaps are allowed from Sunday to Saturday.
+Flexibility is provided for users to copy time settings to any days, including multiple selections. [ Copied same function as Calendar availability functionality to build similarities. ]
+The timezone will be based on the business (location) timezone.
+Once the end user submits the contact form, the chat will automatically close.
+If Business Office Hours is enabled and the end user's timezone aligns with the set business hours, the welcome message will be displayed from the Live Chat Welcome Message field. Outside office hours, contact details form will be sent to the end user.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

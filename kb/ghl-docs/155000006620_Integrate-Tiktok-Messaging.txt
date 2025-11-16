@@ -1,0 +1,96 @@
+---
+Title: Integrate Tiktok Messaging
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006620-integrate-tiktok-messaging
+Word Count: 907
+Scraped: 2025-10-29T01:58:43.780933
+---
+
+What is Tiktok Messaging & Comment automation?
+Tiktok has millions of active customers but they dont provide tools for managing customers, contacts & conversations efficiently at scale.
+You want to automate some amount of these activities, so the conversations happen in FBIG, but are managed from inside your CRM.
+All you have to do is configure several different components correctly. This guide will explain each of those components, several patterns for making them work together.
+Before you start
+Before proceeding, make sure your TikTok accounts are integrated with your Subaccount. Go to Subaccount > Settings > Integrations > TikTok card.
+Components
+Triggers:
+TikTok Comment on a Reel - workflow starts when there is a new comment on your TikTok post.
+Click here for more info on this Trigger
+.
+Customer Replied - select a reply channel like TikTok messenger.
+Click here for more info on this Trigger
+Actions:
+Reply In Comments
+: reply to a comment with a comment under it.
+Click here for more info on this action
+TikTok Interactive Messenger
+How will TikTok Comment automation work?
+When creating a workflow click on "Add Trigger". The triggers related to comment automation are present in the Communication category. You can directly search for the trigger or scroll down to the category.
+1. Go to triggers and select from the available triggers based on your use case. Here you should select TikTok - Comment(s) on a Post
+2. After clicking on the trigger the sidebar will open. There are multiple filters present here. The first step is to select the Account.
+3. After selecting the Page you have to select the Post Type. Post type can be "Published" or "Custom"
+a. Published Post - 'Published Posts' tab fetches all posts on your business page - basis this selection, all the posts from your account comes as a dropdown.
+b. Custom Post - Custom Post tab allows you to define the post you want to consider by providing an URL
+4. In the next step, you should select the post or provide the URL, you would like to run the automation on.
+5. After selecting the post you have to enter what are you looking for in the comment. You can select from 2 options "Contains Phrase" and "Exact Match". Below are some examples to understand these 2 dropdown better.
+Exact Match - Price
+Inbound message - Price
+Result - Pass
+Exact Match - Share the Price
+Inbound message - Share the Price
+Result - Pass
+Exact Match - Share the Price
+Inbound message - Please share the Price
+Result - Fail
+Contains Exact Phrase - I bought from you
+Inbound message - I bought from you
+Result - Pass
+Contains Exact Phrase - I bought from you
+Inbound message - I bought from you yesterday
+Result - Pass
+Contains Exact Phrase - I bought from you
+Inbound message - I bought one from you
+Result - Fail
+When the contact will be saved?
+When a contact is coming through the trigger, it will be saved as a contact and First Name and Last Name of the contact will be stored.
+Action -
+Go to actions. Here you can select the action from the Communications section, “Reply in Comments”
+Users can configure up to 10 reply comments, which will be randomly selected during execution.
+How will TikTok DM automation work?
+Trigger -
+When creating a workflow click on "Add Trigger". The trigger related to DM automation “Customer replied” is present in the Events category. You can directly search for the trigger or scroll down to the category.
+1. Go to triggers and select from the available triggers based on your use case. Here you should select Customer replied trigger
+2. After clicking on the trigger the sidebar will open. There are multiple filters present here. The first step is to select the “Reply channel” filter where filter value = TikTok
+3. Users can configure automation rules for direct messages by setting specific matching conditions, such as ‘Contains Phrase’ or ‘Exact Match Phrase.’
+4. Based on the above configurations, you can define the trigger for the automation.
+Actions -
+There is 1 new action in the "Communications" category -
+Tiktok Interactive messenger
+On selecting the action, the sidebar will open where you can capture all the relevant details.
+The TikTok Interactive Messenger is fairly straightforward. Here you have to provide the message you want to send to the inbound trigger defined and save the action.
+Important Points to Noted
+The TikTok Interactive Messenger action, unlike FB & IG does not support a “Reply Type” field where users could have defined values “Reply as DM”, “Reply to Comment via DM”. It will be enabled as soon as TikTok APIs starts supporting it.
+The TikTok Interactive Messenger action, unlike FB & IG, does not support Templates. It will be enabled incrementally
+The TikTok Interactive Messenger action does not support Attachments, Buttons, Quick Replies. It will be enabled as soon as TikTok APIs start supporting it.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,100 @@
+---
+Title: How to Share and Manage Documents via Client Portal and CRM?
+Category: Contacts
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005199-how-to-share-and-manage-documents-via-client-portal-and-crm-
+Word Count: 480
+Scraped: 2025-10-29T01:42:28.667418
+---
+
+TABLE OF CONTENTS
+Overview
+Why it Matters?
+How To Share and Manage Documents?
+Related Resources
+Overview
+This guide explains how CRM users share documents with contacts and how contacts upload files back through the Client Portal. You’ll learn where to find these tools and how to manage shared and received files efficiently.
+Note:
+Documents and Contracts cannot be toggled to be shared or unshared at this time.
+Prerequisites
+This feature will only be available to contacts who are client portal users.
+Why it Matters?
+Centralized Files:
+All documents and uploads are managed in one place for clear visibility.
+Seamless Collaboration:
+Streamlines file exchange between CRM users and clients without external tools.
+Enhanced Control:
+Users and contacts can manage, preview, and revoke access with a click.
+How To Share and Manage Documents?
+Accessing Document Tools
+In the CRM, select
+Contacts
+, choose a contact, then click
+Documents
+in the left menu.
+Sharing Documents from CRM
+In the
+Documents
+tab, find the file you want to share or add a new file.
+Adding a new document
+Click on the + Add icon to add a new document.
+Click on the toggle if you also want to share the document directly on the client portal, you can share it             later on as well.
+The shared document has a shared chip attached to it, means it was shared with the contact on the client portal.
+Sharing an existing document
+Click on the 3 Dots > Share to Client Portal > Share.
+Now the document is shared with the contact on the client Portal.
+Use the
+Share
+toggle to
+On
+(grant access) or
+Off
+(revoke access).
+Shared files appear instantly in the contact’s portal under
+Shared Documents
+.
+Client Uploads to CRM
+In the Client Portal, the contact clicks
+Upload Document
+After upload, the file appears in CRM under
+Documents > Received > Client Portal
+.
+Previewing & Downloading
+Both CRM users and contacts can click
+Preview
+to view files in-browser.
+Previewing and Downloading in CRM.
+Previewing and Downloading in Client Portal.
+Deleting & Revoking Access
+Contacts:
+Click the trash icon next to any upload in the Client Portal to remove it, it will be removed from the CRM’s received files from the client portal.
+CRM Users:
+Toggle
+Share
+to
+Off
+or click the delete icon in CRM Documents to revoke or remove files permanently.
+Related Resources
+How can my customers use client Portal?
+Documents Overview in CRM
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

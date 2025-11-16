@@ -1,0 +1,91 @@
+---
+Title: How to check logs for a specific email in Mailgun
+Category: Email
+URL: https://help.gohighlevel.com/support/solutions/articles/48001188059-how-to-check-logs-for-a-specific-email-in-mailgun
+Word Count: 356
+Scraped: 2025-10-29T01:41:48.050077
+---
+
+TABLE OF CONTENTS
+Mailgun Sending Logs
+Analyzing the results
+Common errors
+Not Delivering to Previously Bounced Address
+If the recipient unsubscribes accidentally
+Unauthenticated email from xxxxxxxxxxxx.com
+Unauthenticated email from yahoo.com / hotmail.com / aol.com / outlook.com
+Mailgun Sending Logs
+1. Log in to
+https://app.mailgun.com/app/dashboard
+2. Click
+Sending
+3. Click
+Logs
+4. Make sure the correct domain is selected
+5. Click on Add Filter
+6. Select Recipient from the dropdown list and paste the email you are trying to get the delivery status for:
+7. Click on Filter
+Analyzing the results
+Click the
+gear
+⚙️
+icon on the right once you locate the email
+Select
+Quick view
+It will show you a preview of the email
+If it says delivered, please check the spam folder or reach out to Mailgun support to see if the email provider is blocking the email on their end.
+Common errors
+Not Delivering to Previously Bounced Address
+Solution:
+1. Click Sending -> Suppressions
+2. Choose the domain on top
+3. Search for the recipient's email
+4. Select the recipient and click the trash icon on the right to remove the contact email from the Bounces tab.
+If the recipient unsubscribes accidentally
+Switch to the
+Unsubscribes
+tab and remove the email from there.
+Unauthenticated email from
+xxxxxxxxxxxx.com
+Solution: Set DMARC to none for the custom domain.
+If you are using Gsuite email, you can
+configure set DMARC to none here
+.
+Unauthenticated email from
+yahoo.com
+/
+hotmail.com
+/
+aol.com
+/
+outlook.com
+Quick workaround: switch the sender email from yahoo.com / aol.com / any other domain to your own domain/gmail.com
+e.g. switch
+name@yahoo.com
+to
+name@gmail.com
+or name@your_domain.com
+Learn where to configure the sender's email address here
+.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

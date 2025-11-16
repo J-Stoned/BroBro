@@ -1,0 +1,106 @@
+---
+Title: HighLevel AI Agents Contest 2025 – $50K Prize Pool
+Category: Agency View
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006246-highlevel-ai-agents-contest-2025-50k-prize-pool
+Word Count: 669
+Scraped: 2025-10-29T01:39:40.256879
+---
+
+Welcome to the HighLevel AI Agent Contest help article! Compete for a share of the $50,000 prize pool by creating innovative Voice AI or Conversational AI agents. Learn about contest categories, free registration, judging criteria, and support resources that will help you bring your AI solutions to life and gain industry recognition.
+Please Note:
+This Contest Page is only visible to Agency Admins.
+TABLE OF CONTENTS
+What is the AI Agents Contest?
+Key Benefits of the AI Agents Contest
+Contest Categories
+Registration and Support
+How To Set Up AI Agents Contest Participation
+Frequently Asked Questions
+Related Articles
+What is the AI Agents Contest?
+The AI Agent Contest is HighLevel’s initiative to inspire developers and innovators to design cutting-edge AI agents. Participants can enter either the Voice AI or Conversational AI category, with automatic Marketplace registration included. Submissions are judged on real usage, innovation, technical quality, reliability, and user experience. Winners will be announced live at LevelUp 2025, offering global visibility and recognition.
+Key Benefits of the AI Agents Contest
+Participating in the contest provides unique opportunities for developers to showcase their skills, gain recognition, and push the boundaries of AI applications.
+Prize pool
+: Compete for a share of $50,000.
+Recognition
+: Showcase your innovation to the industry at LevelUp 2025.
+Free entry
+: Enjoy cost-free participation with automatic Marketplace registration.
+Expert guidance
+: Access tutorials, guides, and live AMA sessions with HighLevel’s AI product team.
+Visibility
+: Gain exposure through live showcases and Marketplace listings.
+Hands-on experience
+: Build, test, and publish AI agents using HighLevel’s tools and resources
+Contest Categories
+Understanding the contest categories helps you align your submission with the right AI specialization for maximum impact.
+Voice AI
+: Build voice-driven agents that provide natural, interactive conversations, CRM integration, and 24/7 availability.
+Conversational AI
+: Create text-based or chat-driven agents that offer engaging, dynamic communication and enhanced user experiences.
+Registration and Support
+Seamless registration and strong support ensure participants can focus on developing the best possible AI agents.
+Free entry for all eligible AI agent submissions.
+Automatic registration for Marketplace agents makes it easier to reach users.
+Access to detailed tutorials, guides, and live AMA sessions for guidance.
+Support for design, testing, packaging, and Marketplace submission.
+How To Set Up AI Agents Contest Participation
+Following structured steps ensures compliance with contest rules and increases the chances of success.
+Visit the contest page:
+AI Agent Contest Page
+. You can also navigate through
+Agency View → AI Agents Contest.
+Review the contest guidelines, terms, and evaluation criteria.
+Choose your category:
+Voice AI
+or
+Conversational AI.
+Register your AI agent (Marketplace agents are automatically entered).
+Submit your entry before
+Sept. 22, 2025.
+Winners will be announced live at
+LevelUp 2025.
+Frequently Asked Questions
+Q: What is the contest deadline?
+All entries must be submitted by Sept. 22, 2025.
+Q: How many categories can I enter?
+There are two categories: Voice AI and Conversational AI.
+Q: Is participation free?
+Yes, participation is completely free of charge.
+Q: What criteria are used for judging?
+Agents are judged on real usage, innovation, technical quality, reliability, and user experience.
+Q: What support is available to participants?
+Participants have access to tutorials, guides, and live AMA sessions with the AI product team.
+Q: Where will winners be announced?
+Winners will be revealed live at LevelUp 2025.
+Q: What are the prizes?
+A total prize pool of $50,000 will be shared among winners.
+Related Articles
+AI Tools in HighLevel
+AI Employee Overview
+AI Voice Agents Overview
+Getting Started w/ Conversation AI (5)
+Introduction to Ask AI Assistant
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

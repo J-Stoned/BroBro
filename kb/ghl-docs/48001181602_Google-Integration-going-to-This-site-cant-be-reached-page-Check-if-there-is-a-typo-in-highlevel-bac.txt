@@ -1,0 +1,35 @@
+---
+Title: Google Integration going to This site can't be reached page "Check if there is a typo in highlevel-backend.appspot.com"
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/48001181602-google-integration-going-to-this-site-can-t-be-reached-page-check-if-there-is-a-typo-in-highlevel-ba
+Word Count: 120
+Scraped: 2025-10-29T01:58:27.155620
+---
+
+When you are unable to add another Google account:
+This issue might occur if users are located in the Philippines because websites like
+http://appspot.com
+will not be loading there. Please ask the user to connect using a VPN
+if that is the case.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

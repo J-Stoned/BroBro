@@ -1,0 +1,105 @@
+---
+Title: Getting Started - Sell Products
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005071-getting-started-sell-products
+Word Count: 510
+Scraped: 2025-10-29T01:39:04.771576
+---
+
+Ready to see those sales roll in? Your online store is all set up to handle whatever you're selling—physical products, digital downloads, subscriptions—you name it! Let's dive into how you can easily get started and start generating revenue right away.
+TABLE OF CONTENTS
+Create a Product
+Make Product Available
+Add Order Element
+Create a Product
+First things first, let's get your amazing product listed. Think of this like setting up your store shelves—you want everything clear, attractive, and inviting!
+Navigate to
+Payments > Products
+Click
+Create Product
+Fill out all the juicy details in the Product Editor (name, description, pricing, images, etc.)
+Click
+Save
+Congrats! Your product is now created. Next, you can check out these handy guides to enhance your product listings even more:
+How to Set Up an E-Commerce Online Store (Websites)
+How to Create and Add Products To a Funnel/ Website (Payments)
+Import Products / Price From Stripe
+Make Product Available
+Great job creating your product! Now, let's make sure customers can actually find and buy it. Think of this step like stocking your storefront—visibility is everything!
+Navigate to
+Sites
+and choose where you want your product to appear:
+Website,
+Funnel, or
+Store.
+For Funnels specifically:
+Click
+Funnels
+and select your desired funnel
+Go to the
+Products tab
+Click
+Add Product
+Configure your product details
+Click
+Save
+Awesome! Your product is now visible to customers. Next, you can boost your checkout experience with upsells or special offers.
+Add Order Element
+Alright, your product's ready and visible—now let's get the checkout process streamlined! Think of this step like opening the cash register—quick, easy, and secure.
+Navigate to the
+Site Editor
+Select
+the funnel page that will have the checkout form. If that page doesn't exist yet,
+create
+it:
+Click
+Add New Step.
+Fill out the details and click
+Create Funnel Step.
+On the page,
+Add
+a full width section
+element.
+Inside the section,
+Add a one column row
+.
+Inside the row,
+Add a one or two step order form
+.
+Customize
+the order form, then click
+Save
+and
+Publish
+.
+Make sure the product is added to the same page as the order form.
+Fantastic! Your customers can now smoothly complete their purchases. Next, why not experiment with sticky contact options to boost conversions?
+Your funnel order form should look something like this:
+Learn More:
+How to Use Products in Payment Element in Forms
+How to Upsell Products in Online Store checkouts
+Sticky Contact - Two-Step Order Form
+How To Add A Bump Offer To Funnel Order Form
+Shopping Cart Mode in One and Two-step Order forms (V2 Funnels only)
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

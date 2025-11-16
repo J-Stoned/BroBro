@@ -1,0 +1,117 @@
+---
+Title: Unified Task Management Across Contacts and Opportunities
+Category: Tasks
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005529-unified-task-management-across-contacts-and-opportunities
+Word Count: 1077
+Scraped: 2025-10-29T02:00:02.538662
+---
+
+This guide walks you through HighLevel’s Unified Task Management system, available across Contacts and Opportunities. It’s designed to help users create, edit, and manage tasks through a consistent, efficient interface.
+TABLE OF CONTENTS
+What is Unified Task Management?
+Key Benefits of Unified Task Management
+How to Use Unified Task Management Across Modules
+Frequently Asked Questions
+What is Unified Task Management?
+Unified Task Management in HighLevel allows you to create and manage tasks from both the Contacts and Opportunities modules using the same interface. The system offers a clean layout, powerful filters, and advanced task options—making it easier to stay on top of your to-dos regardless of where you work inside the platform.
+In the Contacts module, you can access the task panel from within a contact’s detailed view to create, view, and manage tasks directly associated with that individual.
+In the Opportunities module, clicking into any opportunity record opens a similar task panel, allowing you to manage tasks that are tied to that specific deal or pipeline stage—using the same familiar interface.
+Key Benefits of Unified Task Management
+Consistent Interface Across Modules:
+Tasks look and function the same whether you’re working from a Contact or Opportunity record, minimizing confusion and standardizing task handling.
+Simplified Task Creation:
+A clean and organized task form helps users enter task details quickly, with clearly labeled fields for title, description, due date, and assignee.
+Recurring Task Options:
+Set up tasks to repeat on a schedule, allowing automation of ongoing reminders or processes without additional manual effort.
+Centralized Filtering and Search:
+Locate tasks easily with built-in filters and a search bar that work across all task views—no matter the module.
+Quick Task Edits:
+Open and edit tasks directly using a unified layout, making updates simple and accessible.
+How to Use Unified Task Management
+Access Contact List
+Go to the Contacts section in your left-hand menu and select the
+Smart Lists
+tab. This displays a list of all contacts in your subaccount, where you can view basic info like name, phone number, and email. Click any contact to view their full profile and access task tools.
+Open a Contact Record
+Clicking a contact opens their detailed profile, showing email, phone, preferences, and activity history. To manage tasks, locate and click the
+Tasks icon
+at the top right corner of the contact view.
+Filter Tasks by Team or Status
+Use the filter icon to quickly narrow down your task list. You can filter tasks by assignee or task status, helping you focus on what’s relevant for your workflow. This makes it easier to manage workloads and ensure accountability within your team.
+Sort Tasks for Better Visibility
+Click the sort icon to organize tasks by due date or creation date. You can toggle between ascending or descending order to prioritize what needs attention first. This helps maintain clarity when reviewing large task lists.
+Edit or Delete Tasks
+Click the three-dot menu next to any task to open options for editing or deleting it. Select “Edit” to modify task details or “Delete” to remove the task permanently from the record.
+Add a New Task
+In order to create a New task from Tasks panel of a contact or opportunity record, click the
++ Add Task
+button. This action opens the full task creation form where you can enter all task details.
+Enter the Task Title
+Start by giving your task a clear and concise title in the
+Title
+field. This is a required field and helps identify the task easily when viewed in lists or filters.
+Add Task Description
+Click “Add description” to include more details about the task. Use this field to provide context, instructions, or important notes that help the assignee understand the objective.
+Set Due Date and Time
+Use the calendar and time picker to select when the task should be completed. This helps structure deadlines and ensures accountability within your team.
+Select a Time for the Task
+Click the time dropdown to set when the task is due. You can choose the exact hour and minute to schedule task reminders with precision.
+Recurring Tasks
+To configure a recurring task, first toggle on the
+Recurring tasks
+option. Then use the
+Repeats every
+field to define how frequently the task should recur—for example, every X days, weeks, or months. Under
+Ends on
+, choose whether the task should repeat indefinitely (
+Never
+), stop on a specific date (
+On
+), or after a certain number of repetitions (
+After
+). You can also enable the option to
+create a new task even if the previous task is overdue
+, which ensures that the recurrence continues on schedule regardless of completion status. This setup is ideal for automating repetitive actions and maintaining consistent follow-up.
+Assign to a Team Member
+Use the
+Assign to
+dropdown to designate the task to a specific user. You’ll see a list of all team members associated with the account—select the appropriate person responsible for completing the task. Assigning tasks helps organize accountability and ensures clear ownership of follow-ups.
+Save or Add Another Task
+Once your task details are complete, click
+Save
+to finalize and create the task, or choose
+Save and Add Another
+to quickly continue creating additional tasks. This dual-option approach helps streamline bulk task entry without having to reopen the form for every new entry.
+Frequently Asked Questions
+Q: Is Unified Task Management available to all users?
+It must be manually enabled in Labs for each subaccount before it becomes accessible.
+Q: Can I return to the previous task system?
+Yes, you can disable the toggle in Labs to switch back to the earlier version.
+Q: Are my existing tasks affected?
+No. All current tasks are fully available in the unified interface with no data loss.
+Q: Can Recurring Tasks be created in both Contacts and Opportunities?
+Yes. Recurring task functionality is available across all records with task tabs.
+Q: Do these changes impact automation or workflows?
+No. The feature update applies only to the user interface and task management experience.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

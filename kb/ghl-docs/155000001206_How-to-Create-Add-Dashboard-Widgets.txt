@@ -1,0 +1,128 @@
+---
+Title: How to Create & Add Dashboard Widgets
+Category: Dashboards
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001206-how-to-create-add-dashboard-widgets
+Word Count: 810
+Scraped: 2025-10-29T01:51:17.074386
+---
+
+Adding widgets to your dashboard allows you to easily access important data and metrics in one place. Whether you’re tracking leads, appointments, or sales performance, customizing your dashboard ensures it reflects the unique needs of your business.
+More Tutorials from the Community
+https://youtu.be/N1fb6vsJCQc
+https://youtu.be/4a54CmvXt8w%EF%BF%BCdotcomquest1@gmail.com
+https://youtu.be/xz8fNKZ62MY
+https://youtu.be/vEa6FSnVDWQ
+Adding Widgets to Your Dashboard
+.
+Step 1: Navigate to Your Dashboard
+Start by logging into your account and selecting the
+Dashboard
+tab from the menu. This will bring you to the default dashboard for your sub-account.
+Step 2: Add a New Dashboard (Optional)
+If you’d like to create a new dashboard rather than modify the default one, click the blue
+Add Dashboard
+button.
+Select
+"Select a Blank Dashboard"
+option.
+Give your dashboard a name (e.g., “Sales Dashboard”).
+Next, choose whether the dashboard is
+Private
+(visible only to you) or
+For Everyone
+(visible to all users in the sub-account).
+If this is supposed to be a shared dashboard, you can control how you would like the team members to access the dashboard data. You can choose to grant Full access, Edit access, only View access or No access to your Agency users, Agency admins and for a Sub-account admin.
+After selecting your preference, click
+Confirm
+. Now you’ll have a blank canvas ready for customization.
+Step 3: Open the Widget Menu
+To add a widget, click the
+Add Widget
+button. If you're here to create the widgets inside the existing Dashboard then you can click the pencil icon at the top right corner. This opens the widget menu on the right-hand side of the screen.
+Step 4: Choose the Chart Type and Widget Category
+Select the type of widget you want to add by browsing the categories or using the search bar to find a specific widget.
+1. Select the chart type for the data to be displayed. You can choose from different chart types such as
+Numeric, Donut Chart, Line Chart, Bar Chart,
+Horizontal Bar Chart, and
+Table chart.
+2. Select the widget category based on the data you wish to be displayed on the dashboard. Below are a different widget categories to choose from.
+Step 5: Customize Your Widget
+In the Widget Settings panel:
+Chart Type Selection: Choose how you want your data to be visualized. The chart type selector is now built into the widget settings for quicker access.
+Title and Description: Optionally add a name and short description for the widget.
+Step 6: Apply Filters
+Switch to the Conditions tab to apply filters to your widget data:
+Click “Add Filter” to create your first group of filters.
+Use “+AND” to keep adding more filters within the same group.
+Click “+Add Filter” again to start a new group. This will create an OR condition between the groups.
+You can now reuse the same filter (e.g., "Session Source") in different groups.
+Important Note (Attribution Fields)
+If you're using
+attribution fields
+like
+Session Source
+or
+Session Medium
+in the
+Group By
+or
+View By
+dropdown (e.g., for donut or line charts):
+* Only one compound filter group allowed
+* That single filter group
+must
+include the
+Attribution Type
+(either
+First Touch
+or
+Last Touch
+) as a filter.
+* If multiple filter groups are added, attribution-based fields (Session Source / Medium) will be
+disabled
+in the dropdown.
+This limitation ensures data consistency when working with attribution metrics.
+Step 7: Save
+Once everything’s set up, click Save to add the widget to your dashboard.
+Step 8: Add More Widgets
+To build a complete picture of your data, repeat the process to add more widgets. For example:
+Step 9: Organize Your Widgets
+Once your widgets are added, you can resize and reposition them to suit your needs. Drag and drop widgets into place and adjust their size for better visibility.
+Step 10: Save Changes
+After organizing your widgets, Click
+Save Changes
+at the top of the dashboard. This ensures your new setup is saved and ready for use.
+Additional Tips
+•
+Experiment with different widget types to find the best way to visualize your data.
+•
+Use filters and conditions to refine your widgets and make them more relevant.
+•
+Revisit and update your dashboard as your business needs evolve.
+By following these steps, you’ll have a fully customized dashboard that gives you quick access to the insights you need to run your business effectively.
+What's Next:
+Customizing a widget
+Edit widgets on the dashboard
+Removing a widget
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

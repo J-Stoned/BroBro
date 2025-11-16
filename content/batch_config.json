@@ -1,0 +1,9 @@
+{
+    "documents": [
+        {
+            "file": "content/test/test_pricing.txt",
+            "title": "Test Pricing Document",
+            "type": "test"
+        }
+    ]
+}

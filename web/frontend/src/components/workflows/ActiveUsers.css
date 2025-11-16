@@ -1,0 +1,133 @@
+/**
+ * Enhancement 9: Active Users Styles
+ * Styles for collaborator sidebar
+ */
+
+.active-users-panel {
+  position: fixed;
+  left: 0;
+  top: 60px; /* Below header */
+  width: 250px;
+  background: white;
+  border-right: 1px solid #e5e7eb;
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.05);
+  max-height: calc(100vh - 60px);
+  overflow-y: auto;
+  z-index: 900;
+}
+
+.active-users-header {
+  padding: 16px;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #f9fafb;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.active-users-list {
+  padding: 8px;
+}
+
+.user-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px;
+  border-radius: 8px;
+  margin-bottom: 4px;
+  transition: background 0.2s;
+}
+
+.user-item:hover {
+  background: #f9fafb;
+}
+
+.user-item.current-user {
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+}
+
+.user-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
+  flex-shrink: 0;
+  text-transform: uppercase;
+}
+
+.user-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.user-name {
+  font-size: 14px;
+  font-weight: 500;
+  color: #1f2937;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.you-badge {
+  font-size: 11px;
+  color: #667eea;
+  font-weight: 600;
+}
+
+.user-status {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  color: #6b7280;
+  margin-top: 2px;
+}
+
+/* Scrollbar */
+.active-users-panel::-webkit-scrollbar {
+  width: 6px;
+}
+
+.active-users-panel::-webkit-scrollbar-track {
+  background: #f9fafb;
+}
+
+.active-users-panel::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 3px;
+}
+
+.active-users-panel::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .active-users-panel {
+    width: 200px;
+  }
+
+  .user-name {
+    font-size: 13px;
+  }
+
+  .user-avatar {
+    width: 32px;
+    height: 32px;
+    font-size: 12px;
+  }
+}

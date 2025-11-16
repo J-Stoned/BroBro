@@ -1,0 +1,126 @@
+{
+  "export_time": "2025-11-03T11:41:04.344967",
+  "total_metrics": 5,
+  "metrics": [
+    {
+      "timestamp": "2025-11-03T11:41:04.344967",
+      "metric_type": "request",
+      "endpoint": "/api/workflow/generate",
+      "user_id": "user_0",
+      "model": "claude-sonnet-4.5",
+      "profile": "workflow-builder",
+      "input_tokens": 10000,
+      "output_tokens": 5000,
+      "cached_tokens": 2000,
+      "total_tokens": 15000,
+      "cost": 0.1,
+      "latency_ms": 1500,
+      "success": true,
+      "error_type": null,
+      "metadata": null
+    },
+    {
+      "timestamp": "2025-11-03T11:41:04.344967",
+      "metric_type": "request",
+      "endpoint": "/api/workflow/generate",
+      "user_id": "user_1",
+      "model": "claude-sonnet-4.5",
+      "profile": "workflow-builder",
+      "input_tokens": 11000,
+      "output_tokens": 5500,
+      "cached_tokens": 2000,
+      "total_tokens": 16500,
+      "cost": 0.12000000000000001,
+      "latency_ms": 1600,
+      "success": true,
+      "error_type": null,
+      "metadata": null
+    },
+    {
+      "timestamp": "2025-11-03T11:41:04.344967",
+      "metric_type": "request",
+      "endpoint": "/api/workflow/generate",
+      "user_id": "user_0",
+      "model": "claude-sonnet-4.5",
+      "profile": "workflow-builder",
+      "input_tokens": 12000,
+      "output_tokens": 6000,
+      "cached_tokens": 2000,
+      "total_tokens": 18000,
+      "cost": 0.14,
+      "latency_ms": 1700,
+      "success": true,
+      "error_type": null,
+      "metadata": null
+    },
+    {
+      "timestamp": "2025-11-03T11:41:04.344967",
+      "metric_type": "request",
+      "endpoint": "/api/workflow/generate",
+      "user_id": "user_1",
+      "model": "claude-sonnet-4.5",
+      "profile": "workflow-builder",
+      "input_tokens": 13000,
+      "output_tokens": 6500,
+      "cached_tokens": 2000,
+      "total_tokens": 19500,
+      "cost": 0.16,
+      "latency_ms": 1800,
+      "success": true,
+      "error_type": null,
+      "metadata": null
+    },
+    {
+      "timestamp": "2025-11-03T11:41:04.344967",
+      "metric_type": "request",
+      "endpoint": "/api/workflow/generate",
+      "user_id": "user_0",
+      "model": "claude-sonnet-4.5",
+      "profile": "workflow-builder",
+      "input_tokens": 14000,
+      "output_tokens": 7000,
+      "cached_tokens": 2000,
+      "total_tokens": 21000,
+      "cost": 0.18,
+      "latency_ms": 1900,
+      "success": true,
+      "error_type": null,
+      "metadata": null
+    }
+  ],
+  "endpoint_stats": {
+    "/api/workflow/generate": {
+      "requests": 5,
+      "tokens": 90000,
+      "cost": 0.7,
+      "errors": 0
+    }
+  },
+  "user_stats": {
+    "user_0": {
+      "requests": 3,
+      "tokens": 54000,
+      "cost": 0.42000000000000004
+    },
+    "user_1": {
+      "requests": 2,
+      "tokens": 36000,
+      "cost": 0.28
+    }
+  },
+  "model_stats": {
+    "claude-sonnet-4.5": {
+      "requests": 5,
+      "tokens": 90000,
+      "cost": 0.7,
+      "avg_latency": 1700.0
+    }
+  },
+  "profile_stats": {
+    "workflow-builder": {
+      "requests": 5,
+      "tokens": 90000,
+      "cost": 0.7
+    }
+  }
+}

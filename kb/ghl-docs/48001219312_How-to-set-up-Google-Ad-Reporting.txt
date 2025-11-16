@@ -1,0 +1,124 @@
+---
+Title: How to set up Google Ad Reporting
+Category: Reporting
+URL: https://help.gohighlevel.com/support/solutions/articles/48001219312-how-to-set-up-google-ad-reporting
+Word Count: 760
+Scraped: 2025-10-29T01:52:34.312181
+---
+
+Google Ad reporting provides live reporting and analysis for your client's digital ad campaigns. Here are a few must-have setup guidelines for Google Ad Reporting.
+Covered in this article:
+Step 1 -
+Choose the correct Google Ad Account in Integrations
+Step 2 -
+Select the correct MCC Account Id and Client Account ID
+Step 3 -
+Add the UTM Template to the Google Ad Account
+Example
+Step 4:
+Adding Script for Precautionary Measures (See Help Doc)
+Here are some important things to keep in mind:
+Step 1 - Choose the correct Google Ad Account in Integrations
+The user who has the connected google account should have the maximum permissions as a user
+(administrator)
+or
+google ad account manager access
+.
+Step 2 - Select the correct MCC Account Id and Client Account ID
+MCC account stands for My Client Centre, it is also commonly known as Google Ads Manager Account, managing multiple clients' Google Ad accounts.
+MCC id is present in the top right corner.
+Client Account id is present on clicking the help section
+Step 3 - Add the UTM Template to the Google Ad Account
+The UTM tracking template can be added to three places. It can be added at Account Settings, Campaign Settings, or ad group level. We would recommend adding the UTM Template at Account level Settings.
+UTM Tracking Template
+(Copy this)
+{lpurl}
+?utm_source=adwords&utm_medium={adname}&utm_campaign={campaignname}&utm_content={adgroupname}&utm_keyword={keyword}&utm_matchtype={matchtype}&campaign_id={campaignid}&ad_group_id={adgroupid}&ad_id={creative}
+How it works
+Tracking templates must include a
+ValueTrack parameter
+that inserts your final URL, like
+{lpurl}
+.
+Once your ad is clicked, these parameters will insert your final URL. If you don’t include a URL insertion parameter in your tracking template,
+your landing page URL will break
+.
+If you want to add more than one
+ValueTrack parameter
+to a single URL, simply append them together in your URL using an
+ampersand (&)
+, like this:
+{lpurl}
+?matchtype={matchtype}&device={device}.
+Set up or edit a tracking template with ValueTrack parameters at the campaign, Ad group, and or Ads and Extension level -
+Follow this article
+Example
+Final URL:
+http://example.com
+Tracking template:
+{lpurl}
+?utm_source=adwords&utm_medium={adname}&utm_campaign={campaignname}&utm_content={adgroupname}&utm_keyword={keyword}&utm_matchtype={matchtype}&campaign_id={campaignid}&ad_group_id={adgroupid}&ad_id={creative}
+Landing page URL after clicking ads:
+{lpurl}
+?
+utm_source=adwords&utm_medium=black_friday&utm_campaign=blackday10&utm_content=marketingbanner&utm_keyword=getdiscounteddeal&utm_matchtype=e&campaign_id=12345&ad_group_id=2394984903&ad_id=93844980940&gclid=84843ewhfb834nedhj4u49
+Go to Your
+Google Ads Account
+>
+Account Settings
+>
+Tracking
+(See image below)
+Paste the Tracking Template URL from above in the "
+Tracking template
+" field below.
+Please Note:
+-
+After adding the tracking template,
+please run a test
+and you will see that the majority of the campaigns should show that the landing page is found. If there are any errors, please rectify them if they are active campaigns.
+- Earlier, UTM Source was used as Google (utm_source=google). Although it has been depreciated it is the ad blocker used to identify the URL and stripped of the UTM parameters.
+Step 4: Adding Script for Precautionary Measures
+(See Help Doc)
+The script is a simple example of how you would set up the Google AdPrecautionary tracking code. The script acts as a fail-safe if the UTM template fails in capturing the attribution data.
+It will track all clicks on a particular link and send it to Google Analytics. The only thing that needs to be changed in this script is the URL for the tracking page, which should match the one used by your website.
+How to set up Google Ad Precautionary Tracking Script
+Here are some important things to keep in mind:
+1.
+Campaign names, Ads, and Ad-set need to be
+unique
+.
+2.
+The name parameters
+can’t be changed during the lifetime of the campaign
+/ Ad-set / Ad. If the name has to be changed, then create a new campaign / Ad-set / Ad to avoid any issues.
+3.
+If you decide to change the name of the campaign / Ad-set / Ad and choose
+NOT to
+create a new campaign, then
+data in the CRM will keep referring to the original/ first campaign
+. [Google Ad provides the old name in the parameter and skews your campaign reporting]
+4.
+You will find an Objectives dropdown on the top left , Its purpose is to help define what objective the company had for this Ad campaign when creating it.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

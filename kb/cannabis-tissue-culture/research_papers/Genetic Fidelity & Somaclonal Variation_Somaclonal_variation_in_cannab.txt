@@ -1,0 +1,2727 @@
+TITLE: Somaclonal Variation in Cannabis Tissue Culture and Cannabinoid Profiles
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7541926/
+
+
+<!DOCTYPE html>
+<html lang="en" >
+    <head >
+
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        
+        
+
+        
+        
+  <link rel="stylesheet" href="/static/assets/style-8258669d.css" />
+<script type="module" crossorigin="" src="/static/assets/base_style-f4a99799.js"></script>
+
+  <link rel="stylesheet" href="/static/assets/style-ef962842.css" />
+<link rel="stylesheet" href="/static/assets/style-3ade8b5c.css" />
+<script type="module" crossorigin="" src="/static/assets/article_style-d757a0dd.js"></script>
+
+  
+  
+    <style>
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3E%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+</style>
+
+  
+
+
+
+        
+            <link rel="apple-touch-icon"
+                  sizes="180x180"
+                  href="/static/img/favicons/apple-touch-icon.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="48x48"
+                  href="/static/img/favicons/favicon-48x48.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="32x32"
+                  href="/static/img/favicons/favicon-32x32.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="16x16"
+                  href="/static/img/favicons/favicon-16x16.png" />
+            <link rel="manifest" href="/static/img/favicons/site.webmanifest" />
+            <link rel="mask-icon"
+                  href="/static/img/favicons/safari-pinned-tab.svg"
+                  color="#0071bc" />
+            <meta name="msapplication-config"
+                  content="/static/img/favicons/browserconfig.xml" />
+            <meta name="theme-color" content="#ffffff" />
+        
+
+        <title>
+            Investigation of Anthocyanidins and Anthocyanins for Targeting α-Glucosidase in Diabetes Mellitus - PMC
+        </title>
+
+        
+        
+  
+  <!-- Logging params: Pinger defaults -->
+<meta name="ncbi_app" content="cloudpmc-viewer" />
+<meta name="ncbi_db" content="pmc" />
+<meta name="ncbi_phid" content="ABCBEA22916CD97333EA22002CE32C2B.m_1" />
+<meta name="ncbi_pinger_stat_url" content="https://pmc.ncbi.nlm.nih.gov/stat" />
+<!-- Logging params: Pinger custom -->
+<meta name="ncbi_pdid" content="article" />
+  
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+
+    
+        <link rel="preconnect" href="https://cdn.ncbi.nlm.nih.gov" />
+    
+
+    <!-- Include USWDS Init Script -->
+    <script src="/static/assets/uswds-init.js"></script>
+
+
+    <meta name="ncbi_domain" content="pnfs">
+<meta name="ncbi_type" content="fulltext">
+<meta name="ncbi_pcid" content="journal">
+<link rel="canonical" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7541926/">
+<meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE">
+<meta name="citation_journal_title" content="Preventive Nutrition and Food Science">
+<meta name="citation_title" content="Investigation of Anthocyanidins and Anthocyanins for Targeting α-Glucosidase in Diabetes Mellitus">
+<meta name="citation_author" content="Natnicha Promyos">
+<meta name="citation_author_institution" content="Institute of Nutrition, Mahidol University, Phutthamonthon, Nakhon Pathom 73170, Thailand">
+<meta name="citation_author" content="Piya Temviriyanukul">
+<meta name="citation_author_institution" content="Institute of Nutrition, Mahidol University, Phutthamonthon, Nakhon Pathom 73170, Thailand">
+<meta name="citation_author" content="Uthaiwan Suttisansanee">
+<meta name="citation_author_institution" content="Institute of Nutrition, Mahidol University, Phutthamonthon, Nakhon Pathom 73170, Thailand">
+<meta name="citation_publication_date" content="2020 Sep 30">
+<meta name="citation_volume" content="25">
+<meta name="citation_issue" content="3">
+<meta name="citation_firstpage" content="263">
+<meta name="citation_doi" content="10.3746/pnf.2020.25.3.263">
+<meta name="citation_pmid" content="33083375">
+<meta name="citation_abstract_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7541926/">
+<meta name="citation_fulltext_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7541926/">
+<meta name="citation_pdf_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7541926/pdf/PNFS-25-263.pdf">
+<meta name="description" content="Anthocyanidins are bioactive compounds found mostly in colored plants and fruits. Consumption of anthocyanidin-rich foods has been shown to reduce the risk of diabetes. However, limited information is available regarding the inhibitory effect and ...">
+<meta name="og:title" content="Investigation of Anthocyanidins and Anthocyanins for Targeting α-Glucosidase in Diabetes Mellitus">
+<meta name="og:type" content="article">
+<meta name="og:site_name" content="PubMed Central (PMC)">
+<meta name="og:description" content="Anthocyanidins are bioactive compounds found mostly in colored plants and fruits. Consumption of anthocyanidin-rich foods has been shown to reduce the risk of diabetes. However, limited information is available regarding the inhibitory effect and ...">
+<meta name="og:url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7541926/">
+<meta name="og:image" content="https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ncbi">
+    
+    
+
+    </head>
+    <body >
+        
+    <a class="usa-skipnav " href="#main-content">
+      Skip to main content
+    </a>
+
+
+        
+            
+
+<section class="usa-banner " aria-label="Official website of the United States government" >
+    <div class="usa-accordion">
+        <header class="usa-banner__header">
+            <div class="usa-banner__inner">
+                <div class="grid-col-auto">
+                    <img aria-hidden="true"
+                         class="usa-banner__header-flag"
+                         src="/static/img/us_flag.svg"
+                         alt="" />
+                </div>
+
+                <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+                    <p class="usa-banner__header-text">
+                        An official website of the United States government
+                    </p>
+                    <span class="usa-banner__header-action">Here's how you know</span>
+                </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-accordion__button usa-banner__button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    aria-expanded="false"
+    aria-controls="gov-banner-default"
+    
+    data-testid="storybook-django-banner"
+    
+    >
+    
+        
+
+        
+                    <span class="usa-banner__button-text">Here's how you know</span>
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </div>
+        </header>
+
+        <div class="usa-banner__content usa-accordion__content"
+             id="gov-banner-default"
+             hidden>
+            <div class="grid-row grid-gap-lg">
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="/static/img/icon-dot-gov.svg"
+                         alt=""
+                         aria-hidden="true" />
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Official websites use .gov</strong>
+                            <br />
+                            A
+                            <strong>.gov</strong> website belongs to an official
+                            government organization in the United States.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="/static/img/icon-https.svg"
+                         alt=""
+                         aria-hidden="true" />
+
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Secure .gov websites use HTTPS</strong>
+                            <br />
+                            A <strong>lock</strong> (
+                            <span class="icon-lock">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                     width="52"
+                                     height="64"
+                                     viewBox="0 0 52 64"
+                                     class="usa-banner__lock-image"
+                                     role="graphics-symbol"
+                                     aria-labelledby="banner-lock-description"
+                                     focusable="false">
+                                    <title id="banner-lock-title">Lock</title>
+                                    <desc id="banner-lock-description">
+                                    Locked padlock icon
+                                    </desc>
+                                    <path fill="#000000"
+                                          fill-rule="evenodd"
+                                          d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" />
+                                </svg>
+</span>) or <strong>https://</strong> means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+
+        
+    
+    
+    
+
+<div class="usa-overlay">
+</div>
+
+
+
+<header class="usa-header usa-header--extended usa-header--wide" data-header data-testid="header"    >
+    <div class="ncbi-header">
+        <div class="ncbi-header__container">
+            <a class="ncbi-header__logo-container"
+               href="https://www.ncbi.nlm.nih.gov/">
+                <img alt="NCBI home page"
+                     class="ncbi-header__logo-image"
+                     src="/static/img/ncbi-logos/nih-nlm-ncbi--white.svg"
+                     width="410"
+                     height="100" />
+            </a>
+
+            <!-- Mobile menu hamburger button -->
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-menu-btn ncbi-header__hamburger-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Show menu"
+    data-testid="navMenuButton"
+    
+    >
+    
+        
+
+        
+                <svg aria-hidden="true"
+                     class="ncbi-hamburger-icon"
+                     fill="none"
+                     focusable="false"
+                     height="21"
+                     viewBox="0 0 31 21"
+                     width="31"
+                     xmlns="http://www.w3.org/2000/svg">
+                    <path clip-rule="evenodd"
+                          d="M0.125 20.75H30.875V17.3333H0.125V20.75ZM0.125 12.2083H30.875V8.79167H0.125V12.2083ZM0.125 0.25V3.66667H30.875V0.25H0.125Z"
+                          fill="#F1F1F1"
+                          fill-rule="evenodd" />
+                </svg>
+            
+
+        
+    
+        
+            </button>
+        
+
+
+
+            
+                <!-- Desktop buttons-->
+                <div class="ncbi-header__desktop-buttons">
+                    
+                        <!-- Desktop search button -->
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button
+           "
+    aria-expanded="false"
+    aria-controls="search-field-desktop-navigation"
+    aria-label="Show search overlay"
+    data-testid="toggleSearchPanelButton"
+    data-toggle-search-panel-button
+    >
+    
+        
+
+        
+                            
+
+
+
+    <svg class="usa-icon " role="graphics-symbol" aria-hidden="true" >
+        
+        <use xlink:href="/static/img/sprite.svg#search" />
+    </svg>
+
+
+                            Search
+                        
+
+        
+    
+        
+            </button>
+        
+
+
+                    
+
+                    <!-- Desktop login dropdown -->
+                    
+                        <div class="ncbi-header__login-dropdown">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button ncbi-header__login-dropdown-button
+           "
+    aria-expanded="false"
+    aria-controls="login-dropdown-menu"
+    aria-label="Show login menu"
+    data-testid="toggleLoginMenuDropdown"
+    data-desktop-login-button
+    >
+    
+        
+
+        
+                                
+
+
+
+    <svg class="usa-icon " role="graphics-symbol" aria-hidden="true" >
+        
+        <use xlink:href="/static/img/sprite.svg#person" />
+    </svg>
+
+
+
+                                <span data-login-dropdown-text>Log in</span>
+
+                                <!-- Dropdown icon pointing up -->
+                                
+
+
+
+    <svg class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-less ncbi-header__login-dropdown-icon--hidden" role="graphics-symbol" aria-hidden="true" data-login-dropdown-up-arrow>
+        
+        <use xlink:href="/static/img/sprite.svg#expand_less" />
+    </svg>
+
+
+
+                                <!-- Dropdown icon pointing down -->
+                                
+
+
+
+    <svg class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-more ncbi-header__login-dropdown-icon--hidden" role="graphics-symbol" aria-hidden="true" data-login-dropdown-down-arrow>
+        
+        <use xlink:href="/static/img/sprite.svg#expand_more" />
+    </svg>
+
+
+                            
+
+        
+    
+        
+            </button>
+        
+
+
+
+                            <!-- Login dropdown menu -->
+                            <ul class="usa-nav__submenu ncbi-header__login-dropdown-menu"
+                                id="login-dropdown-menu"
+                                data-desktop-login-menu-dropdown
+                                hidden>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                <li class="usa-nav__submenu-item">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--outline ncbi-header__login-dropdown-logout-button
+           "
+    
+    
+    
+    data-testid="desktopLogoutButton"
+    data-desktop-logout-button
+    >
+    
+        
+
+        Log out
+
+        
+    
+        
+            </button>
+        
+
+
+                                </li>
+                            </ul>
+                        </div>
+                    
+                </div>
+            
+        </div>
+    </div>
+
+    <!-- Search panel -->
+    
+        <div class="ncbi-search-panel ncbi--show-only-at-desktop"
+             data-header-search-panel
+             hidden>
+            <div class="ncbi-search-panel__container">
+                <form action="https://www.ncbi.nlm.nih.gov/search/all/"
+                      
+                      autocomplete="off"
+                      class="usa-search usa-search--big ncbi-search-panel__form"
+                      data-testid="desktop-navigation-search-form"
+                      method="GET"
+                      role="search">
+                    <label class="usa-sr-only" for="search-field-desktop-navigation">
+                        Search…
+                    </label>
+                    <input class="usa-input"
+                           id="search-field-desktop-navigation"
+                           name="term"
+                           
+                               placeholder="Search NCBI"
+                           
+                           type="search"
+                           value="" />
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                        <span class="usa-search__submit-text">
+                            Search NCBI
+                        </span>
+                    
+
+        
+    
+        
+            </button>
+        
+
+
+                </form>
+
+                
+            </div>
+        </div>
+    
+
+    <nav aria-label="Primary navigation" class="usa-nav">
+        <p class="usa-sr-only" id="primary-navigation-sr-only-title">
+            Primary site navigation
+        </p>
+
+        <!-- Mobile menu close button -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-nav__close ncbi-nav__close-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Close navigation menu"
+    data-testid="navCloseButton"
+    
+    >
+    
+        
+
+        
+            <img src="/static/img/usa-icons/close.svg" alt="Close" />
+        
+
+        
+    
+        
+            </button>
+        
+
+
+
+        
+            <!-- Mobile search component -->
+            <form class="usa-search usa-search--small ncbi--hide-at-desktop margin-top-6"
+                  action="https://www.ncbi.nlm.nih.gov/search/all/"
+                  
+                  autocomplete="off"
+                  data-testid="mobile-navigation-search-form"
+                  method="GET"
+                  role="search">
+                <label class="usa-sr-only" for="search-field-mobile-navigation">
+                    Search
+                </label>
+
+                <input class="usa-input"
+                       id="search-field-mobile-navigation"
+                       type="search"
+                       
+                           placeholder="Search NCBI"
+                       
+                       name="term" />
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                    <!-- This SVG should be kept inline and not replaced with a link to the icon as otherwise it will render in the wrong color -->
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjUgMTRoLS43OWwtLjI4LS4yN0E2LjQ3MSA2LjQ3MSAwIDAgMCAxNiA5LjUgNi41IDYuNSAwIDEgMCA5LjUgMTZjMS42MSAwIDMuMDktLjU5IDQuMjMtMS41N2wuMjcuMjh2Ljc5bDUgNC45OUwyMC40OSAxOWwtNC45OS01em0tNiAwQzcuMDEgMTQgNSAxMS45OSA1IDkuNVM3LjAxIDUgOS41IDUgMTQgNy4wMSAxNCA5LjUgMTEuOTkgMTQgOS41IDE0eiIvPjwvc3ZnPg=="
+                         class="usa-search__submit-icon"
+                         alt="Search" />
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </form>
+
+            
+        
+
+        <!-- Primary navigation menu items -->
+        <!-- This usa-nav__inner wrapper is required to correctly style the navigation items on Desktop -->
+        
+
+        
+            <div class="ncbi-nav__mobile-login-menu ncbi--hide-at-desktop"
+                 data-mobile-login-menu
+                 hidden>
+                <p class="ncbi-nav__mobile-login-menu-status">
+                    Logged in as:
+                    <strong class="ncbi-nav__mobile-login-menu-email"
+                            data-mobile-login-email-text></strong>
+                </p>
+                <ul class="usa-nav__primary usa-accordion">
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           ncbi-nav__mobile-login-button ncbi--hide-at-desktop
+           "
+    
+    
+    
+    data-testid="mobileLoginButton"
+    data-mobile-login-button
+    >
+    
+        
+
+        Log in
+
+        
+    
+        
+            </button>
+        
+
+
+    </nav>
+</header>
+
+    
+    
+        
+
+<section class="pmc-header pmc-header--basic" aria-label="PMC Header with search box">
+    <div class="pmc-nav-container">
+        <div class="pmc-header__bar">
+           <div class="pmc-header__logo">
+               <a href="/" title="Home" aria-label="PMC Home"></a>
+           </div>
+            <button
+                    type="button"
+                    class="usa-button usa-button--unstyled pmc-header__search__button"
+                    aria-label="Open search"
+                    data-ga-category="search"
+                    data-ga-action="PMC"
+                    data-ga-label="pmc_search_panel_mobile"
+            >
+                <svg class="usa-icon width-4 height-4 pmc-icon__open" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#search"></use>
+                </svg>
+                <svg class="usa-icon width-4 height-4 pmc-icon__close" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#close"></use>
+                </svg>
+            </button>
+        </div>
+        <div class="pmc-header__search">
+            
+
+
+<form class="usa-search usa-search--extra usa-search--article-right-column  pmc-header__search__form" id="pmc-search-form" autocomplete="off" role="search">
+<label class="usa-sr-only" for="pmc-search">Search PMC Full-Text Archive</label>
+<span class="autoComplete_wrapper flex-1">
+<input class="usa-input width-full maxw-none" required="required" placeholder="Search PMC Full-Text Archive" id="pmc-search"  type="search" name="term" data-autocomplete-url="https://pmc.ncbi.nlm.nih.gov/autocomp/search/autocomp/"/>
+</span>
+<button
+class="usa-button"
+type="submit"
+formaction="https://pmc.ncbi.nlm.nih.gov/search/"
+data-ga-category="search"
+data-ga-action="PMC"
+data-ga-label="PMC_search_button"
+>
+<span class="usa-search__submit-text">Search in PMC</span>
+<img
+src="/static/img/usa-icons-bg/search--white.svg"
+class="usa-search__submit-icon"
+alt="Search"
+/>
+</button>
+</form>
+            <div class="display-flex flex-column tablet:flex-row tablet:flex-justify flex-justify-center flex-align-center width-full desktop:maxw-44">
+                <ul class="pmc-header__search__menu">
+                    <li>
+                        
+                            <a class="usa-link" href="/journals/" data-ga-action="featured_link" data-ga-label="journal list">
+                                Journal List
+                            </a>
+                        
+                    </li>
+                    <li>
+                        
+                            <a class="usa-link" href="/about/userguide/" data-ga-action="featured_link"
+                            data-ga-label="user guide">
+                                User Guide
+                            </a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+        
+        
+
+       
+  <div class="usa-section padding-top-0 desktop:padding-top-6 pmc-article-section" data-article-db="pmc" data-article-id="7541926">
+
+    
+
+   
+
+
+
+<div class="grid-container pmc-actions-bar" aria-label="Actions bar" role="complementary">
+    <div class="grid-row">
+        <div class="grid-col-fill display-flex">
+             <div class="display-flex">
+                <ul class="usa-list usa-list--unstyled usa-list--horizontal">
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <button
+                                type="button"
+                                class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                                aria-label="Open resources"
+                                data-extra-class="is-visible-resources"
+                                data-ga-category="resources_accordion"
+                                data-ga-action="click"
+                                data-ga-label="mobile_icon"
+                        >
+                            <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                                <use xlink:href="/static/img/sprite.svg#more_vert"></use>
+                            </svg>
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <a
+                                href="https://doi.org/10.3746/pnf.2020.25.3.263"
+                                class="usa-link display-flex usa-tooltip"
+                                role="button"
+                                target="_blank"
+                                rel="noreferrer noopener"
+                                title="View on publisher site"
+                                data-position="bottom"
+                                aria-label="View on publisher site"
+                                data-ga-category="actions"
+                                data-ga-action="click"
+                                data-ga-label="publisher_link_mobile"
+                        >
+                                <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                                    <use xlink:href="/static/img/sprite.svg#launch"></use>
+                                </svg>
+                        </a>
+                    </li>
+                    
+                    
+                        <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                             <a
+                                     href="pdf/PNFS-25-263.pdf"
+                                     class="usa-link display-flex usa-tooltip"
+                                     role="button"
+                                     title="Download PDF"
+                                     data-position="bottom"
+                                     aria-label="Download PDF"
+                                     data-ga-category="actions"
+                                     data-ga-action="click"
+                                     data-ga-label="pdf_download_mobile"
+                             >
+                                <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                                    <use xlink:href="/static/img/sprite.svg#file_download"></use>
+                                </svg>
+                            </a>
+                        </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button
+                            class="usa-button usa-button--unstyled  usa-tooltip collections-dialog-trigger collections-button display-flex collections-button-empty"
+                            title="Add to Collections"
+                            data-position="bottom"
+                            aria-label="Save article in MyNCBI collections."
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="collections_button_mobile"
+                            data-collections-open-dialog-enabled="false"
+                            data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC7541926%2F%23open-collections-dialog"
+                            data-in-collections="false"
+                        >
+                            <svg class="usa-icon width-4 height-4 usa-icon--bookmark-full" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/action-bookmark-full.svg#icon"></use>
+                            </svg>
+                            <svg class="usa-icon width-4 height-4 usa-icon--bookmark-empty" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/action-bookmark-empty.svg#icon"></use>
+                            </svg>
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button role="button" class="usa-button usa-button--unstyled usa-tooltip citation-dialog-trigger display-flex"
+                            aria-label="Open dialog with citation text in different styles"
+                            title="Cite"
+                            data-position="bottom"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="cite_mobile"
+                            data-all-citations-url="/resources/citations/7541926/"
+                            data-citation-style="nlm"
+                            data-download-format-link="/resources/citations/7541926/export/"
+                        >
+                            <svg class="usa-icon width-4 height-4 usa-icon--bookmark-empty" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/sprite.svg#format_quote"></use>
+                            </svg>
+                        </button>
+                    </li>
+                    
+                    <li class="pmc-permalink display-flex" >
+                         <button
+                                 type="button"
+                                 title="Permalink"
+                                 data-position="bottom"
+                                 class="usa-button usa-button--unstyled display-flex usa-tooltip"
+                                 aria-label="Show article permalink"
+                                 aria-expanded="false"
+                                 aria-haspopup="true"
+                                 data-ga-category="actions"
+                                 data-ga-action="open"
+                                 data-ga-label="permalink_mobile"
+                         >
+                            <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                                <use xlink:href="/static/img/sprite.svg#share"></use>
+                            </svg>
+                        </button>
+                        
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC7541926/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#content_copy"></use>
+                  </svg>
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+                    </li>
+                </ul>
+            </div>
+            <button
+                    type="button"
+                    class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                    aria-label="Open article navigation"
+                    data-extra-class="is-visible-in-page"
+                    data-ga-category="actions"
+                    data-ga-action="open"
+                    data-ga-label="article_nav_mobile"
+            >
+                <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#list"></use>
+                </svg>
+            </button>
+        </div>
+    </div>
+</div>
+    <div class="grid-container desktop:padding-left-6">
+      <div id="article-container" class="grid-row grid-gap">
+        <div class="grid-col-12 desktop:grid-col-8 order-2 pmc-layout__content">
+            <div class="grid-container padding-left-0 padding-right-0">
+                <div class="grid-row desktop:margin-left-neg-6">
+                    <div class="grid-col-12">
+                        <div class="pmc-layout__disclaimer" role="complementary" aria-label="Disclaimer note">
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.<br/>
+    Learn more:
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="Disclaimer" data-ga-label="New disclaimer box" href="/about/disclaimer/">PMC Disclaimer</a>
+    |
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="PMC Copyright Notice" data-ga-label="New disclaimer box" href="/about/copyright/">
+        PMC Copyright Notice
+    </a>
+</div>
+                    </div>
+                </div>
+                <div class="grid-row pmc-wm desktop:margin-left-neg-6">
+                    <!-- Main content -->
+                    <main
+                      id="main-content"
+                      class="usa-layout-docs__main usa-layout-docs grid-col-12 pmc-layout pmc-prose padding-0"
+                    >
+
+                      
+                        <section class="pmc-journal-banner text-center line-height-none" aria-label="Journal banner"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-pnfs.gif" alt="Preventive Nutrition and Food Science logo" usemap="#pmc-banner-imagemap" width="500" height="75"><map name="pmc-banner-imagemap"><area alt="Link to Preventive Nutrition and Food Science" title="Link to Preventive Nutrition and Food Science" shape="default" href="http://www.pnfs.or.kr/" target="_blank" rel="noopener noreferrer"></map></section><article lang="en"><section aria-label="Article citation and metadata"><section class="pmc-layout__citation font-secondary font-xs"><div>
+<div class="display-inline-block"><button type="button" class="cursor-pointer text-no-underline bg-transparent border-0 padding-0 text-left margin-0 text-normal text-primary" aria-controls="journal_context_menu">Prev Nutr Food Sci</button></div>. 2020 Sep 30;25(3):263–271. doi: <a href="https://doi.org/10.3746/pnf.2020.25.3.263" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">10.3746/pnf.2020.25.3.263</a>
+</div>
+<nav id="journal_context_menu" hidden="hidden"><ul class="menu-list font-family-ui" role="menu">
+<li role="presentation"><a href="https://pmc.ncbi.nlm.nih.gov/search/?term=%22Prev%20Nutr%20Food%20Sci%22%5Bjour%5D" class="usa-link" role="menuitem">Search in PMC</a></li>
+<li role="presentation"><a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Prev%20Nutr%20Food%20Sci%22%5Bjour%5D" lang="en" class="usa-link" role="menuitem">Search in PubMed</a></li>
+<li role="presentation"><a href="https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Prev%20Nutr%20Food%20Sci%22%5BTitle%20Abbreviation%5D" class="usa-link" role="menuitem">View in NLM Catalog</a></li>
+<li role="presentation"><a href="?term=%22Prev%20Nutr%20Food%20Sci%22%5Bjour%5D" class="usa-link" role="menuitem" data-add-to-search="true">Add to search</a></li>
+</ul></nav></section><section class="front-matter"><div class="ameta p font-secondary font-xs">
+<hgroup><h1>Investigation of Anthocyanidins and Anthocyanins for Targeting α-Glucosidase in Diabetes Mellitus</h1></hgroup><div class="cg p">
+<a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Promyos%20N%22%5BAuthor%5D" class="usa-link" aria-describedby="id1"><span class="name western">Natnicha Promyos</span></a><div hidden="hidden" id="id1">
+<h3><span class="name western">Natnicha Promyos</span></h3>
+<div class="p">
+<sup>1</sup>Institute of Nutrition, Mahidol University, Phutthamonthon, Nakhon Pathom 73170, Thailand</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Promyos%20N%22%5BAuthor%5D" class="usa-link"><span class="name western">Natnicha Promyos</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Temviriyanukul%20P%22%5BAuthor%5D" class="usa-link" aria-describedby="id2"><span class="name western">Piya Temviriyanukul</span></a><div hidden="hidden" id="id2">
+<h3><span class="name western">Piya Temviriyanukul</span></h3>
+<div class="p">
+<sup>1</sup>Institute of Nutrition, Mahidol University, Phutthamonthon, Nakhon Pathom 73170, Thailand</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Temviriyanukul%20P%22%5BAuthor%5D" class="usa-link"><span class="name western">Piya Temviriyanukul</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Suttisansanee%20U%22%5BAuthor%5D" class="usa-link" aria-describedby="id3"><span class="name western">Uthaiwan Suttisansanee</span></a><div hidden="hidden" id="id3">
+<h3><span class="name western">Uthaiwan Suttisansanee</span></h3>
+<div class="p">
+<sup>1</sup>Institute of Nutrition, Mahidol University, Phutthamonthon, Nakhon Pathom 73170, Thailand</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Suttisansanee%20U%22%5BAuthor%5D" class="usa-link"><span class="name western">Uthaiwan Suttisansanee</span></a>
+</div>
+</div>
+<sup>1,</sup><sup>✉</sup>
+</div>
+<ul class="d-buttons inline-list">
+<li><button class="d-button" aria-controls="aip_a" aria-expanded="false">Author information</button></li>
+<li><button class="d-button" aria-controls="anp_a" aria-expanded="false">Article notes</button></li>
+<li><button class="d-button" aria-controls="clp_a" aria-expanded="false">Copyright and License information</button></li>
+</ul>
+<div class="d-panels font-secondary-light">
+<div id="aip_a" class="d-panel p" style="display: none">
+<div class="p" id="aff1">
+<sup>1</sup>Institute of Nutrition, Mahidol University, Phutthamonthon, Nakhon Pathom 73170, Thailand</div>
+<div class="author-notes p">
+<div class="fn" id="cor1">
+<sup>✉</sup><p class="display-inline">
+Correspondence to Uthaiwan Suttisansanee, Tel: +11-66-2800-2380 ext. 422, E-mail: <span>uthaiwan.sut@mahidol.ac.th</span></p>
+</div>
+<div class="fn" id="fn1"><p>Author information: Natnicha Promyos (Graduate Student), Piya Temviriyanukul (Instructor), Uthaiwan Suttisansanee (Instructor)</p></div>
+</div>
+</div>
+<div id="anp_a" class="d-panel p" style="display: none"><div class="notes p"><section id="historyarticle-meta1" class="history"><p>Received 2020 Jan 22; Accepted 2020 May 27; Issue date 2020 Sep 30.</p></section></div></div>
+<div id="clp_a" class="d-panel p" style="display: none">
+<div>Copyright © 2020 by The Korean Society of Food Science and Nutrition. All rights Reserved.</div>
+<p>This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<a href="http://creativecommons.org/licenses/by-nc/4.0" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">http://creativecommons.org/licenses/by-nc/4.0</a>) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</p>
+<div class="p"><a href="/about/copyright/" class="usa-link">PMC Copyright notice</a></div>
+</div>
+</div>
+<div>PMCID: PMC7541926  PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33083375/" class="usa-link">33083375</a>
+</div>
+</div></section></section><section aria-label="Article content"><section class="body main-article-body"><section class="abstract" id="abstract1"><h2>Abstract</h2>
+<p>Anthocyanidins are bioactive compounds found mostly in colored plants and fruits. Consumption of anthocyanidin-rich foods has been shown to reduce the risk of diabetes. However, limited information is available regarding the inhibitory effect and interactions of anthocyanidins on α-glucosidase, the key enzyme that controls diabetes through degrading carbohydrate. Therefore, we used computational docking analysis to investigate the degree and type of inhibition by α-glucosidase, and the structural interactions of enzyme-selected anthocyanidins. The results suggested that anthocyanidins exhibit half maximal inhibitory concentration of 4∼55 μM; the strongest and weakest α-glucosidase inhibitors were delphinidin and malvidin, respectively. Indeed, delphinidin inhibits α-glucosidase in a mixed type, close to non-competitive manner with an inhibitory constant of 78 nM. Addition of a glycoside (glucoside or galactoside) at C3 on the C ring of delphinidin significantly decreased inhibitory activity, and addition of glycosides at C3 on the C ring and C5 on the A ring of delphinidin prevented all inhibitory activity. Molecular docking and free binding energy accurately confirmed the mode of inhibition determined by enzyme kinetics. These data will inform the use of alternative sources of anthocyanidins in functional foods and dietary supplements for prevention of diabetes. The results provide useful information for evaluating possible molecular models using anthocyanins/anthocyanidins as templates and α-glucosidase as the key enzyme in management of diabetes.</p>
+<section id="kwd-group1" class="kwd-group"><p><strong>Keywords:</strong> anthocyanidins, anthocyanins, anti-α-glucosidase activity, enzyme kinetics, molecular docking</p></section></section><section id="sec1"><h2 class="pmc_sec_title">INTRODUCTION</h2>
+<p>Type II diabetes mellitus (DM) is a metabolic disorder correlated with high blood glucose levels (hyperglycemia) due to insulin hormone resistance of β cells in the pancreas (<a href="#ref29" class="usa-link" aria-describedby="ref29">Shrivastava et al., 2013</a>). Numerous treatment options for type II DM are available, including non-pharmacological therapy (e.g. appropriate diet, exercise, weight loss, and lifestyle modification) and pharmacological interventions. The latter focuses on inhibition of enzymes that control carbohydrate degradation, α-amylase, and α-glucosidase (<a href="#ref10" class="usa-link" aria-describedby="ref10">Hui et al., 2009</a>; <a href="#ref20" class="usa-link" aria-describedby="ref20">Nyenwe et al., 2011</a>). Inhibition of these enzymes retards carbohydrate digestion and glucose absorption, which, in turn, reduces the level of postprandial hyperglycemia following a meal, and decreases triglyceride synthesis in adipose tissue, liver, and intestinal walls (<a href="#ref33" class="usa-link" aria-describedby="ref33">van de Laar, 2008</a>; <a href="#ref3" class="usa-link" aria-describedby="ref3">de la Garza et al., 2013</a>). Several medicinal treatments have been proposed from a pharmacological perspective with an effective dose; however, synthetic drugs are expensive, and often have severe side effects with responses dependent on the individual. Therefore, bioactive compounds with potential antidiabetic properties from natural products have recently attracted increasing interest.</p>
+<p>Bioactive compounds derived from plants are generally phenolics, and are defined as phenolic acids, coumarins, flavonoids, and tannins. Among the phenolics, flavonoids are effective anti-α-glucosidase agents with potentially higher half maximal inhibitory concentration (IC<sub>50</sub>) than phenolic acids, coumarins, and tannins (<a href="#ref31" class="usa-link" aria-describedby="ref31">Tadera et al., 2006</a>; <a href="#ref17" class="usa-link" aria-describedby="ref17">Mohamed Sham Shihabudeen et al., 2011</a>; <a href="#ref41" class="usa-link" aria-describedby="ref41">Yin et al., 2014</a>; <a href="#ref44" class="usa-link" aria-describedby="ref44">Zhu et al., 2014</a>). Many previous studies have suggested that consumption of foods containing high levels of flavonoids prevent diabetes through inhibiting α-glucosidase (<a href="#ref1" class="usa-link" aria-describedby="ref1">Bahadoran et al., 2013</a>; <a href="#ref32" class="usa-link" aria-describedby="ref32">Testa et al., 2016</a>). Therefore, flavonoid-rich foods have been predicted to represent a potential new method for management of diabetes with reduced adverse effects and increased economical effectiveness compared with commercial synthetic drugs. Interestingly, the inhibitory effectiveness of flavonoids against α-glucosidase was higher than for α-amylase, suggesting that the former enzyme may be a more practical target for controlling diabetes (<a href="#ref31" class="usa-link" aria-describedby="ref31">Tadera et al., 2006</a>; <a href="#ref17" class="usa-link" aria-describedby="ref17">Mohamed Sham Shihabudeen et al., 2011</a>; <a href="#ref41" class="usa-link" aria-describedby="ref41">Yin et al., 2014</a>; <a href="#ref44" class="usa-link" aria-describedby="ref44">Zhu et al., 2014</a>).</p>
+<p>Anthocyanidins are a subclass of flavonoids. The most commonly consumed anthocyanidins are cyanidin, delphinidin, malvidin, pelargonidin, peonidin, and petunidin, found in foods such as berries and red fruits (<a href="#ref15" class="usa-link" aria-describedby="ref15">Miguel, 2011</a>). Compared with other flavonoids, cyanidin is an effective anti-α-glucosidase agent (<a href="#ref31" class="usa-link" aria-describedby="ref31">Tadera et al., 2006</a>). Glycosylation of anthocyanidins forms anthocyanins. Anthocyanins with 3-glucosides, such as cyanidin-3-glucosides, are the main anthocyanins found in berries (<a href="#ref2" class="usa-link" aria-describedby="ref2">Chaves et al., 2018</a>). However, the ability of anthocyanins to inhibit α-glucosidase is decreased by glycosylation, and by substitution of different types of sugar (<a href="#ref35" class="usa-link" aria-describedby="ref35">Wang et al., 2010</a>; <a href="#ref40" class="usa-link" aria-describedby="ref40">Xu et al., 2018</a>). Previous studies indicated that a high intake of anthocyanidins and anthocyanin-rich fruits (e.g. berries, grapes, blackcurrants, apples, and cowpeas) was associated with lower risk of type II DM (<a href="#ref11" class="usa-link" aria-describedby="ref11">Jenkins et al., 2011</a>; <a href="#ref36" class="usa-link" aria-describedby="ref36">Wedick et al., 2012</a>). Results from animal models also suggested that plant extracts rich in anthocyanidins reduce high blood glucose levels and decrease hemoglobin A1c by enhancing insulin secretion and improving insulin resistance (<a href="#ref42" class="usa-link" aria-describedby="ref42">Zang et al., 2016</a>). Specifically, cyanidin-3-glucoside was reported to reduce diabetes-associated hyperlipidemia in mouse fibroblast 3T3-L1 cells by suppressing hexosamine biosynthesis, FoxO1 and adipose triglyceride pathways (<a href="#ref7" class="usa-link" aria-describedby="ref7">Guo et al., 2012</a>). In addition, delphinidin was shown to decrease glucose absorption <em>via</em> the free fatty acid receptor-1 dependent pathway in human intestinal cell lines (<a href="#ref9" class="usa-link" aria-describedby="ref9">Hidalgo et al., 2017</a>). Thus, anthocyanins and anthocyanidins have potential to be used as nutritional bioactive compounds with therapeutic antidiabetic properties.</p>
+<p>Limited information is available on the inhibitory activity of anthocyanidins on α-glucosidase, and on the inhibitory modes of anthocyanidins and their glycoside forms (anthocyanins). Thus, we investigated the inhibitory effects of anthocyanidins and their glycosides on α-glucosidase, including IC<sub>50</sub>, inhibitory constant (<em>K</em><sub>i</sub>), mode of inhibition, and structural interactions (molecular docking). Since high anthocyanidin contents are present in berries, strawberries, cherries, grapes, raspberries, red wine, tea, and fruit peel with dark pigments, the results of this research will be useful for development of functional foods with high anthocyanidin contents. Moreover, through using enzyme-inhibitor structural analysis, we described the molecular interactions between anthocyanidins as the templates and α-glucosidase as the key enzyme in type II DM prevention and treatment.</p></section><section id="sec2"><h2 class="pmc_sec_title">MATERIALS AND METHODS</h2>
+<section id="sec3"><h3 class="pmc_sec_title">Chemicals and reagents</h3>
+<p>The enzyme [<em>Saccharomyces cerevisiae</em> (<em>S. cerevisiae</em>) α-glucosidase (type 1, ≥10 unit/mg)] and substrate [<em>p</em>-nitrophenyla-D-glucopyranoside (<em>p</em>NPG)] were sourced from Sigma-Aldrich Co. (St. Louis, MO, USA). Standards, including cyanidin chloride (≥95%), malvidin chloride (≥ 95%), pelargonidin chloride (≥98%), peonidin chloride (≥95%), delphinidin chloride (≥95%), and petunidin chloride (≥98%), were purchased from Sigma-Aldrich Co.. Delphin chloride (≥97%), delphinidin-3-galactoside chloride (≥95%), and delphinidin-3-glucoside chloride (≥95%) were purchased from Extrasynthese (Genay, Lyon, France).</p></section><section id="sec4"><h3 class="pmc_sec_title">Enzyme assays for α-glucosidase inhibitory activity</h3>
+<p>Inhibition of α-glucosidase was assessed in assays containing 5 μL of anthocyanins/anthocyanidins (various concentrations), 10 μL of <em>S. cerevisiae</em> α-glucosidase (0.01 U/mL), 25 μL of <em>p</em>NPG (1.25 mM) in 160 μL of 50 mM KPB (pH 6). The reaction was monitored at a wavelength of 405 nm at 37°C for 30 min using a Synergy<sup>TM</sup> HT 96-well UV-visible microplate reader with a Gen5 data analysis software program (BioTek Instruments, Inc., Winooski, VT, USA). Result was calculated as a percentage of inhibitory activity using the following equation:</p>
+<table class="disp-formula p" id="M1"><tr><td class="formula"><math id="M4" display="block"><mrow><mrow><mi>Inhibition</mi><mo></mo><mo stretchy="false">(</mo><mo>%</mo><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>−</mo><mfrac><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>oB</mi></mrow></msub><mo>-</mo><msub><mrow><mi>V</mi></mrow><mrow><mi>ob</mi></mrow></msub></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>oA</mi></mrow></msub><mo>-</mo><msub><mrow><mi>V</mi></mrow><mrow><mi>oa</mi></mrow></msub></mrow></mfrac><mo>×</mo><mn>100</mn></mrow></mrow></math></td></tr></table>
+<p>where <em>V</em><sub>oA</sub> is the initial velocity of the control reaction with enzyme (control), <em>V</em><sub>oa</sub> is the initial velocity of the control reaction without enzyme (control blank), <em>V</em><sub>oB</sub> is the initial velocity of the enzyme reaction with sample, and <em>V</em><sub>ob</sub> is the initial velocity of the reaction with sample but without enzyme (sample blank).</p>
+<p>The efficiency of anthocyanins and anthocyanidins for inhibiting α-glucosidase was determined by the IC<sub>50</sub>, analyzed using a dose-response plot of anthocyanins/anthocyanidins versus percentage of inhibition using a Graph-Pad Prism (version 5.00) for Windows (GraphPad Software, San Diego, CA, USA, <a href="https://www.graphpad.com" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">www.graphpad.com</a>).</p></section><section id="sec5"><h3 class="pmc_sec_title">Enzyme kinetics of α-glucosidase inhibitory activity</h3>
+<p>The <em>K</em><sub>i</sub> and mode of inhibition for inhibition of <em>S. cerevisiae</em> α-glucosidase (0.01 U/mL) by anthocyanins/anthocyanidins were determined using with 10 different concentrations of <em>p</em>NPG (0.1∼1.2 mM) in 50 mM KPB (pH 6). Assays were performed using the 96-well microplate reader as mentioned previously. Investigation of the kinetic behaviours of anthocyanins/anthocyanidins on α-glucosidase was performed using the Michaelis-Menten equation with a least squares fit parameter using the GraphPad Prism (version 5.00) for Windows (GraphPad Software). The Michaelis-Menten equation presents a relationship between substrate concentrations and reaction velocity and is expressed as:</p>
+<table class="disp-formula p" id="disp-formula2"><tr><td class="formula"><math id="M2" display="block"><mrow><mrow><mi>V</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>max</mi></mrow></msub><mo stretchy="false">[</mo><mi>S</mi><mo stretchy="false">]</mo></mrow><mrow><msub><mrow><mi>K</mi></mrow><mrow><mi>m</mi></mrow></msub><mo>+</mo><mo stretchy="false">[</mo><mi>S</mi><mo stretchy="false">]’</mo></mrow></mfrac></mrow></mrow></math></td></tr></table>
+<p>where <em>V</em> is the initial velocity of the reaction, <em>V</em><sub>max</sub> is the maximum velocity of reaction rate obtained with excess substrate and saturated enzyme, <em>K</em><sub>m</sub> is the Michaelis-Menten constant indicating a binding affinity of enzyme and substrate at 50% of the reaction rate, and <em>S</em> is the concentration of substrate.</p>
+<p>The Lineweaver-Burk plot was generated using Graph-Pad Prism (version 5.00) for Windows by plotting the inverse of substrate concentration and reaction velocity to determine <em>V</em><sub>max</sub> and <em>K</em><sub>m</sub>. The intercept on the y-axis represents 1/<em>V</em><sub>max</sub>, the intercept on the X-axis indicates −1/<em>K</em><sub>m</sub>, and the slope is <em>K</em><sub>m</sub>/<em>V</em><sub>max</sub>. The Lineweaver-Burk plot is expressed as:</p>
+<table class="disp-formula p" id="M3"><tr><td class="formula"><math id="M5" display="block"><mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>V</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>max</mi></mrow></msub></mrow></mfrac><mo>+</mo><mfrac><mrow><msub><mrow><mi>K</mi></mrow><mrow><mi>m</mi></mrow></msub></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>max</mi></mrow></msub></mrow></mfrac><mo>×</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mo stretchy="false">[</mo><mi>S</mi><mo stretchy="false">]</mo></mrow></mfrac></mrow></mrow></math></td></tr></table>
+<p>Conversely, a Lineweaver-Burk double reciprocal plot was transformed from the Michaelis-Menten equation to determine the mode of inhibition. <em>K</em><sub>i</sub> was determined by the slope of the Lineweaver-Burk double reciprocal plot and the concentrations of anthocyanins and anthocyanidins.</p></section><section id="sec6"><h3 class="pmc_sec_title">Molecular docking</h3>
+<p>The X-ray crystallographic structure of α-glucosidase was retrieved from the Protein Data Bank (<a href="http://www.rcsb.org/pdb" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">http://www.rcsb.org/pdb</a>). Several human α-glucosidases, including the intestinal N-terminal maltase glucoamylase (PDB ID: 2QMJ), the C-terminal maltase glucoamylase (PDB ID: 3TOP), and the N-terminal sucrose isomaltase (PDB ID: 3LPP), have been submitted to and are available on the protein database. These proteins have been used for predicting binding interactions using molecular docking analysis in previous studies (<a href="#ref27" class="usa-link" aria-describedby="ref27">Shang et al., 2013</a>; <a href="#ref22" class="usa-link" aria-describedby="ref22">Priscilla et al., 2014</a>; <a href="#ref5" class="usa-link" aria-describedby="ref5">Flores-Bocanegra et al., 2015</a>; <a href="#ref43" class="usa-link" aria-describedby="ref43">Zhang et al., 2016</a>). The results showed that the N-terminal maltase gluco-amylase shared high structural similarity with the C-terminal maltase glucoamylase and the N-terminal sucrose isomaltase. Interestingly, the N-terminal maltase gluco-amylase was the most selective molecular model for studying α-glucosidase inhibition (<a href="#ref19" class="usa-link" aria-describedby="ref19">Naumov, 2007</a>; <a href="#ref24" class="usa-link" aria-describedby="ref24">Quezada-Calvillo et al., 2007</a>). Thus, the human intestinal N-terminal maltase glucoamylase was chosen as the template in this study.</p>
+<p>All water molecules and miscellaneous molecules were removed from the receptor model using the Discovery Studio Client (version 2.5) program from Dassault Systèmes BIOVIA (San Diego, CA, USA) (<a href="#ref16" class="usa-link" aria-describedby="ref16">Mikulic-Petkovsek et al., 2017</a>) to avoid an unclear binding pocket and distorted structural model. Hydrogen atoms and Gasteiger-Huckel charges were then added to the model to generate a stabilized chemical structure. The 3D structures of all flavonoids were downloaded from PubChem (<a href="https://pubchem.ncbi.nlm.nih.gov" class="usa-link" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://pubchem.ncbi.nlm.nih.gov</a>) and computed using Sybyl Molecular Modeling Package (Tripos, Inc., St. Louis, MO, USA) (<a href="#ref34" class="usa-link" aria-describedby="ref34">Vujović et al., 2017</a>). Binding energy was calculated using AutoDockTools (version 4.2, AutoDock, La Jolla, CA, USA) from The Scripps Research Institute (TSRI) (La Jolla, CA, USA) (<a href="#ref18" class="usa-link" aria-describedby="ref18">Morris et al., 2009</a>) to predict the interaction between the α-glucosidase model and anthocyanins/anthocyanidins. The grid box size was 84× 83×81 Å in the x, y, and z dimensions, respectively, with a spacing of 0.375 Å. During this procedure, the genetic algorithm (GA) was set at 30 runs, and the Lamarckian GA was chosen for docking calculations. Analyses were performed using the data collection tool Cygwin Terminal (version 2.8.0) from Cygwin<sup>TM</sup> API library (<a href="https://cygwin.com" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://cygwin.com</a>) (<a href="#ref25" class="usa-link" aria-describedby="ref25">Racine, 2000</a>). Text on molecular docking was edited using a text editor program, EditPlus (version 4.3, ES-Computing, Jinju, Korea, <a href="https://www.editplus.com" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://www.editplus.com</a>). Structural molecular analyses and molecular images were visualized using the UCSF Chimera package (version 1.11.2) from the Resource for Biocomputing, Visualization and Informatics, University of California, San Francisco (supported by NIH P41 RR-01081) (<a href="#ref21" class="usa-link" aria-describedby="ref21">Pettersen et al., 2004</a>), and the PyMOL Molecular Graphics System (version 1.8) from Schrödinger, LLC. (New York, NY, USA) (<a href="https://www.pymol.org" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://www.pymol.org</a>) (<a href="#ref26" class="usa-link" aria-describedby="ref26">Salam et al., 2014</a>). The optimal docked model was selected based on the lowest binding free energy being the most favorable binding on α-glucosidase.</p></section><section id="sec7"><h3 class="pmc_sec_title">Statistical analysis</h3>
+<p>All experiments were carried out in triplicate with data expressed as mean±standard deviation (SD). All statistical analyses were evaluated using SPSS version 19 from IBM Corp. (New York, NY, USA). Unpaired sample <em>t</em>-test was performed to determine the significant differences between IC<sub>50</sub> values of anthocyanins/anthocyanidins and that of acarbose. Significant differences was defined at <em>P</em> &lt;0.05.</p></section></section><section id="sec8"><h2 class="pmc_sec_title">RESULTS AND DISCUSSION</h2>
+<section id="sec9"><h3 class="pmc_sec_title">Inhibition of α-glucosidase</h3>
+<p>Anthocyanidins found in nature include cyanidin, delphinidin, malvidin, pelargonidin, peonidin, and petunidin (<a href="#ref15" class="usa-link" aria-describedby="ref15">Miguel, 2011</a>). These anthocyanidins exhibited IC<sub>50</sub> values against α-glucosidase ranging from 4.11 to 54.69 μM, which are higher than the diabetic drug, acarbose (IC<sub>50</sub> of 0.53±0.06 μM) (<a href="#T1" class="usa-link">Table 1</a>). The inhibitory actions of the anthocyanidins were in the following order of magnitude: delphinidin&gt; cyanidin&gt; petunidin&gt; peonidin&gt; pelargonidin&gt; malvidin. The chemical structure of delphinidin (three hydroxyl moieties on the B ring) caused delphinidin (IC<sub>50</sub> of 4.11±0.49 μM) to exhibit greater inhibitory activity than cyanidin and petunidin (IC<sub>50</sub> of 17.01±1.35 and 30.78±1.17 μM, respectively). Cyanidin and petunidin both have two hydroxyl moieties, which suggests that the presence of more hydroxyl moieties at C-3’, C-4’, and C-5’ of the B ring promotes inhibitory activity (<a href="#T1" class="usa-link">Table 1</a> and <a href="#F1" class="usa-link">Fig. 1</a>). The hydroxyl moieties at C-3’ and C-4’ of the B ring of cyanidin exhibited higher inhibitory activity than hydroxyl moieties at the C-4’ and C-5’ of the B ring of petunidin (<a href="#T1" class="usa-link">Table 1</a> and <a href="#F1" class="usa-link">Fig. 1</a>), suggesting a more significant role of hydroxyl moieties at C-3’ than at C-5’ of the B ring. The significance of hydroxyl moieties was also revealed in the chemical structures of peonidin and petunidin (IC<sub>50</sub> of 36.11±2.72 and 30.78±1.17 μM, respectively). Petunidin (hydroxyl moiety at C-5’ of the B ring) exhibited higher inhibitory activity than peonidin (no hydroxyl moiety at this position) (<a href="#T1" class="usa-link">Table 1</a> and <a href="#F1" class="usa-link">Fig. 1</a>). Replacement of hydroxyl moieties with meth-oxyl groups decreased inhibitory activity, as observed in malvidin (IC<sub>50</sub> of 54.69±2.14 μM) (<a href="#T1" class="usa-link">Table 1</a>). Malvidin is composed of two methoxyl moieties at C-3’ and C-5’ of the B ring, and exhibited lower inhibitory activity than petunidin and peonidin (methoxyl moiety at C-3’) (<a href="#T1" class="usa-link">Table 1</a> and <a href="#F1" class="usa-link">Fig. 1</a>). Pelargonidin, which only has one hydroxyl moiety at C-4’ of the B ring, exhibited lower inhibitory activity than delphinidin, cyaniding, and petunidin, which all have two or three hydroxyl moieties in the B ring (<a href="#T1" class="usa-link">Table 1</a> and <a href="#F1" class="usa-link">Fig. 1</a>). However, peonidin (methoxyl moiety at C-3’) exhibited higher inhibitory activity than pelargonidin (IC<sub>50</sub> of 50.35±4.00 μM) with hydrogen at C-3’. However, compared with malvidin (two methoxyl moieties at C-3’ and C-5’), pelargonidin exhibited greater inhibitory activity, suggesting that the presence of a methoxyl moiety at C-5’ decreased the inhibitory activity to a greater extent than when the methoxyl moiety is at the C-3’ position. The presence of methoxylation and hydroxylation also increased the inhibition of α-glucosidase. Previous studies have indicated that hydroxylation of the B ring of the flavonoid structure increases the inhibitory potential (IC<sub>50</sub>) on α-glucosidase (<a href="#ref13" class="usa-link" aria-describedby="ref13">Kim et al., 2006</a>; <a href="#ref39" class="usa-link" aria-describedby="ref39">Xiao and Högger, 2015</a>). Indeed, the presence of more hydroxyl groups enhanced inhibition of α-glucosidase (<a href="#ref6" class="usa-link" aria-describedby="ref6">Gao and Kawabata, 2004</a>). However, the presence of methoxyl groups reduced inhibition of α-glucosidase (<a href="#ref38" class="usa-link" aria-describedby="ref38">Xiao et al., 2013</a>).</p>
+<section class="tw xbox font-sm" id="T1"><h4 class="obj_head">Table 1.</h4>
+<div class="caption p"><p>Effect of anthocyanidins, anthocyanins and acarbose on <em>Saccharomyces cerevisiae</em> α-glucosidase half maximal inhibitory concentrations (IC<sub>50</sub>), inhibition constants (<em>K</em><sub>i</sub>), and modes of inhibition</p></div>
+<div class="tbl-box p" tabindex="0"><table class="content" frame="hsides" rules="groups">
+<thead><tr>
+<th valign="middle" align="center" rowspan="1" colspan="1">Compounds</th>
+<th valign="middle" align="center" rowspan="1" colspan="1">IC<sub>50</sub> (μM)</th>
+<th valign="middle" align="center" rowspan="1" colspan="1">
+<em>K</em><sub>i</sub> (μM)</th>
+<th valign="middle" align="center" rowspan="1" colspan="1">Mode of inhibition</th>
+</tr></thead>
+<tbody>
+<tr>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Anthocyanidins</td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Pelargonidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">50.35±4.00</td>
+<td valign="top" align="center" rowspan="1" colspan="1">31.36</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Mixed type, close to non-competitive</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Cyanidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">17.01±1.35</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2.43</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Mixed type, close to non-competitive</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Peonidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">36.11±2.72</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1.23</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Non-competitive</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Delphinidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4.11±0.49</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0.078</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Mixed type, close to non-competitive</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Petunidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">30.78±1.17</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1.52</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Competitive</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Malvidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">54.69±2.14</td>
+<td valign="top" align="center" rowspan="1" colspan="1">35.89</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Mixed type, close to non-competitive</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Anthocyanins</td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Delphinidin-3-glucoside</td>
+<td valign="top" align="center" rowspan="1" colspan="1">364.32±15.19</td>
+<td valign="top" align="center" rowspan="1" colspan="1">59.83</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Mixed type, close to non-competitive</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Delphinidin-3-galactoside</td>
+<td valign="top" align="center" rowspan="1" colspan="1">368.87±13.81</td>
+<td valign="top" align="center" rowspan="1" colspan="1">98.69</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Mixed type, close to non-competitive</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Delphin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">ND</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Synthetic drug</td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Acarbose</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0.53±0.06</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0.069</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Competitive</td>
+</tr>
+</tbody>
+</table></div>
+<div class="p text-right font-secondary"><a href="table/T1/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<div class="tw-foot p">
+<div class="fn" id="t1fn1"><p>Values are presented as mean±SD of three replications (n=3).</p></div>
+<div class="fn" id="t1fn2"><p>Significant differences between the IC<sub>50</sub> values of anthocyanins/anthocyanidins and that of acarbose were reported using unpaired sample <em>t</em>-test (<em>P</em>&lt;0.05).</p></div>
+<div class="fn" id="t1fn3"><p>ND, not detected.</p></div>
+</div></section><figure class="fig xbox font-sm" id="F1"><h4 class="obj_head">Fig. 1.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7541926_PNFS-25-263-f1.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/58b3/7541926/45feb64bdac9/PNFS-25-263-f1.jpg" loading="lazy" height="492" width="699" alt="Fig. 1"></a></p>
+<div class="p text-right font-secondary"><a href="figure/F1/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Chemical structures of anthocyanins and anthocyanidins used in this experiment.</p></figcaption></figure><p>Since delphinidin exhibited the highest inhibitory activity with the lowest IC<sub>50</sub> value, we further investigated its glycosides. Results suggested that all the glycosides (delphinidin-3-glucoside, delphinidin-3-galactoside, and delphin) were poorer inhibitors of α-glucosidase than delphinidin (<a href="#T1" class="usa-link">Table 1</a>). Substitution of sugar moieties (glucose and galactose) at C3 on the C ring of delphinidin weakened the inhibitory effect on α-glucosidase. This was indicated by increased IC<sub>50</sub> values (delphinidin-3-glucoside, 364.32±15.19 μM; delphinidin-3-galactoside, 368.87 ±13.81 μM). Furthermore, delphinidin-3,5-diglucoside (delphin) was the weakest inhibitor of α-glucosidase since no inhibitory action was observed (<a href="#T1" class="usa-link">Table 1</a>). These results imply that replacement of the hydroxyl group at C3 of the C ring by either glucose or galactose moieties lowered its potential for α-glucosidase inhibition. Moreover, addition of glucose at C3 of the C ring and C5 of the A ring of the delphinidin skeleton drastically decreased the inhibition of α-glucosidase, suggesting that steric hindrance of bulky structures negatively effects binding interactions between delphinidin glycosides and α-glucosidase.</p>
+<p>A previous study showed that glycosylation of the flavonoid skeleton decreased inhibition of α-glucosidase (<a href="#ref35" class="usa-link" aria-describedby="ref35">Wang et al., 2010</a>). The inhibitory activity was decreased to a greater extent with a larger number of glycoside substitutions on flavonoids (i.e. polyglycoside vs. monoglycoside residues) (<a href="#ref14" class="usa-link" aria-describedby="ref14">Kim et al., 2000</a>). The increase in bulkiness and polarity of the chemical structure causes a steric effect, which tends to possess a non-planar structure, thus reducing the favorable binding interactions between the flavonoids and α-glucosidase (<a href="#ref37" class="usa-link" aria-describedby="ref37">Xiao et al., 2010</a>). Other studies have indicated that the inhibitory activity of flavonoid glycosylation on α-glucosidase depended on the type, position, molecular size, and polarity of the sugar moiety, which is consistent with the results of our present study on anthocyanins and anthocyanidins (<a href="#ref12" class="usa-link" aria-describedby="ref12">Kawabata et al., 2003</a>; <a href="#ref28" class="usa-link" aria-describedby="ref28">Shibano et al., 2008</a>; <a href="#ref4" class="usa-link" aria-describedby="ref4">Fan et al., 2010</a>; <a href="#ref38" class="usa-link" aria-describedby="ref38">Xiao et al., 2013</a>).</p></section><section id="sec10"><h3 class="pmc_sec_title">Enzyme kinetics and mode of inhibition</h3>
+<p>Enzyme kinetics (<a href="#T1" class="usa-link">Table 1</a>) revealed that acarbose and petunidin behaved as competitive inhibitors of α-glucosidase, suggesting that the inhibitors competed with the substrate for the active site of the enzyme. Therefore, the inhibitor blocked the substrate from reaching the active site, thereby interfering with enzymatic activity. This finding was consistent with a previous report that indicated that acarbose inhibits in a competitive manner (<a href="#ref8" class="usa-link" aria-describedby="ref8">Hansawasdi and Kawabata, 2006</a>). However, peonidin inhibited α-glucosidase in a non-competitive manner (<a href="#T1" class="usa-link">Table 1</a>), indicating binding to either the free enzyme or enzyme-substrate complex. Interactions occurring outside of the active site alter the structure of the enzyme and prevent the substrate from entering the active site. The other anthocyanidins and anthocyanins (with the exception of delphin) inhibited α-glucosidase in mixed-type, close to non-competitive inhibitors manner, suggesting that these compounds bind the free enzymes and enzyme-substrate complexes (<a href="#T1" class="usa-link">Table 1</a>). The type of inhibition could not be determined for delphin (two molecules of glucose attached to C3 of the C ring and C5 of the A ring) due to low inhibitory activity.</p>
+<p>The determination of <em>K</em><sub>i</sub> for the inhibition of α-glucosidase showed that anthocyanidins and anthocyanins had <em>K</em><sub>i</sub> value of the following order of magnitude: delphinidin&lt; peonidin&lt; petunidin&lt; cyanidin&lt; pelargonidin&lt; malvidin&lt; delphinidin-3-glucoside&lt; delphinidin-3-galactoside (<a href="#T1" class="usa-link">Table 1</a>). A smaller <em>K</em><sub>i</sub> implies stronger inhibition or a higher affinity for binding α-glucosidase (tight binding). The <em>K</em><sub>i</sub> value also indicates the effectiveness of ligand binding to the enzyme. Based on these data, delphinidin had the strongest binding to α-glucosidase, whereas delphinidin-3-galactoside had the poorest (<em>K</em><sub>i</sub> of 0.078 μM and 98.69 μM, respectively). This finding was in good agreement with the IC<sub>50</sub> values (delphinidin had the lowest IC<sub>50</sub>, whereas delphinidin-3-galactoside had the highest IC<sub>50</sub>). Interestingly, delphinidin exhibited a similar <em>K</em><sub>i</sub> value as acarbose (<em>K</em><sub>i</sub>=0.069 μM), suggesting delphinidin is an effective anti-α-glucosidase agent.</p></section><section id="sec11"><h3 class="pmc_sec_title">Molecular docking</h3>
+<p>To understand the interactions between anthocyanidins, especially delphinidin, and α-glucosidase, a molecular docking technique was used to investigate docking of enzyme-anthocyanidin interactions, both on the centered macromolecule and the enzyme active site. We used the X-ray crystallographic structure of human intestinal N-terminal maltase glucoamylase as the macromolecule receptor to determine an optimally conformational position of anthocyanidins on α-glucosidase. Molecular docking was predicted by the scores of the lowest binding free energy to indicate potential interactions between anthocyanidins and α-glucosidase.</p>
+<p>The docking results indicated that enzyme-anthocyanidins interactions throughout the macromolecule were not the same as interactions at the active site. A previous report suggested that docking analysis of the competitive inhibitor, acarbose, on the N-terminal subunit of maltase glucoamylase occurred between the catalytic triad (Asp327, Asp443, and Asp542) and active site residues (Thr205 and Arg526) (<a href="#ref30" class="usa-link" aria-describedby="ref30">Sim et al., 2008</a>). Similar results were observed in our experiment (<a href="#T2" class="usa-link">Table 2</a>). However, the interaction between acarbose and the enzyme active site differed from that between acarbose and the entire enzyme, during which acarbose preferred forming hydrogen bonds with Gln272, Gln275, Asp649, His657, Glu658, Asp697, and Arg730 of the enzyme. Considering the chemical structure of acarbose on human α-glucosidase, the interaction mostly occurred through the hydroxyl moieties of acarbose (<a href="#ref38" class="usa-link" aria-describedby="ref38">Xiao et al., 2013</a>; <a href="#ref23" class="usa-link" aria-describedby="ref23">Proença et al., 2017</a>). The mode of inhibition of acarbose, the competitive inhibitor, corresponded with the free binding energy. Indeed, the free binding energy of docking to the whole enzyme (−0.91 kcal/mol) was higher than that of docking into the enzyme active site (−2.98 kcal/mol) (<a href="#T2" class="usa-link">Table 2</a>). Therefore, acarbose likely accessed the catalytic pocket of α-glucosidase and formed interactions with the active-site residues rather than interacting away from the active site.</p>
+<section class="tw xbox font-sm" id="T2"><h4 class="obj_head">Table 2.</h4>
+<div class="caption p"><p>Structural interactions between different anthocyanidins/anthocyanins and <em>Saccharomyces cerevisiae</em> α-glucosidase</p></div>
+<div class="tbl-box p" tabindex="0"><table class="content" frame="hsides" rules="groups">
+<thead>
+<tr>
+<th rowspan="3" valign="middle" align="center" colspan="1">Compounds</th>
+<th colspan="2" valign="middle" align="center" rowspan="1">Interactions centered on macromolecules</th>
+<th rowspan="3" valign="middle" align="center" colspan="1"></th>
+<th colspan="2" valign="middle" align="center" rowspan="1">Interactions centered on active sites</th>
+</tr>
+<tr>
+<th colspan="2" valign="middle" align="center" rowspan="1"><hr></th>
+<th colspan="2" valign="middle" align="center" rowspan="1"><hr></th>
+</tr>
+<tr>
+<th valign="middle" align="center" rowspan="1" colspan="1">EFBE (kcal/mol)</th>
+<th valign="middle" align="center" rowspan="1" colspan="1">Interactions with enzyme</th>
+<th valign="middle" align="center" rowspan="1" colspan="1">EFBE (kcal/mol)</th>
+<th valign="middle" align="center" rowspan="1" colspan="1">Interactions with enzyme</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Anthocyanidins</td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Pelargonidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−7.14</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Phe535, Asp777, Thr778, Val779</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−4.69</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Asp327, Asp366, Asp542</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Cyanidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−8.60</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">His645, Val779</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−8.18</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Asp443, Asp542, Tyr605</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Peonidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−6.02</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Ile523, Asp777, Thr778</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−6.40</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Asp203, Asp327, Ser448</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Delphinidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−9.00</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Arg520, Ser521, Ile523, Phe535, Asp777, Thr778</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−8.38</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Asp443, Arg526, Asp542, Gln603, Tyr605</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Petunidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−8.12</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Lys513, Arg520, Lys534, Phe535</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−7.98</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Asp327, Asp443, Asp542, Tyr605</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Malvidin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−6.53</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Ser288, Ile523, Lys776, Asp777</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−3.97</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Arg202, Asp203, Arg526</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Anthocyanins</td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Delphinidin-3-glucoside</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−4.71</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Pro17, Gln19, Ser40, Val41, Arg471</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−5.91</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Asp203, Asp327, Asp443, Arg526, Asp542, Gln603</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Delphinidin-3-galactoside</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−4.35</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Pro17, Gln19, Ser40, Val41, Arg471</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−5.32</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Asp203, Asp327, Asp443, Asp542, Tyr605</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Delphin</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−3.75</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Ser40, Val41, Thr196, Arg254, Arg471</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−2.60</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Asp203, Thr205, Asp327, Asp542, Gln603</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Synthetic drug</td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1"></td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+</tr>
+<tr>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1">Acarbose</td>
+<td valign="top" align="center" rowspan="1" colspan="1">−0.91</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Gln272, Gln275, Asp649, His657, Glu658, Asp697, Arg730</td>
+<td valign="top" align="left" style="padding-left:20px; text-indent:-10px;" rowspan="1" colspan="1"></td>
+<td valign="top" align="center" rowspan="1" colspan="1">−2.98</td>
+<td valign="top" align="left" style="padding-left:10px; text-indent:-10px;" rowspan="1" colspan="1">Thr205, Asp327, Asp443, Asp542, Arg526</td>
+</tr>
+</tbody>
+</table></div>
+<div class="p text-right font-secondary"><a href="table/T2/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<div class="tw-foot p"><div class="fn" id="t2fn1"><p>Estimated free binding energy (EFBE) and interactions with enzyme ligands are presented for interactions centered on whole macromolecules and the enzyme active sites.</p></div></div></section><p>Structural prediction of molecular docking in the centered macromolecule of the enzyme to create a flexible binding mode indicated free binding energy scores ranging from −9.00 kcal/mol to −6.02 kcal/mol (<a href="#T2" class="usa-link">Table 2</a>). Molecular docking analysis showed that delphinidin exhibited the lowest estimated free binding energy (−9.00 kcal/mol), suggesting that this anthocyanidin has potential to form strong interactions with α-glucosidase. The results from our molecular docking analysis, especially the estimated free binding energy, correspond with results from enzyme kinetics, suggesting delphinidin with the lowest <em>K</em><sub>i</sub> and IC<sub>50</sub> values is a strong α-glucosidase inhibitor. Our structural predictions indicated that delphinidin forms six hydrogen bonds with enzyme residues located outside of the active site (<a href="#F2" class="usa-link">Fig. 2</a>). Indeed, the hydrogen atom on the hydroxyl moiety at C-3’ of the B ring interacts with oxygen atoms of the backbone carboxyl moiety of Phe535, while the oxygen atom at the C-4’ hydroxyl moiety directly interacts with hydrogen atoms on the backbone amine moiety of Ile523. In addition, the hydrogen atom of the C-5’ hydroxyl moiety of the B ring interacts with oxygen atoms of the backbone carboxyl moieties of Arg520 and Ser521, while oxygen atoms on the hydroxyl moieties at C-5 and C-7 of the A ring interact with hydrogen atoms of the backbone amine moieties of Asp777 and Thr778, respectively.</p>
+<figure class="fig xbox font-sm" id="F2"><h4 class="obj_head">Fig. 2.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7541926_PNFS-25-263-f2.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/58b3/7541926/c960504c5ef8/PNFS-25-263-f2.jpg" loading="lazy" height="392" width="788" alt="Fig. 2"></a></p>
+<div class="p text-right font-secondary"><a href="figure/F2/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Schematic diagram of delphinidin docking to the centered macromolecule of human intestinal N-terminal maltase glucoamylase (PDB: 2QMJ). Potential interactions with enzyme residues are shown with dashed lines.</p></figcaption></figure><p>Structural prediction of molecular docking into the catalytic pocket of the enzyme indicated free binding energy scores ranging from −8.38 kcal/mol to −3.97 kcal /mol (<a href="#T2" class="usa-link">Table 2</a>). Again, delphinidin had the lowest estimated free binding energy, and was predicted to form hydrogen bonds with enzyme residues inside the active site <em>via</em> Asp443, Arg526, Asp542, Gln603, and Tyr605 (<a href="#F3" class="usa-link">Fig. 3</a>). Two catalytic residues from the catalytic triad of human intestinal N-terminal maltase glucoamylase were present as Asp443 and Asp542, whereas one catalytic residue, Asp327, was missing from the structural interactions. The distance of this ligand from delphinidin was greater than 3 Å, thus we predicted no interaction was formed. This result indicates that the hydrogen atom of C-3’ hydroxyl moiety of the B ring directly interacts with the side chain carbonyl of Gln603, while hydrogen atoms of the C-4’ and C-5’ hydroxyl moieties interact with the η-hydroxyl side chain of Tyr605. The hydrogen atom of the C-3 hydroxyl moiety of the C ring interacts with the oxygen atom on the γ-acidic side chain of Asp542. Moreover, the hydrogen atom of the C-5 hydroxyl moiety of the A ring interacts with the γ-acidic side chain of Asp443, whereas its oxygen atom interacts with the side chain η<sup>1</sup>-amine of Arg526.</p>
+<figure class="fig xbox font-sm" id="F3"><h4 class="obj_head">Fig. 3.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7541926_PNFS-25-263-f3.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/58b3/7541926/72305cafa743/PNFS-25-263-f3.jpg" loading="lazy" height="331" width="760" alt="Fig. 3"></a></p>
+<div class="p text-right font-secondary"><a href="figure/F3/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Schematic diagram of delphinidin docking into the catalytic pocket of human intestinal N-terminal maltase glucoamylase (PDB: 2QMJ). Potential interactions with enzyme residues are shown with dashed lines.</p></figcaption></figure><p>Through determining the free binding energy of delphinidin docking into the centered macromolecule and the catalytic pocket of the enzyme, we showed that delphinidin preferred to bind at a site far away from the active site of α-glucosidase (−9.00 kcal/mol) rather than within the active site (−8.38 kcal/mol). Interestingly, the free binding energy was in agreement with our kinetic results that indicated delphinidin is a mixed-type, close to non-competitive α-glucosidase inhibitor. Based on these results, we concluded that delphinidin prefers to interact with either the free enzyme or the enzyme-substrate complex, thus interfering with the enzyme-substrate intermediate. In addition, molecular docking analysis confirmed that delphinidin acts as a mixed-type inhibition as it interacts with enzyme residues in the region of the enzyme located far away from the active sites. The structure-activity relationship suggests that 3’, 4’, and 5’ trihydroxyl moieties on the B ring play important roles in the inhibitory activity of delphinidin as these trihydroxyl moieties form hydrogen bonds with α-glucosidase. Moreover, the presence of the hydroxyl group may be essential to maintain interactions between delphinidin and α-glucosidase, which retard the entrance of substrates into the enzyme active site.</p>
+<p>These data suggest that delphinidin is a potent α-glucosidase mixed-type, close to non-competitive inhibitor. Therefore, delphinidin shows potential as an effective anti-α-glucosidase agent and future diabetic drug. However, its bioaccessibility, toxicity and ability to inhibit α-glucosidase activity <em>in vitro</em> and <em>in vivo</em> are currently unknown.</p></section></section><section id="ack1" class="ack"><h2 class="pmc_sec_title">ACKNOWLEDGEMENTS</h2>
+<p>Financial support throughout this graduate study for a Master Degree of Food and Nutritional Toxicology was received from the Institute of Nutrition, Mahidol University, Nakhon Pathom, Thailand.</p></section><section id="fn-group1" class="fn-group"><h2 class="pmc_sec_title">Footnotes</h2>
+<div class="fn-group p font-secondary-light font-sm"><div class="fn p" id="fn2">
+<p><strong>AUTHOR DISCLOSURE STATEMENT</strong></p>
+<p>The authors declare no conflict of interest.</p>
+</div></div></section><section id="ref-list1" class="ref-list"><h2 class="pmc_sec_title">References</h2>
+<section id="ref-list1_sec2"><ol class="ref-list font-sm">
+<li id="ref1">
+<cite>Bahadoran Z, Mirmiran P, Azizi F. Dietary polyphenols as potential nutraceuticals in management of diabetes: a review. J Diabetes Metab Disord. 2013;12:43. doi: 10.1186/2251-6581-12-43. <a href="https://doi.org/10.1186/2251-6581-12-43" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://doi.org/10.1186/2251-6581-12-43</a> .</cite> [<a href="https://doi.org/10.1186/2251-6581-12-43" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7968452/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23938049/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Diabetes%20Metab%20Disord&amp;title=Dietary%20polyphenols%20as%20potential%20nutraceuticals%20in%20management%20of%20diabetes:%20a%20review&amp;author=Z%20Bahadoran&amp;author=P%20Mirmiran&amp;author=F%20Azizi&amp;volume=12&amp;publication_year=2013&amp;pages=43&amp;pmid=23938049&amp;doi=10.1186/2251-6581-12-43&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref2">
+<cite>Chaves VC, Boff L, Vizzotto M, Calvete E, Reginatto FH, Simões CM. Berries grown in Brazil: anthocyanin profiles and biological properties. J Sci Food Agric. 2018;98:4331–4338. doi: 10.1002/jsfa.8959.</cite> [<a href="https://doi.org/10.1002/jsfa.8959" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29430645/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Sci%20Food%20Agric&amp;title=Berries%20grown%20in%20Brazil:%20anthocyanin%20profiles%20and%20biological%20properties&amp;author=VC%20Chaves&amp;author=L%20Boff&amp;author=M%20Vizzotto&amp;author=E%20Calvete&amp;author=FH%20Reginatto&amp;volume=98&amp;publication_year=2018&amp;pages=4331-4338&amp;pmid=29430645&amp;doi=10.1002/jsfa.8959&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref3">
+<cite>de la Garza AL, Etxeberria U, Lostao MP, San Román B, Barrenetxe J, Martínez JA, et al.  Helichrysum and grapefruit extracts inhibit carbohydrate digestion and absorption, improving postprandial glucose levels and hyperinsulinemia in rats. J Agric Food Chem. 2013;61:12012–12019. doi: 10.1021/jf4021569.</cite> [<a href="https://doi.org/10.1021/jf4021569" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24261475/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Agric%20Food%20Chem&amp;title=Helichrysum%20and%20grapefruit%20extracts%20inhibit%20carbohydrate%20digestion%20and%20absorption,%20improving%20postprandial%20glucose%20levels%20and%20hyperinsulinemia%20in%20rats&amp;author=AL%20de%20la%20Garza&amp;author=U%20Etxeberria&amp;author=MP%20Lostao&amp;author=B%20San%20Rom%C3%A1n&amp;author=J%20Barrenetxe&amp;volume=61&amp;publication_year=2013&amp;pages=12012-12019&amp;pmid=24261475&amp;doi=10.1021/jf4021569&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref4">
+<cite>Fan P, Terrier L, Hay AE, Marston A, Hostettmann K. Antioxidant and enzyme inhibition activities and chemical profiles of Polygonum sachalinensis F. Schmidt ex Maxim (Polygonaceae) Fitoterapia. 2010;81:124–131. doi: 10.1016/j.fitote.2009.08.019.</cite> [<a href="https://doi.org/10.1016/j.fitote.2009.08.019" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19698767/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Fitoterapia&amp;title=Antioxidant%20and%20enzyme%20inhibition%20activities%20and%20chemical%20profiles%20of%20Polygonum%20sachalinensis%20F.%20Schmidt%20ex%20Maxim%20(Polygonaceae)&amp;author=P%20Fan&amp;author=L%20Terrier&amp;author=AE%20Hay&amp;author=A%20Marston&amp;author=K%20Hostettmann&amp;volume=81&amp;publication_year=2010&amp;pages=124-131&amp;pmid=19698767&amp;doi=10.1016/j.fitote.2009.08.019&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref5">
+<cite>Flores-Bocanegra L, Pérez-Vásquez A, Torres-Piedra M, Bye R, Linares E, Mata R. α-Glucosidase inhibitors from Vauquelinia corymbosa. Molecules. 2015;20:15330–15342. doi: 10.3390/molecules200815330.</cite> [<a href="https://doi.org/10.3390/molecules200815330" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6332183/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26307962/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Molecules&amp;title=%CE%B1-Glucosidase%20inhibitors%20from%20Vauquelinia%20corymbosa&amp;author=L%20Flores-Bocanegra&amp;author=A%20P%C3%A9rez-V%C3%A1squez&amp;author=M%20Torres-Piedra&amp;author=R%20Bye&amp;author=E%20Linares&amp;volume=20&amp;publication_year=2015&amp;pages=15330-15342&amp;pmid=26307962&amp;doi=10.3390/molecules200815330&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref6">
+<cite>Gao H, Kawabata J. Importance of the B ring and its substitution on the alpha-glucosidase inhibitory activity of baicalein, 5,6,7-trihydroxyflavone. Biosci Biotechnol Biochem. 2004;68:1858– 1864. doi: 10.1271/bbb.68.1858.</cite> [<a href="https://doi.org/10.1271/bbb.68.1858" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/15388960/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Biosci%20Biotechnol%20Biochem&amp;title=Importance%20of%20the%20B%20ring%20and%20its%20substitution%20on%20the%20alpha-glucosidase%20inhibitory%20activity%20of%20baicalein,%205,6,7-trihydroxyflavone&amp;author=H%20Gao&amp;author=J%20Kawabata&amp;volume=68&amp;publication_year=2004&amp;pages=1858-1864&amp;pmid=15388960&amp;doi=10.1271/bbb.68.1858&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref7">
+<cite>Guo H, Guo J, Jiang X, Li Z, Ling W. Cyanidin-3-Ob-glucoside, a typical anthocyanin, exhibits antilipolytic effects in 3T3-L1 adipocytes during hyperglycemia: involvement of FoxO1-mediated transcription of adipose triglyceride lipase. Food Chem Toxicol. 2012;50:3040–3047. doi: 10.1016/j.fct.2012.06.015.</cite> [<a href="https://doi.org/10.1016/j.fct.2012.06.015" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/22721980/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Food%20Chem%20Toxicol&amp;title=Cyanidin-3-Ob-glucoside,%20a%20typical%20anthocyanin,%20exhibits%20antilipolytic%20effects%20in%203T3-L1%20adipocytes%20during%20hyperglycemia:%20involvement%20of%20FoxO1-mediated%20transcription%20of%20adipose%20triglyceride%20lipase&amp;author=H%20Guo&amp;author=J%20Guo&amp;author=X%20Jiang&amp;author=Z%20Li&amp;author=W%20Ling&amp;volume=50&amp;publication_year=2012&amp;pages=3040-3047&amp;pmid=22721980&amp;doi=10.1016/j.fct.2012.06.015&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref8">
+<cite>Hansawasdi C, Kawabata J. α-Glucosidase inhibitory effect of mulberry (Morus alba) leaves on Caco-2. Fitoterapia. 77:568–573. doi: 10.1016/j.fitote.2006.09.003.</cite> [<a href="https://doi.org/10.1016/j.fitote.2006.09.003" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/17071014/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Fitoterapia&amp;title=%CE%B1-Glucosidase%20inhibitory%20effect%20of%20mulberry%20(Morus%20alba)%20leaves%20on%20Caco-2&amp;author=C%20Hansawasdi&amp;author=J%20Kawabata&amp;volume=77&amp;pages=568-573&amp;pmid=17071014&amp;doi=10.1016/j.fitote.2006.09.003&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref9">
+<cite>Hidalgo J, Teuber S, Morera FJ, Ojeda C, Flores CA, Hidalgo MA, et al.  Delphinidin reduces glucose uptake in mice jejunal tissue and human intestinal cells lines through FFA1/GPR40. Int J Mol Sci. 2017;18:750. doi: 10.3390/ijms18040750. <a href="https://doi.org/10.3390/ijms18040750" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://doi.org/10.3390/ijms18040750</a> .</cite> [<a href="https://doi.org/10.3390/ijms18040750" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5412335/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28379159/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Mol%20Sci&amp;title=Delphinidin%20reduces%20glucose%20uptake%20in%20mice%20jejunal%20tissue%20and%20human%20intestinal%20cells%20lines%20through%20FFA1/GPR40&amp;author=J%20Hidalgo&amp;author=S%20Teuber&amp;author=FJ%20Morera&amp;author=C%20Ojeda&amp;author=CA%20Flores&amp;volume=18&amp;publication_year=2017&amp;pages=750&amp;pmid=28379159&amp;doi=10.3390/ijms18040750&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref10">
+<cite>Hui H, Tang G, Go VL. Hypoglycemic herbs and their action mechanisms. Chin Med. 2009;4:11. doi: 10.1186/1749-8546-4-11. <a href="https://doi.org/10.1186/1749-8546-4-11" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://doi.org/10.1186/1749-8546-4-11</a> .</cite> [<a href="https://doi.org/10.1186/1749-8546-4-11" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2704217/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19523223/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Chin%20Med&amp;title=Hypoglycemic%20herbs%20and%20their%20action%20mechanisms&amp;author=H%20Hui&amp;author=G%20Tang&amp;author=VL%20Go&amp;volume=4&amp;publication_year=2009&amp;pages=11&amp;pmid=19523223&amp;doi=10.1186/1749-8546-4-11&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref11">
+<cite>Jenkins DJ, Srichaikul K, Kendall CW, Sievenpiper JL, Abdulnour S, Mirrahimi A, et al.  The relation of low glycaemic index fruit consumption to glycaemic control and risk factors for coronary heart disease in type 2 diabetes. Diabetologia. 2011;54:271– 279. doi: 10.1007/s00125-010-1927-1.</cite> [<a href="https://doi.org/10.1007/s00125-010-1927-1" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3017317/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/20978741/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Diabetologia&amp;title=The%20relation%20of%20low%20glycaemic%20index%20fruit%20consumption%20to%20glycaemic%20control%20and%20risk%20factors%20for%20coronary%20heart%20disease%20in%20type%202%20diabetes&amp;author=DJ%20Jenkins&amp;author=K%20Srichaikul&amp;author=CW%20Kendall&amp;author=JL%20Sievenpiper&amp;author=S%20Abdulnour&amp;volume=54&amp;publication_year=2011&amp;pages=271-279&amp;pmid=20978741&amp;doi=10.1007/s00125-010-1927-1&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref12">
+<cite>Kawabata J, Mizuhata K, Sato E, Nishioka T, Aoyama Y, Kasai T. 6-Hydroxyflavonoids as α-glucosidase inhibitors from marjoram (Origanum majorana) leaves. Biosci Biotechnol Biochem. 2003;67:445–447. doi: 10.1271/bbb.67.445.</cite> [<a href="https://doi.org/10.1271/bbb.67.445" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/12729019/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Biosci%20Biotechnol%20Biochem&amp;title=6-Hydroxyflavonoids%20as%20%CE%B1-glucosidase%20inhibitors%20from%20marjoram%20(Origanum%20majorana)%20leaves&amp;author=J%20Kawabata&amp;author=K%20Mizuhata&amp;author=E%20Sato&amp;author=T%20Nishioka&amp;author=Y%20Aoyama&amp;volume=67&amp;publication_year=2003&amp;pages=445-447&amp;pmid=12729019&amp;doi=10.1271/bbb.67.445&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref13">
+<cite>Kim JH, Ryu YB, Kang NS, Lee BW, Heo JS, Jeong IY, et al.  Glycosidase inhibitory flavonoids from Sophora flavescens. Biol Pharm Bull. 2006;29:302–305. doi: 10.1248/bpb.29.302.</cite> [<a href="https://doi.org/10.1248/bpb.29.302" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/16462036/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Biol%20Pharm%20Bull&amp;title=Glycosidase%20inhibitory%20flavonoids%20from%20Sophora%20flavescens&amp;author=JH%20Kim&amp;author=YB%20Ryu&amp;author=NS%20Kang&amp;author=BW%20Lee&amp;author=JS%20Heo&amp;volume=29&amp;publication_year=2006&amp;pages=302-305&amp;pmid=16462036&amp;doi=10.1248/bpb.29.302&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref14">
+<cite>Kim JS, Kwon CS, Son KH. Inhibition of alpha-glucosidase and amylase by luteolin, a flavonoid. Biosci Biotechnol Biochem. 2000;64:2458–2461. doi: 10.1271/bbb.64.2458.</cite> [<a href="https://doi.org/10.1271/bbb.64.2458" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/11193416/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Biosci%20Biotechnol%20Biochem&amp;title=Inhibition%20of%20alpha-glucosidase%20and%20amylase%20by%20luteolin,%20a%20flavonoid&amp;author=JS%20Kim&amp;author=CS%20Kwon&amp;author=KH%20Son&amp;volume=64&amp;publication_year=2000&amp;pages=2458-2461&amp;pmid=11193416&amp;doi=10.1271/bbb.64.2458&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref15">
+<cite>Miguel MG. Anthocyanins: antioxidant and/or anti-inflammatory activities. J Appl Pharm Sci. 2011;1:7–15.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Appl%20Pharm%20Sci&amp;title=Anthocyanins:%20antioxidant%20and/or%20anti-inflammatory%20activities&amp;author=MG%20Miguel&amp;volume=1&amp;publication_year=2011&amp;pages=7-15&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref16">
+<cite>Mikulic-Petkovsek M, Koron D, Zorenc Z, Veberic R. Do optimally ripe blackberries contain the highest levels of metabolites? Food Chem. 2017;215:41–49. doi: 10.1016/j.foodchem.2016.07.144.</cite> [<a href="https://doi.org/10.1016/j.foodchem.2016.07.144" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27542448/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Food%20Chem&amp;title=Do%20optimally%20ripe%20blackberries%20contain%20the%20highest%20levels%20of%20metabolites?&amp;author=M%20Mikulic-Petkovsek&amp;author=D%20Koron&amp;author=Z%20Zorenc&amp;author=R%20Veberic&amp;volume=215&amp;publication_year=2017&amp;pages=41-49&amp;pmid=27542448&amp;doi=10.1016/j.foodchem.2016.07.144&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref17">
+<cite>Mohamed Sham Shihabudeen H, Hansi Priscilla D, Thirumurugan K. Cinnamon extract inhibits α-glucosidase activity and dampens postprandial glucose excursion in diabetic rats. Nutr Metab. 2011;8:46. doi: 10.1186/1743-7075-8-46. <a href="https://doi.org/10.1186/1743-7075-8-46" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://doi.org/10.1186/1743-7075-8-46</a> .</cite> [<a href="https://doi.org/10.1186/1743-7075-8-46" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3155477/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/21711570/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nutr%20Metab&amp;title=Cinnamon%20extract%20inhibits%20%CE%B1-glucosidase%20activity%20and%20dampens%20postprandial%20glucose%20excursion%20in%20diabetic%20rats&amp;author=H%20Mohamed%20Sham%20Shihabudeen&amp;author=D%20Hansi%20Priscilla&amp;author=K%20Thirumurugan&amp;volume=8&amp;publication_year=2011&amp;pages=46&amp;pmid=21711570&amp;doi=10.1186/1743-7075-8-46&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref18">
+<cite>Morris GM, Huey R, Lindstrom W, Sanner MF, Belew RK, Goodsell DS, et al.  AutoDock4 and AutoDockTools4: automated docking with selective receptor flexibility. J Comput Chem. 2009;30:2785–2791. doi: 10.1002/jcc.21256.</cite> [<a href="https://doi.org/10.1002/jcc.21256" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2760638/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19399780/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Comput%20Chem&amp;title=AutoDock4%20and%20AutoDockTools4:%20automated%20docking%20with%20selective%20receptor%20flexibility&amp;author=GM%20Morris&amp;author=R%20Huey&amp;author=W%20Lindstrom&amp;author=MF%20Sanner&amp;author=RK%20Belew&amp;volume=30&amp;publication_year=2009&amp;pages=2785-2791&amp;pmid=19399780&amp;doi=10.1002/jcc.21256&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref19">
+<cite>Naumov DG. Structure and evolution of mammalian maltase-glucoamylase and sucrase-isomaltase genes. Mol Biol. 2007;41:1056–1068. doi: 10.1134/S0026893307060131.</cite> [<a href="https://doi.org/10.1134/S0026893307060131" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/18318124/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Mol%20Biol&amp;title=Structure%20and%20evolution%20of%20mammalian%20maltase-glucoamylase%20and%20sucrase-isomaltase%20genes&amp;author=DG%20Naumov&amp;volume=41&amp;publication_year=2007&amp;pages=1056-1068&amp;pmid=18318124&amp;doi=10.1134/S0026893307060131&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref20">
+<cite>Nyenwe EA, Jerkins TW, Umpierrez GE, Kitabchi AE. Management of type 2 diabetes: evolving strategies for the treatment of patients with type 2 diabetes. Metabolism. 2011;60:1–23. doi: 10.1016/j.metabol.2010.09.010.</cite> [<a href="https://doi.org/10.1016/j.metabol.2010.09.010" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3746516/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/21134520/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Metabolism&amp;title=Management%20of%20type%202%20diabetes:%20evolving%20strategies%20for%20the%20treatment%20of%20patients%20with%20type%202%20diabetes&amp;author=EA%20Nyenwe&amp;author=TW%20Jerkins&amp;author=GE%20Umpierrez&amp;author=AE%20Kitabchi&amp;volume=60&amp;publication_year=2011&amp;pages=1-23&amp;pmid=21134520&amp;doi=10.1016/j.metabol.2010.09.010&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref21">
+<cite>Pettersen EF, Goddard TD, Huang CC, Couch GS, Greenblatt DM, Meng EC, et al.  UCSF Chimera—a visualization system for exploratory research and analysis. J Comput Chem. 2004;25:1605–1612. doi: 10.1002/jcc.20084.</cite> [<a href="https://doi.org/10.1002/jcc.20084" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/15264254/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Comput%20Chem&amp;title=UCSF%20Chimera%E2%80%94a%20visualization%20system%20for%20exploratory%20research%20and%20analysis&amp;author=EF%20Pettersen&amp;author=TD%20Goddard&amp;author=CC%20Huang&amp;author=GS%20Couch&amp;author=DM%20Greenblatt&amp;volume=25&amp;publication_year=2004&amp;pages=1605-1612&amp;pmid=15264254&amp;doi=10.1002/jcc.20084&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref22">
+<cite>Priscilla DH, Roy D, Suresh A, Kumar V, Thirumurugan K. Naringenin inhibits α-glucosidase activity: a promising strategy for the regulation of postprandial hyperglycemia in high fat diet fed streptozotocin induced diabetic rats. Chem Biol Interact. 2014;210:77–85. doi: 10.1016/j.cbi.2013.12.014.</cite> [<a href="https://doi.org/10.1016/j.cbi.2013.12.014" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24412302/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Chem%20Biol%20Interact&amp;title=Naringenin%20inhibits%20%CE%B1-glucosidase%20activity:%20a%20promising%20strategy%20for%20the%20regulation%20of%20postprandial%20hyperglycemia%20in%20high%20fat%20diet%20fed%20streptozotocin%20induced%20diabetic%20rats&amp;author=DH%20Priscilla&amp;author=D%20Roy&amp;author=A%20Suresh&amp;author=V%20Kumar&amp;author=K%20Thirumurugan&amp;volume=210&amp;publication_year=2014&amp;pages=77-85&amp;pmid=24412302&amp;doi=10.1016/j.cbi.2013.12.014&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref23">
+<cite>Proença C, Freitas M, Ribeiro D, Oliveira EFT, Sousa JLC, Tomé SM, et al.  α-Glucosidase inhibition by flavonoids: an in vitro and in silico structure-activity relationship study. J Enzyme Inhib Med Chem. 2017;32:1216–1228. doi: 10.1080/14756366.2017.1368503.</cite> [<a href="https://doi.org/10.1080/14756366.2017.1368503" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6009965/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28933564/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Enzyme%20Inhib%20Med%20Chem&amp;title=%CE%B1-Glucosidase%20inhibition%20by%20flavonoids:%20an%20in%20vitro%20and%20in%20silico%20structure-activity%20relationship%20study&amp;author=C%20Proen%C3%A7a&amp;author=M%20Freitas&amp;author=D%20Ribeiro&amp;author=EFT%20Oliveira&amp;author=JLC%20Sousa&amp;volume=32&amp;publication_year=2017&amp;pages=1216-1228&amp;pmid=28933564&amp;doi=10.1080/14756366.2017.1368503&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref24">
+<cite>Quezada-Calvillo R, Robayo-Torres CC, Opekun AR, Sen P, Ao Z, Hamaker BR, et al.  Contribution of mucosal maltase-glucoamylase activities to mouse small intestinal starch alpha-glucogenesis. J Nutr. 2007;137:1725–1733. doi: 10.1093/jn/137.7.1725.</cite> [<a href="https://doi.org/10.1093/jn/137.7.1725" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/17585022/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Nutr&amp;title=Contribution%20of%20mucosal%20maltase-glucoamylase%20activities%20to%20mouse%20small%20intestinal%20starch%20alpha-glucogenesis&amp;author=R%20Quezada-Calvillo&amp;author=CC%20Robayo-Torres&amp;author=AR%20Opekun&amp;author=P%20Sen&amp;author=Z%20Ao&amp;volume=137&amp;publication_year=2007&amp;pages=1725-1733&amp;pmid=17585022&amp;doi=10.1093/jn/137.7.1725&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref25">
+<cite>Racine J. The Cygwin tools: a GNU toolkit for Windows. J Appl Econ. 2000;15:331–341. doi: 10.1002/1099-1255(200005/06)15:3&amp;#x0003c;331::AID-JAE558&amp;#x0003e;3.0.CO;2-G.</cite> [<a href="https://doi.org/10.1002/1099-1255(200005/06)15:3&amp;#x0003c;331::AID-JAE558&amp;#x0003e;3.0.CO;2-G" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Appl%20Econ&amp;title=The%20Cygwin%20tools:%20a%20GNU%20toolkit%20for%20Windows&amp;author=J%20Racine&amp;volume=15&amp;publication_year=2000&amp;pages=331-341&amp;doi=10.1002/1099-1255(200005/06)15:3&amp;#x0003c;331::AID-JAE558&amp;#x0003e;3.0.CO;2-G&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref26">
+<cite>Salam NK, Adzhigirey M, Sherman W, Pearlman DA. Structure-based approach to the prediction of disulfide bonds in proteins. Protein Eng Des Sel. 2014;27:365–374. doi: 10.1093/protein/gzu017.</cite> [<a href="https://doi.org/10.1093/protein/gzu017" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24817698/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Protein%20Eng%20Des%20Sel&amp;title=Structure-based%20approach%20to%20the%20prediction%20of%20disulfide%20bonds%20in%20proteins&amp;author=NK%20Salam&amp;author=M%20Adzhigirey&amp;author=W%20Sherman&amp;author=DA%20Pearlman&amp;volume=27&amp;publication_year=2014&amp;pages=365-374&amp;pmid=24817698&amp;doi=10.1093/protein/gzu017&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref27">
+<cite>Shang Q, Xiang J, Zhang H, Li Q, Tang Y. The effect of polyhydroxylated alkaloids on maltase-glucoamylase. PLoS One. 2013;8:e70841.  doi: 10.1371/journal.pone.0070841. <a href="https://doi.org/10.1371/journal.pone.0070841" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://doi.org/10.1371/journal.pone.0070841</a> .</cite> [<a href="https://doi.org/10.1371/journal.pone.0070841" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3742645/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23967118/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=PLoS%20One&amp;title=The%20effect%20of%20polyhydroxylated%20alkaloids%20on%20maltase-glucoamylase&amp;author=Q%20Shang&amp;author=J%20Xiang&amp;author=H%20Zhang&amp;author=Q%20Li&amp;author=Y%20Tang&amp;volume=8&amp;publication_year=2013&amp;pages=e70841&amp;pmid=23967118&amp;doi=10.1371/journal.pone.0070841&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref28">
+<cite>Shibano M, Kakutani K, Taniguchi M, Yasuda M, Baba K. Antioxidant constituents in the dayflower (Commelina communis L.) and their alpha-glucosidase-inhibitory activity. J Nat Med. 2008;62:349–353. doi: 10.1007/s11418-008-0244-1.</cite> [<a href="https://doi.org/10.1007/s11418-008-0244-1" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/18409066/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Nat%20Med&amp;title=Antioxidant%20constituents%20in%20the%20dayflower%20(Commelina%20communis%20L.)%20and%20their%20alpha-glucosidase-inhibitory%20activity&amp;author=M%20Shibano&amp;author=K%20Kakutani&amp;author=M%20Taniguchi&amp;author=M%20Yasuda&amp;author=K%20Baba&amp;volume=62&amp;publication_year=2008&amp;pages=349-353&amp;pmid=18409066&amp;doi=10.1007/s11418-008-0244-1&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref29">
+<cite>Shrivastava SR, Shrivastava PS, Ramasamy J. Role of self-care in management of diabetes mellitus. J Diabetes Metab Disord. 2013;12:14. doi: 10.1186/2251-6581-12-14. <a href="https://doi.org/10.1186/2251-6581-12-14" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://doi.org/10.1186/2251-6581-12-14</a> .</cite> [<a href="https://doi.org/10.1186/2251-6581-12-14" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3599009/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23497559/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Diabetes%20Metab%20Disord&amp;title=Role%20of%20self-care%20in%20management%20of%20diabetes%20mellitus&amp;author=SR%20Shrivastava&amp;author=PS%20Shrivastava&amp;author=J%20Ramasamy&amp;volume=12&amp;publication_year=2013&amp;pages=14&amp;pmid=23497559&amp;doi=10.1186/2251-6581-12-14&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref30">
+<cite>Sim L, Quezada-Calvillo R, Sterchi EE, Nichols BL, Rose DR. Human intestinal maltase-glucoamylase: crystal structure of the N-terminal catalytic subunit and basis of inhibition and substrate specificity. J Mol Biol. 2008;375:782–792. doi: 10.1016/j.jmb.2007.10.069.</cite> [<a href="https://doi.org/10.1016/j.jmb.2007.10.069" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/18036614/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Mol%20Biol&amp;title=Human%20intestinal%20maltase-glucoamylase:%20crystal%20structure%20of%20the%20N-terminal%20catalytic%20subunit%20and%20basis%20of%20inhibition%20and%20substrate%20specificity&amp;author=L%20Sim&amp;author=R%20Quezada-Calvillo&amp;author=EE%20Sterchi&amp;author=BL%20Nichols&amp;author=DR%20Rose&amp;volume=375&amp;publication_year=2008&amp;pages=782-792&amp;pmid=18036614&amp;doi=10.1016/j.jmb.2007.10.069&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref31">
+<cite>Tadera K, Minami Y, Takamatsu K, Matsuoka T. Inhibition of alpha-glucosidase and alpha-amylase by flavonoids. J Nutr Sci Vitaminol. 2006;52:149–153. doi: 10.3177/jnsv.52.149.</cite> [<a href="https://doi.org/10.3177/jnsv.52.149" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/16802696/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Nutr%20Sci%20Vitaminol&amp;title=Inhibition%20of%20alpha-glucosidase%20and%20alpha-amylase%20by%20flavonoids&amp;author=K%20Tadera&amp;author=Y%20Minami&amp;author=K%20Takamatsu&amp;author=T%20Matsuoka&amp;volume=52&amp;publication_year=2006&amp;pages=149-153&amp;pmid=16802696&amp;doi=10.3177/jnsv.52.149&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref32">
+<cite>Testa R, Bonfigli AR, Genovese S, De Nigris V, Ceriello A. The possible role of flavonoids in the prevention of diabetic complications. Nutrients. 2016;8:310. doi: 10.3390/nu8050310. <a href="https://doi.org/10.3390/nu8050310" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://doi.org/10.3390/nu8050310</a> .</cite> [<a href="https://doi.org/10.3390/nu8050310" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4882722/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27213445/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nutrients&amp;title=The%20possible%20role%20of%20flavonoids%20in%20the%20prevention%20of%20diabetic%20complications&amp;author=R%20Testa&amp;author=AR%20Bonfigli&amp;author=S%20Genovese&amp;author=V%20De%20Nigris&amp;author=A%20Ceriello&amp;volume=8&amp;publication_year=2016&amp;pages=310&amp;pmid=27213445&amp;doi=10.3390/nu8050310&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref33">
+<cite>van de Laar FA. Alpha-glucosidase inhibitors in the early treatment of type 2 diabetes. Vasc Health Risk Manag. 2008;4:1189– 1195. doi: 10.2147/VHRM.S3119.</cite> [<a href="https://doi.org/10.2147/VHRM.S3119" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2663450/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19337532/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Vasc%20Health%20Risk%20Manag&amp;title=Alpha-glucosidase%20inhibitors%20in%20the%20early%20treatment%20of%20type%202%20diabetes&amp;author=FA%20van%20de%20Laar&amp;volume=4&amp;publication_year=2008&amp;pages=1189-1195&amp;pmid=19337532&amp;doi=10.2147/VHRM.S3119&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref34">
+<cite>Vujović T, Ružić Đ, Cerović R, Leposavić A, Karaklajić-Stajić Ž, Mitrović O, et al.  An assessment of the genetic integrity of micropropagated raspberry and blackberry plants. Sci Hortic. 2017;225:454–461. doi: 10.1016/j.scienta.2017.07.020.</cite> [<a href="https://doi.org/10.1016/j.scienta.2017.07.020" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Sci%20Hortic&amp;title=An%20assessment%20of%20the%20genetic%20integrity%20of%20micropropagated%20raspberry%20and%20blackberry%20plants&amp;author=T%20Vujovi%C4%87&amp;author=%C4%90%20Ru%C5%BEi%C4%87&amp;author=R%20Cerovi%C4%87&amp;author=A%20Leposavi%C4%87&amp;author=%C5%BD%20Karaklaji%C4%87-Staji%C4%87&amp;volume=225&amp;publication_year=2017&amp;pages=454-461&amp;doi=10.1016/j.scienta.2017.07.020&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref35">
+<cite>Wang TTY, Schoene NW, Kim YS, Mizuno CS, Rimando AM. Differential effects of resveratrol and its naturally occurring methylether analogs on cell cycle and apoptosis in human androgen-responsive LNCaP cancer cells. Mol Nutr Food Res. 2010;54:335–344. doi: 10.1002/mnfr.200900143.</cite> [<a href="https://doi.org/10.1002/mnfr.200900143" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/20077416/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&amp;title=Differential%20effects%20of%20resveratrol%20and%20its%20naturally%20occurring%20methylether%20analogs%20on%20cell%20cycle%20and%20apoptosis%20in%20human%20androgen-responsive%20LNCaP%20cancer%20cells&amp;author=TTY%20Wang&amp;author=NW%20Schoene&amp;author=YS%20Kim&amp;author=CS%20Mizuno&amp;author=AM%20Rimando&amp;volume=54&amp;publication_year=2010&amp;pages=335-344&amp;pmid=20077416&amp;doi=10.1002/mnfr.200900143&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref36">
+<cite>Wedick NM, Pan A, Cassidy A, Rimm EB, Sampson L, Rosner B, et al.  Dietary flavonoid intakes and risk of type 2 diabetes in US men and women. Am J Clin Nutr. 2012;95:925–933. doi: 10.3945/ajcn.111.028894.</cite> [<a href="https://doi.org/10.3945/ajcn.111.028894" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3302366/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/22357723/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Clin%20Nutr&amp;title=Dietary%20flavonoid%20intakes%20and%20risk%20of%20type%202%20diabetes%20in%20US%20men%20and%20women&amp;author=NM%20Wedick&amp;author=A%20Pan&amp;author=A%20Cassidy&amp;author=EB%20Rimm&amp;author=L%20Sampson&amp;volume=95&amp;publication_year=2012&amp;pages=925-933&amp;pmid=22357723&amp;doi=10.3945/ajcn.111.028894&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref37">
+<cite>Xiao J, Cao H, Wang Y, Yamamoto K, Wei X. Structure-affinity relationship of flavones on binding to serum albumins: effect of hydroxyl groups on ring A. Mol Nutr Food Res. 2010;54:S253–S260. doi: 10.1002/mnfr.200900454.</cite> [<a href="https://doi.org/10.1002/mnfr.200900454" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/20306480/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&amp;title=Structure-affinity%20relationship%20of%20flavones%20on%20binding%20to%20serum%20albumins:%20effect%20of%20hydroxyl%20groups%20on%20ring%20A&amp;author=J%20Xiao&amp;author=H%20Cao&amp;author=Y%20Wang&amp;author=K%20Yamamoto&amp;author=X%20Wei&amp;volume=54&amp;publication_year=2010&amp;pages=S253-S260&amp;pmid=20306480&amp;doi=10.1002/mnfr.200900454&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref38">
+<cite>Xiao J, Kai G, Yamamoto K, Chen X. Advance in dietary polyphenols as α-glucosidases inhibitors: a review on structure-activity relationship aspect. Crit Rev Food Sci Nutr. 2013;53:818– 836. doi: 10.1080/10408398.2011.561379.</cite> [<a href="https://doi.org/10.1080/10408398.2011.561379" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23768145/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Crit%20Rev%20Food%20Sci%20Nutr&amp;title=Advance%20in%20dietary%20polyphenols%20as%20%CE%B1-glucosidases%20inhibitors:%20a%20review%20on%20structure-activity%20relationship%20aspect&amp;author=J%20Xiao&amp;author=G%20Kai&amp;author=K%20Yamamoto&amp;author=X%20Chen&amp;volume=53&amp;publication_year=2013&amp;pages=818-836&amp;pmid=23768145&amp;doi=10.1080/10408398.2011.561379&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref39">
+<cite>Xiao JB, Högger P. Dietary polyphenols and type 2 diabetes: current insights and future perspectives. Curr Med Chem. 2015;22:23–38. doi: 10.2174/0929867321666140706130807.</cite> [<a href="https://doi.org/10.2174/0929867321666140706130807" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/25005188/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Curr%20Med%20Chem&amp;title=Dietary%20polyphenols%20and%20type%202%20diabetes:%20current%20insights%20and%20future%20perspectives&amp;author=JB%20Xiao&amp;author=P%20H%C3%B6gger&amp;volume=22&amp;publication_year=2015&amp;pages=23-38&amp;pmid=25005188&amp;doi=10.2174/0929867321666140706130807&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref40">
+<cite>Xu Y, Xie L, Xie J, Liu Y, Chen W. Pelargonidin-3-O-rutinoside as a novel α-glucosidase inhibitor for improving postprandial hyperglycemia. Chem Commun. 2018;55:39–42. doi: 10.1039/C8CC07985D.</cite> [<a href="https://doi.org/10.1039/C8CC07985D" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30394469/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Chem%20Commun&amp;title=Pelargonidin-3-O-rutinoside%20as%20a%20novel%20%CE%B1-glucosidase%20inhibitor%20for%20improving%20postprandial%20hyperglycemia&amp;author=Y%20Xu&amp;author=L%20Xie&amp;author=J%20Xie&amp;author=Y%20Liu&amp;author=W%20Chen&amp;volume=55&amp;publication_year=2018&amp;pages=39-42&amp;pmid=30394469&amp;doi=10.1039/C8CC07985D&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref41">
+<cite>Yin Z, Zhang W, Feng F, Zhang Y, Kang W. α-Glucosidase inhibitors isolated from medicinal plants. Food Sci Hum Well. 2014;3:136–174. doi: 10.1016/j.fshw.2014.11.003.</cite> [<a href="https://doi.org/10.1016/j.fshw.2014.11.003" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Food%20Sci%20Hum%20Well&amp;title=%CE%B1-Glucosidase%20inhibitors%20isolated%20from%20medicinal%20plants&amp;author=Z%20Yin&amp;author=W%20Zhang&amp;author=F%20Feng&amp;author=Y%20Zhang&amp;author=W%20Kang&amp;volume=3&amp;publication_year=2014&amp;pages=136-174&amp;doi=10.1016/j.fshw.2014.11.003&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref42">
+<cite>Zang Y, Igarashi K, Li Y. Anti-diabetic effects of luteolin and luteolin-7-O-glucoside on KKAy mice. Biosci Biotechnol Biochem. 2016;80:1580–1586. doi: 10.1080/09168451.2015.1116928.</cite> [<a href="https://doi.org/10.1080/09168451.2015.1116928" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27170065/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Biosci%20Biotechnol%20Biochem&amp;title=Anti-diabetic%20effects%20of%20luteolin%20and%20luteolin-7-O-glucoside%20on%20KKAy%20mice&amp;author=Y%20Zang&amp;author=K%20Igarashi&amp;author=Y%20Li&amp;volume=80&amp;publication_year=2016&amp;pages=1580-1586&amp;pmid=27170065&amp;doi=10.1080/09168451.2015.1116928&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref43">
+<cite>Zhang Y, Wang N, Wang W, Wang J, Zhu Z, Li X. Molecular mechanisms of novel peptides from silkworm pupae that inhibit α-glucosidase. Peptides. 2016;76:45–50. doi: 10.1016/j.peptides.2015.12.004.</cite> [<a href="https://doi.org/10.1016/j.peptides.2015.12.004" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26724364/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Peptides&amp;title=Molecular%20mechanisms%20of%20novel%20peptides%20from%20silkworm%20pupae%20that%20inhibit%20%CE%B1-glucosidase&amp;author=Y%20Zhang&amp;author=N%20Wang&amp;author=W%20Wang&amp;author=J%20Wang&amp;author=Z%20Zhu&amp;volume=76&amp;publication_year=2016&amp;pages=45-50&amp;pmid=26724364&amp;doi=10.1016/j.peptides.2015.12.004&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="ref44">
+<cite>Zhu F, Asada T, Sato A, Koi Y, Nishiwaki H, Tamura H. Rosmarinic acid extract for antioxidant, antiallergic, and α-glucosidase inhibitory activities, isolated by supramolecular technique and solvent extraction from Perilla leaves. J Agric Food Chem. 2014;62:885–892. doi: 10.1021/jf404318j.</cite> [<a href="https://doi.org/10.1021/jf404318j" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24400891/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Agric%20Food%20Chem&amp;title=Rosmarinic%20acid%20extract%20for%20antioxidant,%20antiallergic,%20and%20%CE%B1-glucosidase%20inhibitory%20activities,%20isolated%20by%20supramolecular%20technique%20and%20solvent%20extraction%20from%20Perilla%20leaves&amp;author=F%20Zhu&amp;author=T%20Asada&amp;author=A%20Sato&amp;author=Y%20Koi&amp;author=H%20Nishiwaki&amp;volume=62&amp;publication_year=2014&amp;pages=885-892&amp;pmid=24400891&amp;doi=10.1021/jf404318j&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+</ol></section></section></section><footer class="p courtesy-note font-secondary font-sm text-center"><hr class="headless">
+<p>Articles from Preventive Nutrition and Food Science are provided here courtesy of <strong>Korean Society of Food Science and Nutrition (KFN)</strong></p></footer></section></article>
+
+                      
+
+                    </main>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+
+<!-- Secondary navigation placeholder -->
+<div class="pmc-sidenav desktop:grid-col-4 display-flex">
+    <section class="pmc-sidenav__container" aria-label="Article resources and navigation">
+        <button type="button" class="usa-button pmc-sidenav__container__close usa-button--unstyled">
+            <img src="/static/img/usa-icons/close.svg" role="img" alt="Close" />
+        </button>
+    <div class="display-none desktop:display-block">
+       <section class="margin-top-4 desktop:margin-top-0">
+              <h2 class="margin-top-0">ACTIONS</h2>
+           <ul class="usa-list usa-list--unstyled usa-list--actions">
+               
+               <li>
+                     <a
+                             href="https://doi.org/10.3746/pnf.2020.25.3.263"
+                             class="usa-button usa-button--outline width-24 font-xs display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                             target="_blank"
+                             rel="noreferrer noopener"
+                             data-ga-category="actions"
+                             data-ga-action="click"
+                             data-ga-label="publisher_link_desktop"
+                     >
+                         <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img" hidden>
+                            <use xlink:href="/static/img/sprite.svg#launch"></use>
+                         </svg>
+                         <span class="display-inline-flex flex-justify-center flex-1 padding-right-2">View on publisher site</span>
+                     </a>
+               </li>
+               
+               
+               <li>
+                    <a
+                            href="pdf/PNFS-25-263.pdf"
+                            class="usa-button usa-button--outline width-24 display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="pdf_download_desktop"
+                    >
+                         <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img" hidden>
+                            <use xlink:href="/static/img/sprite.svg#file_download"></use>
+                        </svg>
+                        <span class="display-inline-flex flex-justify-center flex-1">PDF (446.1 KB)</span>
+                    </a>
+               </li>
+               
+                
+               <li>
+                   <button role="button" class="usa-button width-24 citation-dialog-trigger display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                        aria-label="Open dialog with citation text in different styles"
+                        data-ga-category="actions"
+                        data-ga-action="open"
+                        data-ga-label="cite_desktop"
+                        data-all-citations-url="/resources/citations/7541926/"
+                        data-citation-style="nlm"
+                        data-download-format-link="/resources/citations/7541926/export/"
+                    >
+                        <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img" hidden>
+                            <use xlink:href="/static/img/sprite.svg#format_quote"></use>
+                        </svg>
+                       <span class="display-inline-flex flex-justify-center flex-1 button-label">Cite</span>
+                    </button>
+               </li>
+                
+               <li>
+
+                        <button class="usa-button width-24 collections-dialog-trigger collections-button display-inline-flex flex-align-center flex-justify-start padding-left-1 collections-button-empty"
+                              aria-label="Save article in MyNCBI collections."
+                              data-ga-category="actions"
+                              data-ga-action="click"
+                              data-ga-label="collections_button_desktop"
+                              data-collections-open-dialog-enabled="false"
+                              data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC7541926%2F%23open-collections-dialog"
+                              data-in-collections="false">
+                            <svg class="usa-icon width-3 height-3 usa-icon--bookmark-full" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/action-bookmark-full.svg#icon"></use>
+                            </svg>
+                            <svg class="usa-icon width-3 height-3 usa-icon--bookmark-empty" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/action-bookmark-empty.svg#icon"></use>
+                            </svg>
+                            <span class="display-inline-flex flex-justify-center flex-1">Collections</span>
+                       </button>
+               </li>
+               <li class="pmc-permalink">
+                    <button
+                            type="button"
+                            class="usa-button width-24 display-inline-flex flex-align-center flex-justify padding-left-1 shadow-none"
+                            aria-label="Show article permalink"
+                            aria-expanded="false"
+                            aria-haspopup="true"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="permalink_desktop"
+                    >
+                         <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img" hidden>
+                            <use xlink:href="/static/img/sprite.svg#share"></use>
+                        </svg>
+                        <span class="display-inline-flex flex-justify-center flex-1 button-label">Permalink</span>
+                    </button>
+                   
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC7541926/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#content_copy"></use>
+                  </svg>
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+               </li>
+           </ul>
+       </section>
+     </div>
+
+        <section class="pmc-resources margin-top-6 desktop:margin-top-4" data-page-path="/articles/PMC7541926/">
+            <h2 class="margin-top-0">RESOURCES</h2>
+            
+                <div class="usa-accordion usa-accordion--multiselectable" data-allow-multiple>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-similar-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_similar_articles"
+                        data-ga-label="/articles/PMC7541926/"
+                        data-action-open="open_similar_articles"
+                        data-action-close="close_similar_articles"
+                        >
+                            Similar articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-similar-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/similar-article-links/33083375/"
+                            
+                    >
+                        
+                    </div>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-cited-by-other-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_cited_by"
+                        data-ga-label="/articles/PMC7541926/"
+                        data-action-open="open_cited_by"
+                        data-action-close="close_cited_by"
+                        >
+                             Cited by other articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-cited-by-other-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/cited-by-links/33083375/"
+                            
+                    >
+                          
+                    </div>
+                    
+                        <h3 class="usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="resources-links-to-ncbi-databases"
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_NCBI_links"
+                            data-ga-label="/articles/PMC7541926/"
+                            data-action-open="open_NCBI_links"
+                            data-action-close="close_NCBI_link"
+                            >
+                                 Links to NCBI Databases
+                            </button>
+                        </h3>
+                        <div
+                                id="resources-links-to-ncbi-databases"
+                                class="usa-accordion__content usa-prose"
+                                data-source-url="/resources/db-links/7541926/"
+                        >
+                        </div>
+                    
+                    
+                </div>
+            
+        </section>
+
+
+        <section
+        class="usa-in-page-nav usa-in-page-nav--wide margin-top-6 desktop:margin-top-4"
+        data-title-text="On this page"
+        data-title-heading-level="h2"
+        data-scroll-offset="0"
+        data-root-margin="-10% 0px -80% 0px"
+        data-main-content-selector="main"
+        data-threshold="1"
+        hidden
+        ></section>
+    </section>
+</div>
+
+
+        
+
+<div class="overlay" role="dialog" aria-label="Citation Dialog" hidden>
+    <div class="dialog citation-dialog" aria-hidden="true">
+        <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+            <h2 class="usa-modal__heading margin-0">Cite</h2>
+             <button type="button" class="usa-button usa-button--unstyled close-overlay text-black width-auto"  tabindex="1">
+                <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#close"></use>
+                </svg>
+             </button>
+        </div>
+
+        
+
+<div class="citation-text-block">
+  <div class="citation-text margin-bottom-2"></div>
+  <ul class="usa-list usa-list--unstyled display-inline-flex flex-justify width-full flex-align-center">
+      <li>
+        <button
+          class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center copy-button dialog-focus"
+          data-ga-category="save_share"
+          data-ga-action="cite"
+          data-ga-label="copy"
+          tabindex="2">
+            <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img">
+                <use xlink:href="/static/img/sprite.svg#content_copy"></use>
+            </svg>
+            <span>Copy</span>
+        </button>
+      </li>
+      <li>
+          <a
+              href="#"
+              role="button"
+              class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center export-button"
+              data-ga-category="save_share"
+              data-ga-action="cite"
+              data-ga-label="download"
+              title="Download a file for external citation management software"
+              tabindex="3">
+                <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#file_download"></use>
+                </svg>
+                <span class="display-none mobile-lg:display-inline">Download .nbib</span>
+                <span class="display-inline mobile-lg:display-none">.nbib</span>
+            </a>
+      </li>
+      <li>
+          
+
+<div class="display-inline-flex flex-align-center">
+  <label class="usa-label margin-top-0">Format:</label>
+  <select aria-label="Format" class="usa-select citation-style-selector padding-1 margin-top-0 border-0 padding-right-4" tabindex="4" >
+    
+      <option data-style-url-name="ama"
+              value="AMA"
+              >
+        AMA
+      </option>
+    
+      <option data-style-url-name="apa"
+              value="APA"
+              >
+        APA
+      </option>
+    
+      <option data-style-url-name="mla"
+              value="MLA"
+              >
+        MLA
+      </option>
+    
+      <option data-style-url-name="nlm"
+              value="NLM"
+              selected="selected">
+        NLM
+      </option>
+    
+  </select>
+</div>
+      </li>
+  </ul>
+</div>
+    </div>
+</div>
+
+        <div class="overlay" role="dialog" hidden>
+  <div id="collections-action-dialog" class="dialog collections-dialog" aria-hidden="true">
+   <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+        <h2 class="usa-modal__heading margin-0">Add to Collections</h2>
+    </div>
+    <div class="collections-action-panel action-panel">
+      
+
+
+<form id="collections-action-dialog-form"
+      class="usa-form maxw-full collections-action-panel-form action-panel-content action-form action-panel-smaller-selectors"
+      data-existing-collections-url="/list-existing-collections/"
+      data-add-to-existing-collection-url="/add-to-existing-collection/"
+      data-create-and-add-to-new-collection-url="/create-and-add-to-new-collection/"
+      data-myncbi-max-collection-name-length="100"
+      data-collections-root-url="https://www.ncbi.nlm.nih.gov/myncbi/collections/">
+
+    <input type="hidden" name="csrfmiddlewaretoken" value="hfdm71zTxgrxXvzj6Kg93quawr65oNZlPFAnCafSj3AKytD34cTKS5x0liQrQORM">
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-new"
+            class="usa-radio__input usa-radio__input--tile collections-new  margin-top-0"
+            name="collections"
+            value="new"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_new" />
+            <label class="usa-radio__label" for="collections-action-dialog-new">Create a new collection</label>
+        </div>
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-existing"
+            class="usa-radio__input usa-radio__input--tile collections-existing"
+            name="collections"
+            value="existing"
+            checked="true"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_existing" />
+            <label class="usa-radio__label" for="collections-action-dialog-existing">Add to an existing collection</label>
+        </div>
+    </fieldset>
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="action-panel-control-wrap new-collections-controls">
+           <label for="collections-action-dialog-add-to-new" class="usa-label margin-top-0">
+                Name your collection
+               <abbr title="required" class="usa-hint usa-hint--required text-no-underline">*</abbr>
+          </label>
+          <input
+            type="text"
+            name="add-to-new-collection"
+            id="collections-action-dialog-add-to-new"
+            class="usa-input collections-action-add-to-new"
+            pattern="[^&quot;&amp;=&lt;&gt;/]*" title="The following characters are not allowed in the Name field: &quot;&amp;=&lt;&gt;/"
+            maxlength=""
+            data-ga-category="collections_button"
+            data-ga-action="create_collection"
+            data-ga-label="non_favorties_collection"
+            required
+          />
+        </div>
+        <div class="action-panel-control-wrap existing-collections-controls">
+             <label for="collections-action-dialog-add-to-existing" class="usa-label margin-top-0">
+                Choose a collection
+              </label>
+              <select id="collections-action-dialog-add-to-existing"
+                      class="usa-select collections-action-add-to-existing"
+                      data-ga-category="collections_button"
+                      data-ga-action="select_collection"
+                      data-ga-label="($('.collections-action-add-to-existing').val() === 'Favorites') ? 'Favorites' : 'non_favorites_collection'">
+              </select>
+              <div class="collections-retry-load-on-error usa-input-error-message selection-validation-message">
+                Unable to load your collection due to an error<br>
+                <a href="#">Please try again</a>
+              </div>
+        </div>
+    </fieldset>
+
+    <div class="display-inline-flex">
+        <button class="usa-button margin-top-0 action-panel-submit"
+            type="submit"
+            data-loading-label="Adding..."
+            data-pinger-ignore
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="add">
+          Add
+        </button>
+        <button class="usa-button usa-button--outline margin-top-0 action-panel-cancel"
+                aria-label="Close 'Add to Collections' panel"
+                ref="linksrc=close_collections_panel"
+                data-ga-category="collections_button"
+                data-ga-action="click"
+                data-ga-label="cancel">
+          Cancel
+        </button>
+    </div>
+</form>
+    </div>
+  </div>
+</div>
+
+        
+
+      </div>
+    </div>
+  </div>
+
+
+
+        
+    
+    
+
+<footer class="ncbi-footer ncbi-dark-background " >
+    
+        <div class="ncbi-footer__icon-section">
+            <div class="ncbi-footer__social-header">
+                Follow NCBI
+            </div>
+
+            <div class="grid-container ncbi-footer__ncbi-social-icons-container">
+                
+                    <a href="https://twitter.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="40"
+                             height="40"
+                             viewBox="0 0 40 40"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on X (formerly known as Twitter)</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.facebook.com/ncbi.nlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="16"
+                             height="29"
+                             focusable="false"
+                             aria-hidden="true"
+                             viewBox="0 0 16 29"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3.8809 21.4002C3.8809 19.0932 3.8809 16.7876 3.8809 14.478C3.8809 14.2117 3.80103 14.1452 3.54278 14.1492C2.53372 14.1638 1.52334 14.1492 0.514288 14.1598C0.302626 14.1598 0.248047 14.0972 0.248047 13.8936C0.256034 12.4585 0.256034 11.0239 0.248047 9.58978C0.248047 9.37013 0.302626 9.30224 0.528931 9.3049C1.53798 9.31688 2.54837 9.3049 3.55742 9.31555C3.80103 9.31555 3.8809 9.26097 3.87957 9.00272C3.87158 8.00565 3.85428 7.00592 3.90753 6.00884C3.97142 4.83339 4.31487 3.73115 5.04437 2.78467C5.93095 1.63318 7.15699 1.09005 8.56141 0.967577C10.5582 0.79319 12.555 0.982221 14.5518 0.927641C14.7102 0.927641 14.7462 0.99287 14.7449 1.13664C14.7449 2.581 14.7449 4.02668 14.7449 5.47104C14.7449 5.67604 14.6517 5.68669 14.4946 5.68669C13.4523 5.68669 12.4113 5.68669 11.3703 5.68669C10.3506 5.68669 9.92057 6.10868 9.90593 7.13904C9.89661 7.7647 9.91525 8.39303 9.89794 9.01869C9.88995 9.26364 9.96583 9.31822 10.2015 9.31688C11.7204 9.30623 13.2393 9.31688 14.7595 9.3049C15.0257 9.3049 15.0723 9.3728 15.0444 9.62439C14.89 10.9849 14.7515 12.3467 14.6144 13.7085C14.5691 14.1571 14.5785 14.1585 14.1458 14.1585C12.8386 14.1585 11.5313 14.1665 10.2254 14.1518C9.95119 14.1518 9.89794 14.2317 9.89794 14.4899C9.90593 19.0799 9.89794 23.6752 9.91125 28.2612C9.91125 28.5674 9.8407 28.646 9.53186 28.6433C7.77866 28.6273 6.02414 28.6366 4.27094 28.634C3.82499 28.634 3.87158 28.6992 3.87158 28.22C3.87602 25.9472 3.87913 23.6739 3.8809 21.4002Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on Facebook</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.linkedin.com/company/ncbinlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="25"
+                             height="23"
+                             viewBox="0 0 26 24"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M14.6983 9.98423C15.6302 9.24808 16.5926 8.74754 17.6762 8.51991C19.673 8.09126 21.554 8.30824 23.1262 9.7526C24.2351 10.7723 24.7529 12.1115 25.0165 13.5612C25.1486 14.3363 25.2105 15.1218 25.2015 15.9081C25.2015 18.3043 25.2015 20.6898 25.2082 23.0806C25.2082 23.3468 25.1549 23.444 24.8621 23.4414C23.1297 23.4272 21.3992 23.4272 19.6704 23.4414C19.4041 23.4414 19.3429 23.3588 19.3442 23.1019C19.3535 20.5194 19.3442 17.9368 19.3442 15.3543C19.3442 14.0005 18.3258 12.9448 17.0266 12.9488C15.7273 12.9528 14.6983 14.0071 14.6983 15.361C14.6983 17.9328 14.6917 20.5047 14.6983 23.0753C14.6983 23.3708 14.6198 23.444 14.3296 23.4427C12.6185 23.4294 10.9079 23.4294 9.19779 23.4427C8.93155 23.4427 8.86099 23.3735 8.86232 23.1086C8.8783 19.7619 8.88628 16.4144 8.88628 13.066C8.88628 11.5688 8.87874 10.0708 8.86365 8.57182C8.86365 8.3575 8.90758 8.27896 9.14054 8.28029C10.9048 8.29094 12.6687 8.29094 14.4321 8.28029C14.6464 8.28029 14.6983 8.34818 14.6983 8.54653C14.6903 9.00047 14.6983 9.45441 14.6983 9.98423Z">
+                            </path>
+                            <path d="M6.55316 15.8443C6.55316 18.2564 6.55316 20.6699 6.55316 23.082C6.55316 23.3629 6.48127 23.4388 6.19906 23.4374C4.47737 23.4241 2.75568 23.4241 1.03399 23.4374C0.767751 23.4374 0.69986 23.3629 0.701191 23.1006C0.709178 18.2648 0.709178 13.4281 0.701191 8.59053C0.701191 8.34026 0.765089 8.27237 1.01669 8.2737C2.74991 8.28435 4.48048 8.28435 6.20838 8.2737C6.47462 8.2737 6.5465 8.33627 6.54517 8.6065C6.54783 11.0186 6.55316 13.4308 6.55316 15.8443Z">
+                            </path>
+                            <path d="M3.65878 0.243898C5.36804 0.243898 6.58743 1.45529 6.58743 3.1406C6.58743 4.75801 5.32145 5.95742 3.60819 5.96807C3.22177 5.97614 2.83768 5.90639 2.47877 5.76299C2.11985 5.61959 1.79344 5.40546 1.51897 5.13334C1.24449 4.86123 1.02755 4.53668 0.881058 4.17902C0.734563 3.82136 0.661505 3.43788 0.666231 3.05141C0.67555 1.42601 1.9362 0.242566 3.65878 0.243898Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on LinkedIn</span>
+                    </a>
+                
+
+                
+                    <a href="https://github.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="28"
+                             height="27"
+                             viewBox="0 0 28 28"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M16.7228 20.6334C17.5057 20.5527 18.2786 20.3944 19.0301 20.1608C21.3108 19.4193 22.5822 17.8259 22.963 15.4909C23.1228 14.5112 23.1814 13.5287 22.9883 12.5437C22.8106 11.6423 22.4013 10.8028 21.8007 10.1076C21.7526 10.0605 21.7197 10 21.7064 9.934C21.6931 9.86799 21.7 9.79952 21.7262 9.73748C22.0856 8.6206 21.9711 7.51969 21.601 6.42677C21.582 6.3497 21.5345 6.2827 21.468 6.23923C21.4016 6.19577 21.3211 6.17906 21.2429 6.19248C20.7329 6.21649 20.2313 6.33051 19.7611 6.52928C19.1103 6.7908 18.4899 7.12198 17.9104 7.51703C17.84 7.56996 17.7581 7.60551 17.6713 7.62078C17.5846 7.63605 17.4954 7.6306 17.4112 7.60489C15.2596 7.05882 13.0054 7.06203 10.8554 7.61421C10.7806 7.63586 10.7018 7.63967 10.6253 7.62534C10.5487 7.611 10.4766 7.57892 10.4148 7.53167C9.64788 7.03247 8.85171 6.58918 7.96368 6.33359C7.65781 6.24338 7.34123 6.19458 7.02239 6.18849C6.94879 6.17986 6.87462 6.19893 6.81432 6.242C6.75402 6.28507 6.71191 6.34904 6.69621 6.42145C6.32342 7.51437 6.2209 8.61527 6.56307 9.73348C6.59635 9.84264 6.64694 9.93316 6.54177 10.0516C5.47666 11.2604 5.09988 12.6834 5.19574 14.2676C5.2663 15.4244 5.46201 16.5466 6.01454 17.5769C6.84399 19.1171 8.21664 19.9119 9.85158 20.3352C10.3938 20.4706 10.9444 20.5698 11.4998 20.632C11.5384 20.7492 11.4506 20.7798 11.408 20.8291C11.1734 21.1179 10.9894 21.4441 10.8634 21.7942C10.7622 22.0458 10.8315 22.4039 10.6065 22.5516C10.263 22.7766 9.83827 22.8485 9.42421 22.8871C8.17936 23.0056 7.26471 22.4877 6.6283 21.4348C6.25552 20.8184 5.76956 20.3325 5.08523 20.0663C4.76981 19.9325 4.42139 19.8967 4.08537 19.9638C3.7898 20.029 3.73788 20.1901 3.93891 20.4111C4.03639 20.5234 4.14989 20.6207 4.27575 20.6999C4.9796 21.1318 5.51717 21.7884 5.80152 22.5636C6.37002 23.9973 7.48039 24.5697 8.93825 24.6323C9.43741 24.6575 9.93768 24.615 10.4254 24.5058C10.5892 24.4672 10.6531 24.4872 10.6517 24.6762C10.6451 25.4936 10.6637 26.3123 10.6517 27.131C10.6517 27.6635 10.1684 27.9297 9.58663 27.7393C8.17396 27.2671 6.84977 26.5631 5.66838 25.656C2.59555 23.2891 0.720966 20.1861 0.217704 16.3376C-0.357453 11.9127 0.911353 8.00824 3.98551 4.73881C6.11909 2.42656 8.99932 0.939975 12.1203 0.540191C16.5351 -0.0601815 20.4347 1.14323 23.7232 4.16373C26.2449 6.47869 27.724 9.37672 28.1048 12.7726C28.5828 17.0325 27.3686 20.7945 24.4768 23.9827C22.9762 25.6323 21.0956 26.8908 18.9982 27.6488C18.8783 27.6927 18.7585 27.738 18.636 27.7726C18.0356 27.9404 17.6189 27.6395 17.6189 27.0098C17.6189 25.7452 17.6308 24.4806 17.6295 23.2159C17.6329 22.9506 17.6128 22.6856 17.5696 22.4238C17.4325 21.6664 17.3419 21.484 16.7228 20.6334Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on GitHub</span>
+                    </a>
+                
+
+                
+                    <a href="https://ncbiinsights.ncbi.nlm.nih.gov/"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="26"
+                             height="26"
+                             viewBox="0 0 27 27"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M23.7778 26.4574C23.1354 26.3913 22.0856 26.8024 21.636 26.3087C21.212 25.8444 21.4359 24.8111 21.324 24.0347C19.9933 14.8323 14.8727 8.80132 6.09057 5.85008C4.37689 5.28406 2.58381 4.99533 0.779072 4.99481C0.202773 4.99481 -0.0229751 4.83146 0.00455514 4.21479C0.0660406 3.08627 0.0660406 1.95525 0.00455514 0.826734C-0.0413285 0.0815827 0.259669 -0.0193618 0.896534 0.00266238C6.96236 0.222904 12.3693 2.24179 16.9889 6.16209C22.9794 11.2478 26.1271 17.7688 26.4372 25.648C26.4629 26.294 26.3179 26.5271 25.6609 26.4684C25.0827 26.417 24.4991 26.4574 23.7778 26.4574Z">
+                            </path>
+                            <path d="M14.8265 26.441C14.0924 26.441 13.2371 26.6795 12.6626 26.3786C12.0092 26.0372 12.3781 25.0644 12.246 24.378C11.1154 18.5324 6.6849 14.5497 0.74755 14.1001C0.217135 14.0615 -0.0104482 13.9422 0.0134113 13.3659C0.0519536 12.1454 0.0482829 10.9213 0.0134113 9.69524C-0.00127145 9.14464 0.196946 9.03268 0.703502 9.04736C9.21217 9.27128 16.5994 16.2511 17.2804 24.7231C17.418 26.4446 17.418 26.4446 15.6579 26.4446H14.832L14.8265 26.441Z">
+                            </path>
+                            <path d="M3.58928 26.4555C2.64447 26.4618 1.73584 26.0925 1.06329 25.4289C0.39073 24.7653 0.00933763 23.8617 0.0030097 22.9169C-0.00331824 21.9721 0.365937 21.0635 1.02954 20.3909C1.69315 19.7184 2.59675 19.337 3.54156 19.3306C4.48637 19.3243 5.39499 19.6936 6.06755 20.3572C6.7401 21.0208 7.1215 21.9244 7.12782 22.8692C7.13415 23.814 6.7649 24.7226 6.10129 25.3952C5.43768 26.0677 4.53409 26.4491 3.58928 26.4555Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI RSS feed</span>
+                    </a>
+                
+            </div>
+        </div>
+    
+
+    <div data-testid="gridContainer"
+         class="grid-container ncbi-footer__container">
+        <div class="grid-row ncbi-footer__main-content-container"
+             data-testid="grid">
+            
+                <div class="ncbi-footer__column">
+                    
+                        <p class="ncbi-footer__circled-icons-heading">
+                            Connect with NLM
+                        </p>
+                    
+
+                    <div class="ncbi-footer__circled-icons-list">
+                        
+                            <a href=https://twitter.com/nlm_nih class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="32"
+                                     height="32"
+                                     viewBox="0 0 40 40"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on X (formerly known as Twitter)</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.facebook.com/nationallibraryofmedicine class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="13"
+                                     height="24"
+                                     viewBox="0 0 13 24"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M4.11371 23.1369C4.11371 23.082 4.11371 23.0294 4.11371 22.9745V12.9411H0.817305C0.6709 12.9411 0.670898 12.9411 0.670898 12.8016C0.670898 11.564 0.670898 10.3287 0.670898 9.09341C0.670898 8.97903 0.705213 8.95158 0.815017 8.95158C1.8673 8.95158 2.91959 8.95158 3.97417 8.95158H4.12057V8.83263C4.12057 7.8055 4.12057 6.7738 4.12057 5.74897C4.1264 4.92595 4.31387 4.11437 4.66959 3.37217C5.12916 2.38246 5.94651 1.60353 6.95717 1.1921C7.64827 0.905008 8.3913 0.764035 9.13953 0.778051C10.0019 0.791777 10.8644 0.830666 11.7268 0.860404C11.8869 0.860404 12.047 0.894717 12.2072 0.90158C12.2964 0.90158 12.3261 0.940469 12.3261 1.02968C12.3261 1.5421 12.3261 2.05452 12.3261 2.56465C12.3261 3.16857 12.3261 3.7725 12.3261 4.37642C12.3261 4.48165 12.2964 4.51367 12.1912 4.51138C11.5369 4.51138 10.8804 4.51138 10.2261 4.51138C9.92772 4.51814 9.63058 4.5526 9.33855 4.61433C9.08125 4.6617 8.84537 4.78881 8.66431 4.97766C8.48326 5.16652 8.3662 5.40755 8.32972 5.66661C8.28476 5.89271 8.26027 6.1224 8.25652 6.35289C8.25652 7.19014 8.25652 8.02969 8.25652 8.86923C8.25652 8.89439 8.25652 8.91955 8.25652 8.95615H12.0219C12.1797 8.95615 12.182 8.95616 12.1614 9.10714C12.0768 9.76596 11.9876 10.4248 11.9029 11.0813C11.8312 11.6319 11.7626 12.1824 11.697 12.733C11.6719 12.9434 11.6787 12.9434 11.4683 12.9434H8.26338V22.899C8.26338 22.979 8.26338 23.0591 8.26338 23.1392L4.11371 23.1369Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on Facebook</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.youtube.com/user/NLMNIH class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="21"
+                                     height="15"
+                                     viewBox="0 0 21 15"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M19.2561 1.47914C18.9016 1.15888 18.5699 0.957569 17.2271 0.834039C15.5503 0.678484 13.2787 0.655608 11.563 0.65332H9.43556C7.71987 0.65332 5.4483 0.678484 3.77151 0.834039C2.43098 0.957569 2.097 1.15888 1.74242 1.47914C0.813665 2.32097 0.619221 4.62685 0.598633 6.89384C0.598633 7.31781 0.598633 7.74101 0.598633 8.16345C0.626084 10.4121 0.827391 12.686 1.74242 13.521C2.097 13.8412 2.4287 14.0425 3.77151 14.1661C5.4483 14.3216 7.71987 14.3445 9.43556 14.3468H11.563C13.2787 14.3468 15.5503 14.3216 17.2271 14.1661C18.5676 14.0425 18.9016 13.8412 19.2561 13.521C20.1712 12.6929 20.3725 10.451 20.3999 8.22064C20.3999 7.74025 20.3999 7.25986 20.3999 6.77946C20.3725 4.54907 20.1689 2.30724 19.2561 1.47914ZM8.55942 10.5311V4.65201L13.5601 7.50005L8.55942 10.5311Z"
+                                          fill="white" />
+                                </svg>
+                                <span class="usa-sr-only">NLM on YouTube</span>
+                            </a>
+                        
+                    </div>
+                </div>
+            
+
+            
+                <address class="ncbi-footer__address ncbi-footer__column">
+                    
+        <p>
+            <a class="usa-link usa-link--external"
+            href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,
+            -77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!
+            4d-77.0988323"
+            rel="noopener noreferrer" target="_blank">National Library of Medicine
+            <br/> 8600 Rockville Pike<br/> Bethesda, MD 20894</a>
+        </p>
+    
+                </address>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/web_policies.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Web Policies
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            FOIA
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://support.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Help
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/accessibility.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Accessibility
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/careers/careers.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Careers
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+        </div>
+
+        
+            <div class="grid-row grid-col-12" data-testid="grid">
+                <ul class="ncbi-footer__bottom-links-list">
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NLM
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NIH
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.usa.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            USA.gov
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+    </div>
+</footer>
+
+    
+
+
+        
+        
+    
+  <script  type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/pinger/pinger.js"> </script>
+
+
+    
+        
+
+<button class="back-to-top" data-ga-category="pagination" data-ga-action="back_to_top">
+    <label>Back to Top</label>
+    <svg class="usa-icon order-0" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/static/img/sprite.svg#arrow_upward"></use>
+    </svg>
+</button>
+    
+
+
+        
+    
+    
+    
+        
+    <script type="application/javascript">
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: '/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+</script>
+    <script type="module" crossorigin="" src="/static/assets/base-133c6271.js"></script>
+    
+    <script type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/jquery/jquery-3.6.0.min.js">&#xA0;</script>
+    <script type="text/javascript">
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    </script>
+
+
+    <script type="text/javascript">var exports = {};</script>
+     <script src="/static/CACHE/js/output.13b077bc3ffd.js"></script>
+
+    <script type="module" crossorigin="" src="/static/assets/article-44d04358.js"></script>
+    
+        <script type="module" crossorigin="" src="/static/assets/math-574fdcc6.js"></script>
+    
+    
+
+    </body>
+</html>

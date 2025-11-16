@@ -1,0 +1,67 @@
+---
+Title: Creating and Editing Custom Objects
+Category: Custom Objects.
+URL: https://help.gohighlevel.com/support/solutions/articles/155000003897-creating-and-editing-custom-objects
+Word Count: 413
+Scraped: 2025-10-29T01:58:57.674285
+---
+
+Custom Objects provide a powerful way to structure and manage this information
+if you have specialized data to track— such as properties, pets, events, or legal cases.
+Before creating your first custom object, do check out -
+Getting Started with Custom Objects
+Only
+admins
+have create, update and delete access for Custom Objects. Users have
+read-only access
+to view details but they cannot make changes to Custom Objects
+There can be a maximum of 10
+custom objects
+created in a location
+TABLE OF CONTENTS
+Step 1: Create Custom Object
+Step 2: Add Details about Custom Object
+Step 3: Editing a Custom Object
+Step 1: Create Custom Object
+Go to Subaccount > Settings > Objects
+Click on "Add Custom Object"
+Step 2: Add Details about Custom Object
+Mention the singular name of the object e.g. Pet
+A plural name of the object should be added e.g. Pets
+Internal Name of the object and the primary field is created by default - it can be edited by clicking on the "</>" icon and updating the internal name.
+Add a name for the primary display field name - e.g. Pet Name, Pet Identification Number
+Add an icon to easily identify the custom object
+Also - add a description to the object to help anyone understand what the object signifies.
+Click on "Create Custom Object"
+Step 3: Editing a Custom Object
+Once the Custom Object is created, the custom object will start appearing on the same page.
+You can click on any of the Custom Objects to start editing its details.
+Note that the primary display field and the internal names cannot be edited once created.
+Deleting a Custom Object
+Click on the 3 dots near the custom object name
+Select "Delete" from the dropdown.
+Type "DELETE" in the text box and confirm deletion.
+The custom object is now deleted
+Deleting a custom object is an irreversible action. Once a custom object is deleted, all its records, associations, workflows and custom fields will be deleted and cannot be recovered anymore.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

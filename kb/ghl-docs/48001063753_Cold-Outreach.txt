@@ -1,0 +1,72 @@
+---
+Title: Cold Outreach
+Category: Add-ons & Sales Trainings
+URL: https://help.gohighlevel.com/support/solutions/articles/48001063753-cold-outreach
+Word Count: 316
+Scraped: 2025-10-29T01:53:08.762498
+---
+
+Why Cold Outreach?
+In short, we do cold outreach because it's effective, it can produce results quickly, and, most importantly,
+it's extremely cost effective
+.
+Warming Up
+Before you get started, you should think about warming up a new email address so you don't run the risk of getting your main business domain/emails flagged as spam.
+The easiest way to do this by following these steps:
+1) Purchase a fresh domain. If your agency's domain is youragency.com, you could purchase something like
+youragency.co
+or your agency.mail, etc.
+2) Create a Google Workspace account , register the new domain in Google Workspace, then create an email for that domain in Google Workspace (something like
+mail@youragency.co
+). Note, Google Workspace charges $6/month per email address.
+3) Sign up for 10-20 newsletters/services using the new email address so that emails start naturally flowing into the account. Here are some good ones:
+Twitter
+,
+Moz
+,
+Unbounce
+,
+Convince & Convert
+,
+The Daily Carnage
+,
+Neil Patel
+,
+Seth Goden
+,
+Buffer
+,
+Marketing Drive
+,
+Total Annarchy
+,
+Sketchalaytics
+.
+4) Send 10-20 emails to friends/family and make sure they reply.
+After a few days of emails going in and out of your new email account, the email address and domain will be "warmed up" and ready to go.
+You can learn more about warming up domains and IP addresses in
+this guide from Mailgun
+.
+Setting Up SMTP In HighLevel
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,139 @@
+---
+Title: How to Use the AI Agent Studio in HighLevel
+Category: AI Employee
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006058-how-to-use-the-ai-agent-studio-in-highlevel
+Word Count: 1110
+Scraped: 2025-10-29T01:40:22.914544
+---
+
+Agent Studio is HighLevel’s no-code/low-code platform that makes it easy to design, manage, and deploy AI-driven agents. With an intuitive drag-and-drop builder, powerful tool nodes, and flexible deployment options, Agent Studio empowers you to create intelligent agents without needing advanced technical skills. Whether you’re building conversation flows, connecting APIs, or attaching knowledge bases, Agent Studio helps you launch AI solutions quickly and reliably.
+TABLE OF CONTENTS
+What is Agent Studio?
+Key Benefits of Agent Studio
+Drag-and-Drop Agent Builder
+Tool Nodes
+Logic & Flow Control
+Version Control
+Export & Import Agents
+Test Tab
+API Access
+How To Setup Agent Studio
+Frequently Asked Questions
+Related Articles
+What is Agent Studio?
+Agent Studio is a visual platform in HighLevel for creating AI-powered agents. It combines drag-and-drop workflows, versatile tool nodes, and seamless integrations so you can design agents that respond intelligently, automate processes, and connect with external data sources.
+Agent Studio provides the tools needed to create robust agents that can support customers, streamline operations, and integrate into your existing systems.
+Key Benefits of Agent Studio
+Agent Studio is designed to make building AI agents simple, powerful, and adaptable for real-world use cases.
+Drag-and-drop builder
+: Create workflows quickly with an intuitive visual canvas.
+Versatile tool nodes
+: Add intelligence, knowledge, and integrations with dedicated node types.
+Logic and flow control
+: Manage branching, conditions, and variable handling for smarter automation.
+Version control
+: Safely develop, test, and deploy agents with structured lifecycle stages.
+Built-in testing
+: Validate agent performance before deploying to production.
+Integration flexibility
+: Connect to APIs, knowledge bases, and the web for dynamic, context-aware responses.
+Export/import capabilities
+: Easily share, back up, or migrate agents.
+API access
+: Run agents programmatically to fit within existing workflows.
+Drag-and-Drop Agent Builder
+The drag-and-drop builder provides a visual way to create and manage your AI agent workflows. By connecting nodes and setting flow conditions, you can design complex processes with ease.
+This builder allows you to:
+Connect tool nodes for logic, data, and intelligence.
+Configure workflows visually without coding.
+Manage runtime and global variables for dynamic responses.
+Tool Nodes
+Tool nodes are the core building blocks of Agent Studio. Each node type adds specific functionality, enabling you to design agents that meet your unique needs.
+LLM Node
+The LLM node leverages advanced large language models to generate intelligent, context-aware responses. You can configure prompts, parameters, and output handling to suit your workflows.
+MCP Tool Node
+The MCP tool node integrates external tools through the Model Context Protocol, extending your agent’s abilities. This is useful for accessing external data sources or triggering actions.
+API Tool Node
+The API tool node connects directly to third-party services by sending and receiving data via APIs. This allows your agent to interact with outside systems dynamically.
+Knowledge Base Tool Node
+Attach a knowledge base to your agent so it can respond based on uploaded documents or stored information. This ensures accurate and consistent answers.
+Web Search Tool Node
+Allow your agent to retrieve the latest information from the internet. This keeps your agent’s responses fresh, relevant, and accurate.
+Logic & Flow Control
+Logic and flow control features allow your agent to handle complex scenarios and make decisions based on conditions.
+Branching via edge conditions
+: Define different paths depending on variable values or input.
+Variable management
+: Create global, runtime, or input variables to ensure context-aware and flexible responses.
+Version Control
+Agent Studio supports structured lifecycle management with Draft, Staging, and Production modes. This ensures that changes are tested before they go live, preventing disruptions in production.
+Export & Import Agents
+With export/import functionality, you can back up, share, or move agents between environments. This makes it easier to collaborate or migrate setups without rebuilding agents from scratch.
+Test Tab
+The built-in Test Tab allows you to simulate and validate agent workflows before pushing them to production. This helps you identify errors, confirm logic paths, and refine your agent’s performance.
+API Access
+Agent Studio provides secure APIs so you can execute your agents programmatically. This makes it easy to embed agents into your existing systems or workflows.
+How To Setup Agent Studio
+Proper setup ensures you get the most from Agent Studio and its features. Follow these steps to get started:
+Navigate to
+AI Agents
+>
+Agent Studio
+from your HighLevel dashboard.
+Click
+Create Agent
+to open the drag-and-drop builder.
+Add tool nodes (LLM, MCP, API, Knowledge Base, or Web Search) to your workflow.
+Connect nodes with edges to define logic paths.
+Configure variables to pass data between nodes.
+Use the
+Test Tab
+to validate your agent’s flow.
+Save your agent and move it through the lifecycle: Draft → Staging → Production.
+(Optional) Export or share your agent if needed.
+Use API Access to run agents programmatically.
+Frequently Asked Questions
+Q: How does Agent Studio differ from Conversation AI?
+A: Agent Studio provides a visual builder with multiple node types, enabling more complex workflows and integrations compared to Conversation AI.
+Q: Can I use my own documents in Agent Studio?
+A: Yes, you can attach a knowledge base with your uploaded documents, making your agent capable of delivering precise answers.
+Q: What is MCP, and why would I use it?
+A: MCP (Model Context Protocol) allows integration with external tools, expanding your agent’s functionality beyond standard nodes.
+Q: Is version control mandatory when creating agents?
+A: While not mandatory, version control is recommended to safely test and stage agents before deploying them to production.
+Q: Can I migrate agents between accounts?
+A: Yes, the export/import functionality allows you to share or move agents between environments.
+Q: How do I test my agent before going live?
+A: Use the built-in Test Tab to run simulations and validate your agent’s workflow.
+Q: Who can access Agent Studio in HighLevel?
+A: Access depends on your account permissions. Admins and users with appropriate roles can build and manage agents.
+Q: Does Agent Studio support API integrations?
+A: Yes, you can connect external APIs via the API tool node or execute your agent through secure API access.
+Related Articles
+AI Employee Overview
+Setting Up Conversation AI
+Getting Started with Reviews AI Agents
+Knowledge Base Integration for Voice-AI Agents
+How to Use the HighLevel MCP Server
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

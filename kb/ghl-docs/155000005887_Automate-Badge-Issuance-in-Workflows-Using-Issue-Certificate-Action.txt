@@ -1,0 +1,114 @@
+---
+Title: Automate Badge Issuance in Workflows (Using “Issue Certificate” Action)
+Category: Certificates
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005887-automate-badge-issuance-in-workflows-using-issue-certificate-action-
+Word Count: 366
+Scraped: 2025-10-29T01:56:56.051467
+---
+
+⭐️ Overview
+Badges are a lightweight, visual way to recognise milestones, progress, and engagement. While we’re actively working on a dedicated
+“Issue Badge”
+action, you can start issuing badges
+right now
+using the existing
+“Issue Certificate”
+workflow action.
+Yes —
+Badges are issued through the same action as Certificates
+!
+⚙️ How It Works
+You can combine any of the supported
+workflow triggers
+with the existing
+“Issue Certificate”
+action to send a
+Badge
+automatically to your customers.
+✅ Just select a
+Badge template
+instead of a Certificate when using the "Issue Certificate" action.
+Most Used Triggers + Use Cases
+Workflow Trigger
+Badge Use Cases (Example)
+Lesson Completed
+"Lesson 1 Complete" Badge
+Category Completed
+"Module Master" Badge
+Product Completed
+"Certified Pro" Badge
+Quiz Submitted
+"Quiz Ace" Badge
+Survey Submitted
+"Top Responder" Badge
+Form Submitted
+"Quick Action Taker" Badge
+Task Completed
+"Milestone Unlocked" Badge
+You can find these triggers inside your
+Workflow Trigger menu
+, under “Courses,” “Contact,” and “Form Activities.”
+How to Set It Up?
+Go to
+Automation
+>
+Workflows
+Create from Scratch
+or open an existing Workflow
+Add a
+Trigger
+from the list above
+Add an
+Action
+→ select
+Issue Certificate
+Choose a
+Badge
+template instead of a Certificate template
+Save & Publish ✅
+Note: Badges are fully visual and lightweight — perfect for micro-recognition. They’ll be sent as downloadable images to your customers.
+⏳ Coming Soon
+We’re introducing a
+dedicated “Issue Badge” action
+to make this even clearer and easier to use. Until then, the
+“Issue Certificate”
+action supports both
+Badges
+and
+Certificates
+seamlessly.
+How to Navigate to the Badge Builder?
+Go to “
+Memberships
+”
+Select the “
+Credentials
+” tab
+Click “
+Create
+” in the top-right corner
+Choose “
+Create Badge
+” from the dropdown
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

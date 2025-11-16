@@ -1,0 +1,89 @@
+---
+Title: HIPAA Compliance With HighLevel
+Category: Compliance
+URL: https://help.gohighlevel.com/support/solutions/articles/48000983084-hipaa-compliance-with-highlevel
+Word Count: 966
+Scraped: 2025-10-29T01:55:31.964505
+---
+
+HighLevel offers an optional, account-wide HIPAA add-on that enables encryption of ePHI, Business-Associate Agreements (BAAs), audit logging, and MFA enforcement. The add-on costs
+US$297 per month or US $2,970 per year (two months free)
+and cannot be disabled once purchased.
+IMPORTANT
+: HIPAA compliance is a paid upgrade. HighLevel accounts are NOT HIPAA compliant by default. To enable HIPAA compliance for your account, visit your Agency dashboard, click Services, select HIPAA Compliance, then follow the signup instructions. Once HIPAA is purchased and enabled, it applies to all location accounts within your account and cannot be deactivated.
+TABLE OF CONTENTS
+What is HIPAA?
+HIPAA Title II
+HighLevel Compliance
+How to become HIPAA Compliant
+How to view and download the document.
+Frequently Asked Questions
+What is HIPAA?
+HIPAA stands for the Health Insurance Portability And Accountability Act of 1996, which is a United States legislation that provides data privacy and security provisions for safeguarding medical information.
+The act, which was signed into law by President Bill Clinton on Aug. 21, 1996, contains five sections, or titles:
+Title I: HIPAA Health Insurance Reform
+Title II: HIPAA Administrative Simplification
+Title III: HIPAA Tax-Related Health Provisions
+Title IV: Application and Enforcement of Group Health Plan Requirements
+Title V: Revenue Offsets
+In the context of online marketing, adhering to HIPAA Title II is what most people mean when they refer to HIPAA compliance.
+HIPAA Title II
+Also known as the Administrative Simplification provisions, Title II includes the following HIPAA compliance requirements:
+National Provider Identifier Standard. Each healthcare entity, including individuals, employers, health plans and healthcare providers, must have a unique 10-digit national provider identifier number, or NPI.
+Transactions and Code Set Standard. Healthcare organizations must follow a standardized mechanism for electronic data interchange (EDI) in order to submit and process insurance claims.
+HIPAA Privacy Rule. Officially known as the Standards for Privacy of Individually Identifiable Health Information, this rule establishes national standards to protect patient health information.
+HIPAA Security Rule. The Security Standards for the Protection of Electronic Protected Health Information sets standards for patient data security.
+HIPAA Enforcement Rule. This rule establishes guidelines for investigations into HIPAA compliance violations.
+The two requirements that apply to the relationship between HighLevel, a customer Agency, and the agency's client (the Practice) are the HIPAA Privacy Rule and the HIPAA Security Rule. The details of each of these rules can be found here:
+HIPAA Privacy Rule
+HIPAA Security Rule
+HighLevel Compliance
+In the relationship between HighLevel, a customer Agency, and the agency's client (the Practice); the Practice is considered "the HIPAA-covered entity" and HighLevel and the Agency are considered "HIPAA Business Associates".
+HighLevel has worked with The Compliancy Group consultancy to ensure that we are in full compliance with the HIPAA Privacy Rule and the HIPAA Security Rule so that we can enter into HIPAA Business Associate Agreements (BAA) with our customer Agencies.
+In order for the personal health record data of your client Practice's patients to be completely protected, however; your Agency must also be in full compliance with HIPAA Title II so that you can provide your client Practice with a HIPAA Business Associate Agreement as well.
+Please reach out to us if you would like the contact information of The Compliancy Group which can help you ensure that your Agency is fully compliant.
+Security
+Our database automatically encrypts all data before it is written to disk. No setup or configuration is required and no need to modify how you access the service. The data is automatically and transparently decrypted when read by an authorized user.
+With server-side encryption, Google manages the cryptographic keys on your behalf using the same hardened key management systems that we use for our encrypted data, including strict key access controls and auditing. Each database object's data and metadata are encrypted under the 256-bit Advanced Encryption Standard, and each encryption key is itself encrypted with a regularly rotated set of master keys.
+IMPORTANT
+:
+Agencies on Any Plan  ($97, $970, $297, $2970, $497, $4970) can subscribe HIPAA compliance. Agency can subscribe at $297/month
+How to become HIPAA Compliant
+1. In the agency account, navigate to settings -> compliance
+2. Select your desired monthly or yearly plan and proceed to payment by clicking the 'Buy Now' button, thereby finalizing your subscription.
+3. Once the subscription is completed, you sign the document inside the App.
+How to view and download the document.
+1. In the agency account, navigate to settings -> compliance. click the view details page.
+Please Note:
+For users who subscribed to HIPAA after November 15, 2023, access to view and download documentation is available directly within the app. For users who subscribed before this date, kindly reach out to us for assistance in obtaining the necessary documents.
+Frequently Asked Questions
+Q. Can I transfer a HIPAA-compliant sub-account to my agency?
+Yes, if both Agencies are HIPAA compliant, we can transfer one sub-account to another agency.
+Q. Is the mobile app covered?
+Yes, Conversations, Calendars and Contacts in the HighLevel mobile app inherit the same encryption & MFA controls.
+Q. Can I disable HIPAA later?
+No. Because PHI cannot be “un-encrypted”, the add-on is permanent for that agency.
+Q. What data types are included?
+All objects that can store PHI: Contacts, Notes, Custom Fields, SMS/MMS, voice recordings, email bodies & attachments, form/survey submissions, calendars, invoices. (In short, everything the account has).
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

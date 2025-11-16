@@ -1,0 +1,39 @@
+---
+Title: Create or Schedule Subscriptions and Send Invoice within Contact Details Page
+Category: Payments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004064-create-or-schedule-subscriptions-and-send-invoice-within-contact-details-page
+Word Count: 259
+Scraped: 2025-10-29T01:49:39.994512
+---
+
+What's New?
+Businesses can now add subscriptions directly from Payments > Subscriptions > Add Subscription
+They can also add subscriptions from the Contact's detail page enabling quicker addition of a subscription for the customer - Contacts > Contact Details > Payments > Actions > Create Subscription
+While adding subscriptions using either options, they can also be scheduled for a future date by picking a specific Billing Date to start the subscription and associated payment collections
+The feature allows users to add a new subscription by selecting the customer and product, and completing payment using any of the existing cards on file or by adding a new card - all in a single flow
+A new Invoice can also be added directly from the Contact's detail page where user will be redirected to invoice creation with the customer details pre-filled - Contacts > Contact Details > Payments > Actions > Create Invoice
+What's Next?
+Further enhancements on Subscriptions like Pause/Resume Subscriptions
+This would allow subscriptions to be paused for a fixed or indefinite duration and can be resumed automatically (fixed duration) or manually
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

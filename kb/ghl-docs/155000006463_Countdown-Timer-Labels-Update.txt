@@ -1,0 +1,80 @@
+---
+Title: Countdown Timer Labels Update
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006463-countdown-timer-labels-update
+Word Count: 501
+Scraped: 2025-10-29T01:43:24.994193
+---
+
+Create urgency that speaks your audience’s language. With custom Countdown Timer labels, you can display “Days,” “Hours,” “Minutes,” and “Seconds” or any wording you’d like, in the exact language or wording that matches your campaign.
+TABLE OF CONTENTS
+What are Countdown Timer Labels?
+Key Benefits of Countdown Timer Labels
+Default Labels
+How to Change Countdown Timer Labels
+Frequently Asked Questions
+Related Articles
+What are Countdown Timer Labels?
+Custom Countdown Timer Labels let you replace the default “Days / Hours / Minutes / Seconds” text beneath every timer segment with wording of your choice. The feature also auto-detects a user’s account locale and pre-fills the labels in their native language, saving setup time and ensuring culturally relevant timers.
+Key Benefits of Countdown Timer Labels
+Localize Instantly:
+Default text aligns with the sub-account’s language settings for a true global experience.
+Match Brand Voice:
+Swap “Hours” for “Hrs” or “Heures” to keep copy on-brand.
+Increase Clarity:
+Use campaign-specific phrasing like “Shopping Days Left.”
+Reduce Design Work:
+No need to create separate graphics for each language.
+Boost Conversions:
+Readers engage more when timers feel familiar and clear.
+Default Labels
+Countdown Timer uses your account’s locale to set starter labels automatically. You can leave these as-is or tweak them to accommodate slang, abbreviations, or fully custom copy.
+How to Change Countdown Timer Labels
+You can override the auto-generated text at any time:
+Navigate to
+Marketing → Countdown Timer.
+Open an existing timer by clicking on the timer name or create a new timer by clicking
++ New
+Using the sidebar on the left, go to the Styling tab.
+Under labels, use the dropdowns to set each label as "Visible" or Hidden".
+Type new text for each segment (Day, Hour, Minute, Second) to set a custom label.
+Click
+Save
+to save your changes.
+Frequently Asked Questions
+Q: Are label changes retroactive?
+Yes. Updating the label text will refresh every live instance of that timer.
+Q: Can I use different labels for email vs. funnels?
+Each individual timer holds one set of labels. Create a duplicate timer if you need distinct phrasing.
+Q: Does auto-translation work for all languages?
+The system sets defaults based on your sub-account language, but manual edits may still be needed for dialect nuances.
+Q: Will changing labels affect dynamic links or expiry actions?
+No. Label edits only update on-screen text; all redirects and logic remain unchanged.
+Related Articles
+Getting Started with Countdown Timer
+Editing a Countdown Timer
+Guide: Dynamic Countdown Timer
+Sync Your Countdown Timer in Email and Funnels
+How to Use Countdown Timer in Emails
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,71 @@
+---
+Title: How to Create a Blog?
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002448-how-to-create-a-blog-
+Word Count: 352
+Scraped: 2025-10-29T01:44:44.462896
+---
+
+Blog can be created by navigating to Sites from the subaccount.
+Flow for Blog -
+https://www.canva.com/design/DAF_ma7Cu8o/TGEAd7rp9YsKq8fpv6u4cA/edit?
+1. Navigate to Sites >  Blog
+2. Create new Blog by setting up following things -
+Add name of the Blog
+Select the domain and add slug (optional)
+Add the description - approx number of character is 250 for SEO purpose
+Note - please add the domain
+a. For example if the Domain is
+abc.com
+- User can specify the
+abc.com/blog
+as /blog as the slug. (If the domain page already exist, it will add other unique parameters after scanning all the urls and domain in funnels/websites)
+- The blog post name is defined as
+abc.com/post/post-name
+- The category url will be
+abc.com/blog/category/category-name
+- Tag url will be
+abc.com/blog/tag/tag-name
+-Author will be
+abc.com/blog/author/author-name
+b. For example if the subdomain is
+blog.abc.com
+- User can specify the
+blog.abc.com
+, they will not be required to add slug.
+- The blog post name is defined as
+blog.abc.com/post-name
+- The category url will be
+blog.abc.com/category/category-name
+- Tag url will be
+blog.abc.com/tag/tag-name
+- Author will be
+blog.abc.com/author/author-name
+4. After adding the details, you will land on list view to create new blog posts and edit the blog site.
+5. To edit the blog site layout, list view and card details and blog post page.  User can do the following
+User can select the layout designs
+User can manage how will the card will look like.
+User can manage the style - Image, Post, Tags, Heading, Title, Description, Author, Publish date and Author
+To manage the blog pages like home and post, it will allow users to create blog posts and delete the blog.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

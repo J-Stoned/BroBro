@@ -1,0 +1,44 @@
+---
+Title: How to Customize Blog Design and Layout
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002449-how-to-customize-blog-design-and-layout
+Word Count: 329
+Scraped: 2025-10-29T01:44:47.667030
+---
+
+The blog can be customized by visiting the blog name, clicking on the three-dot edit, and editing the blog site.
+Go to Sites > Blogs
+In the list view of Blogs, click on the name of Blog.
+Once you open the Blog, it will show Edit the Blog Site button (beside the New Blog post option) and it will show the list of Blog Posts
+Once you click on Edit the Blog Site, it will open the Blog editor with all the elements and global sections
+It will allow users to edit the layout, what shows in the blog list card, and the style of the blog post.
+Layout -
+What to show in card of Blog List
+Edit the style for Blog Home and Blog post -Image, Post, Tags, Heading, Title, Description, Author, Publish date and Author
+To manage the blog pages like home and post, it will allow users to create blog posts and delete the blog.
+The blog provides section Templates, Global Sections, and other elements like Buttons, Social Media Icons, Images, and a Progress Bar. Section Templates are shared between Funnels, Websites, and Blogs.
+Frequently Asked Questions
+Q: Can I customize or edit the “Next” and “Previous” buttons shown on the Blog Home page?
+The “Next” and “Previous” buttons are auto-generated for blog pagination and can’t be edited directly in the blog editor. You can style or hide them using custom CSS under the Advanced tab, but the text and structure cannot be changed from inside the editor.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

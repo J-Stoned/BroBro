@@ -1,0 +1,81 @@
+---
+Title: Getting Started - Connect Personal Inbox
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005066-getting-started-connect-personal-inbox
+Word Count: 374
+Scraped: 2025-10-29T01:38:48.650595
+---
+
+Keeping track of client conversations can be tricky when you're juggling multiple inboxes. But don't worry, we've made it super easy to sync your Gmail or Outlook inbox right into HighLevel. This means you'll see all your customer interactions in one unified place, so you'll never miss an important follow-up again.
+TABLE OF CONTENTS
+Connect Gmail or Outlook
+Want some extra tips? Check out these helpful guides:
+Use Your Connected Email
+Related Articles
+Connect Gmail or Outlook
+Ready to streamline your email management? Here's how you can quickly connect your inbox:
+Go to
+Settings > My Profile > Email (2-way sync)
+.
+Choose
+Gmail
+or
+Outlook
+, then click
+Connect
+.
+Follow the prompts to
+accept
+permissions
+. It's safe and secure!
+Want some extra tips? Check out these helpful guides:
+How to Set Up Two Way Email Sync for Gmail
+Two Way Email Sync for Outlook
+Next, you can start sending messages directly from within HighLevel to make your workflow even smoother.
+Use Your Connected Email
+Now that you've got your inbox connected, you're all set to manage your emails directly from HighLevel. Here's how simple it is to start sending emails:
+Navigate to
+Conversations
+.
+Click on
+Create New Message
+(the pencil-on-paper icon).
+Select
+Direct Message
+.
+Choose your contact and click
+Continue
+.
+Your connected email address will automatically populate in the "
+From
+" field.
+Your emails will seamlessly sync both ways—from HighLevel to your personal inbox and back again—so you're always in sync.
+Next, explore how you can automate responses and workflows to make client communication even easier!
+Related Articles
+Getting Started - Launch an Email Campaign
+Getting Started - Create New Contact
+Getting Started - Connect Stripe
+Getting Started - Create and Send Invoices
+Getting Started - Launch an SMS Campaign
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

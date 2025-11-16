@@ -1,0 +1,209 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "YouTube content sources configuration for GHL Wiz knowledge base",
+  "version": "1.0",
+  "lastUpdated": "2025-10-25",
+
+  "creators": [
+    {
+      "name": "Robb Bailey",
+      "channelId": "@GoHighLevelwithRobbBailey",
+      "channelUrl": "https://www.youtube.com/@GoHighLevelwithRobbBailey",
+      "description": "GHL Platform Master - Official trainer and expert",
+      "maxVideos": 30,
+      "topics": ["workflows", "automation", "saas-mode", "best-practices", "platform-features"],
+      "priority": "high",
+      "enabled": true,
+      "notes": "Focus on 2024-2025 content for latest features"
+    },
+    {
+      "name": "Shaun Clark",
+      "channelId": "@GoHighLevelCEO",
+      "channelUrl": "https://www.youtube.com/@GoHighLevel",
+      "description": "GHL CEO - Strategic insights and product updates",
+      "maxVideos": 20,
+      "topics": ["strategy", "product-updates", "vision", "best-practices"],
+      "priority": "high",
+      "enabled": true,
+      "notes": "CEO perspectives and strategic guidance"
+    },
+    {
+      "name": "GoHighLevel Official",
+      "channelId": "@GoHighLevel",
+      "channelUrl": "https://www.youtube.com/@GoHighLevel",
+      "description": "Official GoHighLevel channel",
+      "maxVideos": 50,
+      "topics": ["product-updates", "features", "tutorials", "announcements"],
+      "priority": "medium",
+      "enabled": true,
+      "notes": "Official product demos and feature announcements"
+    },
+    {
+      "name": "Jack (It's Jack)",
+      "channelId": "@Itssssss_Jack",
+      "channelUrl": "https://www.youtube.com/@Itssssss_Jack",
+      "description": "GHL tutorials and automation strategies",
+      "maxVideos": 25,
+      "topics": ["workflows", "automation", "tutorials", "best-practices"],
+      "priority": "medium",
+      "enabled": true,
+      "notes": "Community expert with practical GHL implementations"
+    },
+    {
+      "name": "HighLevel Wizard",
+      "channelId": "@highlevelwizard",
+      "channelUrl": "https://www.youtube.com/@highlevelwizard",
+      "description": "Advanced GHL techniques and wizardry",
+      "maxVideos": 25,
+      "topics": ["workflows", "automation", "advanced-features", "integrations"],
+      "priority": "medium",
+      "enabled": true,
+      "notes": "Focus on advanced automation and power-user techniques"
+    },
+    {
+      "name": "Nick Ponte",
+      "channelId": "@NickPonte808",
+      "channelUrl": "https://www.youtube.com/@NickPonte808",
+      "description": "GHL training and business strategies",
+      "maxVideos": 25,
+      "topics": ["workflows", "saas-mode", "strategy", "business"],
+      "priority": "medium",
+      "enabled": true,
+      "notes": "Business-focused GHL implementations and SaaS strategies"
+    },
+    {
+      "name": "Jasper HighLevel",
+      "channelId": "@jasperhighlevel",
+      "channelUrl": "https://www.youtube.com/@jasperhighlevel",
+      "description": "GHL tutorials and automation guides",
+      "maxVideos": 25,
+      "topics": ["workflows", "automation", "tutorials", "funnels"],
+      "priority": "medium",
+      "enabled": true,
+      "notes": "Practical tutorials and step-by-step guides"
+    },
+    {
+      "name": "GHL Boy",
+      "channelId": "@ghlboy",
+      "channelUrl": "https://www.youtube.com/@ghlboy",
+      "description": "GHL tips, tricks, and tutorials",
+      "maxVideos": 25,
+      "topics": ["workflows", "automation", "tips-tricks", "tutorials"],
+      "priority": "medium",
+      "enabled": true,
+      "notes": "Quick tips and practical GHL solutions"
+    }
+  ],
+
+  "specificVideos": [
+    {
+      "url": "https://www.youtube.com/watch?v=2eX5rkO1g-Y",
+      "title": "GHL Tutorial Video",
+      "creator": "Community",
+      "category": "tutorial",
+      "topics": ["workflows", "tutorials"],
+      "priority": "high",
+      "enabled": true,
+      "notes": "Specific requested video for knowledge base"
+    }
+  ],
+
+  "playlists": [
+    {
+      "url": "https://www.youtube.com/playlist?list=EXAMPLE_PLAYLIST_ID",
+      "name": "GHL Automation Series",
+      "creator": "Robb Bailey",
+      "description": "Complete series on GHL automation strategies",
+      "topics": ["workflows", "automation", "integrations"],
+      "priority": "high",
+      "enabled": false,
+      "maxVideosFromPlaylist": 20,
+      "notes": "Comprehensive automation training series"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=EXAMPLE_PLAYLIST_ID2",
+      "name": "GHL API Integration Tutorials",
+      "creator": "Developer Community",
+      "description": "API integration examples and best practices",
+      "topics": ["api", "development", "integration"],
+      "priority": "medium",
+      "enabled": false,
+      "maxVideosFromPlaylist": 15,
+      "notes": "Focus on OAuth and common API patterns"
+    }
+  ],
+
+  "extractionSettings": {
+    "preferredTranscriptLanguage": "en",
+    "fallbackLanguages": ["en-US", "en-GB"],
+    "includeTimestamps": true,
+    "includeAutoGeneratedTranscripts": true,
+    "minimumVideoDuration": 180,
+    "maximumVideoDuration": 7200,
+    "skipShorts": true,
+    "skipLiveStreams": false,
+    "dateFilter": {
+      "enabled": true,
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "reason": "Focus on recent content with latest GHL features"
+    }
+  },
+
+  "outputSettings": {
+    "saveByCreator": true,
+    "saveByTopic": true,
+    "createIndex": true,
+    "includeMetadata": true,
+    "metadataFields": [
+      "videoId",
+      "title",
+      "creator",
+      "channelId",
+      "publishDate",
+      "duration",
+      "viewCount",
+      "likeCount",
+      "topics",
+      "category",
+      "transcriptLanguage",
+      "url"
+    ]
+  },
+
+  "topicCategories": {
+    "workflows": "Workflow automation and triggers",
+    "automation": "Marketing automation and sequences",
+    "funnels": "Funnel building and optimization",
+    "forms": "Form creation and conversion optimization",
+    "saas-mode": "SaaS mode configuration and white-labeling",
+    "api": "API integration and development",
+    "best-practices": "Proven strategies and optimization techniques",
+    "product-updates": "New features and platform updates",
+    "integrations": "Third-party integrations (Stripe, Twilio, etc.)",
+    "calendars": "Calendar and appointment management",
+    "snapshots": "Snapshot marketplace and usage",
+    "strategy": "Business strategy and use cases"
+  },
+
+  "instructions": {
+    "addingCreators": "Add new creator objects to the 'creators' array. Set 'enabled: true' to include in extraction.",
+    "addingSpecificVideos": "Add video objects to 'specificVideos' array with full YouTube URL. Set 'enabled: true' to include.",
+    "addingPlaylists": "Add playlist objects to 'playlists' array with playlist URL. Set 'enabled: true' to include.",
+    "runningExtraction": "Execute: node scripts/extract-yt-transcripts.js --config kb/youtube-sources.json",
+    "viewingResults": "Check kb/youtube-transcripts/ for organized transcripts and index.json for metadata.",
+    "priority": "high = process first, medium = process after high, low = process last",
+    "topics": "Use predefined topics from 'topicCategories' for consistency"
+  },
+
+  "stats": {
+    "totalCreators": 8,
+    "totalEnabledCreators": 8,
+    "totalSpecificVideos": 1,
+    "totalEnabledVideos": 1,
+    "totalPlaylists": 0,
+    "totalEnabledPlaylists": 0,
+    "estimatedTotalVideos": 201,
+    "lastExtractionDate": "2025-10-29"
+  }
+}

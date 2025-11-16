@@ -1,0 +1,84 @@
+---
+Title: How to Connect Stripe to Your Sub-Account
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/48000981400-how-to-connect-stripe-to-your-sub-account
+Word Count: 261
+Scraped: 2025-10-29T01:57:42.349955
+---
+
+Learn how to integrate Stripe into your sub-account.
+IMPORTANT
+: Stripe is currently supported in the following countries (
+https://stripe.com/in/global
+), with more to come. Once Stripe is supported in your country, you’ll be able to sell to customers anywhere in the world.
+TABLE OF CONTENTS
+Steps To Connect Stripe to a Sub-Account
+Step 1: There are three (3) ways to get to the sub-account Stripe integration
+Step 2: Follow Stripe's authorization instructions.
+Step 3: Verify that Stripe is enabled.
+Steps To Connect Stripe to a Sub-Account
+Step 1:
+There are three (3) ways to get to the sub-account Stripe integration.
+Option 1:
+From Sub-Account Launchpad
+Click on
+Launchpad
+from your sub-account.
+Select
+Ecommerce
+from the Setup Guide.
+Click on
+Start Collecting Payments with Stripe
+option.
+Option 2:
+From Integrations
+Click on
+Settings
+from your sub-account.
+Click on
+Integrations
+.
+Click on the
+Continue
+button for
+Stripe
+.
+Option 3:
+From Payments
+Click on
+Payments
+from your sub-account.
+Click on the
+Integrations
+tab.
+Click on the
+Connect
+button for
+Stripe
+.
+Step 2:
+Follow Stripe's authorization instructions.
+Step 3:
+Verify that Stripe is enabled.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

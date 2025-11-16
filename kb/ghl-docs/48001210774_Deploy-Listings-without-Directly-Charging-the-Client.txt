@@ -1,0 +1,82 @@
+---
+Title: Deploy Listings without Directly Charging the Client
+Category: Reselling Products
+URL: https://help.gohighlevel.com/support/solutions/articles/48001210774-deploy-listings-without-directly-charging-the-client
+Word Count: 458
+Scraped: 2025-10-29T01:54:03.359175
+---
+
+If you wish to deploy Listings for your client but you do not wish to charge them directly, you can choose to purchase Listings on their behalf. This article outlines how to activate Listings under this model and ensure clients benefit from consistent directory presence without being involved in the deployment process.
+TABLE OF CONTENTS
+Overview: Deploying Listings Without Client Billing
+How To Deploy Listings Without Directly Charging the Client
+Step 1: Navigate to Manage Sub-Account
+Step 2: Access Listings from the Reselling Tab
+Step 3: Enable "Deploy Listings Directly"
+Frequently Asked Questions
+Related Articles
+Overview: Deploying Listings Without Client Billing
+Deploying Listings without charging the client directly enables agencies to provide added value through a seamless, behind-the-scenes service. This method is especially useful when Listings is included in a packaged offering, used for internal brand management, or offered as part of a premium experience without exposing the individual cost. It allows the agency to retain full control over the setup, pricing strategy, and service continuity.
+How To Deploy Listings Without
+Directly
+Charging the Client
+Follow these steps to activate Listings for a sub-account without billing the client directly:
+Step 1:
+Navigate to Manage Sub-Account
+From the Agency-View, use the left-side navigation bar to go to
+Sub-Accounts
+Locate the desired sub-account
+Click the
+3 dots
+(⋮)
+icon in the lower right corner and select
+Manage Client
+Step 2:
+Access Listings from the Reselling Tab
+In the top navigation ribbon, select
+Reselling
+In the secondary left-side navigation bar, select
+Listings
+Step 3:
+Enable "Deploy Listings Directly"
+Scroll to the
+Deploy Listings Directly
+section
+Review the deployment terms and check the agreement box
+Click the blue
+Pay Now!
+button
+Frequently Asked Questions
+Q: Can I switch to a resell model later?
+Yes! You can enable the resell option under the same Listings tab and adjust pricing and billing to your client.
+Q: What happens if I disable Listings after one month?
+There is a 1-month minimum. After that, you can cancel anytime.
+Q: What does “Deploy Listings Directly” mean?
+It allows you to activate Listings for a client without billing them directly through Reselling. The cost is covered by your agency.
+Related Articles
+Online Listing Overview & Setup Doc
+HighLevel Listings
+How to Resell Listings to Your Clients
+Rebilling, Reselling, and Wallets Explained
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

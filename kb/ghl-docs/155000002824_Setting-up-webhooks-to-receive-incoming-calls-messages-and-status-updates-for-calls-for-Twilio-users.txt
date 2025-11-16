@@ -1,0 +1,92 @@
+---
+Title: Setting up webhooks to receive incoming calls, messages and status updates for calls (for Twilio users)
+Category: Phone System
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002824-setting-up-webhooks-to-receive-incoming-calls-messages-and-status-updates-for-calls-for-twilio-user
+Word Count: 518
+Scraped: 2025-10-29T01:40:44.408945
+---
+
+TABLE OF CONTENTS
+Step 1: Login to your Twilio account and click on the URL to view phone numbers:
+Step 2: Click on a phone number to edit the configuration
+Step 3: Set the Routing region to ‘US1’ if not done already.
+Step 4: Under 'Voice Configuration' set it to:
+Step 5: Under 'Messaging Service' set it to Routing region to ‘US1’ if not done already.
+Step 6: Messaging service: No input/change needed
+If your number is connected to a Messaging Service
+1. Click on Active numbers
+2. Click on the linked Messaging Service
+3. Click on Integration
+4. Select "Send a webhook"
+5. Click on Save
+Frequently Asked Questions
+If you use Twilio and not LC phone directly, you need to setup webhooks to be able to receive incoming calls, messages and call status updates. In this article, we will help you learn how to do that in your Twilio console.
+Why should we setup webhooks?
+For you to receive calls, messages or status updates on our platform, Twilio needs to communicate with our system: send the incoming call, message or status update to us. Webhooks allow us to do that.
+Please follow the below steps to setup webhooks on Twilio (for incoming calls, incoming messages and call status updates):
+Step 1: Login to
+your Twilio account
+and click on the URL to view phone numbers:
+Step 2: Click on a phone number to edit the configuration
+Step 3: Set the Routing region to ‘US1’ if not done already.
+Step 4: Under 'Voice Configuration' set it to:
+Configure with:
+Webhook, TwiML Bin, Function, Studio Flow, Proxy Service
+A call comes in: Webhook
+Use the following URL
+https://services.leadconnectorhq.com/phone-system/voice-call/inbound
+HTTP: HTTP POST
+Primary handler fails: No changes needed
+Call status changes >
+URL:
+https://services.leadconnectorhq.com/appengine/twilio/incoming_call_status
+HTTP:
+HTTP POST
+Caller Name Lookup:
+Your choice, we recommend keeping this 'Enabled' to use lookup
+Click on the save configuration button
+Step 5: Under 'Messaging Service' set it to Routing region to ‘US1’ if not done already.
+Step 6: Messaging service: No input/change needed
+Configure with:
+Webhook, TwiML Bin, Function, Studio Flow, Proxy Service
+A message comes in: Webhook
+Use the following URL
+https://services.leadconnectorhq.com/appengine/twilio/incoming_message
+HTTP: HTTP POST
+Primary handler fails: No input/change needed
+Click on the save configuration button
+If your number is connected to a Messaging Service
+1. Click on Active numbers
+2. Click on the linked Messaging Service
+3. Click on Integration
+4. Select "Send a webhook"
+Make sure to use the following webhooks
+Request URL:
+https://services.leadconnectorhq.com/appengine/twilio/incoming_message
+Fallback URL:
+https://services.leadconnectorhq.com/appengine/twilio/incoming_message
+5. Click on Save
+Frequently Asked Questions
+Currently no frequently asked questions. Submit feedback on this article to help is add questions to this section!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

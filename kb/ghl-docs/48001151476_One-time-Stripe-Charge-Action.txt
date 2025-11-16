@@ -1,0 +1,35 @@
+---
+Title: One time Stripe Charge Action
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/48001151476-one-time-stripe-charge-action
+Word Count: 126
+Scraped: 2025-10-29T01:58:00.137400
+---
+
+**Quick Note** -- Make sure and set the Stripe setting at the agency level not the location level:
+https://app.gohighlevel.com/settings/stripe
+**
+Run a one time charge in Stripe based on a trigger!
+Please note: a card has to be set as default in stripe for One Time Charge to work
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

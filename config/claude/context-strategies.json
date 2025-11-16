@@ -1,0 +1,52 @@
+{
+  "strategies": {
+    "truncate-oldest": {
+      "type": "truncation",
+      "keepMessages": "recent",
+      "maxContextTokens": 150000,
+      "preserveSystemPrompt": true,
+      "preserveLastNMessages": 10,
+      "description": "Remove oldest messages first, keep recent context intact"
+    },
+    "summarize-older": {
+      "type": "summarization",
+      "summaryThreshold": 50000,
+      "summaryModel": "claude-haiku-4.5",
+      "summaryMaxTokens": 2000,
+      "keepRecentTokens": 100000,
+      "preserveSystemPrompt": true,
+      "description": "Summarize older context beyond threshold, keep recent verbatim"
+    },
+    "keep-all-with-compression": {
+      "type": "compression",
+      "compressionRatio": 0.6,
+      "semanticDeduplication": true,
+      "maxContextTokens": 180000,
+      "preserveSystemPrompt": true,
+      "description": "Compress redundant information, keep all semantic content"
+    },
+    "rag-augmented": {
+      "type": "rag",
+      "retrievalLimit": 5,
+      "embeddingCacheTime": 3600,
+      "reRankResults": true,
+      "maxContextTokens": 150000,
+      "preserveSystemPrompt": true,
+      "description": "Augment with RAG retrieval, minimal conversation history"
+    },
+    "sliding-window": {
+      "type": "sliding",
+      "windowSize": 100000,
+      "overlapTokens": 10000,
+      "preserveSystemPrompt": true,
+      "description": "Fixed-size sliding window with overlap for continuity"
+    }
+  },
+  "safetyBuffer": 20000,
+  "defaultStrategy": "truncate-oldest",
+  "notes": {
+    "contextWindow": "All strategies respect 200K token limit with 20K safety buffer (180K usable)",
+    "systemPrompt": "System prompts are always preserved regardless of strategy",
+    "tokenCounting": "Uses Anthropic tokenizer for accurate counting"
+  }
+}

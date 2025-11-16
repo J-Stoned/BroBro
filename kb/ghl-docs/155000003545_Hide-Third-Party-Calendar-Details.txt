@@ -1,0 +1,66 @@
+---
+Title: Hide Third-Party Calendar Details
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000003545-hide-third-party-calendar-details
+Word Count: 358
+Scraped: 2025-10-29T01:48:46.028793
+---
+
+We’ve added a
+Private Mode for synced events
+, allowing users to keep their third-party calendar details
+confidential
+. When this setting is enabled, only the user who connected the calendar will be able to view the event details, ensuring that others cannot see them in the platform. This feature is designed to
+enhance privacy
+and
+prevent unauthorized access
+to your third-party calendar events.
+TABLE OF CONTENTS
+How to Use?
+My Profile
+Calendar Settings > Connections
+Note:
+How to Use?
+You can access and manage this feature from two locations: My Profile & Calendar Connections
+My Profile
+Navigate to Settings > My Profile.
+Scroll down to the Calendar Configuration section.
+Find the Private Mode for Synced Events option and enable or disable it as needed.
+Calendar Settings > Connections
+Go to Calendar Settings > Connections.
+Scroll to the Private Mode for Synced Events option.
+Enable or disable the setting according to your preference.
+Note:
+This feature is available in Labs and is enabled for all users by default. This ensures that your synced events remain visible only to you, giving you complete control over your calendar's privacy.
+Important Notes:
+Supported Calendars:
+This feature applies only to Google and Outlook calendars. iCloud does not support private/public event settings, meaning all iCloud events will be visible to all users.
+Private Events in Google & Outlook Calendars:
+If an individual event is marked as private in the third-party calendar (Google/Outlook), it will be automatically hidden in the platform by default, regardless of whether the "Hide Events" toggle is enabled.
+If the "Hide Events" toggle is turned
+on
+, all synced events (including private and public) will appear as
+'Busy'
+instead of showing event details.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

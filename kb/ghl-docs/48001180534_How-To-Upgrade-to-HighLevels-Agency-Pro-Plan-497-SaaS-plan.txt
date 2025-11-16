@@ -1,0 +1,164 @@
+---
+Title: How To Upgrade to HighLevel's Agency Pro Plan ($497 SaaS plan)
+Category: Settings
+URL: https://help.gohighlevel.com/support/solutions/articles/48001180534-how-to-upgrade-to-highlevel-s-agency-pro-plan-497-saas-plan-
+Word Count: 688
+Scraped: 2025-10-29T01:50:28.623396
+---
+
+This article provides a step-by-step guide on upgrading your HighLevel subscription to a Pro plan. You’ll learn how to navigate the Billing Dashboard, review available plans, and complete the upgrade process seamlessly.
+Tip
+: For more about SAAS Mode and it's setup refer to
+SaaS Mode - Full Setup Guide + FAQ
+TABLE OF CONTENTS
+What is the High-Level Pro Plan?
+Key Benefits of Upgrading to the Pro Plan
+Plan Comparison: Choosing the Right Upgrade
+How to Upgrade to the HighLevel Pro Plan
+Step 2: Select the Upgrade Option
+Step 3: Choose Your Preferred Plan
+Step 4: Confirm Payment and Upgrade
+Frequently Asked Questions
+What is the High-Level Pro Plan?
+The High-Level Pro Plan is designed for businesses that need advanced automation, SaaS mode, and enhanced analytics. Upgrading to this plan provides additional features that help streamline workflows and improve customer management.
+Key Features of the Pro Plan:
+SaaS Mode for reselling services.
+Enhanced email, phone, and text rebelling.
+AI-powered conversational bots.
+Unlimited accounts and users.
+Key Benefits of Upgrading to the Pro Plan
+Upgrading to the Pro Plan unlocks features that enhance your business's automation, analytics, and scalability.
+Top Benefits:
+SaaS Mode Activation:
+Ability to resell HighLevel’s platform to clients.
+Advanced Reporting & Analytics:
+Gain deeper insights into business performance.
+Unlimited Sub-Accounts:
+Manage multiple clients seamlessly.
+Custom API Access:
+Customize workflows with advanced integrations.
+Priority Support:
+Get faster response times and dedicated assistance.
+White-Labeling Options:
+Customize client portals with your branding.
+Plan Comparison: Choosing the Right Upgrade
+Before upgrading, review the key differences between plans. Also please note that the
+Freelancer Plan
+includes all features available in the
+Starter Plan
+, while the
+Agency Pro Plan
+includes everything in the
+Freelancer Plan
+plus additional advanced capabilities. Below is a comparison of key features to help you choose the right upgrade. You can also refer to our
+Pricing Page
+.
+Feature
+Starter
+Freelancer
+Agency Pro
+Unlimited Users
+✅
+✅
+✅
+Unlimited Accounts
+❌
+✅
+✅
+SaaS Mode
+❌
+❌
+✅
+Advanced API Access
+❌
+❌
+✅
+White-Labeling
+❌
+✅
+✅
+Split Testing
+✅
+✅
+✅
+Email / Phone / Text Rebilling
+❌
+✅ (without markup)
+✅ (with markup)
+Agent Reporting
+❌
+❌
+✅
+AI Employee
+✅
+✅
+✅
+How to Upgrade to the HighLevel Pro Plan
+Upgrading your HighLevel plan is a simple process that allows you to access advanced features and optimize your business operations. Follow the steps below to seamlessly transition to the Pro Plan and take advantage of its powerful capabilities.
+Step 1:
+Access the Billing Dashboard
+Click on
+Settings
+from your agency account.
+Click on
+Billing
+.
+Click on the "
+Want to
+Modify/Cancel Subscription?"
+button under Subscriptions.
+Step 3:
+Choose Your Preferred Plan
+Select
+Upgrade Your Plan
+from the available options.
+Choose between
+Monthly
+or
+Annual
+billing.
+Select the
+Agency Pro Plan
+and click
+Upgrade Now
+.
+Step 4:
+Confirm Payment and Upgrade
+Review your payment details.
+Confirm the upgrade and proceed with the payment.
+Note: You might receive a Payment Confirmation Mail in order to
+comply with your bank's security measures
+.
+Frequently Asked Questions
+Q. How does upgrading affect my billing cycle?
+Your new plan and pricing will take effect immediately, and you will be billed accordingly.
+Q. Can I downgrade after upgrading?
+Yes, you can downgrade at any time by navigating to the
+Billing
+section and selecting a lower-tier plan.
+Q. What happens to my existing features after upgrading?
+All previous features remain, and additional Pro Plan benefits will be added to your account.
+Q. Is there a trial for the Pro Plan?
+HighLevel does not currently offer a free trial for Pro, but you can test features within the first billing cycle.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

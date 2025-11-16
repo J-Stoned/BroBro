@@ -1,0 +1,522 @@
+---
+Title: Subaccount Dashboard Page - View or Edit
+Category: Dashboards
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004804-subaccount-dashboard-page-view-or-edit
+Word Count: 3193
+Scraped: 2025-10-29T01:51:28.975611
+---
+
+Subaccount Dashboard viewing and editing.
+TABLE OF CONTENTS
+What is the Subaccount Dashboard?
+What Are Dashboard Modes and States?
+Dashboard Components Overview
+Dashboard Add/Create
+Create A New Dashboard
+Add (or Edit) Widget Panel
+Action Menu (Three-Dot Menu)
+Quick Filters
+Blank Dashboard Quick Starts
+Widgets In View Mode
+Widgets In Edit Mode
+What is the Subaccount Dashboard?
+The Dashboards are a highly customizable and always up to date report on the status of your Subaccount. First, there a few basic states the page can be in.
+What Are Dashboard Modes and States?
+Dashboard States:
+With Widgets
+(1 or more) - The normal state of a dashboard is to have multiple widgets and elements.
+Without Widgets
+(0) - When a dashboard has no widgets, instead of being blank it will show a variety of quick start options. Add/create a widget to get started.
+Dashboard Modes:
+View Mode
+- Looks like a list of widgets with filters. The normal state of a dashboard where you change some dates and filters and learn about activity in the subaccount.
+Edit Mode
+- Looks like a list of widgets with edit options. When you temporarily switch into Edit Mode you can drag & drop the widgets into a new arrangement, add/delete widgets and elements, or change the theme or title.
+Dashboard Components Overview
+Dashboard Selection
+Menu
+- A blue button with a panel icon and a down carrot.
+Click to expand the dashboard selection menu.
+Date Picker
+- Two dates or a calendar with a date range.
+Click to select a different date range.
+Edit Button
+- Looks like a Pencil Icon.
+Click to switch from view mode to edit mode.
+Action Menu
+- Looks like three vertical dots icon.
+Click to open the action menu.
+Quick Filters Button
+- Blue pencil icon and "Quick Filters".
+Click to open the quick filters side panel.
+Filter Pills
+- White pill with a filter name and down carrot.
+Click to open a modal to adjust the filter.
+Widgets
+- A list of the widgets in the dashboard.
+Quick Start Options
+- What you see if the dashboard doesn't have any widgets.
+Dashboard Selection (Carrot Menu)
+Search Field -
+"Search for a dashboard"
+.
+Type to filter dashboards.
+Add Dashboard Button -
+Looks like A blue "+ Add Dashboard".
+Click to open the create dashboard page.
+My Dashboards List -
+Title "My Dashboards"
+with l
+ist of dashboards you created.
+Shared with Me  Button -
+Title "Shared With Me"
+with l
+ist of dashboards you have access to from others.
+Open Dashboard Button
+- Button with an icon and name of the dashboard.
+Click to open the dashboard in view mode.
+Pin Dashboard Button
+- Pushpin icon
+.
+Click to pin or unpin the dashboard to the top of the list (normally sorted alphanumerically).
+Dashboard Add/Create
+Back Button
+- Looks like "< Back". Click to return to the dashboard.
+Create A Blank Dashboard Button
+- Looks like a card with "Create a Blank Dashboard. Start fresh with a clean slate. Select." Click to start creating a new blank dashboard.
+From Template Library Button
+- Looks like a card with "From Template Library. Use a Readymade Template from Library or one of yours. Select." Click to start creating a new dashboard from a template.
+Clone Existing Dashboard Button
+- Looks like a card with "Clone Existing Dashboard. Make Clone of your Existing Dashboard. Select." Click to start cloning an existing dashboard.
+Create A New Dashboard
+Dashboard Name Field
+- Looks like a text entry field with example "(eg) Opportunity Overview". Type in new dashboard name.
+Private Dashboard Toggle
+- Looks like a blue/grey toggle with label "Set up this dashboard so only you can see it. It won't be visible to other team members." Toggle on (blue right) to make the dashboard private or off (gray left) to show access settings.
+Agency User Access Dropdown
+- Looks like a dropdown named "Agency User". Select Agency User access option.
+Account Admin Access Dropdown
+- Looks like a dropdown named "Account Admin". Select Account Admin access option.
+Account User Access Dropdown
+- Looks like a dropdown named "Account User". Select Account User access option.
+Access Options
+Full
+Option - Looks like "Full". Select for full access.
+Edit
+Option - Looks like "Edit". Select for edit only.
+View
+Option - Looks like "View". Select for view only.
+No Access
+Option - Looks like "No Access". Select for no access.
+Cancel Button
+- Looks like a white button labeled "Cancel". Click to close the New Dashboard modal and discard settings.
+Confirm Button
+- Looks like a blue button labeled "Confirm".
+Click to create and open the new dashboard.
+Create A Dashboard From Template Library
+Filters Button
+- Looks like "Filters =". Click to show or hide the filter sidebar.
+Clear Filters Button
+- Looks like "X Clear Filters". Click to reset all filters.
+Search Field
+- Looks like "Search for a template". Type to filter templates by keywords.
+Order Dropdown
+- Looks like a white dropdown. Select an option to sort templates in a specific order.
+Most Popular
+Option - Looks like "Most Popular". Select to sort by popularity.
+Most Recent
+Option - Looks like "Most Recent". Select to sort by recency.
+Filter List Panel
+- Looks like a left panel with many filters. Activate or deactivate filters to refine results.
+All Templates
+Button - Looks like "All Templates". Click to reset all filters.
+My Templates
+Button - Looks like "My Templates". Click to show only templates you've created.
+Shared With Me
+Button - Looks like "Shared with me". Click to show only imported templates.
+Favorites
+Button - Looks like "Favorites". Click to show only favorited templates.
+Browse Categories
+Button - Looks like "Browse Categories". Click to show or hide category checkboxes.
+Tags
+Button - Looks like "Tags". Click to show or hide tag checkboxes.
+Template List
+- Looks like a scrolling list of template cards. Scroll to browse available templates.
+Template Card
+- May show a color, icon, and name or be blank. Hover to see favorite and open buttons.
+Favorite Button
+- Looks like a star icon. Click to mark the template as a favorite.
+Open Button
+- Looks like an eye icon. Click to open template details.
+Template Details
+Back Button
+- Looks like "< Back". Click to return to the template list.
+Favorite Button
+- Looks like "Star Favorite". Click to toggle favorite status.
+Continue Button
+- Looks like "Continue >".
+Click to create and open the selected dashboard.
+Category Pills
+- Looks like category names. Read to understand the grouping.
+Preview Image
+- Looks like a screenshot of the template. View to preview appearance.
+Expand Preview Button
+- Looks like an expand icon. Click to view the preview image full screen.
+Tag Pills
+- Looks like tag names. Read to understand template categorization.
+About Text
+- Looks like a long description of the template. Read to learn more.
+Prerequisites Text
+- Looks like a short description of what’s required. Read to ensure the subaccount has the necessary setup.
+Clone Existing Dashboard
+Select Dashboard Dropdown
+- Looks like "Select a dashboard". Use to choose an existing dashboard.
+Dashboard Name Field (New)
+- Looks like a text field with the selected dashboard name and " - clone". Edit to set the new dashboard name.
+Private Dashboard Toggle
+- Same as above. Toggle visibility settings.
+Agency User Access Dropdown
+- Dropdown named "Agency User". Choose an access level.
+Account Admin Access Dropdown
+- Dropdown named "Account Admin". Choose an access level.
+Account User Access Dropdown
+- Dropdown named "Account User". Choose an access level.
+Access Options
+Full
+Option - Looks like "Full". Select for full access.
+Edit
+Option - Looks like "Edit". Select for edit only.
+View
+Option - Looks like "View". Select for view only.
+No Access
+Option - Looks like "No Access". Select for no access.
+Cancel Button
+- Looks like a white button labeled "Cancel". Click to close the modal and discard changes.
+Clone Button
+- Looks like a blue button labeled "Clone".
+Click to create and open the cloned dashboard.
+Date Picker
+Looks like two dates or a calendar with a date range.
+Click to select a different date range.
+Edit Button
+Looks like a Pencil Icon.
+Click to switch from view mode to edit mode.
+Edit Mode
+Title Field
+- Field with the dashboard title.
+Type to change the dashboard title.
+Cancel Button
+- White "Cancel"
+.
+Click to exit editing mode without saving changes.
+Save Changes Button
+- White "✓ Save Changes".
+Click to save changes and exit edit mode.
+Add Widget Button
+- Blue "+ Add Widget".
+Click to open the add/edit widget side panel.
+Add (or Edit) Widget Panel
+Widgets Tab
+- "Widgets" underlined.
+Click to switch to the Widgets controls.
+Elements Tab (see article
+Subaccount Dashboard - Elements Add or Edit
+) -
+"Elements" underlined.
+m
+Click to switch to the elements controls.
+Themes Tab (see article
+Subaccount Dashboard - Edit Theme
+)
+- "Themes" underlined.
+Click to switch to the themes controls.
+Search Widgets
+- "Search Widgets".
+Type keywords to filter the widgets (see the lists and the green widget count next to each category change).
+Show By Chart Type
+All Charts Button
+- Looks like "All".
+Click to remove widget list filters.
+Numeric Charts Button
+- Looks like a "#" icon.
+Click to filter to widgets that just display a number.
+Donut Charts Button
+- Looks like a Donut icon.
+Click to filter to widgets that display a donut (circle) chart.
+Line Charts Button
+- Looks like a Line icon.
+Click to filter to widgets that display a line graph.
+Bar Charts Button
+- Looks like a Bar icon.
+Click to filter to widgets that display a vertical bar graph.
+Horizontal Bar Charts
+- Looks like a Horizontal bar icon.
+Click to filter to widgets that display a horizontal bar graph.
+Table Charts Button
+- Looks like a Data table icon.
+Click to filter to widgets that display data in a table.
+Widgets List
+See article Subaccount Dashboard - Widget Types
+See article Subaccount Dashboard - Widgets Add or Edit
+Action Menu (Three-Dot Menu)
+Clone Button
+- Looks like "Clone".
+Click to create a copy of this dashboard.
+Duplicate to Another Account Button
+- Looks like "Duplicate to another account".
+Click to make a copy of this dashboard in another subaccount.
+Dashboard Name Field -
+Looks like "Dashboard Name" plus "- Copy".
+Type the new dashboard name.
+Subaccount List Dropdown
+- Looks like "Search Account Name"
+.
+Scroll and/or type to find the target subaccount/location.
+Cancel Button
+- White "Cancel".
+Click to close the modal and discard changes.
+Duplicate Button
+- Blue "Duplicate".
+Click to create the new dashboard in the other account.
+Upload Dashboard Template Button
+- Looks like "Upload dashboard template".
+Click to upload a dashboard template.
+Set as Default Dashboard Button
+- Looks like "Set as default dashboard".
+Click to set this as the default dashboard, always visible when the subaccount reloads. Setting a default dashboard means it will show up every time users go to the Dashboard page. Make sure the dashboard you choose works well for all the users. The default dashboard serves as the primary landing page everyone sees when they log into the subaccount.
+Cancel Button
+- White "Cancel".
+Click to close the modal and discard the default change.
+Confirm Button
+- Blue "Confirm".
+Click to change this to the default dashboard.
+Manage Dashboard Timezone Button
+- Looks like "Manage dashboard timezone".
+Click to open the manage dashboard timezone modal.
+Select Timezone Dropdown
+- Dropdown showing a timezone.
+Click to select a different timezone option.
+User Timezone option
+- "User Timezone" + the timezone name and zulu offset.
+Select to set the timezone to your local time.
+Subaccount/Location Timezone option
+- "Location Default Timezone" + the timezone name and zulu offset.
+Select to set the timezone to the subaccount/location's default timezone.
+Cancel Button
+- White "Cancel".
+Click to close the modal and throw away changes.
+Save Button
+- Blue "Save".
+Click to save the new timezone option.
+Manage Permissions Button
+- Looks like "Manage permissions".
+Click to adjust the dashboard's permissions. Only dashboard owners can access these settings.
+Private Dashboard Toggle
+- Blue/grey Toggle "Private Dashboard". Set up this dashboard so only you can see it. It won't be visible to other team members. System admins will automatically have full access to this dashboard unless it's set to private.
+Toggle blue/right to make dashboard private to you only or grey/left to set permissions.
+Owner
+- Name and email of dashboard owner.
+Display only.
+Agency User Access Dropdown
+- Shows Agency User permission option.
+Click to select a different permission level option.
+Account Admin Access Dropdown
+- Shows Agency User permission option. Click to select a different permission level option.
+Account User Access Dropdown
+- Shows Agency User permission option.
+Click to select a different permission level option.
+Cancel Button
+- White "Cancel".
+Click to close manage permissions and discard changes.
+Save Button
+- Blue "Save".
+Click to save permissions changes.
+Delete Dashboard Button
+- Looks like "Delete"
+.
+Click to erase the dashboard permanently.
+Cancel Button
+- White "Cancel".
+Click to close the modal and discard the deletion.
+Delete Dashboard Button
+- Red "Delete Dashboard".
+Click to delete the dashboard permanently.
+Quick Filters
+Clear Filters Button
+- Blue "Clear".
+Delete all active quick filters.
+Filter List
+- Filter cards.
+View and control the filter settings. Max 5 filters.
+Add Description Button
+- Blue "+ Add Description".
+Click to show the description field.
+Description Field
+- "Description (optional). Enter Description".
+Type to write the filter description.
+Delete Filter Button
+- Trash can icon.
+Click to delete the filter.
+Add Quick Filters Button
+- Blue "+ Add Quick Filters".
+Click to add a new quick filter.
+Cancel Button
+- White "Cancel".
+Click to close the Quick Filters side panel and discard changes.
+Apply Button
+- Blue "Apply".
+Click to close the Quick Filters side panel and commit changes.
+Add Quick Filters (panel)
+Search Field
+- "Search for fields across all data sources."
+Type keywords to filter the available fields in the dashboard's included data sources.
+Select Data Sources Multi-select
+- "Select data source".
+Select one or more of the data sources included in the dashboard. Click to select or click the "x" to deselect.
+Field Checkbox
+- Checkbox with the name of a field.
+Check to select field as a quick filter, or uncheck.
+Cancel Button
+- White "Cancel".
+Click to close the Quick Filters side panel and discard changes.
+Add Button
+- Blue "Add" (quick filter count).
+Click to close the Add Quick Filters side panel and return to the Quick Filters side panel with changes.
+Filter Pills
+Clear Button
+- Grey "Clear".
+When data is selected, click to clear it.
+Logic Dropdown
+- Dropdown showing a logic option.
+Click to select the appropriate logical option.
+"Is"
+-
+Click to set quick pill to [data source] IS [one or more data].
+"Is not"
+-
+Click to set quick pill to [data source] IS NOT [one or more data].
+"Is one of"
+-
+Click to set quick pill to [data source] IS ONE OF [one or more data].
+"Is none of"
+-
+Click to set quick pill to [data source] IS NONE OF [one or more data].
+"Is empty"
+-
+Click to set quick pill to [data source] IS EMPTY. Data field disappears.
+"Is not empty"
+-
+Click to set quick pill to [data source] IS NOT EMPTY. Data field disappears.
+Data Value Multi-select -
+List of data value pills.
+Click to select one or more data values, or click the "x" to deselect". Varies based on the data source.
+Cancel Button
+- White "Cancel".
+Click to close the modal and discard changes.
+Apply Button
+- Blue "Apply".
+Click to close the modal and commit changes.
+Blank Dashboard Quick Starts
+What Is Your Goal?
+- A list of colorful buttons with common business functions.
+Brows to find an appropriate business area.
+Top Used Widgets
+- A list of widget cards.
+Scroll the list to discover appropriate widgets.
+Add A Widget Manually Button
+- Blue "+ Add a widget manually".
+Click to open the Add New Widget Sidebar.
+What Is Your Goal Widget Options Modal
+Widget Preview
+- A list of widget cards.
+Scroll the list to discover appropriate widgets.
+Widget Selection Checkbox
+- A checkbox.
+Check to select or uncheck to deselect a specific widget.
+Reset Selection Button
+- "Reset Selection"
+Click to deselect all the widget card checkboxes.
+Cancel Button
+- White "Cancel".
+Click to close the modal and discard changes.
+Confirm Button
+- Blue "Confirm".
+Click to close the modal and leave the widgets selected for inclusion.
+Top Used Widgets
+Widget Preview
+- A card with a preview of a widget.
+View to learn what the widget will look like.
+Widget Selection
+- A checkbox.
+Check to select or uncheck to deselect a specific widget.
+Reset Button
+- White "Reset".
+Click to deselect all selected widgets.
+Confirm & Add Button
+- Blue "Confirm & Add".
+Click to close the quick start page and add the widgets to the dashboard.
+Widgets In View Mode
+Widget (in view mode)
+- A rectangular card that displays data.
+View to learn the current state of that data.
+Source Options Dropdown
+-  A source option.
+Click to select a specific data source. Varies by widget.
+Date Property (present on some widgets)
+- A source option.
+Click to select a specific data source.
+Status Change Button -
+"Status Change"
+Select to calculate based on when the data's status last changed.
+Created On Button
+- "Created On"
+Select to calculate based on when the data was created.
+Updated On Button
+- "Updated On"
+Select to calculate based on when the data was last updated.
+Widget Body (varies by widget)
+- A visual representation of the data.
+View, hover, and click to interact with the data.
+Records Granular Data
+When you click on the widget's display body it will open up a modal with a table showing the detailed/granular data behind the widget. You can export the data with the export button (the download will start automatically).
+Widgets In Edit Mode
+Drag and Drop Handle
+- 6-dot icon.
+Click and hold to drag the widget to a different location.
+Action Menu
+- 3-dot icon.
+Click to open a small action menu.
+Edit Button (see the article Subaccount Dashboard - Widgets Add or Edit)
+- "Edit"
+Click to open the Edit Widget side panel.
+Duplicate Button
+- "Duplicate"
+Click to open the Add/Edit Widget side panel with a new widget.
+Delete Button
+- "Delete"
+Click to remove the widget from the dashboard.
+Resize Handle
+- Folded corner icon.
+Click and drag this lower right corner to resize the widget.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

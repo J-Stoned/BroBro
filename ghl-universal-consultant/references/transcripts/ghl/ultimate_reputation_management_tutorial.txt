@@ -1,0 +1,513 @@
+ULTIMATE REPUTATION MANAGEMENT TUTORIAL - Master Go High Level Reviews System
+
+TRANSCRIPT:
+
+Want to truly master reputation management for your business. Most people only react to bad reviews or send random review requests.
+
+In this ultra in-depth, high level reputation management tutorial, you'll master the tools and learn exactly how I use them.
+
+You'll discover how to handle reviews, build consistent five stars, and take full control of your online reputation so you can run it like a pro, whether you're a beginner or more advanced.
+
+So mastering go high levels. Reputation management comes in about five different sections, and right now I'm just gonna show you what we're gonna be going through, okay. These five sections to understand exactly what this video is about.
+
+So the first thing we're gonna be covering. It's a reputation management overview. What is reputation management? Why is it good? All the basics. You understand whether you're a beginner or more advanced, it's still very important.
+
+Number two, the reputation management system tutorial inside a go high level, so how to send review requests, the tools, automating the whole nine yards. Like the hands-on approach to the tools so you understand exactly how to do this.
+
+Number three is how to collect reviews properly. So there's a whole system to this and you have to learn it, and it's one of the most important parts.
+
+Number four is how to onboard clients properly. So how to get, you know, their GMB connected, get social medias up, and basically the process you're gonna need to learn to really service your clients.
+
+And then the fifth part, which may be the most important, is me going over this snapshot that I'm gonna show you how to get for free at the end of the video, and it's gonna connect into another video that's gonna be in depth on how to take the entire reputation management process you have. Okay. And automate it.
+
+This is very important. If you really want to dial in reputation measurement. Again, I'm gonna show you how to get it for free from me, okay? 'cause this is very, very important. And if you can't automate this, well, you're outta luck.
+
+So this is gonna be the outline of this video, guys. It's going to be so in depth, so please get your notes out. We're gonna be literally covering everything like this will be the most in-depth tutorial on reputation management available on YouTube as of the making of this video.
+
+One thing I wanna say too, if you're wondering like, well, how does this guy in a robe know what he's talking about? I have used reputation management for a long time in my agency. It has helped me win the gold award that you're seeing on screen right now, and the Platinum Award, which I'll be showing you soon, which I also won this year.
+
+But I haven't just used reputation management for my agency and for my clients. I've also used it for my hair salon to get it ranked super high on Google and to get it a ton of five star reviews on autopilot.
+
+And I say this, not to brag, but to show you that I have walked the walk where a lot of other high level gurus and all these other guys online, they don't really know reputation management. They just know how to make videos on it.
+
+I've actually done it and I'm gonna be giving you the exact same strategies that I use in this video to hopefully help you fast track stuff.
+
+WHAT IS REPUTATION MANAGEMENT
+
+So let's jump right in. So to access reputation management, you're gonna come into high level and you're gonna go all the way down to reputation. You're gonna click it and you're gonna be brought to this dashboard that looks just like this.
+
+The first question we ask is, what is reputation management? So if if you are advanced, just bear with me. I'm gonna fly through this part. But if you're a beginner, pay close attention. 'cause this is actually really important.
+
+Reputation management is keeping track of and improving what people say about your business. Online. Okay. It is quite literally managing a business's reputation online.
+
+Why Businesses pay for it. Reputation management helps your business get more positive reviews and fix bad ones fast. More Google Reviews makes your business show up higher on Google when people search locally.
+
+It saves time by managing all your reviews in one place and helps bring in more local customers who trust. Your business.
+
+So this is a very valuable service, not just for the fact that, you help people's online reputations, you do SEO at the same time. Very important. A lot of people miss out on this and with high level, they make it so easy.
+
+REPUTATION MANAGEMENT FACTS
+
+So what I wanna do now is I wanna go over some facts on reputation management. A lot of people don't know.
+
+So the first fact is 92% of consumers read online reviews before visiting a business. 92%. That is insane. Meaning that when your business or your client's businesses is online, if they have a bunch of bad reviews, people are gonna be reading those. Like this is the difference between getting a lot of clients and not. It can be very, very persuasive.
+
+Number two, 74% of customers trusted company more because of its positive reviews. We are herd creatures. We all are. We like to look at what Jim's doing and copy. It's how humans are.
+
+So with reviews, very important. They go, oh, that was good. Let's do that. That's why Amazon reviews are so powerful. 'cause people go, well, a bunch of people like this vacuum, then I must like it too. And if they see a bunch of bad ones, they go, uh, I don't want it.
+
+94% saying negative review has convinced them to avoid a company. 94%. That is insane. I'll tell you, I've done that too. I'm like, dude, there was a lot of bad reviews on this, you know, uh, kitchen knife I wanted to buy, or this, you know, whatever, this computer, I didn't want it. And I've like, I've literally been swayed by that.
+
+And then when there's a ton of good reviews, I'm swayed by that as well.
+
+Over 70% of users never go past the first page of search results. This one is key. 'because this has to do with local SEO. Which is a concept I'll be really brushing in on later in this video, which is ranking higher on Google.
+
+Reputation management helps with that a lot. And little note here, with AI getting more and more powerful, one of the things that's gonna really be a huge factor, even bigger than it is now on ranking on Google will be reviews because you can't fake it because they can check the ips of who left the review.
+
+Very critical. Guys, that is a golden nugget for you. That is going to be huge in the upcoming months.
+
+So that's it. Reputation management is incredibly important and incredibly powerful, and you need to make sure you are doing it for your AI agency or whatever agency you have, 'cause it will change everything and it's only gonna get more important.
+
+So now that you understand what it is, let's jump into how to use the tools.
+
+USING THE OVERVIEW TAB
+
+So the first thing we're gonna be covering is the overview tab. So all this is, is an overview, a dashboard of what's going on. You can see your invites, how many reviews you received, your ratings, basic stuff.
+
+And you can send a review request by clicking is on all of the tabs where you pick the exact content you want. You pick the exact contact you want or you can add it by putting in their info.
+
+Choose whether you want to email SMS or WhatsApp and click send review request and you are done. It's as simple as that.
+
+It is an overview of reputation management. Now let me show you what it looks like on an active account. It looks like this. You have tons of invites. You see here, it gives you the sentiments, it gives you all this, and it gives you a bunch of other data on review, so it goes super in depth on all that.
+
+And I'll be doing that throughout this video just to show you what it looks like live versus what it looks like when it is blank when you're first getting started. Because with a lot of people, they don't have that.
+
+And if you're super new, it's gonna look like this, where it's going to give you a couple quick options to get you started faster. But that's just what it's gonna look like if you haven't done it.
+
+And this is what it's gonna look like when it is full.
+
+CUSTOM DASHBOARD PRO TIP
+
+So now it's time for my first pro tip for you, and that is having a custom dashboard that goes over all of this stuff.
+
+Now, it's kind of tricky to do because they don't exactly have a direct feature you can add in, but you can add it in through a pipeline, which hint, hint, wink, wink is in the snapshot. I'm gonna be showing you.
+
+I have a pre-built out pipeline's that's gonna plug into a pre-made dashboard that's gonna show all the features here. So your clients or you can see exactly what's going on very quickly.
+
+And what's even cooler is you can take this exact dashboard so your clients can go, oh, I got a bunch of reviews. Come down into reporting and create a custom report on it.
+
+And guess what? I have a custom report already built for you in the snapshot, but it's very easy to just click new reporting, click the dashboard, and you now have a report that you can send to them constantly.
+
+So again, that's a big pro tip. If you want to show other businesses. Hey, we're getting you a lot of reviews here. This is what it looks like.
+
+COMPETITOR ANALYSIS
+
+Last thing in the overview that I want to go over is the competitor analysis. This is really cool. You can plug in another business and see how they're doing with a bunch of different features.
+
+Really neat, huh? So you can kind of get a comparison. So the way we do this is we click Add Competitor and let's search for a business. We will do Zoey Zimmerman Hair salon. Okay.
+
+We're gonna search and it's gonna be right there and we're gonna click it and we're gonna click Add Competitor. Then right up here you'll see, it's gonna show you all this stuff.
+
+So reputation score 77, I gotta improve that average rating. And then it basically just shows you the basic features, you can see where you're ranking.
+
+So it's really cool because you can get like a live analytics against your competitors and you can have up to three competitors. From what I know, this is completely free, so use it.
+
+But it's a really cool little feature that they've added recently, hence this being such an updated video, where you can really get like an idea of where you're at on the rankings against your top competition.
+
+So use this as really important, but this can also be a really important sale point. If you're trying to show your customer something you can be like, Hey, listen man, this is our review score. 'cause you added yourself in. right there.
+
+And then you can be like, and look, we're getting beat out by these guys. Look, they have way more stuff than us. They have this, they have that, they have all this other stuff, and we're losing out.
+
+So very, very important. Very, very powerful and can really help you sell a lot more people.
+
+The overview is just a dashboard of all of the basic analytics and competitor analysis is where you can compare businesses to see basic info.
+
+SENDING REVIEW REQUESTS
+
+So now we move on to the requests tab. So all the request tab very simply is a place where you can see all of the review requests you have sent out and request more.
+
+You can click this, put in the contact, put in the name, click where you want, and click send review request.
+
+Now what this looks like on a full active account is like this, okay? It'll show you all of their views. You have lined up and it's gonna show you where they're at.
+
+Pretty neat, huh? That way you can see all the reviews going out and how everything works. And again, this will pre-populate once you actually have reviews in here.
+
+But all this request tab is doing is showing you the reviews that went out and really how to look at them. Okay, it is now pro tip time.
+
+BULK REVIEW REQUEST HACK
+
+If you wanna really quickly inside of high level, blast a bunch of contacts with a review request, like right now. 'cause this only gives you access to one. Um, and we'll go over automating this entire process later.
+
+But if you wanna quickly just blast the list. Here's a little hacking. You can come to contacts. You can select all the contacts in here and you can click this little star right here and it says, send review request.
+
+You click okay, proceed. You select exactly what template you want on what platforms or SMS email and the edit WhatsApp, which is awesome. You click it, you add the action in, and you click send review request, and it will immediately send out a review request to as many people that you selected.
+
+So that is a really fast and simple way to send a ton of review requests. Very quickly, but later in the video I'm gonna go over automating this process so it can be hands off. You don't have to worry about anything.
+
+Also, the snapshot I go over has a whole system that does all of that for you. And if you're completely new and you're like, well, how do I even get contacts in here?
+
+If you just want to import a list, you click this right here. You follow these exact steps. It's going be very self-explanatory, and you're going to upload. List right in here, and it'll be all pre-populated.
+
+Then as contacts come in through forms, payments, et cetera, they will be put into contacts automatically.
+
+THE REVIEWS TAB
+
+So now we're gonna move on to the reviews tab. So the reviews tab is a place where you're going to see all of the reviews you have, and you can respond to them here.
+
+You can filter by ratings, sources, all kinds of stuff to see where the reviews are coming from. Again, you can send review requests, but all this is gonna do is just gonna be a list of the reviews you have, and so you can see what came in and what didn't.
+
+Now let me show you what it looks like on an active account. We come right in here and you'll see a ton of reviews lined up all like this. You can see where they're at, how they work.
+
+You can see the average rating, your summary. Again, you can filter by rating sources, date, spam, all kinds of stuff, and you will just see where all the reviews are at.
+
+Now you can reply to the reviews here, but a really important thing is you can turn on AR reply, which we'll get into later, which will, AI will go in and reply just like this. So you don't have to, which builds engagement and helps you rank higher on Google.
+
+Really cool pro tip. I'll be showing you later, but that is a place where you can do this.
+
+So again, all the reviews tab is showing you is where all the reviews are gonna lay, how you can respond. It's just gonna be a dashboard of all the reviews that have come in so you can see them and read them.
+
+SOCIAL MEDIA REVIEW POSTS PRO TIP
+
+Now it is pro tip time and I think you're really gonna like this one if we come up into marketing. Okay. And we come to social planner We can actually have social media management come in by having it post the reviews.
+
+This is really cool. It will take the reviews and post them on social media. How cool is that? You don't have to do any extra work. This can be a big add-on. It can be, Hey, we're gonna offer you social media management where we're actually gonna go and optimize posts and post for you on all your platforms for free. Part of this price.
+
+It adds a lot of value. And guess what you do? Literally no work. Once you set it up, it's all automated.
+
+So you come right in here, you select the review source. Let's say, Hey, we'll do Google. You pick the amount of reviews, we'll do five star reviews. You choose the social accounts, we'll click all of them. The number of posts, you can pick as many as you want. Just do one for now. Every day, every week, you pick the cadence. How many you want.
+
+Then you pick where you want 'em. Then you click next. You can pick the background. You got a lot of different options. The way it looks, you click next, and then you can show a content preview so it shows you what it looks like, and you can change the colors, the fonts, all kinds of stuff, but you'll be getting legitimate posts going out on all these platforms.
+
+This is what they look like. And they're good. I mean, it's cool. It builds social credibility. It builds clout. And guys, once you set it up, which I just showed you by selecting the socials, selecting the background, and going to content preview, you're done.
+
+That's all you have to do. And now you've fully automated social media management to your clients. How cool is that? That's a big add-on. That offers a lot of extra value. It's doing social media mail two, which boosts SEO as well.
+
+And guys, it's no work. So please, these little pro tips are golden nuggets I'm giving you use them, okay?
+
+And a lot of you guys could just throw this up there very easily if their social shows are connected just to be nice. You can also do that if you're not selling. You just go, Hey, we're doing this on extra because we want to, we wanna help you it builds reciprocity and opens the upsell later.
+
+So very, very important pro tip.
+
+WEBSITE WIDGETS FOR REVIEWS
+
+So now we move on to widgets. So all a website widget is an easy way to gather reviews on a website or really anywhere. You can put code, and this is what it looks like.
+
+Pretty cool, huh? You got all of the reviews stacked for as many as you want to build social group. Then right here, if they click write a review. Okay, it's gonna bring 'em to Google immediately. Put them in place where they can leave you a Google Review.
+
+Guys, this is a huge way to collect reviews without running review campaigns. Or if you have a collect that's kinda like, I don't want to pay for a review campaign or however they are. This is the simple way you can add this in to help get them a lot of five star reviews.
+
+It's awesome. But it also does that social proof thing where people go, oh my gosh, all these people love this. These are real Google reviews. This is so cool, yada, yada, yada. Again, herd animals, social proof. People like to follow what the person next to them does.
+
+Is a very, very important way to do it.
+
+So you have a couple different options. Number one, you can create completely from scratch. Number two, you can use a template. I recommend use a template. They're simple. So we'll come in and we will use this template right here.
+
+So then you click Edit Widget. So very simply, you have a couple different things you can do with this. Summary position. You can either do top or a long layout Review source is where you want the reviews coming from. Google, Facebook, or if you have any other pages, we'll get that later. Okay. Right here.
+
+Really cool. This is widget types. So this is different kinds. So you have like list, you have grid, you have masonry, you have carousel, which slides, you have slider, flash, and those are just basically ways you can lay out your views. It's just making it look different. And that's it.
+
+And then you can have number of reviews. So how many reviews, let's say we only want one. When we click this, what it's gonna do is it's only gonna leave one review pretty neha and then any rating, what I would do is only five star that you wanna make it look good.
+
+If you're like my businesses, you pretty much only have five star. So, you know, kinda worry about that.
+
+But then you can put powered by, which is right down there, which if you leave that off, it's not gonna show it's powered by. And it shows on, it's gonna link that. Okay, so if we come right up here, you then can put in a heading. So that's right there.
+
+So if you do FF, FF, I'm just doing this for an example, you'll see it pops up right there. Then description, we are the best. It's this right here. I'm just showing you guys. You obviously wouldn't put that, but I'm just showing you what you can do.
+
+Then right here, you can have the writing or you don't have to have it, the total review count, or you don't have to have it. Write a review button or you don't have to have it. I would leave all of these checked. It's much better.
+
+But what I'm showing you is the amount of customization. But I would leave all of those on. And then right in here, this is just colors, themes, and fonts. Whatever you want, you pick it, it changes it across the board. Again, this is the visual side.
+
+Then here is gonna be some of the settings, okay? For your review widget. So you can display the date, display the reviewer icon, exclude any stuff like that.
+
+And the code that you're going to use to put this on a website, now You can put the high level review widgets on any websites, WordPress, Wix, Squarespace, anywhere that has a code editor, and you would just copy the code and put it on.
+
+I'll show you how to do it in a sec, because you can do it right here, but this is a quick way to get it on. Once you've had it, but here's what I'm gonna tell you. We're gonna first to name it.
+
+Before we just slap the code up, we're gonna click save and then we're gonna name it. So what we're gonna do is new review Widge. Okay? And then we're gonna click save. This is really important And as you see it pops up right here.
+
+So now what we want to do is we want to copy the code, We wanna pick new review widget. You can click whatever code you want and we're gonna click copy code. Very important to do, okay?
+
+Now what we're gonna do is we're gonna come to the website you want, Again, you can do this on a code editor, really on any website if you have. So I'm gonna show you how to do it here.
+
+We'll click the plus. You're then gonna come all the way down to code and we're gonna slap this right here. We're gonna click Open code editor, and we're gonna paste this.
+
+Now they have a reviews widget and a testimonial widget. This is just an easier, cleaner way to do it. Once we have it in, we click the eyeball and look at this. There it is.
+
+Now obviously you don't want to put that, but you got what I was putting down there, but this is a great way to gather more views and check it out. When you click write a review, what does it do? It brings you to Google and it allows you to leave. Review.
+
+Guys, this is one of those things that's very powerful. It's easy to do and it works. I mean, you can see right here Last week I got a bad haircut from a different barber. Today, Tegan saved my life. 10 out of 10. Thank you.
+
+All like, wow. Someone sees that, they'll go, yeah, I've had a ton of bad experiences with barbers. 'cause I had a great experience too.
+
+And I know you might be like, they don't know how, like what do you mean they don't know how? They just go to Google and click write review. People don't know. They're not you. They don't have the same experiences.
+
+You would be shocked at how many people are like, oh yeah, I'd love to write a review. I didn't even know you had that.
+
+This is a great way to get that if you miss them on the review requests. Okay, so now it's time to move on to listings.
+
+But before we do that, I just wanna let you know if you're interested in learning more about reputation management, really adding this into a full AI agency. You know, selling clients a whole nine yards to owning an agency and whatnot.
+
+IB 30 day free trial link of high level. When you sign up with that, you get access to tons of free bonuses you don't pay for. So a lot of reputation management snapshots.
+
+We're gonna be getting over that in the next video. It's gonna blow you away. It's gonna automate this whole process. It's insane.
+
+You get access to six live coaching goals per week. Insane. You can talk to me, you can talk to other people. It's crazy.
+
+You get access to tons of trainings on literally like how to master high level, sell high level tons of stuff, tons of premium snapshots, Not just reputation management ones, but a lot of different ones.
+
+Gave access to a private community where you can message people and be part of something bigger, which trust me, is big. When you're low on motivation, AI prompts, sales scripts and so much more guys, $10,000 worth of bonuses completely refer you when you sign up that link down below.
+
+So what I recommend you do is you just check out that link because I think you're really gonna like it. And from what I've heard, it is the best community. Anywhere in this high level space.
+
+So I recommend you check that out. I think it's gonna blow you away. And if you have questions on anything, please drop a comment down below. I answer so fast you can see 'em. My other videos, I really wanna help you guys out.
+
+So drop 'em down below and we'll help you out.
+
+LOCAL SEO AND LISTINGS
+
+So now what we gotta do is we gotta move on to the listings. This is an important one because this has to do more with local SEO and building backlinks.
+
+The first thing I want to do before I go into activating this is I want to explain what these are and why they are powerful.
+
+So local listings are online profiles of your business on sites like Google, Yelp, or Apple Maps that show your name, address, phone number, and website.
+
+They're powerful for SEO because when your info is consistent across many sites, Google trusts your business more, ranks you higher in local searches and makes it easier for customers to find and contact you for.
+
+As you see here, here's your business. It's showing Google connected to it, Yelp connected to it, you know, apple Maps, and there's a bunch of other places where citations are built. These are not the only ones, just to let you know, but they're all across Google, and this is a big thing for local SEO.
+
+And high level makes it pretty easy because you can set it up, you have to pay for it, but it goes through and it's a very simple process.
+
+Now, there's other places you can build citations, listings, and all this stuff, but high level is relatively easy to use. And again, it is strictly from promoting the Google business profile, which is really like local SEO at the heart of it.
+
+So that's what listings are. They're important because, well, they're SEL.
+
+SETTING UP LISTINGS
+
+So to activate listings, you come into the listings tab and you're gonna click Activate listings. Now you're gonna pick a plan. Again, they cost money. You have to pay high level for them.
+
+So one thing I wanna show you is if you come to Agency View, okay. And go to reselling, this is where you're gonna set the price for all your sub accounts, which is right here.
+
+So you can pick how much you want to charge for it. You can pick, do you want more? Do you want less? You can see the numbers going up right here. And that is for picking the plan.
+
+So you can see it's 32 right here. But if we come right here and we go all the way down to one and we click save, okay? And we come back here and we click refresh. Look at that. This is now 30 bucks.
+
+That's essentially how it works. So you're gonna pick the exact plan you want. Do you want more months? Do you want less months? Do you wanna pay for the year? I would just stick with the monthly plan.
+
+Again, only do this if you're planning on either upselling them or giving them a bigger package. But what you're gonna do is you're gonna click confirm, And then you come to this page and you go, okay, this is all the stuff we're getting.
+
+You can pay with card pay using your agency wallet. I have other videos of that. So we're gonna do charged agency and we're gonna click pay 30 and subscribe.
+
+Then you'll be brought to a page that looks just like this. And this is where you're gonna place in all your information that's going to go on the local listings that gets pushed over to all those Google sites.
+
+So you wanna make sure you have your proper business name, the right phone number, the right email address, okay? The featured message you want, you want to pick your category.
+
+So we're gonna do hair salon. You want to pick the proper category, so important. You can pick more if you want. We're just doing hair salon for now.
+
+Really important to have that 'cause a lot of people will put the wrong thing and then it doesn't get categorized the right way.
+
+Put the exact address really important, like you have to double check, make sure it's all spelled right, make sure everything looks good, and then right in here it says, hide my address on directories because I don't serve customers at my business location.
+
+So this all looks good. And then you just click Create Listings. And what it's gonna do is gonna go through and it's gonna start creating listings on this.
+
+And then you'll see right in here now that you have listings, it's gonna show you business entities, the categories, the publishers, and all this stuff give you just basic feedback.
+
+So you can come into business entities. It's gonna show you the business here. Then the suggestion's gonna give you some stuff that you're gonna want to do, and you can create more entities.
+
+I mean, it's very simple guys. Like it's gonna show you anything else. You don't have complet. But that's the way it works. It'll let you know what's fully done and that's it. And then you can just set up guide to figure out more.
+
+So that's what listings are. Guys. They're great for local LEO. I walked you through the entire process. I hope it made sense. Guys, again, questions, drop 'em in the comments down below.
+
+I have so many people that are like, what is this? What does that just ask? I answer and it takes me forever to answer these comments, but we do it because we wanna help you. So make sure you do that so I can help you out.
+
+And this is what it's gonna look like once everything is pre-populated. It takes a little bit of time. You'll see the exact citations and business info. business details, social profiles. You can add all this stuff and that's what I recommend you do.
+
+You go in and you add all this extra stuff in here, really important, and you basically fill this entire thing out. This is how you really get it a lot more dialed in.
+
+So once it pre-populates, make sure you go through all of that and you get it all set up. 'cause it's gonna be other little things like you see in business info and all that stuff. And it'll tell you what to do in the guide.
+
+But a lot of this is really important that you go through this because this is gonna show you how to really get these listings dialed in, which is gonna help you boost the Google business profile higher on Google, so you can rank much, much better.
+
+So that's listings in a nutshell. That's how it works. That's how it's good. You guys questions, please drop 'em down below. Super powerful. But that's what this does and everything you could possibly need again is right here. It'll tell you exactly what you can do, how to fix it.
+
+SETTINGS AND REVIEWS AI
+
+So now that you understand listings, we now need to move on to the juiciest part of this video, the settings. This is where everything is configured. This is how you onboard, this is where everything is at. So I'll show you how to do all this.
+
+But the first thing we have to start with is reviews ai. So So reviews AI is really important. 'cause what this does is this responds. To the reviews on your Google's profile, which if you didn't know, helps with SEL.
+
+It helps basically boost it 'cause it shows that you're active and engaging with them And what it looks like is this right here. When someone comes in and posts to say, Hey, I love this. It then posts right here and lets them know different answers. So you don't have to do it.
+
+You can do this manually. It just takes a lot more time I think it's really good though if you're just starting out to respond to a couple manually first in a fast fashion to build up.
+
+So it's not an easy, like instantly you want to take a bit time for that, because it's the kinda thing where you don't just immediately look like you're using ai.
+
+But again, right in here, you can either have it off suggestive, which is giving you something to say, I don't recommend it. Or autopilot, which is what I use. You click that. You can pick the wait time. I recommend 15 minutes, but you can do more or less by just clicking that you have mins and hours. Okay?
+
+And then right down here you can create agents to do this. I don't really recommend doing this. You don't really need to. You can just click this on and it works just the same.
+
+But if you wanted to, you could click create agent and you can pick different ones. So we have, clarifier Grace Space. Taylor say, I need this like, so immature, but you pick Solution Sally, you pick which one you want.
+
+Really, you don't need these. You can just click. Autopilot response and it works just the same. This is not something you gotta picky on, but that's how you turn on reviews, ai, and again, this auto response reviews, which is really important for SEO. So make sure you do that.
+
+It is part of the AI suite, so I think it costs like zero point something cents. It's super cheap, but it is an AI action. Just let you know that is thing, and you're gonna want that on if you're trying to write people. But that's how you do it.
+
+ONBOARDING CLIENTS - REVIEW LINKS
+
+Now, the really important part, which is reviewing, this is how we onboard people. Very important. So the first thing, you could obviously just get this from them on a Zoom call.
+
+If you're onboarding them, there's two other different ways where you can basically get this from them if they don't give it to you on a Zoom call. This can be for Google, Facebook, and custom links down to integrations.
+
+But for right now, I'm just gonna show you how to do this just via Google and Facebook. So what we're gonna do now is we're gonna plug this in.
+
+So if we come right over here to this W account, we're gonna need to put in the link so we paste the link just like we did right here. I put in the link and just to let you guys know, I'm using active account.
+
+And a dummy sub account to show you the best view. 'cause what a lot of people do on YouTube is they come in and they just use a blank account and the people are like, it doesn't look the same as mine.
+
+I'm showing you both. So it looks exactly the same. And you don't miss a beat because I go above and beyond for you.
+
+So right in here, again, you can just select the page if it's selected and connect the GMB. But the first thing we're gonna have to do is connect said GMB.
+
+So you have a couple different options for this. So number one, on an onboarding call, you go in, okay? You talk to them, you go in here and you get said Link right in here.
+
+You go to ask for reviews, you copy the link and you get it from there. That's the first way you do it. On an onboarding call, you walk them through it. That's the first way to get this link.
+
+The second way to get this link is you would come right into Launchpad. Okay? And you would just go up here and you would connect it right here. I'll say Connect, yeah, link. And then they can do that.
+
+So if you were to send them access to said sub account, they could log in and they could fill it out. For some reason, people don't seem to know how to do this, and I see a lot of problems with it.
+
+That's why the onboarding Zoom goal is the best. But that's how you do it. You just click this right here. You'll send 'em link and you'll go through the process They would log into the sub account once you onboard them, and then they would put the link in. So that's the second way.
+
+Number one is onboarding via Zoom, where you do it for them by grabbing it here and plugging it in. Number two is they go in to the sub account and they upload it, which is trickier.
+
+And then we have a third option, which is basically you managing their Google business profile. Now, this is a little bit trickier as far as, like operas 'cause you control it. But I think this is better in a way, 'cause you have control and it's really the most hands off for them.
+
+So what you're gonna do is you're gonna come to business.google.com/create and what it's gonna do is give you access to look for people's GMB.
+
+So what we're gonna do is we're gonna type in the name of the business. So say we wanted to do a salon, we'll just click Salon Fusion. I have nothing to do with them. I'm just showing you the example of this.
+
+Say you want access to this GMB. You would click request access. Okay? And you're gonna pick the level you want. So you can do management or ownership management is better. You don't need to own it.
+
+You're gonna put in your relationship. Are you an owner employee agency? Okay, you're an agency. Put the name in your phone number, click this box, and click submit.
+
+And what it's gonna do is it's gonna send them an email to? Who owns this GMB? That's gonna say, will you give them access? And they just have to click yes.
+
+From there. You then have access to their GMB where you can come right in and plug it in like that. So that is the third option.
+
+I actually see very few people talk about this online, especially in the high level reputation manage space. 'cause I don't think they know how to do it, but this is a great way to get access to it if they won't hop on Zoom with you, okay.
+
+Or they don't know how to do it themselves. It's just a really easy way for you to get control of it. Now you all have control and it'll be on your jb, so you'll then plug it in.
+
+But I think this is a really neat trick. And again, it's just on the URL that I told you about earlier and it's really easy guy. Like really, really easy to use.
+
+So make sure you go and use this if you need it and you can't get access to it any other way. 'cause then this will give you access to GMB, then you can just grab the link and plug it all in and then you're done.
+
+So those are the three ways I hope those help. Those are three different ways you can onboard people. But what we're gonna do is we're just gonna basically show you the basics.
+
+We just copy this code, there's a couple other places it is, and then you're gonna come right in here and you're just gonna paste it. Okay. Right. Like that. And now you have your review link.
+
+But that's how it works. That's how you set up the review link. Very important. Okay. Please, if you have any questions on this drop in the con down below, I see a lot of people confused on this. It can be a little tricky, but this is a really important part, getting access to their GMB, because this is like how you do everything.
+
+REVIEW BALANCING AND SMS REQUESTS
+
+Then right here we have review balancing. So if you turn review balancing on this is pretty cool. If you have Facebook, Amazon, Google a bunch of different places. This will balance where it sends review requests to give you reviews on different platforms, and you just turn this on.
+
+You configure balance, you pick the platforms, and then you just go autobalance and it's gonna basically put them in a bunch of different places. Really neat, really handy. I recommend you do this. It's pretty cool if you have a bunch of different places, but if you're just doing Google, this can be turned off.
+
+So that's how you get the reviews link. Very, very important. That's how it works.
+
+So now we move on to SMS requests. So all this is, is a way to send out requests automatically. This is a newer feature, high levels enabled, so you don't have to have huge automations.
+
+Now you will have to have automations to kickstart this thing, which is the check-in. But the way this works is this will start sending review requests. You set up now the snapshot It's gonna be linked at the end of this video it has pre-built out templates for SMS, email, WhatsApp, and it basically automates this process.
+
+But for the sake of this video, I'm just gonna show you how to do it right now very simply, so you pick the way you want it. So right as they come in, immediately repeat, don't repeat. Maximum retries. Again, this is how many ascending.
+
+And then you're gonna pick your templates. So you can come into crate and you can create from scratch. Come right in here, you pick how you want it. What you want it. Simple stuff like that. You just upload how you want it and then you can come in here once you've built these templates and you can select them here.
+
+So you have reach I 1, 2, 3, 4, 5. So you have all the templates pre-built out and plugged in, in place. Very simple, very straightforward. Like this isn't complicated. They've made it so easy.
+
+It used to be way harder. Back in the day, you didn't have this. You'd have to manually set all this stuff and automations. It was a nightmare, but you don't have to do that now. So that's really cool. I think that is a really powerful way to do this.
+
+And again, to edit it, you just click right there. But that's how it works. And it's the same thing for email requests. You plug it in. Same thing for WhatsApp requests. You just have to connect it.
+
+So that's how those three work. In what order you want them to go out. You can just set them in the review templates once you set it up and it will just send them one by one to gather reviews. Simple as that.
+
+Any questions on this? Drop 'em down below. I know this part can be a little weird for people 'cause it is a new feature and it's a little bit different, but it totally makes everything easier.
+
+And make sure you watch the video that pops in as a video about the snapshot. 'cause it's gonna blow you away with what I already have prebuilt for you. So that's how you do all three of these very simply. It's just like that. Then you can start collecting reviews.
+
+QR CODES FOR REVIEWS
+
+Okay, now we have reviews qr. So this is a QR code where people can scan and get reviews. Very important if you're working for restaurants or anywhere where they have reviews.
+
+What I recommend you do is when you create these, you can print these up and put them on people's doors. Very easy way to gather reviews for free.
+
+So come right in here, we'll click create QR code, and you very simply can create this. So you have text stuff right here. Okay? You can, you know, customize that as is. You have the basic links You can play with the QR code. You have your logo and some basic stuff. Okay? This is a very basic QR code builder.
+
+The real builder, if you want to build really in depth QR codes is over here, under sites. Let me show you. So we come under sites and we come under QR codes. Now you have the real QR code builder. This is where you can go in depth. And I have other tutorials on this, but I think it's really important.
+
+So we're just gonna click create QR code, and you can pick from a multitude of different types, but we're gonna click review code. Okay? You're gonna put the name in, so we're gonna do reviews. Qr again, you're gonna have to have the, the link plugged in as you see right here. You have to plug it in, but once you plug it in for Google again.
+
+You put the exact link right here. So remember it would be this link that we talked about. Remember the review link with the three different ways to get it. You'd put it in right there, pick what you want it to look like. Pick the footer. Do you wanna say to entrepreneurs, do you wanna get rid of the logo?
+
+Click next and then play with the way you want it to look. Different colors, different dots, shape and form. Do you want it to be like this kind of QR code, that kind of QR code? Do you want the borders different? Do you want Mark centers? Do you want a logo in page background?
+
+Then you can download it and you're good to go. So that in a very short, is how to build a QR code. I have all their videos on there. I literally go over. Every single button.
+
+The reason I'm not going over that right now is because it's not the main thing in reputation management, but I do have videos if you are interested on my channel. So please go check this out 'cause it goes in depth with that.
+
+But I still showed you how to do it. If you are trying to get reviews from people via QR code restaurants, putting it on a door, you know, it can be very powerful. I did this with my agency way back in the day. It was really, really powerful.
+
+But that is how the QR codes work inside of high level. Again, great way to get extra reviews.
+
+SPAM REVIEWS AND INTEGRATIONS
+
+Then we have spam reviews. So if people leave a spam review, so someone's like, Hey, would you like to buy my Forex? Or it's just some random person like, you guys suck, but they never bought your services, which happens.
+
+You turn this on and what it's gonna do is it's gonna get rid of them, there is such thing as spam reviews, and I recommend you have this on because often competitors or random people turn this on and it just detects them and marks them as spam, It's important to have this on because it will save you from that.
+
+So again, that's where spam reviews are. You just turn them on and then you click save and then you are done.
+
+Then move on to integrations. Really important part. Okay, so when we came right up here and we talked about review links, we went through adding those integrations is where you can add other platforms.
+
+To run requests from, to get reviews. So Google and Facebook aren't the only places you can get reviews. You can have Airbnb. Angie, Amazon's a big one for you. If you're doing econ. You got App Store. I mean so many.
+
+And I think you can even add more like right here through Custom Platform. But this just gives you Zillow. It's a big one too if you do real estate, Places to put reviews, Trustpilot, where you can integrate these, you just click integrate, you follow the steps, and it's gonna bring your Airbnb account or whatever you're using into reputation management, get your reviews like, and then you can start collecting reviews for this.
+
+So if you're e-comm and you're doing stuff on Amazon, very important to have the Airbnb real estate, you know, whatever. Important to have this on.
+
+So again, a lot of people are like, I want more review links. Come to integrations, click integrate, and follow the steps very simply. And that is how you're gonna get the integrations properly in so you can collect reviews across all platforms.
+
+So again, I just wanna make that very clear that that is how you would add other reviews from other sources in.
+
+So that's how you do it, guys. That is what all of these settings do. If you guys have questions. Please, please, please drop them down below. I'm here to help and I know some of this stuff can get heavy. This is a very in-depth tutorial, so let me know so I can make sure you fully understand this because once you understand reputation management, your AI agency moves so much faster.
+
+GOOGLE BUSINESS PROFILE OPTIMIZATION
+
+So now we move on to the last part, which is Google Business Profile Optimization. This is a new feature, really cool, really excited to share with you, and basically gives you optimizations you can make.
+
+If you don't know what that is, it is this thing right here that we've been talking about the entire time. So you would just integrate your Google business profile if you don't have it.
+
+But I'm gonna go to a live account to show you what this looks like. You come in here and it's gonna show your exact score. The name, the description, everything checked. Ooh. I can be adding chat widgets, so I gotta go add that. It gives you, basically optimizations you can make.
+
+This is really great just to know what you need to do. So again, it's gonna be just analytics on your GMB. You can pick more of your business if you have it right over here. It'll show you, you know, the social profiles if you want to connect more. Really handy, easy way to do it.
+
+It'll then show you all of the reviews you have coming in. So very simple, easy way to see what's working, what's not. And it's just a simple way to see stuff. I mean, they make it look really cool. It shows you all this stuff. Pulls it up right here, gives you the right feedback, and it's only gonna get better. They're gonna add more and more stuff in here, but this is a cool feature that they recently added.
+
+And I really think a lot of you guys could benefit from just looking at this. You'll be like, oh my gosh, none of this stuff is correct.
+
+And a lot of people are missing basic stuff, like they don't have the right categories, they don't have the right services. You would be shocked. I see it all the time. There are so many people that just don't have the right stuff. So please look at this. It's very important and it will help a lot.
+
+PRO TIP - GOOGLE BUSINESS PROFILE POSTS
+
+So last pro tip before you end the video, because I gotta give you everything. I gotta give you the sauce. You know the high level wizard is here to always give you literally everything. And that is Google business profile posts.
+
+This is something I think a lot of people miss out on. That is very powerful. So what does Google business profile post? We come right here it is The Bad Boys Write here.
+
+What this does is this is basically like activity on your social profile That helps boost your local SEO. Very important. It's good for being found in a whole lot of other stuff and it's only gonna get more important.
+
+The simple way to do this is you can come right into marketing. Come into the social planner. Click new post. And then select your GMB right here, put in your post. I have other videos on creating posts. If you have no idea to do this, put in your post, come in here, put all this stuff in, and then schedule them.
+
+That way you schedule out a month's worth of work right in here. So all of your posts are done, I believe, high levels. Adding a feature where AI can do all this for you, but very important that you have these going on. So important you can see. I have them running all the time. I post a lot because it helps a lot.
+
+That's how you get your business profile ranked really high on Google, Again, I'm not saying it does everything. You still have to do other stuff, but it helps a lot. Okay. It helps tremendously and it's only gonna get more important.

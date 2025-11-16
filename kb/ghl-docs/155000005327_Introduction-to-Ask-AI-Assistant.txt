@@ -1,0 +1,96 @@
+---
+Title: Introduction to Ask AI Assistant
+Category: AI Employee
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005327-introduction-to-ask-ai-assistant
+Word Count: 743
+Scraped: 2025-10-29T01:40:14.401913
+---
+
+We’re excited to roll out a new AI-powered assistant inside HighLevel,
+Ask AI
+. Whether you need content written in your brand voice, want to create a new community, or just need quick answers, Ask AI is here to help. No need to jump between tools or tabs.
+Ask AI would act as your built-in assistant inside GoHighLevel. We’re starting with a few key capabilities and will be continuously adding more over time.
+TABLE OF CONTENTS
+What is Ask AI?
+Who can use Ask AI?
+What can the bot do?
+How to use Ask AI Bot?
+Example: Generate Branded Content
+Create a Community
+What’s coming next?
+What is Ask AI?
+Ask AI
+is a built-in virtual assistant for GoHighLevel users. It combines smart AI capabilities with your brand context to help you take action inside HighLevel, directly from a single interface. You’ll find the Ask AI icon in the
+top navigation bar.
+Note: In order to generate personalized/branded content, make sure that you have configured your brand voice in Marketing > Branded Content > Brand Voice.
+.
+Who can use Ask AI?
+Currently Ask AI is only available to the Agency Admins and the Sub-accounts on the 97$ Unlimited AI Employee Plan
+. It can be found and used in the top navigation bar, click on the icon and enter your prompts.
+What can the bot do?
+Here’s a closer look at what Ask AI currently supports:
+Create Branded Content:
+No more generic AI writing, the bot pulls in your brand voice settings to generate content that sounds like
+you
+. From email newsletters to social captions, it creates high-quality content tailored to your tone and brand voice settings.
+Create Communities:
+Setting up a new community no longer requires digging through menus. Just tell the bot what kind of community you want to create, and it will guide you step-by-step, all from the chat.
+Answer Questions or Help with Ideas:
+Need inspiration for a campaign? Want ideas about a blog CTA? Directly send them to Ask AI.
+How to use Ask AI Bot?
+Follow these steps to get started:
+Click on the Ask AI Bot icon
+in the top navigation bar.
+Type in what you need: content, a new community, ideas, or questions.
+The bot will guide you or respond instantly with what you asked for.
+You can start with something like:
+“Give me blog post ideas about SMS marketing.”
+“Write a Facebook ad post using my brand voice.”
+“Help me set up a community for local business owners.”
+You can also view the chat history, and go back to older chats directly by toggle next to the full-screen toggle.
+Ask AI clarifies your needs by asking requirement-based questions. You can also improve the AI by upvoting or downvoting its responses and copy them to clipboard as well.
+Example: Generate Branded Content
+Click on the
+Ask AI Bot
+icon in the top navbar.
+Type your request, for example:
+“Create a new social media for our easter offer for 20% on all the services.”
+Note: Make sure you have setup Brand Voice, to ensure personalized content.
+The assistant will pull in your brand voice settings and return a ready-to-use draft, the assistant can refine the provided text and modify it to meet your specific needs.
+Copy and paste the final version wherever you need.
+Create a Community
+Open the
+Ask AI Assistant
+and start a new chat.
+Ask:
+“Help me create a new community for local entrepreneurs.”
+The assistant will ask you a few follow-up questions - like the community name, who’s the community for, subscription model (paid/free), logo, cover image and community theme etc. Enter the details as required.
+Once complete, The assistant will confirm that your community is created along with the community link: Voila your community’s created.
+What’s coming next?
+We’re actively working on expanding Ask AI’s superpowers. Here’s a sneak peek at what’s coming soon:
+Generate pre-built email templates.
+Related Articles
+Contact Summary Agent in Ask AI
+Funnel Creation Agent in Ask AI
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

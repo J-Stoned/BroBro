@@ -1,0 +1,59 @@
+---
+Title: Getting Started - Setup Facebook and Instagram Lead Ads
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005064-getting-started-setup-facebook-and-instagram-lead-ads
+Word Count: 236
+Scraped: 2025-10-29T01:38:46.305452
+---
+
+Connect your Facebook and Instagram channels to manage lead generation ads. Capture high-quality leads directly from social media.
+Setup Facebook/Instagram Lead Ads
+Navigate to Marketing > Ad Manager
+Click Activate Ads Manager for $11 / month
+Click Pay $11 and Subscribe
+Click Connect Facebook
+Select Facebook Page
+Click Get Started
+Click Create Campaign
+Fill Campaign details (Step 1)
+Select Lead Generation
+Create a Lead Form by clicking Create Facebook Form
+Fill Form details (type, greeting, mapping, etc)
+Click Create Form
+Fill more Ad details (primary text, media, etc)
+Click Next
+Fill Budget and Audience details (Step 2)
+Set budget
+Set audience
+Click Next
+Review (Step 3) and click Publish > Publish Ad Now
+Learn More
+Facebook Lead Ad Integration & Troubleshooting Guide
+Facebook Multi Page Lead Ads Integration
+Publish An Existing Ad
+Navigate to Marketing > Ad Manager
+Click the 3-dot action menu to the right of the ad
+Click Edit
+On Step 3 Review and Publish, click Publish
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

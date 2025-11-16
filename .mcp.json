@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/mcp-servers.json",
+  "mcpServers": {
+    "chroma-db": {
+      "transport": "http",
+      "url": "http://localhost:8000",
+      "description": "Chroma Vector Database for RAG-based knowledge retrieval"
+    },
+    "firecrawl": {
+      "command": "npx",
+      "args": ["-y", "@mendable/firecrawl-mcp"],
+      "env": {
+        "FIRECRAWL_API_KEY": "${FIRECRAWL_API_KEY}"
+      },
+      "description": "Firecrawl for scraping GHL documentation with sitemap support"
+    },
+    "youtube-transcript-pro": {
+      "command": "npx",
+      "args": ["-y", "youtube-transcript-pro-mcp"],
+      "description": "Primary YouTube transcript extraction server (production-ready)"
+    },
+    "youtube-intelligence": {
+      "command": "npx",
+      "args": ["-y", "youtube-intelligence-suite-mcp"],
+      "description": "Fallback YouTube server with 8 tools for advanced video intelligence"
+    },
+    "puppeteer": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-puppeteer"],
+      "description": "Puppeteer browser automation for web scraping and navigation"
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"],
+      "description": "Context7 web browsing and scraping with AI-powered content extraction"
+    },
+    "ghl-api": {
+      "command": "node",
+      "args": [
+        "./mcp-servers/ghl-api-server/dist/index.js"
+      ],
+      "env": {
+        "GHL_CLIENT_ID": "${env:GHL_CLIENT_ID}",
+        "GHL_CLIENT_SECRET": "${env:GHL_CLIENT_SECRET}",
+        "GHL_REDIRECT_URI": "${env:GHL_REDIRECT_URI}",
+        "ENCRYPTION_KEY": "${env:ENCRYPTION_KEY}"
+      },
+      "description": "GoHighLevel API MCP Server - 25 tools for managing workflows, contacts, funnels, forms, and calendars"
+    }
+  }
+}

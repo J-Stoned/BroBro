@@ -1,0 +1,88 @@
+---
+Title: Best Practices for Using Stripe with Your Agency Dashboard
+Category: SaaS Configurator
+URL: https://help.gohighlevel.com/support/solutions/articles/48001171909-best-practices-for-using-stripe-with-your-agency-dashboard
+Word Count: 331
+Scraped: 2025-10-29T01:40:37.638941
+---
+
+Integrating Stripe with your Agency Dashboard allows you to view key revenue metrics directly inside HighLevel. To ensure accurate and consistent data, follow these best practices:
+1. Connect Your Existing Stripe Account
+Always connect your
+existing Stripe account
+to your Agency Dashboard.
+Only create a
+new Stripe account
+if absolutely necessary.
+Keep in mind that
+new accounts will display zeros
+until transactions occur.
+2. Currency Display Limitations
+The Agency Dashboard currently
+supports USD only
+for product display.
+If your connected Stripe account includes products in other currencies, the dashboard will:
+Display the
+gross total
+, and
+Label all values as USD (non-converted)
+.
+Tip:
+For accurate reporting, consider maintaining a USD-based Stripe account when possible.
+3. MRR Calculation Differences
+You might notice small discrepancies between
+Stripe’s MRR
+and the
+HighLevel dashboard’s MRR
+.
+These differences are minor and usually caused by how each platform handles:
+The
+average number of days per year
+, and
+Leap year adjustments
+.
+Note:
+Both values should remain close over time.
+4. Rounded and Shortened Monetary Values
+To keep your dashboard clean and easy to read, HighLevel automatically
+rounds and shortens
+large numbers.
+Example:
+If Stripe reports
+$3,232
+,
+HighLevel will display it as
+$3.23k
+.
+This formatting does
+not affect actual revenue calculations
+—it’s purely a visual simplification.
+✅
+In summary:
+Use your existing Stripe account, remember that all data shows in USD, expect some MRR variations, and note that amounts are visually shortened for readability.
+See also:
+"
+How To Connect Stripe To Your Agency Dashboard
+"
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

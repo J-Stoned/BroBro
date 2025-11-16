@@ -1,0 +1,40 @@
+---
+Title: SaaS: Multiple Payment Providers/UI Enhancement
+Category: Agency View
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004174-saas-multiple-payment-providers-ui-enhancement
+Word Count: 251
+Scraped: 2025-10-29T01:39:59.523841
+---
+
+Overview
+The sub-account billing page has been improved to make it easier for SaaS (Software as a Service) sub-accounts with payment options other than Stripe. Here’s what’s new:
+Updated SaaS Activation Process
+When an agency manually enables SaaS for a sub-account, they can now select which account type—either a Stripe account or an agency account—will handle the subscription and payment tasks. Once they choose, the billing system will automatically use the default payment provider from that account.
+Flexible Payment Options
+Agencies can now set a specific payment provider for each SaaS sub-account. When a sub-account admin adds a payment method, it will be saved with the agency’s selected provider for that sub-account.
+Charges and Invoices
+Sub-accounts now have easy access to their charges and invoices right on the billing page. They can see all charges, including those related to SaaS services and others, linked to their account.
+Billing Address
+When sub-account admins add a billing address, it will be automatically saved with their account information, making it easy to manage and retrieve when needed.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

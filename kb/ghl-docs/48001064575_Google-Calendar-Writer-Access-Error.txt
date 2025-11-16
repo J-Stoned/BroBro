@@ -1,0 +1,47 @@
+---
+Title: Google Calendar Writer Access Error
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/48001064575-google-calendar-writer-access-error
+Word Count: 222
+Scraped: 2025-10-29T01:48:51.438366
+---
+
+This tutorial will show you to connect your Google calendar to your HighLevel calendar if you are receiving the following error:
+You need to have writer access to sync appointments to the selected Google Calendar. Please check with the Google Calendar owner in case syncing is required.
+For Group Calendar:
+For Unassigned Calendar:
+For Group Calendar:
+For Unassigned Calendar:
+Step 1:
+The
+owner
+of the Google calendar needs to be logged into Google and go to
+calendar.google.com
+Step 2:
+Hover over the desired calendar then click the three-dot icon and select "Settings And Sharing"
+Step 3:
+Scroll down to "Share with specific people" > Click "Add People" and add the email address of
+the Google Account that is synced in HighLevel > set the Permissions to "Make changes to events" > click Send to save
+The Google calendar should now be in sync with HighLevel
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

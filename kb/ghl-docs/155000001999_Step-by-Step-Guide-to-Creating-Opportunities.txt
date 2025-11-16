@@ -1,0 +1,137 @@
+---
+Title: Step-by-Step Guide to Creating Opportunities
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001999-step-by-step-guide-to-creating-opportunities
+Word Count: 605
+Scraped: 2025-10-29T01:43:58.928609
+---
+
+Opportunities are pivotal in managing potential sales within GoHighLevel. This guide walks you through
+how to create opportunities
+, enabling you to track prospects from first contact to closed deal.
+TABLE OF CONTENTS
+What Are Opportunities?
+Key Benefits of Creating Opportunities
+How to Create Opportunities
+Step 1: Accessing the Opportunities Module
+Step 2: Filling in Contact & Opportunity Information
+Step 3: Assigning Pipeline, Stage, and Status
+Step 4: Adding Owner, Team Members and Additional Details
+Step 5: Finalizing the Opportunity
+Frequently Asked Questions
+Related Articles
+What Are Opportunities?
+An Opportunity is a single potential sale tracked inside HighLevel. It bundles the contact, pipeline, stage, estimated value, and assigned owner so you can follow the deal from first conversation to its final outcome.
+Key Benefits of Creating Opportunities
+Centralized Tracking:
+View every open deal in the Opportunities dashboard.
+Value Forecasting:
+Log the potential revenue to improve sales projections.
+Collaboration:
+Assign an owner so team members know who’s responsible.
+Contextual Notes:
+Store conversation notes directly in the opportunity card.
+How to Create Opportunities
+Step 1:
+Accessing the Opportunities Module
+Log in to your HighLevel sub-account.
+Click on the
+Opportunities
+tab.
+Click the
++ Add Opportunity
+button at the top right.
+Step 2:
+Filling in Contact & Opportunity Information
+Select a
+Primary Contact
+from your list of saved contacts.
+Email and phone, or enter manually if not available.
+Step 3:
+Assigning Pipeline, Stage, and Status
+Add a custom
+Opportunity Name
+or keep the default contact name.
+Select the
+Pipeline
+to add the opportunity to.
+Choose the
+appropriate Pipeline Stage
+.
+Set the
+Opportunity Status
+:
+Open
+Lost
+Won
+Abandon
+Enter the
+Opportunity Value
+.
+Step 4:
+Adding Owner, Team Members and Additional Details
+Assign an
+Owner
+to the opportunity.
+Add
+Followers
+to the opportunity. (You can add multiple followers)
+Fill in Additional Fields (as needed):
+Business Name
+Opportunity Source
+Tags
+Task Type
+Favorite Pet
+Efficiency Rating
+Task Difficulty
+Time Tracked
+Step 5:
+Finalizing the Opportunity
+Click
+Add/Manage Fields
+to manage custom fields.
+Click the
+Create
+button to save the opportunity.
+Verify the new opportunity in your pipeline.
+Frequently Asked Questions
+Q: Can I assign an opportunity to someone later?
+Yes. Open the opportunity card, select a new Owner, and click Save.
+Q: Can I change the opportunity value after creation?
+Absolutely. Edit the Opportunity Value field in the Edit Drawer and save.
+Q: Can I duplicate an existing opportunity?
+Not at this time. You’ll need to create a new opportunity and copy‑over any relevant details manually.
+Q: What happens if I delete a contact linked to an opportunity?
+The opportunity remains, but the contact link breaks. Re‑associate a new contact or restore the original contact to maintain context.
+Q: How do I move an opportunity to a different stage after creation?
+Drag the opportunity card to the desired stage column on the Opportunities board, or open the Edit Drawer and choose a new Stage from the dropdown.
+Q:Can I change the primary contact on an existing opportunity?
+Yes. Open the Edit Drawer, remove the current primary contact, add the new contact, and mark it as Primary before saving.
+Related Articles
+Understanding Opportunities
+Editing Opportunities
+Filtering Opportunities
+Automating Opportunities
+Bulk Edit Opportunities
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

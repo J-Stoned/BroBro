@@ -1,0 +1,253 @@
+{
+  "timestamp": "2025-10-30T12:16:07.729Z",
+  "services": {
+    "backend": {
+      "status": "degraded",
+      "chroma_connected": false,
+      "collections": {}
+    }
+  },
+  "tests": [
+    {
+      "name": "Health Check",
+      "status": "degraded",
+      "message": "Partial system failure: Collection [e5bff29e-524d-4e05-95fb-c99e94caef7a] does not exist.",
+      "timestamp": "2025-10-30T08:16:07.753139",
+      "chroma_connected": false,
+      "collections": {},
+      "model_loaded": true
+    },
+    {
+      "name": "Search API",
+      "status": "FAILED",
+      "message": "No results returned or error occurred",
+      "timestamp": "2025-10-30T08:16:07.771692",
+      "query": "send email",
+      "results": [],
+      "total_results": 0,
+      "search_time_ms": 10.24
+    },
+    {
+      "name": "Homepage Load",
+      "status": "PASSED",
+      "message": "Loaded in 1934ms",
+      "timestamp": "2025-10-30T12:16:10.478Z",
+      "loadTime": 1934
+    },
+    {
+      "name": "Search Functionality",
+      "status": "FAILED",
+      "message": "Search input not found",
+      "timestamp": "2025-10-30T12:16:10.491Z"
+    },
+    {
+      "name": "Navigation",
+      "status": "PASSED",
+      "message": "Navigated to Workflows page",
+      "timestamp": "2025-10-30T12:16:12.852Z"
+    },
+    {
+      "name": "Workflow Builder",
+      "status": "PASSED",
+      "message": "Workflow builder canvas detected",
+      "timestamp": "2025-10-30T12:16:13.200Z"
+    },
+    {
+      "name": "AI Generation Button",
+      "status": "WARNING",
+      "message": "AI generation button not visible",
+      "timestamp": "2025-10-30T12:16:13.202Z"
+    },
+    {
+      "name": "Command Palette",
+      "status": "PASSED",
+      "message": "Command palette opened with Ctrl+/",
+      "timestamp": "2025-10-30T12:16:14.511Z"
+    },
+    {
+      "name": "Shortcuts Help",
+      "status": "WARNING",
+      "message": "Shortcuts help modal did not open",
+      "timestamp": "2025-10-30T12:16:16.342Z"
+    },
+    {
+      "name": "Console Errors",
+      "status": "FAILED",
+      "message": "Found 11 console errors",
+      "timestamp": "2025-10-30T12:16:16.342Z",
+      "errorCount": 11,
+      "errors": [
+        {
+          "text": "TypeError: Cannot read properties of undefined (reading 'key')",
+          "type": "pageerror",
+          "timestamp": "2025-10-30T12:16:10.521Z"
+        },
+        {
+          "text": "TypeError: Cannot read properties of undefined (reading 'key')",
+          "type": "pageerror",
+          "timestamp": "2025-10-30T12:16:10.522Z"
+        },
+        {
+          "text": "The above error occurred in the <WorkflowBuilder> component:\n\n    at WorkflowBuilder (http://localhost:3000/src/components/WorkflowBuilder.jsx?t=1761825933988:42:3)\n    at WorkflowErrorBoundary (http://localhost:3000/src/components/WorkflowErrorBoundary.jsx:8:5)\n    at main\n    at div\n    at App (http://localhost:3000/src/App.jsx?t=1761825933988:31:37)\n\nReact will try to recreate this component tree from scratch using the error boundary you provided, WorkflowErrorBoundary.",
+          "location": {
+            "url": "http://localhost:3000/node_modules/.vite/deps/chunk-NUMECXU6.js?v=465bdd3b",
+            "lineNumber": 14031,
+            "columnNumber": 30
+          },
+          "timestamp": "2025-10-30T12:16:10.523Z"
+        },
+        {
+          "text": "Workflow Error: JSHandle@error JSHandle@object",
+          "location": {
+            "url": "http://localhost:3000/src/components/WorkflowErrorBoundary.jsx",
+            "lineNumber": 14,
+            "columnNumber": 12
+          },
+          "timestamp": "2025-10-30T12:16:10.524Z"
+        },
+        {
+          "text": "The above error occurred in the <WorkflowBuilder> component:\n\n    at WorkflowBuilder (http://localhost:3000/src/components/WorkflowBuilder.jsx?t=1761825933988:42:3)\n    at WorkflowErrorBoundary (http://localhost:3000/src/components/WorkflowErrorBoundary.jsx:8:5)\n    at main\n    at div\n    at App (http://localhost:3000/src/App.jsx?t=1761825933988:31:37)\n\nReact will try to recreate this component tree from scratch using the error boundary you provided, WorkflowErrorBoundary.",
+          "location": {
+            "url": "http://localhost:3000/node_modules/.vite/deps/chunk-NUMECXU6.js?v=465bdd3b",
+            "lineNumber": 14031,
+            "columnNumber": 30
+          },
+          "timestamp": "2025-10-30T12:16:10.524Z"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "name": "homepage",
+      "filename": "homepage_1761826570131.png",
+      "path": "C:\\Users\\justi\\BroBro\\web\\frontend\\test-results\\homepage_1761826570131.png"
+    },
+    {
+      "name": "workflows_page",
+      "filename": "workflows_page_1761826572533.png",
+      "path": "C:\\Users\\justi\\BroBro\\web\\frontend\\test-results\\workflows_page_1761826572533.png"
+    },
+    {
+      "name": "workflow_builder",
+      "filename": "workflow_builder_1761826572855.png",
+      "path": "C:\\Users\\justi\\BroBro\\web\\frontend\\test-results\\workflow_builder_1761826572855.png"
+    },
+    {
+      "name": "command_palette",
+      "filename": "command_palette_1761826574218.png",
+      "path": "C:\\Users\\justi\\BroBro\\web\\frontend\\test-results\\command_palette_1761826574218.png"
+    },
+    {
+      "name": "shortcuts_help",
+      "filename": "shortcuts_help_1761826576027.png",
+      "path": "C:\\Users\\justi\\BroBro\\web\\frontend\\test-results\\shortcuts_help_1761826576027.png"
+    },
+    {
+      "name": "final_state",
+      "filename": "final_state_1761826576342.png",
+      "path": "C:\\Users\\justi\\BroBro\\web\\frontend\\test-results\\final_state_1761826576342.png"
+    }
+  ],
+  "consoleErrors": [
+    {
+      "text": "TypeError: Cannot read properties of undefined (reading 'key')",
+      "type": "pageerror",
+      "timestamp": "2025-10-30T12:16:10.521Z"
+    },
+    {
+      "text": "TypeError: Cannot read properties of undefined (reading 'key')",
+      "type": "pageerror",
+      "timestamp": "2025-10-30T12:16:10.522Z"
+    },
+    {
+      "text": "The above error occurred in the <WorkflowBuilder> component:\n\n    at WorkflowBuilder (http://localhost:3000/src/components/WorkflowBuilder.jsx?t=1761825933988:42:3)\n    at WorkflowErrorBoundary (http://localhost:3000/src/components/WorkflowErrorBoundary.jsx:8:5)\n    at main\n    at div\n    at App (http://localhost:3000/src/App.jsx?t=1761825933988:31:37)\n\nReact will try to recreate this component tree from scratch using the error boundary you provided, WorkflowErrorBoundary.",
+      "location": {
+        "url": "http://localhost:3000/node_modules/.vite/deps/chunk-NUMECXU6.js?v=465bdd3b",
+        "lineNumber": 14031,
+        "columnNumber": 30
+      },
+      "timestamp": "2025-10-30T12:16:10.523Z"
+    },
+    {
+      "text": "Workflow Error: JSHandle@error JSHandle@object",
+      "location": {
+        "url": "http://localhost:3000/src/components/WorkflowErrorBoundary.jsx",
+        "lineNumber": 14,
+        "columnNumber": 12
+      },
+      "timestamp": "2025-10-30T12:16:10.524Z"
+    },
+    {
+      "text": "The above error occurred in the <WorkflowBuilder> component:\n\n    at WorkflowBuilder (http://localhost:3000/src/components/WorkflowBuilder.jsx?t=1761825933988:42:3)\n    at WorkflowErrorBoundary (http://localhost:3000/src/components/WorkflowErrorBoundary.jsx:8:5)\n    at main\n    at div\n    at App (http://localhost:3000/src/App.jsx?t=1761825933988:31:37)\n\nReact will try to recreate this component tree from scratch using the error boundary you provided, WorkflowErrorBoundary.",
+      "location": {
+        "url": "http://localhost:3000/node_modules/.vite/deps/chunk-NUMECXU6.js?v=465bdd3b",
+        "lineNumber": 14031,
+        "columnNumber": 30
+      },
+      "timestamp": "2025-10-30T12:16:10.524Z"
+    },
+    {
+      "text": "Workflow Error: JSHandle@error JSHandle@object",
+      "location": {
+        "url": "http://localhost:3000/src/components/WorkflowErrorBoundary.jsx",
+        "lineNumber": 14,
+        "columnNumber": 12
+      },
+      "timestamp": "2025-10-30T12:16:10.524Z"
+    },
+    {
+      "text": "WebSocket error: JSHandle@object",
+      "location": {
+        "url": "http://localhost:3000/src/hooks/useCollaboration.js",
+        "lineNumber": 63,
+        "columnNumber": 16
+      },
+      "timestamp": "2025-10-30T12:16:10.531Z"
+    },
+    {
+      "text": "WebSocket error: JSHandle@object",
+      "location": {
+        "url": "http://localhost:3000/src/hooks/useCollaboration.js",
+        "lineNumber": 63,
+        "columnNumber": 16
+      },
+      "timestamp": "2025-10-30T12:16:10.532Z"
+    },
+    {
+      "text": "WebSocket error: JSHandle@object",
+      "location": {
+        "url": "http://localhost:3000/src/hooks/useCollaboration.js",
+        "lineNumber": 63,
+        "columnNumber": 16
+      },
+      "timestamp": "2025-10-30T12:16:13.548Z"
+    },
+    {
+      "text": "WebSocket connection to 'ws://localhost:8000/ws/collaborate?workflow_id=demo-workflow&user_id=user-mbniuk&user_name=Demo%20User&user_color=%23ed8936' failed: Error during WebSocket handshake: Unexpected response code: 403",
+      "location": {
+        "url": "http://localhost:3000/src/hooks/useCollaboration.js",
+        "lineNumber": 36
+      },
+      "timestamp": "2025-10-30T12:16:13.861Z"
+    },
+    {
+      "text": "WebSocket error: JSHandle@object",
+      "location": {
+        "url": "http://localhost:3000/src/hooks/useCollaboration.js",
+        "lineNumber": 63,
+        "columnNumber": 16
+      },
+      "timestamp": "2025-10-30T12:16:13.861Z"
+    }
+  ],
+  "performance": {
+    "searchAPI": 15,
+    "homepageLoad": 1934
+  },
+  "summary": {
+    "passed": 4,
+    "failed": 4,
+    "total": 10
+  }
+}

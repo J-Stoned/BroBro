@@ -1,0 +1,31 @@
+---
+Title: How do I change my Client's Address?
+Category: Settings
+URL: https://help.gohighlevel.com/support/solutions/articles/48001204293-how-do-i-change-my-client-s-address-
+Word Count: 97
+Scraped: 2025-10-29T01:50:35.400787
+---
+
+You can change your client's address by going to Location View -> Settings -> Business Info -> Company Address tab
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

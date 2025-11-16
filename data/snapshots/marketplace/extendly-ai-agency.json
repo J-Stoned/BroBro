@@ -1,0 +1,35 @@
+{
+  "snapshot_name": "Extendly Ultimate AI Agency Snapshot",
+  "snapshot_id": "extendly-ai-agency",
+  "industry": "Agency / AI Services",
+  "use_case": "Launch a fully functional AI SaaS offer with complete sales page, demos and pitch materials",
+  "target_audience": "Agencies selling AI services, SaaS resellers",
+  "pricing_model": "Paid",
+  "version": "1.0.0",
+  "last_updated": "2025-01-01",
+  "author": "Extendly",
+  "description": {
+    "overview": "The fastest path to launching a fully functional AI SaaS offer with HighLevel, complete with full sales page, built-in demos and pitch materials. Includes everything needed to sell AI services.",
+    "key_benefits": [
+      "Complete AI service sales materials",
+      "Built-in demo environments",
+      "Pitch decks and presentations included",
+      "Ready-to-sell AI automation funnels"
+    ],
+    "ideal_for": [
+      "Agencies adding AI services",
+      "SaaS providers entering AI market",
+      "Consultants selling AI automation"
+    ]
+  },
+  "components": {},
+  "tags": [
+    "ai",
+    "agency",
+    "saas",
+    "automation",
+    "extendly"
+  ],
+  "source_url": "",
+  "scraped_from_marketplace": true
+}

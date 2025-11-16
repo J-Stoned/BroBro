@@ -1,0 +1,78 @@
+---
+Title: Step-by-step guide to set up Mailgun
+Category: Email
+URL: https://help.gohighlevel.com/support/solutions/articles/48001219824-step-by-step-guide-to-set-up-mailgun
+Word Count: 418
+Scraped: 2025-10-29T01:41:36.835950
+---
+
+Mailgun Step-by-step guide:
+1. Sign up for Mailgun here:
+https://signup.mailgun.com/new/signup
+2. Check your email inbox to verify the email address
+3. Click Sending > Add New Domain
+4. If your domain is companyname.com, you can either set up the main domain or subdomain with Mailgun.
+Main domain:
+If you are adding the main domain, it should not be used with Gsuite, or any other email provider
+Subdomain:
+To set up the subdomain with Mailgun, you can type
+ANYTHING_HERE
+.
+companyname.com
+Examples:
+mg.
+companyname.com
+replies.
+companyname.com
+support.companyname.com
+Please set up the domain or subdomain under US,
+not EU
+.
+Click
+Add domain
+5. Now log in to your DNS records based on where you get the domain and add the 5 DNS records.
+If you are not sure where you should add the DNS records
+Step 1: lookup domain that we are trying to set up in
+mxtoolbox
+Only put the domain here,
+do not add http:// in front
+Once you look up the domain, it should show what your DNS hosting provider is.
+Step 2: check the bottom note it will say reported by e.g.
+wordpress.com
+Now we could add the DNS records to the domain provider. We can google
+wordpress DNS records
+if you are not sure where to locate the DNS records area.
+Based on what your domain provider is, now we could add the DNS records according to the domain provider:
+If you don't find the domain provider on this list, you can refer to one of the articles above, which should be similar.
+Mailgun Setup - GoDaddy Domain Setup
+Mailgun Setup - Namecheap Domain Setup
+Mailgun Setup - Siteground Domain Setup
+MailGun Setup - HostGator Domain Setup
+Mailgun Setup - Google Domains
+Mailgun Setup - CloudFlare
+Once you add all the DNS records and verify, you can grab the
+Mailgun API Key - Where to Find in Mailgun & Put in HighLevel
+Then we could send a test email to see if everything works! Click here to learn
+How to send a test email in the Conversation
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

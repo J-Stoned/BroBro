@@ -1,0 +1,115 @@
+---
+Title: Creating Voice AI Agents
+Category: AI Employee
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004107-creating-voice-ai-agents
+Word Count: 798
+Scraped: 2025-10-29T01:40:05.468849
+---
+
+Creating a Voice AI Agent is fast and easy, and it will help your business field phone calls so your office staff can focus on more pressing tasks like following up with warm leads and closing deals! Follow the steps below to set up your first Voice AI Agent!
+TABLE OF CONTENTS
+Navigate to the AI Agents Section
+Create Your Voice AI Agent
+Configure Voice AI Agent Details
+Agent Details Tab
+Agent Goals Tab
+Basic Mode
+Advanced Mode
+Trigger Workflows
+Email Notifications
+Phone and Availability Tab
+Edit and/or Delete AI Agents
+Navigate to the AI Agents Section
+From anywhere in your sub-account, go to
+Settings > AI Agents
+. Once you're in the AI Agents section, you can begin setting up your AI Voice Agents!
+Create Your Voice AI Agent
+In order to begin the process of creating your AI Voice Agent, click the blue button in the top right corner of your screen that reads
++ Create Agent
+.
+Configure Voice AI Agent Details
+When configuring your Voice AI Agent, you will need to follow a multi-step process including configuring the AI Agent, assigning actions that will happen after the phone call, and connecting the AI Agent to a phone number in your sub-account.
+Agent Details Tab
+Agent Name:
+Enter a name for your agent (e.g., “Customer Support Bot”).
+Business Name:
+Confirm or update your business name.
+Voice:
+Choose from a list of available voices for your AI Agent. You can preview each voice by clicking the play button.
+Agent Direction:
+Currently set to “Inbound” by default.
+Initial Greeting Message:
+Customize the first message your agent says (e.g., “Hello, you’ve reached [Business Name]. How can I assist you today?”).
+Agent Goals Tab
+You have two options for setting up your agent’s goals:
+Basic Mode
+or
+Advanced Mode
+.
+Basic Mode
+Basic mode simplifies the Voice AI Agent setup process by giving you 4 options to instruct the Voice AI Agent while in the call. No prompting required!
+Select the information you want the agent to collect from callers, such as:
+Name
+Email
+Address
+Contact's issue
+Advanced Mode
+When using the advanced mode, you are given more options to control the AI Agent such as prompts and different actions.
+Prompt:
+Write detailed instructions and personality traits for your agent.
+Call Transfer:
+Transfer the call to a human agent under certain conditions.
+Trigger a Workflow:
+Automatically initiate workflows based on call interactions.
+Update Contact Fields:
+Specify how information collected should update contact records.
+Send SMS:
+Configure the agent to send SMS messages during or after the call.
+Trigger Workflows
+With Voice AI Agents, you have the option to trigger a single workflow or multiple workflows after the call ends. This keeps workflow triggering simple and allows you to control all workflow entry for Voice AI Agents based on the AI Agent that is involved in the call.
+Email Notifications
+Send emails to individuals, or multiple people after a call has ended that involved that particular AI Agent.
+The following data is included in the email notifications:
+Call Summary:
+Overview of the call duration, date, and time.
+Contact Information:
+Details collected during the call.
+Call Transcript:
+A written record of the conversation.
+Actions Taken:
+Any workflows triggered or contact fields updated.
+Phone and Availability Tab
+When you create a Voice AI Agent you will need to assign that AI Agent to a single phone number or multiple numbers inside your sub-account. This means that when that particular number, or group of numbers, is called, the AI Agent will step in and field the call.
+You also have the option to configure working hours for the AI Agent, which sets specific day and time intervals that the agent should handle calls.
+Click here to learn more about setting up and configuring working hours for Voice AI Agents.
+Edit and/or Delete AI Agents
+In order to edit or delete any of your Voice AI Agents, you would first need to click on the actions tab for that specific AI Agent and then select either
+"Edit"
+, or
+"Delete"
+.
+IMPORTANT:
+Deleting a Voice AI Agent is permanent.
+If you want to keep any custom prompt information, and just render the AI Agent in a dormant state, simple remove the phone number from any give AI Agent and they will no longer participate in phone calls.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,1291 @@
+{
+  "processedAt": "2025-10-29T00:37:57.893Z",
+  "config": {
+    "chunkSize": 512,
+    "overlap": 0.1,
+    "source": "all"
+  },
+  "totals": {
+    "documents": 98,
+    "chunks": 126,
+    "tokens": 34683,
+    "avgChunksPerDoc": 1,
+    "avgTokensPerChunk": 275
+  },
+  "results": [
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\api\\docs_calendars-api.md",
+      "outputFile": "kb\\ghl-docs\\processed\\docs_calendars-api_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\api\\docs_contacts-api.md",
+      "outputFile": "kb\\ghl-docs\\processed\\docs_contacts-api_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\api\\docs_getting-started.md",
+      "outputFile": "kb\\ghl-docs\\processed\\docs_getting-started_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\api\\docs_oauth.md",
+      "outputFile": "kb\\ghl-docs\\processed\\docs_oauth_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\api\\docs_opportunities-api.md",
+      "outputFile": "kb\\ghl-docs\\processed\\docs_opportunities-api_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\155000000969-24-7-customer-support-options.md",
+      "outputFile": "kb\\ghl-docs\\processed\\155000000969-24-7-customer-support-options_chunks.json",
+      "chunkCount": 18,
+      "stats": {
+        "totalChunks": 18,
+        "totalTokens": 1508,
+        "avgTokensPerChunk": 84,
+        "minTokens": 15,
+        "maxTokens": 329,
+        "chunksWithCode": 9
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\48001060529-highlevel-api.md",
+      "outputFile": "kb\\ghl-docs\\processed\\48001060529-highlevel-api_chunks.json",
+      "chunkCount": 7,
+      "stats": {
+        "totalChunks": 7,
+        "totalTokens": 475,
+        "avgTokensPerChunk": 68,
+        "minTokens": 30,
+        "maxTokens": 222,
+        "chunksWithCode": 3
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\48001078171-list-of-merge-fields.md",
+      "outputFile": "kb\\ghl-docs\\processed\\48001078171-list-of-merge-fields_chunks.json",
+      "chunkCount": 5,
+      "stats": {
+        "totalChunks": 5,
+        "totalTokens": 923,
+        "avgTokensPerChunk": 185,
+        "minTokens": 9,
+        "maxTokens": 485,
+        "chunksWithCode": 2
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48000982131.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48000982131_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48000982187.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48000982187_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48000982202.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48000982202_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 258,
+        "avgTokensPerChunk": 258,
+        "minTokens": 258,
+        "maxTokens": 258,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48000982204.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48000982204_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48000982205.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48000982205_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 217,
+        "avgTokensPerChunk": 217,
+        "minTokens": 217,
+        "maxTokens": 217,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48000982240.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48000982240_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48000982245.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48000982245_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48000982247.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48000982247_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001054881.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001054881_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001054924.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001054924_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001155911.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001155911_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001155963.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001155963_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001155965.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001155965_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001155973.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001155973_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001155991.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001155991_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001156009.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001156009_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001156012.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001156012_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001156013.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001156013_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001156024.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001156024_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001179678.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001179678_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\ghl-docs\\raw\\help\\support_solutions_articles_48001209721.md",
+      "outputFile": "kb\\ghl-docs\\processed\\support_solutions_articles_48001209721_chunks.json",
+      "chunkCount": 0,
+      "stats": {
+        "totalChunks": 0,
+        "totalTokens": 0,
+        "avgTokensPerChunk": null,
+        "minTokens": null,
+        "maxTokens": null,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\appointment-automation\\ai-booking-bot-conversation-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\ai-booking-bot-conversation-workflow_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 358,
+        "avgTokensPerChunk": 358,
+        "minTokens": 358,
+        "maxTokens": 358,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\appointment-automation\\auto-book-appointment-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\auto-book-appointment-workflow_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 330,
+        "avgTokensPerChunk": 330,
+        "minTokens": 330,
+        "maxTokens": 330,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\appointment-automation\\multi-stage-reminder-no-show-prevention.md",
+      "outputFile": "kb\\best-practices\\processed\\multi-stage-reminder-no-show-prevention_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 480,
+        "avgTokensPerChunk": 480,
+        "minTokens": 480,
+        "maxTokens": 480,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\appointment-automation\\post-appointment-feedback-survey-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\post-appointment-feedback-survey-workflow_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 892,
+        "avgTokensPerChunk": 446,
+        "minTokens": 418,
+        "maxTokens": 474,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\appointment-automation\\round-robin-team-scheduling-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\round-robin-team-scheduling-workflow_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 752,
+        "avgTokensPerChunk": 376,
+        "minTokens": 268,
+        "maxTokens": 484,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\appointment-automation\\self-service-rescheduling-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\self-service-rescheduling-workflow_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 456,
+        "avgTokensPerChunk": 456,
+        "minTokens": 456,
+        "maxTokens": 456,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\form-optimization\\abandonment-recovery-automation.md",
+      "outputFile": "kb\\best-practices\\processed\\abandonment-recovery-automation_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 695,
+        "avgTokensPerChunk": 348,
+        "minTokens": 251,
+        "maxTokens": 444,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\form-optimization\\conditional-logic-personalization.md",
+      "outputFile": "kb\\best-practices\\processed\\conditional-logic-personalization_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 484,
+        "avgTokensPerChunk": 484,
+        "minTokens": 484,
+        "maxTokens": 484,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\form-optimization\\mobile-responsive-design.md",
+      "outputFile": "kb\\best-practices\\processed\\mobile-responsive-design_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 465,
+        "avgTokensPerChunk": 465,
+        "minTokens": 465,
+        "maxTokens": 465,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\form-optimization\\multi-step-form-conversion.md",
+      "outputFile": "kb\\best-practices\\processed\\multi-step-form-conversion_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 688,
+        "avgTokensPerChunk": 344,
+        "minTokens": 245,
+        "maxTokens": 443,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\form-optimization\\split-testing-variations.md",
+      "outputFile": "kb\\best-practices\\processed\\split-testing-variations_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 597,
+        "avgTokensPerChunk": 299,
+        "minTokens": 102,
+        "maxTokens": 495,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\form-optimization\\sticky-contact-pre-fill.md",
+      "outputFile": "kb\\best-practices\\processed\\sticky-contact-pre-fill_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 476,
+        "avgTokensPerChunk": 476,
+        "minTokens": 476,
+        "maxTokens": 476,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\funnel-conversion-optimization\\ab-testing-methodology.md",
+      "outputFile": "kb\\best-practices\\processed\\ab-testing-methodology_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 449,
+        "avgTokensPerChunk": 449,
+        "minTokens": 449,
+        "maxTokens": 449,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\funnel-conversion-optimization\\cart-abandonment-recovery.md",
+      "outputFile": "kb\\best-practices\\processed\\cart-abandonment-recovery_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 503,
+        "avgTokensPerChunk": 503,
+        "minTokens": 503,
+        "maxTokens": 503,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\funnel-conversion-optimization\\funnel-analytics-tracking.md",
+      "outputFile": "kb\\best-practices\\processed\\funnel-analytics-tracking_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 655,
+        "avgTokensPerChunk": 328,
+        "minTokens": 159,
+        "maxTokens": 496,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\funnel-conversion-optimization\\landing-page-speed-mobile-optimization.md",
+      "outputFile": "kb\\best-practices\\processed\\landing-page-speed-mobile-optimization_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 371,
+        "avgTokensPerChunk": 371,
+        "minTokens": 371,
+        "maxTokens": 371,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\funnel-conversion-optimization\\multi-step-funnel-sequencing.md",
+      "outputFile": "kb\\best-practices\\processed\\multi-step-funnel-sequencing_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 856,
+        "avgTokensPerChunk": 428,
+        "minTokens": 411,
+        "maxTokens": 445,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\funnel-conversion-optimization\\order-bump-optimization.md",
+      "outputFile": "kb\\best-practices\\processed\\order-bump-optimization_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 489,
+        "avgTokensPerChunk": 489,
+        "minTokens": 489,
+        "maxTokens": 489,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\lead-nurturing\\automated-lead-scoring-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\automated-lead-scoring-workflow_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 256,
+        "avgTokensPerChunk": 256,
+        "minTokens": 256,
+        "maxTokens": 256,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\lead-nurturing\\behavioral-trigger-campaign.md",
+      "outputFile": "kb\\best-practices\\processed\\behavioral-trigger-campaign_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 691,
+        "avgTokensPerChunk": 346,
+        "minTokens": 220,
+        "maxTokens": 471,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\lead-nurturing\\email-drip-nurture-sequence.md",
+      "outputFile": "kb\\best-practices\\processed\\email-drip-nurture-sequence_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 392,
+        "avgTokensPerChunk": 392,
+        "minTokens": 392,
+        "maxTokens": 392,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\lead-nurturing\\lead-magnet-delivery-automation.md",
+      "outputFile": "kb\\best-practices\\processed\\lead-magnet-delivery-automation_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 441,
+        "avgTokensPerChunk": 441,
+        "minTokens": 441,
+        "maxTokens": 441,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\lead-nurturing\\lead-reengagement-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\lead-reengagement-workflow_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 820,
+        "avgTokensPerChunk": 410,
+        "minTokens": 369,
+        "maxTokens": 451,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\lead-nurturing\\missed-call-auto-follow-up.md",
+      "outputFile": "kb\\best-practices\\processed\\missed-call-auto-follow-up_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 288,
+        "avgTokensPerChunk": 288,
+        "minTokens": 288,
+        "maxTokens": 288,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\lead-nurturing\\multi-channel-nurturing-strategy.md",
+      "outputFile": "kb\\best-practices\\processed\\multi-channel-nurturing-strategy_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 882,
+        "avgTokensPerChunk": 441,
+        "minTokens": 396,
+        "maxTokens": 486,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\lead-nurturing\\sms-nurturing-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\sms-nurturing-workflow_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 476,
+        "avgTokensPerChunk": 476,
+        "minTokens": 476,
+        "maxTokens": 476,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\saas-mode-setup\\automated-client-onboarding-workflow.md",
+      "outputFile": "kb\\best-practices\\processed\\automated-client-onboarding-workflow_chunks.json",
+      "chunkCount": 3,
+      "stats": {
+        "totalChunks": 3,
+        "totalTokens": 1029,
+        "avgTokensPerChunk": 343,
+        "minTokens": 150,
+        "maxTokens": 459,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\saas-mode-setup\\initial-configuration-and-agency-setup.md",
+      "outputFile": "kb\\best-practices\\processed\\initial-configuration-and-agency-setup_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 552,
+        "avgTokensPerChunk": 276,
+        "minTokens": 119,
+        "maxTokens": 433,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\saas-mode-setup\\permission-hierarchy-and-access-control.md",
+      "outputFile": "kb\\best-practices\\processed\\permission-hierarchy-and-access-control_chunks.json",
+      "chunkCount": 3,
+      "stats": {
+        "totalChunks": 3,
+        "totalTokens": 1227,
+        "avgTokensPerChunk": 409,
+        "minTokens": 276,
+        "maxTokens": 485,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\saas-mode-setup\\rebilling-and-markup-configuration.md",
+      "outputFile": "kb\\best-practices\\processed\\rebilling-and-markup-configuration_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 720,
+        "avgTokensPerChunk": 360,
+        "minTokens": 264,
+        "maxTokens": 456,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\saas-mode-setup\\snapshot-deployment-and-templating.md",
+      "outputFile": "kb\\best-practices\\processed\\snapshot-deployment-and-templating_chunks.json",
+      "chunkCount": 3,
+      "stats": {
+        "totalChunks": 3,
+        "totalTokens": 1331,
+        "avgTokensPerChunk": 444,
+        "minTokens": 416,
+        "maxTokens": 471,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\saas-mode-setup\\white-label-branding-consistency.md",
+      "outputFile": "kb\\best-practices\\processed\\white-label-branding-consistency_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 830,
+        "avgTokensPerChunk": 415,
+        "minTokens": 348,
+        "maxTokens": 482,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\workflow-design-patterns\\conditional-branching-patterns.md",
+      "outputFile": "kb\\best-practices\\processed\\conditional-branching-patterns_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 729,
+        "avgTokensPerChunk": 365,
+        "minTokens": 234,
+        "maxTokens": 495,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\workflow-design-patterns\\error-handling-strategies.md",
+      "outputFile": "kb\\best-practices\\processed\\error-handling-strategies_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 863,
+        "avgTokensPerChunk": 432,
+        "minTokens": 405,
+        "maxTokens": 458,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\workflow-design-patterns\\goal-based-exit-strategies.md",
+      "outputFile": "kb\\best-practices\\processed\\goal-based-exit-strategies_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 750,
+        "avgTokensPerChunk": 375,
+        "minTokens": 289,
+        "maxTokens": 461,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\workflow-design-patterns\\testing-debugging-techniques.md",
+      "outputFile": "kb\\best-practices\\processed\\testing-debugging-techniques_chunks.json",
+      "chunkCount": 3,
+      "stats": {
+        "totalChunks": 3,
+        "totalTokens": 1017,
+        "avgTokensPerChunk": 339,
+        "minTokens": 117,
+        "maxTokens": 483,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\workflow-design-patterns\\wait-delay-timing-strategies.md",
+      "outputFile": "kb\\best-practices\\processed\\wait-delay-timing-strategies_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 490,
+        "avgTokensPerChunk": 490,
+        "minTokens": 490,
+        "maxTokens": 490,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\best-practices\\workflow-design-patterns\\webhook-integration-patterns.md",
+      "outputFile": "kb\\best-practices\\processed\\webhook-integration-patterns_chunks.json",
+      "chunkCount": 2,
+      "stats": {
+        "totalChunks": 2,
+        "totalTokens": 880,
+        "avgTokensPerChunk": 440,
+        "minTokens": 383,
+        "maxTokens": 497,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\ai-employee-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\ai-employee-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 210,
+        "avgTokensPerChunk": 210,
+        "minTokens": 210,
+        "maxTokens": 210,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\auto-dealer-and-automotive-services-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\auto-dealer-and-automotive-services-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 277,
+        "avgTokensPerChunk": 277,
+        "minTokens": 277,
+        "maxTokens": 277,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\contact-admin-module.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\contact-admin-module_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 135,
+        "avgTokensPerChunk": 135,
+        "minTokens": 135,
+        "maxTokens": 135,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\conversation-module.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\conversation-module_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 146,
+        "avgTokensPerChunk": 146,
+        "minTokens": 146,
+        "maxTokens": 146,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\dental-practice-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\dental-practice-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 251,
+        "avgTokensPerChunk": 251,
+        "minTokens": 251,
+        "maxTokens": 251,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\hiring-staffing-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\hiring-staffing-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 191,
+        "avgTokensPerChunk": 191,
+        "minTokens": 191,
+        "maxTokens": 191,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\hvac-services-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\hvac-services-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 245,
+        "avgTokensPerChunk": 245,
+        "minTokens": 245,
+        "maxTokens": 245,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\insurance-agency-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\insurance-agency-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 273,
+        "avgTokensPerChunk": 273,
+        "minTokens": 273,
+        "maxTokens": 273,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\personal-injury-law-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\personal-injury-law-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 265,
+        "avgTokensPerChunk": 265,
+        "minTokens": 265,
+        "maxTokens": 265,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\restaurant-hospitality-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\restaurant-hospitality-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 245,
+        "avgTokensPerChunk": 245,
+        "minTokens": 245,
+        "maxTokens": 245,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\reviews-reputation-module.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\reviews-reputation-module_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 140,
+        "avgTokensPerChunk": 140,
+        "minTokens": 140,
+        "maxTokens": 140,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\saas-agency-in-a-box-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\saas-agency-in-a-box-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 315,
+        "avgTokensPerChunk": 315,
+        "minTokens": 315,
+        "maxTokens": 315,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\saas-agency-in-a-box.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\saas-agency-in-a-box_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 202,
+        "avgTokensPerChunk": 202,
+        "minTokens": 202,
+        "maxTokens": 202,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\sales-module.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\sales-module_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 137,
+        "avgTokensPerChunk": 137,
+        "minTokens": 137,
+        "maxTokens": 137,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\small-business-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\small-business-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 230,
+        "avgTokensPerChunk": 230,
+        "minTokens": 230,
+        "maxTokens": 230,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\extendly\\ultimate-gym-and-fitness-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\ultimate-gym-and-fitness-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 255,
+        "avgTokensPerChunk": 255,
+        "minTokens": 255,
+        "maxTokens": 255,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-auto-dealership-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-auto-dealership-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 192,
+        "avgTokensPerChunk": 192,
+        "minTokens": 192,
+        "maxTokens": 192,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-dental-practice-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-dental-practice-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 195,
+        "avgTokensPerChunk": 195,
+        "minTokens": 195,
+        "maxTokens": 195,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-fitness-bootcamp-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-fitness-bootcamp-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 166,
+        "avgTokensPerChunk": 166,
+        "minTokens": 166,
+        "maxTokens": 166,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-life-coach-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-life-coach-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 190,
+        "avgTokensPerChunk": 190,
+        "minTokens": 190,
+        "maxTokens": 190,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-mortgage-broker-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-mortgage-broker-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 193,
+        "avgTokensPerChunk": 193,
+        "minTokens": 193,
+        "maxTokens": 193,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-pilates-studio-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-pilates-studio-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 177,
+        "avgTokensPerChunk": 177,
+        "minTokens": 177,
+        "maxTokens": 177,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-real-estate-agent-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-real-estate-agent-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 195,
+        "avgTokensPerChunk": 195,
+        "minTokens": 195,
+        "maxTokens": 195,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-restaurant-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-restaurant-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 177,
+        "avgTokensPerChunk": 177,
+        "minTokens": 177,
+        "maxTokens": 177,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-saas-agency-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-saas-agency-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 184,
+        "avgTokensPerChunk": 184,
+        "minTokens": 184,
+        "maxTokens": 184,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\ghl-central\\epic-yoga-studio-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\epic-yoga-studio-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 199,
+        "avgTokensPerChunk": 199,
+        "minTokens": 199,
+        "maxTokens": 199,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\official-marketplace\\chiropractor-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\chiropractor-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 243,
+        "avgTokensPerChunk": 243,
+        "minTokens": 243,
+        "maxTokens": 243,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\official-marketplace\\dentist-snapshot-free-whitening.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\dentist-snapshot-free-whitening_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 233,
+        "avgTokensPerChunk": 233,
+        "minTokens": 233,
+        "maxTokens": 233,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\official-marketplace\\gym-fitness-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\gym-fitness-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 270,
+        "avgTokensPerChunk": 270,
+        "minTokens": 270,
+        "maxTokens": 270,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\official-marketplace\\real-estate-agent-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\real-estate-agent-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 241,
+        "avgTokensPerChunk": 241,
+        "minTokens": 241,
+        "maxTokens": 241,
+        "chunksWithCode": 0
+      }
+    },
+    {
+      "sourceFile": "kb\\snapshots-reference\\official-marketplace\\steakhouse-restaurant-snapshot.md",
+      "outputFile": "kb\\snapshots-reference\\processed\\steakhouse-restaurant-snapshot_chunks.json",
+      "chunkCount": 1,
+      "stats": {
+        "totalChunks": 1,
+        "totalTokens": 270,
+        "avgTokensPerChunk": 270,
+        "minTokens": 270,
+        "maxTokens": 270,
+        "chunksWithCode": 0
+      }
+    }
+  ]
+}

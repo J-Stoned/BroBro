@@ -1,0 +1,3829 @@
+{
+  "generated_date": "2025-10-29T02:00:07.642267",
+  "total_articles": 424,
+  "statistics": {
+    "articles_found": 424,
+    "articles_scraped": 424,
+    "articles_failed": 0,
+    "total_words": 339080,
+    "errors": []
+  },
+  "articles": [
+    {
+      "id": "155000005055",
+      "title": "Getting Started - Create New Contact",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005055-getting-started-create-new-contact",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 453,
+      "scraped_date": "2025-10-29T01:38:41.733094",
+      "content_length": 2767
+    },
+    {
+      "id": "155000005056",
+      "title": "Getting Started - Import Existing Contacts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005056-getting-started-import-existing-contacts",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 450,
+      "scraped_date": "2025-10-29T01:38:42.877369",
+      "content_length": 2914
+    },
+    {
+      "id": "155000005057",
+      "title": "Getting Started - Launch A Funnel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005057-getting-started-launch-a-funnel",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 548,
+      "scraped_date": "2025-10-29T01:38:44.028107",
+      "content_length": 3286
+    },
+    {
+      "id": "155000005063",
+      "title": "Getting Started - Setup Social Planner",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005063-getting-started-setup-social-planner",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 457,
+      "scraped_date": "2025-10-29T01:38:45.166135",
+      "content_length": 2888
+    },
+    {
+      "id": "155000005064",
+      "title": "Getting Started - Setup Facebook and Instagram Lead Ads",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005064-getting-started-setup-facebook-and-instagram-lead-ads",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 236,
+      "scraped_date": "2025-10-29T01:38:46.305452",
+      "content_length": 1460
+    },
+    {
+      "id": "155000005065",
+      "title": "Getting Started - Launch an SMS Campaign",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005065-getting-started-launch-an-sms-campaign",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 308,
+      "scraped_date": "2025-10-29T01:38:47.510785",
+      "content_length": 1924
+    },
+    {
+      "id": "155000005066",
+      "title": "Getting Started - Connect Personal Inbox",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005066-getting-started-connect-personal-inbox",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 374,
+      "scraped_date": "2025-10-29T01:38:48.650595",
+      "content_length": 2287
+    },
+    {
+      "id": "155000005067",
+      "title": "Getting Started - Setup Live Chat Widget",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005067-getting-started-setup-live-chat-widget",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 446,
+      "scraped_date": "2025-10-29T01:38:49.795034",
+      "content_length": 2722
+    },
+    {
+      "id": "155000005068",
+      "title": "Getting Started - Setup Facebook and Instagram Messenger",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005068-getting-started-setup-facebook-and-instagram-messenger",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 353,
+      "scraped_date": "2025-10-29T01:38:50.921942",
+      "content_length": 2276
+    },
+    {
+      "id": "155000005069",
+      "title": "Getting Started - Launch a Website From Template",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005069-getting-started-launch-a-website-from-template",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 554,
+      "scraped_date": "2025-10-29T01:38:52.049418",
+      "content_length": 3310
+    },
+    {
+      "id": "155000005070",
+      "title": "Getting Started - Migrate a Wordpress Site",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005070-getting-started-migrate-a-wordpress-site",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 760,
+      "scraped_date": "2025-10-29T01:38:55.545299",
+      "content_length": 4716
+    },
+    {
+      "id": "155000005428",
+      "title": "Getting Started - Launch a Website from Blank",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005428-getting-started-launch-a-website-from-blank",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 1229,
+      "scraped_date": "2025-10-29T01:38:59.089921",
+      "content_length": 7061
+    },
+    {
+      "id": "155000005071",
+      "title": "Getting Started - Sell Products",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005071-getting-started-sell-products",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 510,
+      "scraped_date": "2025-10-29T01:39:04.771576",
+      "content_length": 3095
+    },
+    {
+      "id": "155000005072",
+      "title": "Getting Started - Launch a Course",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005072-getting-started-launch-a-course",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 431,
+      "scraped_date": "2025-10-29T01:39:05.905126",
+      "content_length": 2644
+    },
+    {
+      "id": "155000005073",
+      "title": "Getting Started - Connect Stripe",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005073-getting-started-connect-stripe",
+      "category": "Getting Started w/ HighLevel",
+      "word_count": 263,
+      "scraped_date": "2025-10-29T01:39:11.294791",
+      "content_length": 1662
+    },
+    {
+      "id": "155000000969",
+      "title": "24/7 Customer Support Options",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000969-24-7-customer-support-options",
+      "category": "Customer Support",
+      "word_count": 1882,
+      "scraped_date": "2025-10-29T01:39:12.436968",
+      "content_length": 10762
+    },
+    {
+      "id": "155000003288",
+      "title": "Troubleshooting Zoom Issues in HighLevel Support Calls",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003288-troubleshooting-zoom-issues-in-highlevel-support-calls",
+      "category": "Customer Support",
+      "word_count": 1380,
+      "scraped_date": "2025-10-29T01:39:15.471820",
+      "content_length": 8584
+    },
+    {
+      "id": "155000006458",
+      "title": "Accessibility Enhancements - Topbar & Help Drawer",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006458-accessibility-enhancements-topbar-help-drawer",
+      "category": "Customer Support",
+      "word_count": 527,
+      "scraped_date": "2025-10-29T01:39:18.979853",
+      "content_length": 3776
+    },
+    {
+      "id": "155000004578",
+      "title": "Overview of Premium Customer Support",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004578-overview-of-premium-customer-support",
+      "category": "Customer Support",
+      "word_count": 1020,
+      "scraped_date": "2025-10-29T01:39:20.100455",
+      "content_length": 7163
+    },
+    {
+      "id": "155000005394",
+      "title": "How to Upgrade to Premium Customer Support",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005394-how-to-upgrade-to-premium-customer-support",
+      "category": "Customer Support",
+      "word_count": 1109,
+      "scraped_date": "2025-10-29T01:39:23.627070",
+      "content_length": 7532
+    },
+    {
+      "id": "155000001156",
+      "title": "HighLevel Pricing Guide",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001156-highlevel-pricing-guide",
+      "category": "Customer Support",
+      "word_count": 3295,
+      "scraped_date": "2025-10-29T01:39:24.850123",
+      "content_length": 20051
+    },
+    {
+      "id": "155000005620",
+      "title": "Wallet - Auto Recharge, Smart Adjustment and Cancellation",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005620-wallet-auto-recharge-smart-adjustment-and-cancellation",
+      "category": "Customer Support",
+      "word_count": 676,
+      "scraped_date": "2025-10-29T01:39:28.007528",
+      "content_length": 4357
+    },
+    {
+      "id": "155000003296",
+      "title": "ActiveCampaign to HighLevel (Migration Guide)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003296-activecampaign-to-highlevel-migration-guide-",
+      "category": "Customer Support",
+      "word_count": 2403,
+      "scraped_date": "2025-10-29T01:39:31.042340",
+      "content_length": 15778
+    },
+    {
+      "id": "155000003389",
+      "title": "ClickFunnels to HighLevel (Migration Guide)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003389-clickfunnels-to-highlevel-migration-guide-",
+      "category": "Customer Support",
+      "word_count": 1809,
+      "scraped_date": "2025-10-29T01:39:32.189006",
+      "content_length": 12090
+    },
+    {
+      "id": "155000003309",
+      "title": "Skool to HighLevel (Migration Guide)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003309-skool-to-highlevel-migration-guide-",
+      "category": "Customer Support",
+      "word_count": 1048,
+      "scraped_date": "2025-10-29T01:39:35.603111",
+      "content_length": 7439
+    },
+    {
+      "id": "155000006145",
+      "title": "Texas SMS Safeguard – One-Toggle Block for SB 140",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006145-texas-sms-safeguard-one-toggle-block-for-sb-140",
+      "category": "Customer Support",
+      "word_count": 1359,
+      "scraped_date": "2025-10-29T01:39:36.866095",
+      "content_length": 8569
+    },
+    {
+      "id": "155000006344",
+      "title": "HighLevel Platform Updates - What’s Changed",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006344-highlevel-platform-updates-what-s-changed",
+      "category": "Customer Support",
+      "word_count": 635,
+      "scraped_date": "2025-10-29T01:39:38.001925",
+      "content_length": 4114
+    },
+    {
+      "id": "155000006779",
+      "title": "Accessibility at HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006779-accessibility-at-highlevel",
+      "category": "Customer Support",
+      "word_count": 205,
+      "scraped_date": "2025-10-29T01:39:39.128330",
+      "content_length": 1482
+    },
+    {
+      "id": "155000006246",
+      "title": "HighLevel AI Agents Contest 2025 – $50K Prize Pool",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006246-highlevel-ai-agents-contest-2025-50k-prize-pool",
+      "category": "Agency View",
+      "word_count": 669,
+      "scraped_date": "2025-10-29T01:39:40.256879",
+      "content_length": 4464
+    },
+    {
+      "id": "155000005494",
+      "title": "Getting Started - Agency Launchpad Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005494-getting-started-agency-launchpad-overview",
+      "category": "Agency View",
+      "word_count": 565,
+      "scraped_date": "2025-10-29T01:39:41.432914",
+      "content_length": 3463
+    },
+    {
+      "id": "155000004173",
+      "title": "Agency Dashboard for Rebilling",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004173-agency-dashboard-for-rebilling",
+      "category": "Agency View",
+      "word_count": 261,
+      "scraped_date": "2025-10-29T01:39:42.615091",
+      "content_length": 1673
+    },
+    {
+      "id": "155000004187",
+      "title": "Selling Marketplace Snapshots with SaaS Plans",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004187-selling-marketplace-snapshots-with-saas-plans",
+      "category": "Agency View",
+      "word_count": 669,
+      "scraped_date": "2025-10-29T01:39:43.784259",
+      "content_length": 4100
+    },
+    {
+      "id": "155000006065",
+      "title": "Customize Default Naming Conventions for New SaaS Accounts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006065-customize-default-naming-conventions-for-new-saas-accounts",
+      "category": "Agency View",
+      "word_count": 909,
+      "scraped_date": "2025-10-29T01:39:47.146426",
+      "content_length": 5976
+    },
+    {
+      "id": "155000005614",
+      "title": "Smart Prompts for Bulk SaaS Enablement",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005614-smart-prompts-for-bulk-saas-enablement",
+      "category": "Agency View",
+      "word_count": 433,
+      "scraped_date": "2025-10-29T01:39:48.280749",
+      "content_length": 2547
+    },
+    {
+      "id": "155000005749",
+      "title": "New Sub-Accounts List UI for $97 & $297 Agency Plans",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005749-new-sub-accounts-list-ui-for-97-297-agency-plans",
+      "category": "Agency View",
+      "word_count": 889,
+      "scraped_date": "2025-10-29T01:39:49.427618",
+      "content_length": 5678
+    },
+    {
+      "id": "155000006561",
+      "title": "Tabular View for Sub-Accounts List",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006561-tabular-view-for-sub-accounts-list",
+      "category": "Agency View",
+      "word_count": 649,
+      "scraped_date": "2025-10-29T01:39:50.561058",
+      "content_length": 4195
+    },
+    {
+      "id": "155000006589",
+      "title": "Snapshots: Introducing the New Design System (UI)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006589-snapshots-introducing-the-new-design-system-ui-",
+      "category": "Agency View",
+      "word_count": 662,
+      "scraped_date": "2025-10-29T01:39:51.703194",
+      "content_length": 4294
+    },
+    {
+      "id": "155000004175",
+      "title": "SaaS: Reselling Add-Ons with SaaS Plans",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004175-saas-reselling-add-ons-with-saas-plans",
+      "category": "Agency View",
+      "word_count": 272,
+      "scraped_date": "2025-10-29T01:39:52.841910",
+      "content_length": 1711
+    },
+    {
+      "id": "155000005136",
+      "title": "How to Cancel Location Subscriptions from the Agency Billing Page",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005136-how-to-cancel-location-subscriptions-from-the-agency-billing-page",
+      "category": "Agency View",
+      "word_count": 333,
+      "scraped_date": "2025-10-29T01:39:54.022878",
+      "content_length": 2113
+    },
+    {
+      "id": "155000003588",
+      "title": "Labs Features - Complete Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003588-labs-features-complete-overview",
+      "category": "Agency View",
+      "word_count": 1004,
+      "scraped_date": "2025-10-29T01:39:57.205974",
+      "content_length": 6566
+    },
+    {
+      "id": "48001201982",
+      "title": "How do I check my agency plan?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001201982-how-do-i-check-my-agency-plan-",
+      "category": "Agency View",
+      "word_count": 120,
+      "scraped_date": "2025-10-29T01:39:58.350580",
+      "content_length": 690
+    },
+    {
+      "id": "155000004174",
+      "title": "SaaS: Multiple Payment Providers/UI Enhancement",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004174-saas-multiple-payment-providers-ui-enhancement",
+      "category": "Agency View",
+      "word_count": 251,
+      "scraped_date": "2025-10-29T01:39:59.523841",
+      "content_length": 1600
+    },
+    {
+      "id": "155000002166",
+      "title": "AI Tools in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002166-ai-tools-in-highlevel",
+      "category": "AI Employee",
+      "word_count": 1357,
+      "scraped_date": "2025-10-29T01:40:00.665877",
+      "content_length": 8513
+    },
+    {
+      "id": "155000003906",
+      "title": "AI Employee Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003906-ai-employee-overview",
+      "category": "AI Employee",
+      "word_count": 968,
+      "scraped_date": "2025-10-29T01:40:01.809904",
+      "content_length": 5602
+    },
+    {
+      "id": "155000006652",
+      "title": "AI Product Pricing Update",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006652-ai-product-pricing-update",
+      "category": "AI Employee",
+      "word_count": 1033,
+      "scraped_date": "2025-10-29T01:40:03.076220",
+      "content_length": 6404
+    },
+    {
+      "id": "155000003911",
+      "title": "AI Voice Agents Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003911-ai-voice-agents-overview",
+      "category": "AI Employee",
+      "word_count": 680,
+      "scraped_date": "2025-10-29T01:40:04.264341",
+      "content_length": 4388
+    },
+    {
+      "id": "155000004107",
+      "title": "Creating Voice AI Agents",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004107-creating-voice-ai-agents",
+      "category": "AI Employee",
+      "word_count": 798,
+      "scraped_date": "2025-10-29T01:40:05.468849",
+      "content_length": 4725
+    },
+    {
+      "id": "155000004108",
+      "title": "Testing Voice AI Agents",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004108-testing-voice-ai-agents",
+      "category": "AI Employee",
+      "word_count": 1220,
+      "scraped_date": "2025-10-29T01:40:06.714687",
+      "content_length": 7367
+    },
+    {
+      "id": "155000003970",
+      "title": "Workflow AI Assistant",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003970-workflow-ai-assistant",
+      "category": "AI Employee",
+      "word_count": 1441,
+      "scraped_date": "2025-10-29T01:40:09.975316",
+      "content_length": 8255
+    },
+    {
+      "id": "155000004692",
+      "title": "AI-Powered Custom Code Generation in Workflows",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004692-ai-powered-custom-code-generation-in-workflows",
+      "category": "AI Employee",
+      "word_count": 681,
+      "scraped_date": "2025-10-29T01:40:13.208197",
+      "content_length": 4285
+    },
+    {
+      "id": "155000005327",
+      "title": "Introduction to Ask AI Assistant",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005327-introduction-to-ask-ai-assistant",
+      "category": "AI Employee",
+      "word_count": 743,
+      "scraped_date": "2025-10-29T01:40:14.401913",
+      "content_length": 4318
+    },
+    {
+      "id": "155000005484",
+      "title": "Contact Summary Agent in Ask AI",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005484-contact-summary-agent-in-ask-ai",
+      "category": "AI Employee",
+      "word_count": 853,
+      "scraped_date": "2025-10-29T01:40:20.242617",
+      "content_length": 5638
+    },
+    {
+      "id": "155000005521",
+      "title": "Funnel Creation Agent in Ask AI",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005521-funnel-creation-agent-in-ask-ai",
+      "category": "AI Employee",
+      "word_count": 995,
+      "scraped_date": "2025-10-29T01:40:21.590207",
+      "content_length": 6404
+    },
+    {
+      "id": "155000006058",
+      "title": "How to Use the AI Agent Studio in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006058-how-to-use-the-ai-agent-studio-in-highlevel",
+      "category": "AI Employee",
+      "word_count": 1110,
+      "scraped_date": "2025-10-29T01:40:22.914544",
+      "content_length": 7316
+    },
+    {
+      "id": "155000006436",
+      "title": "Intent based Routing in Agent Studio (AI Router Node)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006436-intent-based-routing-in-agent-studio-ai-router-node-",
+      "category": "AI Employee",
+      "word_count": 851,
+      "scraped_date": "2025-10-29T01:40:24.255685",
+      "content_length": 5699
+    },
+    {
+      "id": "155000006670",
+      "title": "Email Campaign Agent (Beta)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006670-email-campaign-agent-beta-",
+      "category": "AI Employee",
+      "word_count": 1270,
+      "scraped_date": "2025-10-29T01:40:25.662906",
+      "content_length": 7956
+    },
+    {
+      "id": "155000005741",
+      "title": "How to Use the HighLevel MCP Server",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005741-how-to-use-the-highlevel-mcp-server",
+      "category": "AI Employee",
+      "word_count": 854,
+      "scraped_date": "2025-10-29T01:40:27.012404",
+      "content_length": 6072
+    },
+    {
+      "id": "155000006625",
+      "title": "Knowledge Base - Enhanced Web Crawler",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006625-knowledge-base-enhanced-web-crawler",
+      "category": "AI Employee",
+      "word_count": 874,
+      "scraped_date": "2025-10-29T01:40:30.718713",
+      "content_length": 5960
+    },
+    {
+      "id": "155000006637",
+      "title": "AI Agents Knowledge Base Tables",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006637-ai-agents-knowledge-base-tables",
+      "category": "AI Employee",
+      "word_count": 796,
+      "scraped_date": "2025-10-29T01:40:33.978392",
+      "content_length": 5063
+    },
+    {
+      "id": "155000006539",
+      "title": "Auto Refresh of Knowledge Base Trained Links",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006539-auto-refresh-of-knowledge-base-trained-links",
+      "category": "AI Employee",
+      "word_count": 964,
+      "scraped_date": "2025-10-29T01:40:35.208818",
+      "content_length": 6171
+    },
+    {
+      "id": "48001184920",
+      "title": "SaaS Mode - Full Setup Guide + FAQ",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001184920-saas-mode-full-setup-guide-faq",
+      "category": "SaaS Configurator",
+      "word_count": 1990,
+      "scraped_date": "2025-10-29T01:40:36.429801",
+      "content_length": 11970
+    },
+    {
+      "id": "48001171909",
+      "title": "Best Practices for Using Stripe with Your Agency Dashboard",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001171909-best-practices-for-using-stripe-with-your-agency-dashboard",
+      "category": "SaaS Configurator",
+      "word_count": 331,
+      "scraped_date": "2025-10-29T01:40:37.638941",
+      "content_length": 2131
+    },
+    {
+      "id": "48001177740",
+      "title": "Activate SaaS Mode, Request Payment, and Configure Phone Rebilling",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001177740-activate-saas-mode-request-payment-and-configure-phone-rebilling",
+      "category": "SaaS Configurator",
+      "word_count": 839,
+      "scraped_date": "2025-10-29T01:40:38.836739",
+      "content_length": 5012
+    },
+    {
+      "id": "48001153968",
+      "title": "Number Intelligence - Number Validation, Spam Detection, and Unknown Caller",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001153968-number-intelligence-number-validation-spam-detection-and-unknown-caller",
+      "category": "Phone System",
+      "word_count": 768,
+      "scraped_date": "2025-10-29T01:40:42.017117",
+      "content_length": 4673
+    },
+    {
+      "id": "48001232032",
+      "title": "How to use Custom CSS to hide the Twilio error banner",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001232032-how-to-use-custom-css-to-hide-the-twilio-error-banner",
+      "category": "Phone System",
+      "word_count": 210,
+      "scraped_date": "2025-10-29T01:40:43.221091",
+      "content_length": 1226
+    },
+    {
+      "id": "155000002824",
+      "title": "Setting up webhooks to receive incoming calls, messages and status updates for calls (for Twilio users)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002824-setting-up-webhooks-to-receive-incoming-calls-messages-and-status-updates-for-calls-for-twilio-user",
+      "category": "Phone System",
+      "word_count": 518,
+      "scraped_date": "2025-10-29T01:40:44.408945",
+      "content_length": 3376
+    },
+    {
+      "id": "48000981465",
+      "title": "Call Events Not Working for Twilio",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981465-call-events-not-working-for-twilio",
+      "category": "Phone System",
+      "word_count": 300,
+      "scraped_date": "2025-10-29T01:40:47.516006",
+      "content_length": 1781
+    },
+    {
+      "id": "48000981435",
+      "title": "Geo Permissions - Voice",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981435-geo-permissions-voice",
+      "category": "Phone System",
+      "word_count": 1314,
+      "scraped_date": "2025-10-29T01:40:48.721127",
+      "content_length": 10414
+    },
+    {
+      "id": "48001076653",
+      "title": "How To Fix - Phone Call Redirect Loop",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001076653-how-to-fix-phone-call-redirect-loop",
+      "category": "Phone System",
+      "word_count": 380,
+      "scraped_date": "2025-10-29T01:40:49.883661",
+      "content_length": 2190
+    },
+    {
+      "id": "48001204027",
+      "title": "How do I migrate my agency and sub-account over to LC Phone?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001204027-how-do-i-migrate-my-agency-and-sub-account-over-to-lc-phone-",
+      "category": "Phone System",
+      "word_count": 1684,
+      "scraped_date": "2025-10-29T01:40:55.263987",
+      "content_length": 9836
+    },
+    {
+      "id": "48001207676",
+      "title": "Why is your account suspended",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001207676-why-is-your-account-suspended",
+      "category": "Phone System",
+      "word_count": 1511,
+      "scraped_date": "2025-10-29T01:40:58.647743",
+      "content_length": 9188
+    },
+    {
+      "id": "48001213216",
+      "title": "Regulatory Bundle and Address Creation for Sub-Accounts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001213216-regulatory-bundle-and-address-creation-for-sub-accounts",
+      "category": "Phone System",
+      "word_count": 971,
+      "scraped_date": "2025-10-29T01:41:02.082340",
+      "content_length": 6165
+    },
+    {
+      "id": "48000981696",
+      "title": "Troubleshooting SMS Delivery",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981696-troubleshooting-sms-delivery",
+      "category": "Phone System",
+      "word_count": 1044,
+      "scraped_date": "2025-10-29T01:41:03.392181",
+      "content_length": 6307
+    },
+    {
+      "id": "48001156789",
+      "title": "Incoming SMS shows up in Conversations but isn’t forwarded to the forwarding number.",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001156789-incoming-sms-shows-up-in-conversations-but-isn-t-forwarded-to-the-forwarding-number-",
+      "category": "Phone System",
+      "word_count": 479,
+      "scraped_date": "2025-10-29T01:41:06.749480",
+      "content_length": 2934
+    },
+    {
+      "id": "48001180919",
+      "title": "Error: Not a Valid SMS-Capable “From” Number",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001180919-error-not-a-valid-sms-capable-from-number",
+      "category": "Phone System",
+      "word_count": 821,
+      "scraped_date": "2025-10-29T01:41:12.141841",
+      "content_length": 5089
+    },
+    {
+      "id": "155000005776",
+      "title": "Email OTP Verification for Secure A2P Brand Registration",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005776-email-otp-verification-for-secure-a2p-brand-registration",
+      "category": "Phone System",
+      "word_count": 830,
+      "scraped_date": "2025-10-29T01:41:13.342749",
+      "content_length": 5482
+    },
+    {
+      "id": "155000005200",
+      "title": "Understanding A2P 10DLC Messaging Fees: Registration, Monthly, and Carrier Costs",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005200-understanding-a2p-10dlc-messaging-fees-registration-monthly-and-carrier-costs",
+      "category": "Phone System",
+      "word_count": 1252,
+      "scraped_date": "2025-10-29T01:41:14.598235",
+      "content_length": 8005
+    },
+    {
+      "id": "155000004915",
+      "title": "Updated Messaging Policies for Canadian 10DLC Numbers: A2P Registration Requirements",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004915-updated-messaging-policies-for-canadian-10dlc-numbers-a2p-registration-requirements",
+      "category": "Phone System",
+      "word_count": 427,
+      "scraped_date": "2025-10-29T01:41:15.772837",
+      "content_length": 2880
+    },
+    {
+      "id": "48001146671",
+      "title": "Voicemail For Company And For Users",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001146671-voicemail-for-company-and-for-users",
+      "category": "Phone System",
+      "word_count": 1300,
+      "scraped_date": "2025-10-29T01:41:16.932263",
+      "content_length": 7434
+    },
+    {
+      "id": "48000981433",
+      "title": "Create Audio File For Voicemail (and Drops)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981433-create-audio-file-for-voicemail-and-drops-",
+      "category": "Phone System",
+      "word_count": 331,
+      "scraped_date": "2025-10-29T01:41:18.081810",
+      "content_length": 2067
+    },
+    {
+      "id": "48001240107",
+      "title": "Moving Phone Numbers across accounts (US and International)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001240107-moving-phone-numbers-across-accounts-us-and-international-",
+      "category": "Phone System",
+      "word_count": 796,
+      "scraped_date": "2025-10-29T01:41:21.508108",
+      "content_length": 5209
+    },
+    {
+      "id": "48001203968",
+      "title": "Moving Numbers across Sub-Accounts (Same Agency)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001203968-moving-numbers-across-sub-accounts-same-agency-",
+      "category": "Phone System",
+      "word_count": 601,
+      "scraped_date": "2025-10-29T01:41:22.667689",
+      "content_length": 3938
+    },
+    {
+      "id": "48001219820",
+      "title": "Buying a Twilio Number in Your Own Twilio Account Connected to HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001219820-buying-a-twilio-number-in-your-own-twilio-account-connected-to-highlevel",
+      "category": "Phone System",
+      "word_count": 568,
+      "scraped_date": "2025-10-29T01:41:23.820218",
+      "content_length": 3517
+    },
+    {
+      "id": "48000979925",
+      "title": "Sending Priority - From Name & Address",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000979925-sending-priority-from-name-address",
+      "category": "Email",
+      "word_count": 646,
+      "scraped_date": "2025-10-29T01:41:24.979786",
+      "content_length": 3777
+    },
+    {
+      "id": "48001155000",
+      "title": "Email Services Configuration - Reply & Forward Settings",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001155000-email-services-configuration-reply-forward-settings",
+      "category": "Email",
+      "word_count": 747,
+      "scraped_date": "2025-10-29T01:41:26.131987",
+      "content_length": 4429
+    },
+    {
+      "id": "48001209235",
+      "title": "List of all outgoing system generated emails",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001209235-list-of-all-outgoing-system-generated-emails",
+      "category": "Email",
+      "word_count": 624,
+      "scraped_date": "2025-10-29T01:41:29.207859",
+      "content_length": 3947
+    },
+    {
+      "id": "48001063371",
+      "title": "An Introduction To Email Deliverability",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001063371-an-introduction-to-email-deliverability",
+      "category": "Email",
+      "word_count": 1418,
+      "scraped_date": "2025-10-29T01:41:30.455138",
+      "content_length": 8856
+    },
+    {
+      "id": "48001208599",
+      "title": "Workflow Action based on Email Event Clicked/Opened",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001208599-workflow-action-based-on-email-event-clicked-opened",
+      "category": "Email",
+      "word_count": 178,
+      "scraped_date": "2025-10-29T01:41:31.697153",
+      "content_length": 1097
+    },
+    {
+      "id": "48001063372",
+      "title": "Why Are My Emails Going To Spam?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001063372-why-are-my-emails-going-to-spam-",
+      "category": "Email",
+      "word_count": 838,
+      "scraped_date": "2025-10-29T01:41:33.363562",
+      "content_length": 5121
+    },
+    {
+      "id": "48001220605",
+      "title": "What is LC Email?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001220605-what-is-lc-email-",
+      "category": "Email",
+      "word_count": 1022,
+      "scraped_date": "2025-10-29T01:41:34.522086",
+      "content_length": 5953
+    },
+    {
+      "id": "48000981677",
+      "title": "Mailgun - Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981677-mailgun-overview",
+      "category": "Email",
+      "word_count": 534,
+      "scraped_date": "2025-10-29T01:41:35.672095",
+      "content_length": 3181
+    },
+    {
+      "id": "48001219824",
+      "title": "Step-by-step guide to set up Mailgun",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001219824-step-by-step-guide-to-set-up-mailgun",
+      "category": "Email",
+      "word_count": 418,
+      "scraped_date": "2025-10-29T01:41:36.835950",
+      "content_length": 2382
+    },
+    {
+      "id": "48000981678",
+      "title": "Mailgun Setup - GoDaddy Domain Setup",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981678-mailgun-setup-godaddy-domain-setup",
+      "category": "Email",
+      "word_count": 1012,
+      "scraped_date": "2025-10-29T01:41:39.882101",
+      "content_length": 5506
+    },
+    {
+      "id": "48001059689",
+      "title": "Setting Up SMTP Providers",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001059689-setting-up-smtp-providers",
+      "category": "Email",
+      "word_count": 771,
+      "scraped_date": "2025-10-29T01:41:41.029963",
+      "content_length": 5227
+    },
+    {
+      "id": "48001148427",
+      "title": "Using Google/Gmail/Google Workspace as your SMTP Provider",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001148427-using-google-gmail-google-workspace-as-your-smtp-provider",
+      "category": "Email",
+      "word_count": 944,
+      "scraped_date": "2025-10-29T01:41:42.180115",
+      "content_length": 5604
+    },
+    {
+      "id": "48001184605",
+      "title": "Setting alias for Google smtp",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001184605-setting-alias-for-google-smtp",
+      "category": "Email",
+      "word_count": 102,
+      "scraped_date": "2025-10-29T01:41:43.446696",
+      "content_length": 602
+    },
+    {
+      "id": "48001209322",
+      "title": "Email Error Library for supported SMTPs",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001209322-email-error-library-for-supported-smtps",
+      "category": "Email",
+      "word_count": 14618,
+      "scraped_date": "2025-10-29T01:41:44.674490",
+      "content_length": 93551
+    },
+    {
+      "id": "48001188059",
+      "title": "How to check logs for a specific email in Mailgun",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001188059-how-to-check-logs-for-a-specific-email-in-mailgun",
+      "category": "Email",
+      "word_count": 356,
+      "scraped_date": "2025-10-29T01:41:48.050077",
+      "content_length": 2219
+    },
+    {
+      "id": "48001151622",
+      "title": "How to fix links in the email that do not open?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001151622-how-to-fix-links-in-the-email-that-do-not-open-",
+      "category": "Email",
+      "word_count": 495,
+      "scraped_date": "2025-10-29T01:41:49.226605",
+      "content_length": 2880
+    },
+    {
+      "id": "48001225291",
+      "title": "How to Analyze an Agency's Spending on LC Communications",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001225291-how-to-analyze-an-agency-s-spending-on-lc-communications",
+      "category": "Email",
+      "word_count": 1628,
+      "scraped_date": "2025-10-29T01:41:50.370139",
+      "content_length": 9301
+    },
+    {
+      "id": "155000006513",
+      "title": "\"Add Contact\" Form Upgrade and Customizations",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006513--add-contact-form-upgrade-and-customizations",
+      "category": "Contacts",
+      "word_count": 1021,
+      "scraped_date": "2025-10-29T01:41:53.728885",
+      "content_length": 6414
+    },
+    {
+      "id": "48001171922",
+      "title": "Adding Files To Contacts using a Custom Field",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001171922-adding-files-to-contacts-using-a-custom-field",
+      "category": "Contacts",
+      "word_count": 981,
+      "scraped_date": "2025-10-29T01:41:54.887343",
+      "content_length": 5882
+    },
+    {
+      "id": "155000000448",
+      "title": "Adding Multiple Phone Numbers for a Contact",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000448-adding-multiple-phone-numbers-for-a-contact",
+      "category": "Contacts",
+      "word_count": 641,
+      "scraped_date": "2025-10-29T01:41:58.082853",
+      "content_length": 3958
+    },
+    {
+      "id": "155000004163",
+      "title": "Create Subscriptions & Invoices in Contact Profile",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004163-create-subscriptions-invoices-in-contact-profile",
+      "category": "Contacts",
+      "word_count": 308,
+      "scraped_date": "2025-10-29T01:42:01.577169",
+      "content_length": 1988
+    },
+    {
+      "id": "155000005155",
+      "title": "Activity Section Upgrade",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005155-activity-section-upgrade",
+      "category": "Contacts",
+      "word_count": 501,
+      "scraped_date": "2025-10-29T01:42:02.763311",
+      "content_length": 3193
+    },
+    {
+      "id": "155000006651",
+      "title": "The All-New Contact Detail Page",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006651-the-all-new-contact-detail-page",
+      "category": "Contacts",
+      "word_count": 883,
+      "scraped_date": "2025-10-29T01:42:06.474793",
+      "content_length": 5646
+    },
+    {
+      "id": "155000002830",
+      "title": "Adding Contact Tags to Multiple Contacts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002830-adding-contact-tags-to-multiple-contacts",
+      "category": "Contacts",
+      "word_count": 737,
+      "scraped_date": "2025-10-29T01:42:09.697788",
+      "content_length": 4459
+    },
+    {
+      "id": "155000003859",
+      "title": "Sending Bulk SMS via Contacts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003859-sending-bulk-sms-via-contacts",
+      "category": "Contacts",
+      "word_count": 814,
+      "scraped_date": "2025-10-29T01:42:12.897971",
+      "content_length": 4759
+    },
+    {
+      "id": "155000004998",
+      "title": "Removing Contact Tags From Multiple Contacts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004998-removing-contact-tags-from-multiple-contacts",
+      "category": "Contacts",
+      "word_count": 817,
+      "scraped_date": "2025-10-29T01:42:16.472309",
+      "content_length": 4933
+    },
+    {
+      "id": "155000001302",
+      "title": "Contact Types",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001302-contact-types",
+      "category": "Contacts",
+      "word_count": 640,
+      "scraped_date": "2025-10-29T01:42:17.631646",
+      "content_length": 3882
+    },
+    {
+      "id": "155000001362",
+      "title": "Contact and Opportunity Followers in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001362-contact-and-opportunity-followers-in-highlevel",
+      "category": "Contacts",
+      "word_count": 285,
+      "scraped_date": "2025-10-29T01:42:18.786230",
+      "content_length": 1851
+    },
+    {
+      "id": "155000003918",
+      "title": "Associating Contacts using Custom Labels",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003918-associating-contacts-using-custom-labels",
+      "category": "Contacts",
+      "word_count": 807,
+      "scraped_date": "2025-10-29T01:42:21.970774",
+      "content_length": 5656
+    },
+    {
+      "id": "155000004432",
+      "title": "Importing Contacts using a CSV file",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004432-importing-contacts-using-a-csv-file",
+      "category": "Contacts",
+      "word_count": 1074,
+      "scraped_date": "2025-10-29T01:42:24.982972",
+      "content_length": 6627
+    },
+    {
+      "id": "155000005199",
+      "title": "How to Share and Manage Documents via Client Portal and CRM?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005199-how-to-share-and-manage-documents-via-client-portal-and-crm-",
+      "category": "Contacts",
+      "word_count": 480,
+      "scraped_date": "2025-10-29T01:42:28.667418",
+      "content_length": 2863
+    },
+    {
+      "id": "48000980858",
+      "title": "Unread VS Read - Must Manually Mark as Read",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000980858-unread-vs-read-must-manually-mark-as-read",
+      "category": "Conversations",
+      "word_count": 113,
+      "scraped_date": "2025-10-29T01:42:29.848094",
+      "content_length": 674
+    },
+    {
+      "id": "155000004183",
+      "title": "View & Edit AI Response Info in Conversations",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004183-view-edit-ai-response-info-in-conversations",
+      "category": "Conversations",
+      "word_count": 561,
+      "scraped_date": "2025-10-29T01:42:33.775220",
+      "content_length": 3436
+    },
+    {
+      "id": "48001222121",
+      "title": "Overview of Conversation Filters",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001222121-overview-of-conversation-filters",
+      "category": "Conversations",
+      "word_count": 833,
+      "scraped_date": "2025-10-29T01:42:38.942883",
+      "content_length": 5652
+    },
+    {
+      "id": "155000002679",
+      "title": "@Mention or Tag Profile in Posts from Social Planner",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002679--mention-or-tag-profile-in-posts-from-social-planner",
+      "category": "Marketing",
+      "word_count": 441,
+      "scraped_date": "2025-10-29T01:42:42.410776",
+      "content_length": 2623
+    },
+    {
+      "id": "155000002665",
+      "title": "Add Location Tagging to Social Post",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002665-add-location-tagging-to-social-post",
+      "category": "Marketing",
+      "word_count": 227,
+      "scraped_date": "2025-10-29T01:42:47.424256",
+      "content_length": 1363
+    },
+    {
+      "id": "155000002753",
+      "title": "Add Pinterest Pins in Social Planner",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002753-add-pinterest-pins-in-social-planner",
+      "category": "Marketing",
+      "word_count": 284,
+      "scraped_date": "2025-10-29T01:42:50.729530",
+      "content_length": 1606
+    },
+    {
+      "id": "48001236650",
+      "title": "Template Library Overview & Setup",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001236650-template-library-overview-setup",
+      "category": "Marketing",
+      "word_count": 822,
+      "scraped_date": "2025-10-29T01:42:52.010766",
+      "content_length": 5398
+    },
+    {
+      "id": "155000001304",
+      "title": "Add Custom Templates to Template Library",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001304-add-custom-templates-to-template-library",
+      "category": "Marketing",
+      "word_count": 744,
+      "scraped_date": "2025-10-29T01:42:53.179152",
+      "content_length": 4522
+    },
+    {
+      "id": "155000001458",
+      "title": "How to clone templates in template library?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001458-how-to-clone-templates-in-template-library-",
+      "category": "Marketing",
+      "word_count": 259,
+      "scraped_date": "2025-10-29T01:42:58.133855",
+      "content_length": 1467
+    },
+    {
+      "id": "48000980851",
+      "title": "Bulk Requests - Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000980851-bulk-requests-overview",
+      "category": "Marketing",
+      "word_count": 90,
+      "scraped_date": "2025-10-29T01:43:01.246446",
+      "content_length": 557
+    },
+    {
+      "id": "48000981404",
+      "title": "Trigger Links - Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981404-trigger-links-overview",
+      "category": "Marketing",
+      "word_count": 1101,
+      "scraped_date": "2025-10-29T01:43:02.429224",
+      "content_length": 6754
+    },
+    {
+      "id": "48000981405",
+      "title": "SMS Templates (Snippets) - Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981405-sms-templates-snippets-overview",
+      "category": "Marketing",
+      "word_count": 174,
+      "scraped_date": "2025-10-29T01:43:03.569195",
+      "content_length": 1085
+    },
+    {
+      "id": "155000000890",
+      "title": "Text Snippets (Templates)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000890-text-snippets-templates-",
+      "category": "Marketing",
+      "word_count": 1101,
+      "scraped_date": "2025-10-29T01:43:04.721192",
+      "content_length": 7045
+    },
+    {
+      "id": "155000002542",
+      "title": "How to Use the Kajabi Email Template Importer",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002542-how-to-use-the-kajabi-email-template-importer",
+      "category": "Marketing",
+      "word_count": 213,
+      "scraped_date": "2025-10-29T01:43:05.865586",
+      "content_length": 1316
+    },
+    {
+      "id": "155000003136",
+      "title": "How to Create a Brand Board",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003136-how-to-create-a-brand-board",
+      "category": "Marketing",
+      "word_count": 780,
+      "scraped_date": "2025-10-29T01:43:09.132673",
+      "content_length": 4423
+    },
+    {
+      "id": "155000003137",
+      "title": "How to use Brand Boards in emails?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003137-how-to-use-brand-boards-in-emails-",
+      "category": "Marketing",
+      "word_count": 634,
+      "scraped_date": "2025-10-29T01:43:10.285220",
+      "content_length": 3683
+    },
+    {
+      "id": "155000003138",
+      "title": "How to change default Brand Boards?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003138-how-to-change-default-brand-boards-",
+      "category": "Marketing",
+      "word_count": 756,
+      "scraped_date": "2025-10-29T01:43:13.415752",
+      "content_length": 4450
+    },
+    {
+      "id": "48001216782",
+      "title": "AI Conversational Appointment Booking Workflow and Setup",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001216782-ai-conversational-appointment-booking-workflow-and-setup",
+      "category": "Marketing",
+      "word_count": 331,
+      "scraped_date": "2025-10-29T01:43:16.767857",
+      "content_length": 1933
+    },
+    {
+      "id": "155000003467",
+      "title": "Appointment Booking Conversation AI Workflow Action",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003467-appointment-booking-conversation-ai-workflow-action",
+      "category": "Marketing",
+      "word_count": 458,
+      "scraped_date": "2025-10-29T01:43:21.556541",
+      "content_length": 2728
+    },
+    {
+      "id": "155000006463",
+      "title": "Countdown Timer Labels Update",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006463-countdown-timer-labels-update",
+      "category": "Marketing",
+      "word_count": 501,
+      "scraped_date": "2025-10-29T01:43:24.994193",
+      "content_length": 3173
+    },
+    {
+      "id": "155000003114",
+      "title": "How to Create a Recurring Timer?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003114-how-to-create-a-recurring-timer-",
+      "category": "Marketing",
+      "word_count": 1176,
+      "scraped_date": "2025-10-29T01:43:28.137605",
+      "content_length": 7057
+    },
+    {
+      "id": "155000005838",
+      "title": "How to Use Wait Time in Recurring Timer",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005838-how-to-use-wait-time-in-recurring-timer",
+      "category": "Marketing",
+      "word_count": 849,
+      "scraped_date": "2025-10-29T01:43:31.259250",
+      "content_length": 5140
+    },
+    {
+      "id": "48000979920",
+      "title": "How To Add a Manual Call Action to a Workflow",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000979920-how-to-add-a-manual-call-action-to-a-workflow",
+      "category": "Opportunities & Pipelines",
+      "word_count": 534,
+      "scraped_date": "2025-10-29T01:43:34.713513",
+      "content_length": 3170
+    },
+    {
+      "id": "48000979921",
+      "title": "How to set up a Manual SMS action",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000979921-how-to-set-up-a-manual-sms-action",
+      "category": "Opportunities & Pipelines",
+      "word_count": 693,
+      "scraped_date": "2025-10-29T01:43:38.112464",
+      "content_length": 4342
+    },
+    {
+      "id": "155000005152",
+      "title": "How to Use Opportunity Notes?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005152-how-to-use-opportunity-notes-",
+      "category": "Opportunities & Pipelines",
+      "word_count": 778,
+      "scraped_date": "2025-10-29T01:43:41.164684",
+      "content_length": 5053
+    },
+    {
+      "id": "155000001982",
+      "title": "Understanding Pipelines",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001982-understanding-pipelines",
+      "category": "Opportunities & Pipelines",
+      "word_count": 577,
+      "scraped_date": "2025-10-29T01:43:44.432220",
+      "content_length": 3650
+    },
+    {
+      "id": "155000001983",
+      "title": "Understanding Opportunities in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001983-understanding-opportunities-in-highlevel",
+      "category": "Opportunities & Pipelines",
+      "word_count": 623,
+      "scraped_date": "2025-10-29T01:43:49.179659",
+      "content_length": 4285
+    },
+    {
+      "id": "48001077359",
+      "title": "Understanding The Create New Opportunity Toggle",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001077359-understanding-the-create-new-opportunity-toggle",
+      "category": "Opportunities & Pipelines",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:43:52.152103",
+      "content_length": 476
+    },
+    {
+      "id": "155000001985",
+      "title": "Step-by-Step Guide: Creating Pipelines",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001985-step-by-step-guide-creating-pipelines",
+      "category": "Opportunities & Pipelines",
+      "word_count": 422,
+      "scraped_date": "2025-10-29T01:43:55.629319",
+      "content_length": 2598
+    },
+    {
+      "id": "155000001999",
+      "title": "Step-by-Step Guide to Creating Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001999-step-by-step-guide-to-creating-opportunities",
+      "category": "Opportunities & Pipelines",
+      "word_count": 605,
+      "scraped_date": "2025-10-29T01:43:58.928609",
+      "content_length": 3925
+    },
+    {
+      "id": "155000000521",
+      "title": "How to use Custom Fields for Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000521-how-to-use-custom-fields-for-opportunities",
+      "category": "Opportunities & Pipelines",
+      "word_count": 1872,
+      "scraped_date": "2025-10-29T01:44:02.377675",
+      "content_length": 12098
+    },
+    {
+      "id": "155000001241",
+      "title": "Filtering Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001241-filtering-opportunities",
+      "category": "Opportunities & Pipelines",
+      "word_count": 326,
+      "scraped_date": "2025-10-29T01:44:05.643313",
+      "content_length": 1985
+    },
+    {
+      "id": "155000002043",
+      "title": "Searching for Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002043-searching-for-opportunities",
+      "category": "Opportunities & Pipelines",
+      "word_count": 314,
+      "scraped_date": "2025-10-29T01:44:08.947049",
+      "content_length": 2011
+    },
+    {
+      "id": "155000002432",
+      "title": "List View for Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002432-list-view-for-opportunities",
+      "category": "Opportunities & Pipelines",
+      "word_count": 361,
+      "scraped_date": "2025-10-29T01:44:12.239944",
+      "content_length": 2270
+    },
+    {
+      "id": "155000002048",
+      "title": "Automating Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002048-automating-opportunities",
+      "category": "Opportunities & Pipelines",
+      "word_count": 669,
+      "scraped_date": "2025-10-29T01:44:15.793637",
+      "content_length": 4347
+    },
+    {
+      "id": "155000003440",
+      "title": "Multiple Opportunities Toggle in Workflows",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003440-multiple-opportunities-toggle-in-workflows",
+      "category": "Opportunities & Pipelines",
+      "word_count": 422,
+      "scraped_date": "2025-10-29T01:44:19.017608",
+      "content_length": 2567
+    },
+    {
+      "id": "155000003097",
+      "title": "Bulk Edit Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003097-bulk-edit-opportunities",
+      "category": "Opportunities & Pipelines",
+      "word_count": 175,
+      "scraped_date": "2025-10-29T01:44:22.091353",
+      "content_length": 1084
+    },
+    {
+      "id": "155000005536",
+      "title": "Bulk Actions for Opportunity Cards",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005536-bulk-actions-for-opportunity-cards",
+      "category": "Opportunities & Pipelines",
+      "word_count": 846,
+      "scraped_date": "2025-10-29T01:44:25.484824",
+      "content_length": 5404
+    },
+    {
+      "id": "155000006238",
+      "title": "Custom Product Details Page for E-commerce Stores",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006238-custom-product-details-page-for-e-commerce-stores",
+      "category": "Sites",
+      "word_count": 970,
+      "scraped_date": "2025-10-29T01:44:28.577052",
+      "content_length": 6224
+    },
+    {
+      "id": "155000004177",
+      "title": "Pie Chart Visualizations in Funnels and Websites Analytics",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004177-pie-chart-visualizations-in-funnels-and-websites-analytics",
+      "category": "Sites",
+      "word_count": 433,
+      "scraped_date": "2025-10-29T01:44:31.694033",
+      "content_length": 2664
+    },
+    {
+      "id": "155000004701",
+      "title": "Funnels and Websites - Browsers and IPs in Funnel Analytics",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004701-funnels-and-websites-browsers-and-ips-in-funnel-analytics",
+      "category": "Sites",
+      "word_count": 609,
+      "scraped_date": "2025-10-29T01:44:34.675639",
+      "content_length": 3779
+    },
+    {
+      "id": "155000004967",
+      "title": "Analytics for Top Countries in Funnel Analytics",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004967-analytics-for-top-countries-in-funnel-analytics",
+      "category": "Sites",
+      "word_count": 814,
+      "scraped_date": "2025-10-29T01:44:37.777210",
+      "content_length": 5247
+    },
+    {
+      "id": "155000002447",
+      "title": "How to move from Old Blog to New Blog?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002447-how-to-move-from-old-blog-to-new-blog-",
+      "category": "Sites",
+      "word_count": 828,
+      "scraped_date": "2025-10-29T01:44:40.958270",
+      "content_length": 4852
+    },
+    {
+      "id": "155000002448",
+      "title": "How to Create a Blog?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002448-how-to-create-a-blog-",
+      "category": "Sites",
+      "word_count": 352,
+      "scraped_date": "2025-10-29T01:44:44.462896",
+      "content_length": 2164
+    },
+    {
+      "id": "155000002449",
+      "title": "How to Customize Blog Design and Layout",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002449-how-to-customize-blog-design-and-layout",
+      "category": "Sites",
+      "word_count": 329,
+      "scraped_date": "2025-10-29T01:44:47.667030",
+      "content_length": 1867
+    },
+    {
+      "id": "155000004154",
+      "title": "WordPress: Single Sign On Admin",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004154-wordpress-single-sign-on-admin",
+      "category": "Sites",
+      "word_count": 313,
+      "scraped_date": "2025-10-29T01:44:48.828582",
+      "content_length": 1833
+    },
+    {
+      "id": "155000004155",
+      "title": "WordPress: Domain Connect Integration",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004155-wordpress-domain-connect-integration",
+      "category": "Sites",
+      "word_count": 333,
+      "scraped_date": "2025-10-29T01:44:52.286828",
+      "content_length": 2003
+    },
+    {
+      "id": "155000004189",
+      "title": "Cloning Wordpress Websites in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004189-cloning-wordpress-websites-in-highlevel",
+      "category": "Sites",
+      "word_count": 598,
+      "scraped_date": "2025-10-29T01:44:55.407253",
+      "content_length": 3775
+    },
+    {
+      "id": "155000004168",
+      "title": "Branded Mobile App Builder: In-app Form and Customizer",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004168-branded-mobile-app-builder-in-app-form-and-customizer",
+      "category": "Sites",
+      "word_count": 368,
+      "scraped_date": "2025-10-29T01:44:58.743720",
+      "content_length": 2238
+    },
+    {
+      "id": "48000979916",
+      "title": "Where Do Form Responses Show Up?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000979916-where-do-form-responses-show-up-",
+      "category": "Sites",
+      "word_count": 172,
+      "scraped_date": "2025-10-29T01:45:01.918530",
+      "content_length": 1019
+    },
+    {
+      "id": "48000979918",
+      "title": "Exporting Form answers to Google Sheets",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000979918-exporting-form-answers-to-google-sheets",
+      "category": "Sites",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:45:05.720661",
+      "content_length": 476
+    },
+    {
+      "id": "48000979919",
+      "title": "Sticky Contact in Forms, Surveys, and Calendars",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000979919-sticky-contact-in-forms-surveys-and-calendars",
+      "category": "Sites",
+      "word_count": 810,
+      "scraped_date": "2025-10-29T01:45:09.434730",
+      "content_length": 5190
+    },
+    {
+      "id": "48000979917",
+      "title": "Exporting Survey Answers to Google Sheets",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000979917-exporting-survey-answers-to-google-sheets",
+      "category": "Sites",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:45:12.919368",
+      "content_length": 476
+    },
+    {
+      "id": "48000979915",
+      "title": "Where Do Survey Answers Show Up",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000979915-where-do-survey-answers-show-up",
+      "category": "Sites",
+      "word_count": 555,
+      "scraped_date": "2025-10-29T01:45:16.184022",
+      "content_length": 3612
+    },
+    {
+      "id": "48001165941",
+      "title": "How to Create a Stylized Survey",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001165941-how-to-create-a-stylized-survey",
+      "category": "Sites",
+      "word_count": 599,
+      "scraped_date": "2025-10-29T01:45:19.687806",
+      "content_length": 3669
+    },
+    {
+      "id": "155000004102",
+      "title": "Getting Started with Chat Widget",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004102-getting-started-with-chat-widget",
+      "category": "Sites",
+      "word_count": 787,
+      "scraped_date": "2025-10-29T01:45:24.684329",
+      "content_length": 4787
+    },
+    {
+      "id": "155000002960",
+      "title": "Overview of Chat Widget Customizations",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002960-overview-of-chat-widget-customizations",
+      "category": "Sites",
+      "word_count": 374,
+      "scraped_date": "2025-10-29T01:45:28.290678",
+      "content_length": 2204
+    },
+    {
+      "id": "155000004104",
+      "title": "Chat Widget - Business Office Hours in Live Chat",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004104-chat-widget-business-office-hours-in-live-chat",
+      "category": "Sites",
+      "word_count": 274,
+      "scraped_date": "2025-10-29T01:45:33.066282",
+      "content_length": 1661
+    },
+    {
+      "id": "155000006540",
+      "title": "QR Code Bulk Actions, Renaming & Copy Link Shortcut",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006540-qr-code-bulk-actions-renaming-copy-link-shortcut",
+      "category": "Sites",
+      "word_count": 839,
+      "scraped_date": "2025-10-29T01:45:37.061598",
+      "content_length": 4860
+    },
+    {
+      "id": "155000005740",
+      "title": "How to Create Custom Business Card QR Codes",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005740-how-to-create-custom-business-card-qr-codes",
+      "category": "Sites",
+      "word_count": 1050,
+      "scraped_date": "2025-10-29T01:45:40.715904",
+      "content_length": 6405
+    },
+    {
+      "id": "155000005640",
+      "title": "How to Create vCards in the QR Code Builder",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005640-how-to-create-vcards-in-the-qr-code-builder",
+      "category": "Sites",
+      "word_count": 848,
+      "scraped_date": "2025-10-29T01:45:44.370531",
+      "content_length": 5089
+    },
+    {
+      "id": "48000980323",
+      "title": "Instant Redirect Page - Funnel Troubleshooting",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000980323-instant-redirect-page-funnel-troubleshooting",
+      "category": "Sites",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:45:47.917694",
+      "content_length": 476
+    },
+    {
+      "id": "48001153720",
+      "title": "How to set up Root Domain/Subdomain for your Funnels/Websites?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-",
+      "category": "Sites",
+      "word_count": 1863,
+      "scraped_date": "2025-10-29T01:45:49.116344",
+      "content_length": 10925
+    },
+    {
+      "id": "48001158591",
+      "title": "Stripe Troubleshooting | Why does my funnel product show 'null' in the Stripe Plan dropdown?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001158591-stripe-troubleshooting-why-does-my-funnel-product-show-null-in-the-stripe-plan-dropdown-",
+      "category": "Sites",
+      "word_count": 107,
+      "scraped_date": "2025-10-29T01:45:52.652945",
+      "content_length": 631
+    },
+    {
+      "id": "155000000581",
+      "title": "How to Link Your Privacy Policy When Collecting Personal Data",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000581-how-to-link-your-privacy-policy-when-collecting-personal-data",
+      "category": "Sites",
+      "word_count": 586,
+      "scraped_date": "2025-10-29T01:45:55.845312",
+      "content_length": 3581
+    },
+    {
+      "id": "155000002561",
+      "title": "Setting up Whitelabel Domain, API Domain, Email Sending Domain,  Sites Domain, Client Portal Domain & more",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002561-setting-up-whitelabel-domain-api-domain-email-sending-domain-sites-domain-client-portal-domain-",
+      "category": "Sites",
+      "word_count": 2426,
+      "scraped_date": "2025-10-29T01:46:00.942276",
+      "content_length": 15747
+    },
+    {
+      "id": "48001182524",
+      "title": "XML Sitemaps",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001182524-xml-sitemaps",
+      "category": "Sites",
+      "word_count": 2143,
+      "scraped_date": "2025-10-29T01:46:04.123514",
+      "content_length": 12340
+    },
+    {
+      "id": "155000004126",
+      "title": "Quiz Builder Guide",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004126-quiz-builder-guide",
+      "category": "Sites",
+      "word_count": 1451,
+      "scraped_date": "2025-10-29T01:46:07.867905",
+      "content_length": 8397
+    },
+    {
+      "id": "155000004437",
+      "title": "Workflow Trigger - Quiz Submitted",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004437-workflow-trigger-quiz-submitted",
+      "category": "Sites",
+      "word_count": 971,
+      "scraped_date": "2025-10-29T01:46:10.946446",
+      "content_length": 6333
+    },
+    {
+      "id": "155000004750",
+      "title": "How to Assign Categories and Scoring in Quizzes With Dynamic Result Messages - A Complete Guide!",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004750-how-to-assign-categories-and-scoring-in-quizzes-with-dynamic-result-messages-a-complete-guide-",
+      "category": "Sites",
+      "word_count": 1419,
+      "scraped_date": "2025-10-29T01:46:14.174695",
+      "content_length": 8771
+    },
+    {
+      "id": "155000006501",
+      "title": "SEO: AI Recommendations - Infinite Scroll",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006501-seo-ai-recommendations-infinite-scroll",
+      "category": "Sites",
+      "word_count": 748,
+      "scraped_date": "2025-10-29T01:46:19.163738",
+      "content_length": 4900
+    },
+    {
+      "id": "155000005852",
+      "title": "Keyword Research and Rank Tracking in GoHighLevel SEO",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005852-keyword-research-and-rank-tracking-in-gohighlevel-seo",
+      "category": "Sites",
+      "word_count": 933,
+      "scraped_date": "2025-10-29T01:46:22.534318",
+      "content_length": 6004
+    },
+    {
+      "id": "155000005851",
+      "title": "Local SEO: Tracking Local Rankings with Heatmaps",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005851-local-seo-tracking-local-rankings-with-heatmaps",
+      "category": "Sites",
+      "word_count": 961,
+      "scraped_date": "2025-10-29T01:46:26.027621",
+      "content_length": 6063
+    },
+    {
+      "id": "155000006384",
+      "title": "Custom Objects and Company Objects in Forms, Surveys & Quizzes",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006384-custom-objects-and-company-objects-in-forms-surveys-quizzes",
+      "category": "Sites",
+      "word_count": 800,
+      "scraped_date": "2025-10-29T01:46:31.105850",
+      "content_length": 5038
+    },
+    {
+      "id": "155000006462",
+      "title": "Recurring Webinar Settings",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006462-recurring-webinar-settings",
+      "category": "Sites",
+      "word_count": 795,
+      "scraped_date": "2025-10-29T01:46:34.621475",
+      "content_length": 5200
+    },
+    {
+      "id": "155000006582",
+      "title": "Webinar Video Analytics",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006582-webinar-video-analytics",
+      "category": "Sites",
+      "word_count": 819,
+      "scraped_date": "2025-10-29T01:46:39.332504",
+      "content_length": 5370
+    },
+    {
+      "id": "155000002445",
+      "title": "Introduction to Workflows and Automations",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002445-introduction-to-workflows-and-automations",
+      "category": "Workflows",
+      "word_count": 898,
+      "scraped_date": "2025-10-29T01:46:40.499426",
+      "content_length": 6012
+    },
+    {
+      "id": "155000003914",
+      "title": "Workflow Notes, Action Notes & Sticky Notes",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003914-workflow-notes-action-notes-sticky-notes",
+      "category": "Workflows",
+      "word_count": 858,
+      "scraped_date": "2025-10-29T01:46:44.101045",
+      "content_length": 5414
+    },
+    {
+      "id": "155000003971",
+      "title": "Workflows Pro Plan - New Pricing Tiers",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003971-workflows-pro-plan-new-pricing-tiers",
+      "category": "Workflows",
+      "word_count": 1119,
+      "scraped_date": "2025-10-29T01:46:47.233743",
+      "content_length": 7072
+    },
+    {
+      "id": "48001147413",
+      "title": "Create Task Event In Campaigns",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001147413-create-task-event-in-campaigns",
+      "category": "Workflows",
+      "word_count": 108,
+      "scraped_date": "2025-10-29T01:46:50.476094",
+      "content_length": 651
+    },
+    {
+      "id": "48001213546",
+      "title": "Workflow Trigger - Contact Tag",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001213546-workflow-trigger-contact-tag",
+      "category": "Workflows",
+      "word_count": 558,
+      "scraped_date": "2025-10-29T01:46:54.182428",
+      "content_length": 3105
+    },
+    {
+      "id": "48001214153",
+      "title": "Workflow Action - Edit Conversation",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001214153-workflow-action-edit-conversation",
+      "category": "Workflows",
+      "word_count": 658,
+      "scraped_date": "2025-10-29T01:46:57.742574",
+      "content_length": 4507
+    },
+    {
+      "id": "155000003142",
+      "title": "Workflow Trigger - Video Tracking",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003142-workflow-trigger-video-tracking",
+      "category": "Workflows",
+      "word_count": 859,
+      "scraped_date": "2025-10-29T01:47:01.472971",
+      "content_length": 5123
+    },
+    {
+      "id": "155000003147",
+      "title": "Workflow Trigger - Inbound Webhook",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003147-workflow-trigger-inbound-webhook",
+      "category": "Workflows",
+      "word_count": 479,
+      "scraped_date": "2025-10-29T01:47:04.860791",
+      "content_length": 3068
+    },
+    {
+      "id": "155000003163",
+      "title": "Workflow Trigger - Number Validation",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003163-workflow-trigger-number-validation",
+      "category": "Workflows",
+      "word_count": 888,
+      "scraped_date": "2025-10-29T01:47:08.288133",
+      "content_length": 5868
+    },
+    {
+      "id": "48001185898",
+      "title": "Facebook Conversion API Workflow Trigger Not Working",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001185898-facebook-conversion-api-workflow-trigger-not-working",
+      "category": "Workflows",
+      "word_count": 175,
+      "scraped_date": "2025-10-29T01:47:11.472254",
+      "content_length": 1083
+    },
+    {
+      "id": "155000001717",
+      "title": "Split Action",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001717-split-action",
+      "category": "Workflows",
+      "word_count": 705,
+      "scraped_date": "2025-10-29T01:47:14.717380",
+      "content_length": 4201
+    },
+    {
+      "id": "155000002065",
+      "title": "Text Formatter - How to format text the way you want",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002065-text-formatter-how-to-format-text-the-way-you-want",
+      "category": "Workflows",
+      "word_count": 769,
+      "scraped_date": "2025-10-29T01:47:19.738068",
+      "content_length": 4968
+    },
+    {
+      "id": "155000004658",
+      "title": "Workflow Recipes - Instagram Comment Automation",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004658-workflow-recipes-instagram-comment-automation",
+      "category": "Workflows",
+      "word_count": 166,
+      "scraped_date": "2025-10-29T01:47:22.879252",
+      "content_length": 1000
+    },
+    {
+      "id": "155000004659",
+      "title": "Workflow Recipes - Facebook comments + Workflow AI",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004659-workflow-recipes-facebook-comments-workflow-ai",
+      "category": "Workflows",
+      "word_count": 162,
+      "scraped_date": "2025-10-29T01:47:26.605891",
+      "content_length": 968
+    },
+    {
+      "id": "155000004660",
+      "title": "Workflow Recipes - Facebook Comment Automation",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004660-workflow-recipes-facebook-comment-automation",
+      "category": "Workflows",
+      "word_count": 166,
+      "scraped_date": "2025-10-29T01:47:29.713735",
+      "content_length": 1000
+    },
+    {
+      "id": "48000982201",
+      "title": "Embedding HighLevel Calendars using HTML Code",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982201-embedding-highlevel-calendars-using-html-code",
+      "category": "Calendars & Appointments",
+      "word_count": 178,
+      "scraped_date": "2025-10-29T01:47:34.570615",
+      "content_length": 1052
+    },
+    {
+      "id": "155000004698",
+      "title": "User Permissions in Calendars",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004698-user-permissions-in-calendars",
+      "category": "Calendars & Appointments",
+      "word_count": 377,
+      "scraped_date": "2025-10-29T01:47:38.095033",
+      "content_length": 2409
+    },
+    {
+      "id": "155000005180",
+      "title": "Add Guests Features in Calendar Bookings",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005180-add-guests-features-in-calendar-bookings",
+      "category": "Calendars & Appointments",
+      "word_count": 762,
+      "scraped_date": "2025-10-29T01:47:41.432001",
+      "content_length": 4973
+    },
+    {
+      "id": "155000006240",
+      "title": "Services - Overview & How to Get Started",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006240-services-overview-how-to-get-started",
+      "category": "Calendars & Appointments",
+      "word_count": 968,
+      "scraped_date": "2025-10-29T01:47:45.123586",
+      "content_length": 6430
+    },
+    {
+      "id": "155000005330",
+      "title": "How to Create Services?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005330-how-to-create-services-",
+      "category": "Calendars & Appointments",
+      "word_count": 1624,
+      "scraped_date": "2025-10-29T01:47:48.603287",
+      "content_length": 10252
+    },
+    {
+      "id": "155000003547",
+      "title": "Categories in Services",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003547-categories-in-services",
+      "category": "Calendars & Appointments",
+      "word_count": 897,
+      "scraped_date": "2025-10-29T01:47:54.356361",
+      "content_length": 5638
+    },
+    {
+      "id": "155000006573",
+      "title": "Understanding Listings & Categories",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006573-understanding-listings-categories",
+      "category": "Calendars & Appointments",
+      "word_count": 844,
+      "scraped_date": "2025-10-29T01:47:59.327967",
+      "content_length": 5300
+    },
+    {
+      "id": "155000006579",
+      "title": "Create & Edit Listings",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006579-create-edit-listings",
+      "category": "Calendars & Appointments",
+      "word_count": 1479,
+      "scraped_date": "2025-10-29T01:48:02.464524",
+      "content_length": 9330
+    },
+    {
+      "id": "155000006611",
+      "title": "Configuring Pricing & Discounts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006611-configuring-pricing-discounts",
+      "category": "Calendars & Appointments",
+      "word_count": 1908,
+      "scraped_date": "2025-10-29T01:48:07.379286",
+      "content_length": 11522
+    },
+    {
+      "id": "48001161037",
+      "title": "HighLevel Group Calendar Overview and Setup Guide",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001161037-highlevel-group-calendar-overview-and-setup-guide",
+      "category": "Calendars & Appointments",
+      "word_count": 619,
+      "scraped_date": "2025-10-29T01:48:11.184532",
+      "content_length": 3926
+    },
+    {
+      "id": "48001207671",
+      "title": "How to Find Group Calendar ID in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001207671-how-to-find-group-calendar-id-in-highlevel",
+      "category": "Calendars & Appointments",
+      "word_count": 560,
+      "scraped_date": "2025-10-29T01:48:14.968139",
+      "content_length": 3321
+    },
+    {
+      "id": "155000000973",
+      "title": "Neo Group View Template",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000973-neo-group-view-template",
+      "category": "Calendars & Appointments",
+      "word_count": 1366,
+      "scraped_date": "2025-10-29T01:48:18.146257",
+      "content_length": 8419
+    },
+    {
+      "id": "155000002374",
+      "title": "Setting Up Linked Calendars & Conflict Calendars",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002374-setting-up-linked-calendars-conflict-calendars",
+      "category": "Calendars & Appointments",
+      "word_count": 1135,
+      "scraped_date": "2025-10-29T01:48:21.273945",
+      "content_length": 7253
+    },
+    {
+      "id": "155000003441",
+      "title": "Calendar: Email, In-App, SMS & Whatsapp Appointment Notifications",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003441-calendar-email-in-app-sms-whatsapp-appointment-notifications",
+      "category": "Calendars & Appointments",
+      "word_count": 1224,
+      "scraped_date": "2025-10-29T01:48:24.465164",
+      "content_length": 8119
+    },
+    {
+      "id": "48001209829",
+      "title": "Manually Booking Calendar Appointments",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001209829-manually-booking-calendar-appointments",
+      "category": "Calendars & Appointments",
+      "word_count": 1093,
+      "scraped_date": "2025-10-29T01:48:27.702717",
+      "content_length": 6870
+    },
+    {
+      "id": "155000003444",
+      "title": "Calendar: Add Notes Per Appointment",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003444-calendar-add-notes-per-appointment",
+      "category": "Calendars & Appointments",
+      "word_count": 415,
+      "scraped_date": "2025-10-29T01:48:32.619457",
+      "content_length": 2461
+    },
+    {
+      "id": "155000003447",
+      "title": "Appointment List View in Calendars (Smart List)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003447-appointment-list-view-in-calendars-smart-list-",
+      "category": "Calendars & Appointments",
+      "word_count": 999,
+      "scraped_date": "2025-10-29T01:48:36.240203",
+      "content_length": 6263
+    },
+    {
+      "id": "155000005130",
+      "title": "Calendar Integration Disconnection Notifications",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005130-calendar-integration-disconnection-notifications",
+      "category": "Calendars & Appointments",
+      "word_count": 367,
+      "scraped_date": "2025-10-29T01:48:39.329711",
+      "content_length": 2360
+    },
+    {
+      "id": "155000001477",
+      "title": "Guide To iCloud Calendar Integration",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001477-guide-to-icloud-calendar-integration",
+      "category": "Calendars & Appointments",
+      "word_count": 933,
+      "scraped_date": "2025-10-29T01:48:42.640765",
+      "content_length": 5979
+    },
+    {
+      "id": "155000003545",
+      "title": "Hide Third-Party Calendar Details",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003545-hide-third-party-calendar-details",
+      "category": "Calendars & Appointments",
+      "word_count": 358,
+      "scraped_date": "2025-10-29T01:48:46.028793",
+      "content_length": 2237
+    },
+    {
+      "id": "48001064575",
+      "title": "Google Calendar Writer Access Error",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001064575-google-calendar-writer-access-error",
+      "category": "Calendars & Appointments",
+      "word_count": 222,
+      "scraped_date": "2025-10-29T01:48:51.438366",
+      "content_length": 1336
+    },
+    {
+      "id": "48001181302",
+      "title": "How to Re-Integrate Google Calendar for a User",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001181302-how-to-re-integrate-google-calendar-for-a-user",
+      "category": "Calendars & Appointments",
+      "word_count": 611,
+      "scraped_date": "2025-10-29T01:48:54.627863",
+      "content_length": 3897
+    },
+    {
+      "id": "48001181711",
+      "title": "Why Appointment Time Slots Are Missing on Your Calendar",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001181711-why-appointment-time-slots-are-missing-on-your-calendar",
+      "category": "Calendars & Appointments",
+      "word_count": 876,
+      "scraped_date": "2025-10-29T01:48:57.775992",
+      "content_length": 5736
+    },
+    {
+      "id": "48000982200",
+      "title": "Disable Contact Timezone - How to Remove Ability to Adjust Timezones When Scheduling",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982200-disable-contact-timezone-how-to-remove-ability-to-adjust-timezones-when-scheduling",
+      "category": "Calendars & Appointments",
+      "word_count": 568,
+      "scraped_date": "2025-10-29T01:49:01.554294",
+      "content_length": 3524
+    },
+    {
+      "id": "48001049320",
+      "title": "Can I Show Multiple Calendars Without Using a Calendar Group?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001049320-can-i-show-multiple-calendars-without-using-a-calendar-group-",
+      "category": "Calendars & Appointments",
+      "word_count": 259,
+      "scraped_date": "2025-10-29T01:49:05.147683",
+      "content_length": 1462
+    },
+    {
+      "id": "48001224104",
+      "title": "How-to add Taxes Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001224104-how-to-add-taxes-overview",
+      "category": "Payments",
+      "word_count": 2381,
+      "scraped_date": "2025-10-29T01:49:08.452304",
+      "content_length": 15426
+    },
+    {
+      "id": "48001229200",
+      "title": "Using Apple Pay and Google Pay in order forms",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001229200-using-apple-pay-and-google-pay-in-order-forms",
+      "category": "Payments",
+      "word_count": 1160,
+      "scraped_date": "2025-10-29T01:49:13.182460",
+      "content_length": 6890
+    },
+    {
+      "id": "48001236926",
+      "title": "Customize Email and SMS notifications for invoicing",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001236926-customize-email-and-sms-notifications-for-invoicing",
+      "category": "Payments",
+      "word_count": 943,
+      "scraped_date": "2025-10-29T01:49:16.655200",
+      "content_length": 6281
+    },
+    {
+      "id": "155000000950",
+      "title": "Tap to Pay",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000950-tap-to-pay",
+      "category": "Payments",
+      "word_count": 653,
+      "scraped_date": "2025-10-29T01:49:20.016066",
+      "content_length": 3907
+    },
+    {
+      "id": "155000004042",
+      "title": "Invoices - New revamped UI",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004042-invoices-new-revamped-ui",
+      "category": "Payments",
+      "word_count": 349,
+      "scraped_date": "2025-10-29T01:49:23.476003",
+      "content_length": 2043
+    },
+    {
+      "id": "155000004301",
+      "title": "Bank-Only Transfers for Invoice Payments (SEPA & ACH)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004301-bank-only-transfers-for-invoice-payments-sepa-ach-",
+      "category": "Payments",
+      "word_count": 607,
+      "scraped_date": "2025-10-29T01:49:26.630893",
+      "content_length": 3890
+    },
+    {
+      "id": "155000004403",
+      "title": "How to Edit Recurring Invoices",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004403-how-to-edit-recurring-invoices",
+      "category": "Payments",
+      "word_count": 360,
+      "scraped_date": "2025-10-29T01:49:29.720549",
+      "content_length": 2434
+    },
+    {
+      "id": "155000006280",
+      "title": "Send HighLevel Documents and Contracts via SMS",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006280-send-highlevel-documents-and-contracts-via-sms",
+      "category": "Payments",
+      "word_count": 1132,
+      "scraped_date": "2025-10-29T01:49:33.084421",
+      "content_length": 7250
+    },
+    {
+      "id": "155000006304",
+      "title": "Capture Feedback and Automate Follow-Ups With Decline Documents Feature",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006304-capture-feedback-and-automate-follow-ups-with-decline-documents-feature",
+      "category": "Payments",
+      "word_count": 1043,
+      "scraped_date": "2025-10-29T01:49:36.518354",
+      "content_length": 6750
+    },
+    {
+      "id": "155000004064",
+      "title": "Create or Schedule Subscriptions and Send Invoice within Contact Details Page",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004064-create-or-schedule-subscriptions-and-send-invoice-within-contact-details-page",
+      "category": "Payments",
+      "word_count": 259,
+      "scraped_date": "2025-10-29T01:49:39.994512",
+      "content_length": 1619
+    },
+    {
+      "id": "48001225935",
+      "title": "Payments - What is listed on the Subscriptions page?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001225935-payments-what-is-listed-on-the-subscriptions-page-",
+      "category": "Payments",
+      "word_count": 551,
+      "scraped_date": "2025-10-29T01:49:43.188142",
+      "content_length": 3534
+    },
+    {
+      "id": "155000002213",
+      "title": "Subscription & Refund trigger for payments",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002213-subscription-refund-trigger-for-payments",
+      "category": "Payments",
+      "word_count": 330,
+      "scraped_date": "2025-10-29T01:49:46.718033",
+      "content_length": 2113
+    },
+    {
+      "id": "155000005547",
+      "title": "How to Set Up a Payment Link for Multiple Products (One-Time & Recurring)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005547-how-to-set-up-a-payment-link-for-multiple-products-one-time-recurring-",
+      "category": "Payments",
+      "word_count": 1317,
+      "scraped_date": "2025-10-29T01:49:47.880361",
+      "content_length": 8333
+    },
+    {
+      "id": "155000005607",
+      "title": "How to Customize Payment Links with Your Brand Colors",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005607-how-to-customize-payment-links-with-your-brand-colors",
+      "category": "Payments",
+      "word_count": 587,
+      "scraped_date": "2025-10-29T01:49:51.318016",
+      "content_length": 3787
+    },
+    {
+      "id": "48001202185",
+      "title": "Text-To-Pay Links",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001202185-text-to-pay-links",
+      "category": "Payments",
+      "word_count": 167,
+      "scraped_date": "2025-10-29T01:49:56.453492",
+      "content_length": 1000
+    },
+    {
+      "id": "155000003715",
+      "title": "How to Bulk Import Products into HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003715-how-to-bulk-import-products-into-highlevel",
+      "category": "Payments",
+      "word_count": 815,
+      "scraped_date": "2025-10-29T01:49:59.951346",
+      "content_length": 4994
+    },
+    {
+      "id": "48001224172",
+      "title": "How to Create Coupons for Products",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001224172-how-to-create-coupons-for-products",
+      "category": "Payments",
+      "word_count": 1274,
+      "scraped_date": "2025-10-29T01:50:03.364180",
+      "content_length": 7269
+    },
+    {
+      "id": "155000006063",
+      "title": "How Product Deletion Works",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006063-how-product-deletion-works",
+      "category": "Payments",
+      "word_count": 771,
+      "scraped_date": "2025-10-29T01:50:07.069312",
+      "content_length": 4965
+    },
+    {
+      "id": "155000006075",
+      "title": "Supported Payment Providers & Methods by Product Area (What Works Where)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006075-supported-payment-providers-methods-by-product-area-what-works-where-",
+      "category": "Payments",
+      "word_count": 948,
+      "scraped_date": "2025-10-29T01:50:10.727707",
+      "content_length": 5087
+    },
+    {
+      "id": "155000004254",
+      "title": "Adding PayPal Buttons to Payment Elements",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004254-adding-paypal-buttons-to-payment-elements",
+      "category": "Payments",
+      "word_count": 777,
+      "scraped_date": "2025-10-29T01:50:15.853592",
+      "content_length": 5023
+    },
+    {
+      "id": "48001204158",
+      "title": "How To Set Up A PayPal Integration",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001204158-how-to-set-up-a-paypal-integration",
+      "category": "Payments",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:50:19.159587",
+      "content_length": 476
+    },
+    {
+      "id": "48000982604",
+      "title": "Agency Company Settings in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982604-agency-company-settings-in-highlevel",
+      "category": "Settings",
+      "word_count": 1769,
+      "scraped_date": "2025-10-29T01:50:22.350572",
+      "content_length": 11500
+    },
+    {
+      "id": "48001143244",
+      "title": "Branding System-Generated Links (API Domain)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001143244-branding-system-generated-links-api-domain-",
+      "category": "Settings",
+      "word_count": 852,
+      "scraped_date": "2025-10-29T01:50:27.365127",
+      "content_length": 5672
+    },
+    {
+      "id": "48001180534",
+      "title": "How To Upgrade to HighLevel's Agency Pro Plan ($497 SaaS plan)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001180534-how-to-upgrade-to-highlevel-s-agency-pro-plan-497-saas-plan-",
+      "category": "Settings",
+      "word_count": 688,
+      "scraped_date": "2025-10-29T01:50:28.623396",
+      "content_length": 4301
+    },
+    {
+      "id": "48001197248",
+      "title": "Call Connect & Missed Call Text-Back",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001197248-call-connect-missed-call-text-back",
+      "category": "Settings",
+      "word_count": 181,
+      "scraped_date": "2025-10-29T01:50:31.935508",
+      "content_length": 1119
+    },
+    {
+      "id": "48001204293",
+      "title": "How do I change my Client's Address?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001204293-how-do-i-change-my-client-s-address-",
+      "category": "Settings",
+      "word_count": 97,
+      "scraped_date": "2025-10-29T01:50:35.400787",
+      "content_length": 591
+    },
+    {
+      "id": "48000982600",
+      "title": "User Access",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982600-user-access",
+      "category": "Settings",
+      "word_count": 730,
+      "scraped_date": "2025-10-29T01:50:38.705759",
+      "content_length": 4461
+    },
+    {
+      "id": "48000982598",
+      "title": "Email Signatures",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982598-email-signatures",
+      "category": "Settings",
+      "word_count": 416,
+      "scraped_date": "2025-10-29T01:50:42.024037",
+      "content_length": 2459
+    },
+    {
+      "id": "48001078296",
+      "title": "Admin Vs. User Roles and Permission Scopes",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001078296-admin-vs-user-roles-and-permission-scopes",
+      "category": "Settings",
+      "word_count": 378,
+      "scraped_date": "2025-10-29T01:50:45.300119",
+      "content_length": 2563
+    },
+    {
+      "id": "155000006667",
+      "title": "Audit Logs: Introducing the New Design Experience",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006667-audit-logs-introducing-the-new-design-experience",
+      "category": "Settings",
+      "word_count": 1153,
+      "scraped_date": "2025-10-29T01:50:48.725338",
+      "content_length": 7353
+    },
+    {
+      "id": "155000000594",
+      "title": "How to use Documents & Contracts?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000594-how-to-use-documents-contracts-",
+      "category": "Documents & Contracts",
+      "word_count": 1224,
+      "scraped_date": "2025-10-29T01:50:52.229540",
+      "content_length": 8175
+    },
+    {
+      "id": "155000001298",
+      "title": "Documents & Contracts: Email Templates and Team Notifications Setup",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001298-documents-contracts-email-templates-and-team-notifications-setup",
+      "category": "Documents & Contracts",
+      "word_count": 1486,
+      "scraped_date": "2025-10-29T01:50:55.643214",
+      "content_length": 10235
+    },
+    {
+      "id": "155000001299",
+      "title": "Automatically Generate Invoices from Signed Documents & Contracts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001299-automatically-generate-invoices-from-signed-documents-contracts",
+      "category": "Documents & Contracts",
+      "word_count": 945,
+      "scraped_date": "2025-10-29T01:50:59.223459",
+      "content_length": 6146
+    },
+    {
+      "id": "48001152117",
+      "title": "Dashboard: Opportunities, Pipeline Value, Conversion Rate, Funnel, Stages Distribution",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001152117-dashboard-opportunities-pipeline-value-conversion-rate-funnel-stages-distribution",
+      "category": "Dashboards",
+      "word_count": 520,
+      "scraped_date": "2025-10-29T01:51:03.215543",
+      "content_length": 2904
+    },
+    {
+      "id": "155000001531",
+      "title": "How To Create A Custom Dashboard",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001531-how-to-create-a-custom-dashboard",
+      "category": "Dashboards",
+      "word_count": 793,
+      "scraped_date": "2025-10-29T01:51:07.034089",
+      "content_length": 4880
+    },
+    {
+      "id": "155000001532",
+      "title": "How To Manage Dashboard Permissions",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001532-how-to-manage-dashboard-permissions",
+      "category": "Dashboards",
+      "word_count": 819,
+      "scraped_date": "2025-10-29T01:51:10.358426",
+      "content_length": 4776
+    },
+    {
+      "id": "155000001212",
+      "title": "What Are Dashboard Widgets?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001212-what-are-dashboard-widgets-",
+      "category": "Dashboards",
+      "word_count": 2504,
+      "scraped_date": "2025-10-29T01:51:13.978808",
+      "content_length": 16649
+    },
+    {
+      "id": "155000001206",
+      "title": "How to Create & Add Dashboard Widgets",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001206-how-to-create-add-dashboard-widgets",
+      "category": "Dashboards",
+      "word_count": 810,
+      "scraped_date": "2025-10-29T01:51:17.074386",
+      "content_length": 4914
+    },
+    {
+      "id": "155000003966",
+      "title": "How to Customize Dashboard Themes",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003966-how-to-customize-dashboard-themes",
+      "category": "Dashboards",
+      "word_count": 286,
+      "scraped_date": "2025-10-29T01:51:20.297961",
+      "content_length": 1710
+    },
+    {
+      "id": "155000003969",
+      "title": "How to Create Dashboard Templates",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003969-how-to-create-dashboard-templates",
+      "category": "Dashboards",
+      "word_count": 633,
+      "scraped_date": "2025-10-29T01:51:25.541326",
+      "content_length": 4100
+    },
+    {
+      "id": "155000004804",
+      "title": "Subaccount Dashboard Page - View or Edit",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004804-subaccount-dashboard-page-view-or-edit",
+      "category": "Dashboards",
+      "word_count": 3193,
+      "scraped_date": "2025-10-29T01:51:28.975611",
+      "content_length": 18806
+    },
+    {
+      "id": "48000980325",
+      "title": "Become A HighLevel Affiliate",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000980325-become-a-highlevel-affiliate",
+      "category": "HighLevel Affiliates Program",
+      "word_count": 299,
+      "scraped_date": "2025-10-29T01:51:32.247118",
+      "content_length": 1875
+    },
+    {
+      "id": "48000980326",
+      "title": "Promoting HighLevel As An Affiliate",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000980326-promoting-highlevel-as-an-affiliate",
+      "category": "HighLevel Affiliates Program",
+      "word_count": 361,
+      "scraped_date": "2025-10-29T01:51:35.309436",
+      "content_length": 2179
+    },
+    {
+      "id": "48001163126",
+      "title": "How to Set Up Affiliate Program Webhooks to Run Automations (First Promoter)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001163126-how-to-set-up-affiliate-program-webhooks-to-run-automations-first-promoter-",
+      "category": "HighLevel Affiliates Program",
+      "word_count": 1181,
+      "scraped_date": "2025-10-29T01:51:36.472460",
+      "content_length": 10417
+    },
+    {
+      "id": "48000982511",
+      "title": "Snapshots - Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982511-snapshots-overview",
+      "category": "Account Snapshots",
+      "word_count": 589,
+      "scraped_date": "2025-10-29T01:51:37.624203",
+      "content_length": 3531
+    },
+    {
+      "id": "48000982512",
+      "title": "Creating New Snapshots",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982512-creating-new-snapshots",
+      "category": "Account Snapshots",
+      "word_count": 645,
+      "scraped_date": "2025-10-29T01:51:41.056829",
+      "content_length": 4069
+    },
+    {
+      "id": "48000982513",
+      "title": "How to Share Snapshots",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982513-how-to-share-snapshots",
+      "category": "Account Snapshots",
+      "word_count": 1010,
+      "scraped_date": "2025-10-29T01:51:45.075406",
+      "content_length": 6063
+    },
+    {
+      "id": "48001079550",
+      "title": "Marketing Agency Snapshot",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001079550-marketing-agency-snapshot",
+      "category": "Account Snapshots",
+      "word_count": 148,
+      "scraped_date": "2025-10-29T01:51:48.557740",
+      "content_length": 968
+    },
+    {
+      "id": "48001079554",
+      "title": "Chiropractor Snapshot",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001079554-chiropractor-snapshot",
+      "category": "Account Snapshots",
+      "word_count": 147,
+      "scraped_date": "2025-10-29T01:51:51.883022",
+      "content_length": 968
+    },
+    {
+      "id": "48001079556",
+      "title": "Dentist Snapshot - Free Whitening Offer",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001079556-dentist-snapshot-free-whitening-offer",
+      "category": "Account Snapshots",
+      "word_count": 120,
+      "scraped_date": "2025-10-29T01:51:55.685348",
+      "content_length": 741
+    },
+    {
+      "id": "48000982596",
+      "title": "Activate Notifications",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982596-activate-notifications",
+      "category": "Notifications",
+      "word_count": 98,
+      "scraped_date": "2025-10-29T01:51:59.048898",
+      "content_length": 615
+    },
+    {
+      "id": "48001219101",
+      "title": "Sales & Use Tax FAQ",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001219101-sales-use-tax-faq",
+      "category": "Notifications",
+      "word_count": 784,
+      "scraped_date": "2025-10-29T01:52:02.787304",
+      "content_length": 4758
+    },
+    {
+      "id": "48001224427",
+      "title": "How to set up Custom Notifications as a User in a Sub-Account",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001224427-how-to-set-up-custom-notifications-as-a-user-in-a-sub-account",
+      "category": "Notifications",
+      "word_count": 1136,
+      "scraped_date": "2025-10-29T01:52:06.326217",
+      "content_length": 7345
+    },
+    {
+      "id": "48001060529",
+      "title": "HighLevel API",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api",
+      "category": "Developer Resources",
+      "word_count": 558,
+      "scraped_date": "2025-10-29T01:52:07.472640",
+      "content_length": 3641
+    },
+    {
+      "id": "48001212085",
+      "title": "How to Use Webhook.site to Troubleshoot your API Requests",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001212085-how-to-use-webhook-site-to-troubleshoot-your-api-requests",
+      "category": "Developer Resources",
+      "word_count": 565,
+      "scraped_date": "2025-10-29T01:52:10.738855",
+      "content_length": 3646
+    },
+    {
+      "id": "155000000136",
+      "title": "How to get started with the Developer's Marketplace",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000136-how-to-get-started-with-the-developer-s-marketplace",
+      "category": "Developer Resources",
+      "word_count": 3962,
+      "scraped_date": "2025-10-29T01:52:11.903824",
+      "content_length": 25583
+    },
+    {
+      "id": "48001191051",
+      "title": "Web Chat Widget - Advanced Configurations + Public API/Events",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001191051-web-chat-widget-advanced-configurations-public-api-events",
+      "category": "Developer Resources",
+      "word_count": 731,
+      "scraped_date": "2025-10-29T01:52:15.202529",
+      "content_length": 7081
+    },
+    {
+      "id": "48001207048",
+      "title": "Creating Sub-Accounts using Zapier",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001207048-creating-sub-accounts-using-zapier",
+      "category": "Developer Resources",
+      "word_count": 2109,
+      "scraped_date": "2025-10-29T01:52:18.644013",
+      "content_length": 13187
+    },
+    {
+      "id": "48001164926",
+      "title": "How to add Business Name in Zapier",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001164926-how-to-add-business-name-in-zapier",
+      "category": "Developer Resources",
+      "word_count": 132,
+      "scraped_date": "2025-10-29T01:52:22.039437",
+      "content_length": 995
+    },
+    {
+      "id": "48001219997",
+      "title": "Understanding Attribution Source (Ad Reporting)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001219997-understanding-attribution-source-ad-reporting-",
+      "category": "Reporting",
+      "word_count": 1901,
+      "scraped_date": "2025-10-29T01:52:25.580701",
+      "content_length": 12179
+    },
+    {
+      "id": "48001219241",
+      "title": "Understanding Google Ad Reporting Terminology",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001219241-understanding-google-ad-reporting-terminology",
+      "category": "Reporting",
+      "word_count": 672,
+      "scraped_date": "2025-10-29T01:52:28.760285",
+      "content_length": 3859
+    },
+    {
+      "id": "48001219312",
+      "title": "How to set up Google Ad Reporting",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001219312-how-to-set-up-google-ad-reporting",
+      "category": "Reporting",
+      "word_count": 760,
+      "scraped_date": "2025-10-29T01:52:34.312181",
+      "content_length": 4985
+    },
+    {
+      "id": "155000003965",
+      "title": "How to create and schedule reports",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003965-how-to-create-and-schedule-reports",
+      "category": "Reporting",
+      "word_count": 741,
+      "scraped_date": "2025-10-29T01:52:39.263029",
+      "content_length": 4381
+    },
+    {
+      "id": "155000006621",
+      "title": "Template Library for Custom Reports",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006621-template-library-for-custom-reports",
+      "category": "Reporting",
+      "word_count": 865,
+      "scraped_date": "2025-10-29T01:52:43.468867",
+      "content_length": 5612
+    },
+    {
+      "id": "155000004990",
+      "title": "How to Use Marketing Audit Report & Compare Reports for Strategic Growth",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004990-how-to-use-marketing-audit-report-compare-reports-for-strategic-growth",
+      "category": "Reporting",
+      "word_count": 672,
+      "scraped_date": "2025-10-29T01:52:47.122874",
+      "content_length": 4763
+    },
+    {
+      "id": "48001157620",
+      "title": "Triggers",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001157620-triggers",
+      "category": "Logic & Fulfillment",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:52:50.429570",
+      "content_length": 476
+    },
+    {
+      "id": "48001157626",
+      "title": "Contact Flow",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001157626-contact-flow",
+      "category": "Logic & Fulfillment",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:52:54.415786",
+      "content_length": 476
+    },
+    {
+      "id": "48001157629",
+      "title": "Campaigns",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001157629-campaigns",
+      "category": "Logic & Fulfillment",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:52:57.755772",
+      "content_length": 476
+    },
+    {
+      "id": "48000982207",
+      "title": "How to Set Up a Whitelabel Domain for the Desktop Web App",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982207-how-to-set-up-a-whitelabel-domain-for-the-desktop-web-app",
+      "category": "Add-ons & Sales Trainings",
+      "word_count": 1113,
+      "scraped_date": "2025-10-29T01:53:01.091989",
+      "content_length": 7049
+    },
+    {
+      "id": "48001210915",
+      "title": "GDPR Compliance and Data Privacy",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001210915-gdpr-compliance-and-data-privacy",
+      "category": "Add-ons & Sales Trainings",
+      "word_count": 1229,
+      "scraped_date": "2025-10-29T01:53:04.918947",
+      "content_length": 7372
+    },
+    {
+      "id": "48001063753",
+      "title": "Cold Outreach",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001063753-cold-outreach",
+      "category": "Add-ons & Sales Trainings",
+      "word_count": 316,
+      "scraped_date": "2025-10-29T01:53:08.762498",
+      "content_length": 1876
+    },
+    {
+      "id": "48001169170",
+      "title": "How to prepare for SaaS Mode?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001169170-how-to-prepare-for-saas-mode-",
+      "category": "Add-ons & Sales Trainings",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:53:11.949786",
+      "content_length": 476
+    },
+    {
+      "id": "48001157420",
+      "title": "How to Land Qualified Demos for your Agency",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001157420-how-to-land-qualified-demos-for-your-agency",
+      "category": "Add-ons & Sales Trainings",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:53:17.160649",
+      "content_length": 476
+    },
+    {
+      "id": "48001162995",
+      "title": "HighLevel How-To's: Build A Payment Page To Sign Up New Clients",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001162995-highlevel-how-to-s-build-a-payment-page-to-sign-up-new-clients",
+      "category": "University",
+      "word_count": 106,
+      "scraped_date": "2025-10-29T01:53:20.428723",
+      "content_length": 732
+    },
+    {
+      "id": "48001162996",
+      "title": "How To Build A Double Opt-In Flow",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001162996-how-to-build-a-double-opt-in-flow",
+      "category": "University",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:53:23.866064",
+      "content_length": 476
+    },
+    {
+      "id": "48001162997",
+      "title": "How to setup HL Chat Widget as support for your clients",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001162997-how-to-setup-hl-chat-widget-as-support-for-your-clients",
+      "category": "University",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:53:27.421739",
+      "content_length": 476
+    },
+    {
+      "id": "155000001054",
+      "title": "How To Generate Leads From Local Chamber & BNI Meetups",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001054-how-to-generate-leads-from-local-chamber-bni-meetups",
+      "category": "University",
+      "word_count": 195,
+      "scraped_date": "2025-10-29T01:53:31.050761",
+      "content_length": 1154
+    },
+    {
+      "id": "155000002100",
+      "title": "Guide To Bulk SMS: Send Messages People Actually Want To Receive",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002100-guide-to-bulk-sms-send-messages-people-actually-want-to-receive",
+      "category": "University",
+      "word_count": 903,
+      "scraped_date": "2025-10-29T01:53:34.263978",
+      "content_length": 5310
+    },
+    {
+      "id": "48001176375",
+      "title": "CRM Loading States: Troubleshooting lags and Impact of Custom CSS and JS",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001176375-crm-loading-states-troubleshooting-lags-and-impact-of-custom-css-and-js",
+      "category": "Miscellaneous",
+      "word_count": 1047,
+      "scraped_date": "2025-10-29T01:53:39.542490",
+      "content_length": 6469
+    },
+    {
+      "id": "48001210187",
+      "title": "My CRM Data is Loading Slowly What Can I Do?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001210187-my-crm-data-is-loading-slowly-what-can-i-do-",
+      "category": "Miscellaneous",
+      "word_count": 314,
+      "scraped_date": "2025-10-29T01:53:45.013303",
+      "content_length": 1798
+    },
+    {
+      "id": "155000000178",
+      "title": "Enabling Cross-Site Tracking (3rd Party Cookies)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000178-enabling-cross-site-tracking-3rd-party-cookies-",
+      "category": "Miscellaneous",
+      "word_count": 226,
+      "scraped_date": "2025-10-29T01:53:46.245722",
+      "content_length": 1432
+    },
+    {
+      "id": "155000002095",
+      "title": "Rebilling, Reselling, and Wallets Explained",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002095-rebilling-reselling-and-wallets-explained",
+      "category": "Miscellaneous",
+      "word_count": 2955,
+      "scraped_date": "2025-10-29T01:53:49.798074",
+      "content_length": 17803
+    },
+    {
+      "id": "155000001629",
+      "title": "Alpine HVAC Case Study",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001629-alpine-hvac-case-study",
+      "category": "Miscellaneous",
+      "word_count": 144,
+      "scraped_date": "2025-10-29T01:53:53.339204",
+      "content_length": 814
+    },
+    {
+      "id": "48001196389",
+      "title": "Online Listing Overview & Setup Doc",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001196389-online-listing-overview-setup-doc",
+      "category": "Reselling Products",
+      "word_count": 1460,
+      "scraped_date": "2025-10-29T01:53:56.531542",
+      "content_length": 9158
+    },
+    {
+      "id": "155000001901",
+      "title": "How to Resell Listings to Your Clients",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001901-how-to-resell-listings-to-your-clients",
+      "category": "Reselling Products",
+      "word_count": 791,
+      "scraped_date": "2025-10-29T01:54:00.119168",
+      "content_length": 5087
+    },
+    {
+      "id": "48001210774",
+      "title": "Deploy Listings without Directly Charging the Client",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001210774-deploy-listings-without-directly-charging-the-client",
+      "category": "Reselling Products",
+      "word_count": 458,
+      "scraped_date": "2025-10-29T01:54:03.359175",
+      "content_length": 2938
+    },
+    {
+      "id": "48001206216",
+      "title": "WhatsApp Full Setup Guide for Agency",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001206216-whatsapp-full-setup-guide-for-agency",
+      "category": "Reselling Products",
+      "word_count": 1615,
+      "scraped_date": "2025-10-29T01:54:04.553902",
+      "content_length": 9997
+    },
+    {
+      "id": "155000001637",
+      "title": "WhatsApp - Messaging Limits",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001637-whatsapp-messaging-limits",
+      "category": "Reselling Products",
+      "word_count": 1233,
+      "scraped_date": "2025-10-29T01:54:05.765612",
+      "content_length": 8281
+    },
+    {
+      "id": "155000001980",
+      "title": "How to Set Up WhatsApp for a Sub-Account",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001980-how-to-set-up-whatsapp-for-a-sub-account",
+      "category": "Reselling Products",
+      "word_count": 4188,
+      "scraped_date": "2025-10-29T01:54:06.981629",
+      "content_length": 25964
+    },
+    {
+      "id": "155000002617",
+      "title": "Client Portal Branded Mobile APP -Full Setup Guide For Agency",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002617-client-portal-branded-mobile-app-full-setup-guide-for-agency",
+      "category": "Reselling Products",
+      "word_count": 999,
+      "scraped_date": "2025-10-29T01:54:10.374024",
+      "content_length": 6220
+    },
+    {
+      "id": "155000004130",
+      "title": "How to Retry a Failed Payment for Any Reselling Products",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004130-how-to-retry-a-failed-payment-for-any-reselling-products",
+      "category": "Reselling Products",
+      "word_count": 326,
+      "scraped_date": "2025-10-29T01:54:13.494029",
+      "content_length": 2066
+    },
+    {
+      "id": "155000006333",
+      "title": "Cancellation for reselling subscriptions: In-app",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006333-cancellation-for-reselling-subscriptions-in-app",
+      "category": "Reselling Products",
+      "word_count": 877,
+      "scraped_date": "2025-10-29T01:54:16.549845",
+      "content_length": 5941
+    },
+    {
+      "id": "155000006507",
+      "title": "Reselling - Paywall Payment Error Handling Improvements",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006507-reselling-paywall-payment-error-handling-improvements",
+      "category": "Reselling Products",
+      "word_count": 860,
+      "scraped_date": "2025-10-29T01:54:19.836923",
+      "content_length": 5951
+    },
+    {
+      "id": "155000003058",
+      "title": "How to Use Invoices in the Mobile App",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003058-how-to-use-invoices-in-the-mobile-app",
+      "category": "Mobile & Desktop App",
+      "word_count": 1008,
+      "scraped_date": "2025-10-29T01:54:23.115977",
+      "content_length": 5681
+    },
+    {
+      "id": "155000006704",
+      "title": "Download & Install HighLevel's Desktop App for Mac (Private Beta)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006704-download-install-highlevel-s-desktop-app-for-mac-private-beta-",
+      "category": "Mobile & Desktop App",
+      "word_count": 371,
+      "scraped_date": "2025-10-29T01:54:26.379384",
+      "content_length": 2205
+    },
+    {
+      "id": "48000982208",
+      "title": "White Label the IPhone App",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982208-white-label-the-iphone-app",
+      "category": "Mobile & Desktop App",
+      "word_count": 382,
+      "scraped_date": "2025-10-29T01:54:29.936848",
+      "content_length": 3081
+    },
+    {
+      "id": "48000982209",
+      "title": "White Label the Android App",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982209-white-label-the-android-app",
+      "category": "Mobile & Desktop App",
+      "word_count": 322,
+      "scraped_date": "2025-10-29T01:54:33.389470",
+      "content_length": 2102
+    },
+    {
+      "id": "155000000089",
+      "title": "How to Promote and Customize Your Whitelabel Mobile App: A Comprehensive Guide",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000089-how-to-promote-and-customize-your-whitelabel-mobile-app-a-comprehensive-guide",
+      "category": "Mobile & Desktop App",
+      "word_count": 2012,
+      "scraped_date": "2025-10-29T01:54:36.796473",
+      "content_length": 13503
+    },
+    {
+      "id": "48001224166",
+      "title": "Agency Rolled-up Reporting",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001224166-agency-rolled-up-reporting",
+      "category": "Agency Reporting",
+      "word_count": 846,
+      "scraped_date": "2025-10-29T01:54:38.020749",
+      "content_length": 5181
+    },
+    {
+      "id": "48001236324",
+      "title": "How to schedule and send email reports to your sub-accounts?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001236324-how-to-schedule-and-send-email-reports-to-your-sub-accounts-",
+      "category": "Agency Reporting",
+      "word_count": 753,
+      "scraped_date": "2025-10-29T01:54:39.185479",
+      "content_length": 4799
+    },
+    {
+      "id": "155000000585",
+      "title": "How to Export a List of Sub-Accounts",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000585-how-to-export-a-list-of-sub-accounts",
+      "category": "Agency Reporting",
+      "word_count": 1267,
+      "scraped_date": "2025-10-29T01:54:42.658337",
+      "content_length": 8390
+    },
+    {
+      "id": "48001236572",
+      "title": "Eliza Agent Platform - Introduction and FAQs",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001236572-eliza-agent-platform-introduction-and-faqs",
+      "category": "Eliza Agent Platform",
+      "word_count": 1588,
+      "scraped_date": "2025-10-29T01:54:46.051510",
+      "content_length": 9122
+    },
+    {
+      "id": "48001236575",
+      "title": "Eliza Agent Platform Settings",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001236575-eliza-agent-platform-settings",
+      "category": "Eliza Agent Platform",
+      "word_count": 1698,
+      "scraped_date": "2025-10-29T01:54:49.432107",
+      "content_length": 10645
+    },
+    {
+      "id": "48001236598",
+      "title": "Eliza Agent Platform Conversations",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001236598-eliza-agent-platform-conversations",
+      "category": "Eliza Agent Platform",
+      "word_count": 1012,
+      "scraped_date": "2025-10-29T01:54:54.793896",
+      "content_length": 6029
+    },
+    {
+      "id": "48001143787",
+      "title": "Add Membership Signups To Funnel Pages",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001143787-add-membership-signups-to-funnel-pages",
+      "category": "Memberships & Communities",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:54:58.280499",
+      "content_length": 476
+    },
+    {
+      "id": "155000005182",
+      "title": "Adding Closed Captions and Subtitles to your video courses",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005182-adding-closed-captions-and-subtitles-to-your-video-courses",
+      "category": "Memberships & Communities",
+      "word_count": 799,
+      "scraped_date": "2025-10-29T01:55:01.330562",
+      "content_length": 5176
+    },
+    {
+      "id": "155000006756",
+      "title": "Checkout Orchestrator",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006756-checkout-orchestrator",
+      "category": "Memberships & Communities",
+      "word_count": 526,
+      "scraped_date": "2025-10-29T01:55:04.901928",
+      "content_length": 3383
+    },
+    {
+      "id": "155000000280",
+      "title": "How to Setup, Customize, and Manage Your Communities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000280-how-to-setup-customize-and-manage-your-communities",
+      "category": "Memberships & Communities",
+      "word_count": 1903,
+      "scraped_date": "2025-10-29T01:55:08.664459",
+      "content_length": 12492
+    },
+    {
+      "id": "155000000289",
+      "title": "How to Manage Members Inside groups",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000289-how-to-manage-members-inside-groups",
+      "category": "Memberships & Communities",
+      "word_count": 1641,
+      "scraped_date": "2025-10-29T01:55:11.901197",
+      "content_length": 10024
+    },
+    {
+      "id": "155000000297",
+      "title": "Content Management in Communities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000297-content-management-in-communities",
+      "category": "Memberships & Communities",
+      "word_count": 2242,
+      "scraped_date": "2025-10-29T01:55:15.172205",
+      "content_length": 14083
+    },
+    {
+      "id": "155000000566",
+      "title": "The Internationalization Of HighLevel Has Begun!",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000566-the-internationalization-of-highlevel-has-begun-",
+      "category": "Internationalization",
+      "word_count": 1547,
+      "scraped_date": "2025-10-29T01:55:18.662460",
+      "content_length": 5441
+    },
+    {
+      "id": "155000006327",
+      "title": "How to Submit In-App Translation Feedback",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006327-how-to-submit-in-app-translation-feedback",
+      "category": "Internationalization",
+      "word_count": 544,
+      "scraped_date": "2025-10-29T01:55:21.951370",
+      "content_length": 3534
+    },
+    {
+      "id": "155000004907",
+      "title": "Internationalization For Client-Portal & Child Apps",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004907-internationalization-for-client-portal-child-apps",
+      "category": "Internationalization",
+      "word_count": 624,
+      "scraped_date": "2025-10-29T01:55:25.348080",
+      "content_length": 4017
+    },
+    {
+      "id": "155000000574",
+      "title": "Highlevel Security and Compliance Overview",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000574-highlevel-security-and-compliance-overview",
+      "category": "Compliance",
+      "word_count": 3314,
+      "scraped_date": "2025-10-29T01:55:28.417178",
+      "content_length": 23331
+    },
+    {
+      "id": "48000983084",
+      "title": "HIPAA Compliance With HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000983084-hipaa-compliance-with-highlevel",
+      "category": "Compliance",
+      "word_count": 966,
+      "scraped_date": "2025-10-29T01:55:31.964505",
+      "content_length": 6368
+    },
+    {
+      "id": "155000003083",
+      "title": "Minimum Advertised Pricing Policy (“MAP Policy”) FAQs  August 2024",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003083-minimum-advertised-pricing-policy-map-policy-faqs-august-2024",
+      "category": "Compliance",
+      "word_count": 1336,
+      "scraped_date": "2025-10-29T01:55:35.546431",
+      "content_length": 8097
+    },
+    {
+      "id": "155000005002",
+      "title": "API Security - OAuth Consent for Marketplace Apps",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005002-api-security-oauth-consent-for-marketplace-apps",
+      "category": "App Marketplace",
+      "word_count": 846,
+      "scraped_date": "2025-10-29T01:55:38.779798",
+      "content_length": 5660
+    },
+    {
+      "id": "155000005501",
+      "title": "Marketplace- Agency Reselling for Apps with Usage-Based Pricing",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005501-marketplace-agency-reselling-for-apps-with-usage-based-pricing",
+      "category": "App Marketplace",
+      "word_count": 917,
+      "scraped_date": "2025-10-29T01:55:41.892599",
+      "content_length": 5814
+    },
+    {
+      "id": "155000006235",
+      "title": "Marketplace - Agency Control Over Daily Usage Limits for Usage-Based Apps",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006235-marketplace-agency-control-over-daily-usage-limits-for-usage-based-apps",
+      "category": "App Marketplace",
+      "word_count": 583,
+      "scraped_date": "2025-10-29T01:55:45.358117",
+      "content_length": 3829
+    },
+    {
+      "id": "155000001057",
+      "title": "Agency-Level Marketplace Apps Installation",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001057-agency-level-marketplace-apps-installation",
+      "category": "App Marketplace",
+      "word_count": 1079,
+      "scraped_date": "2025-10-29T01:55:48.616516",
+      "content_length": 6877
+    },
+    {
+      "id": "155000001163",
+      "title": "Managing Marketplace App Permissions: White Label Agency Control",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001163-managing-marketplace-app-permissions-white-label-agency-control",
+      "category": "App Marketplace",
+      "word_count": 607,
+      "scraped_date": "2025-10-29T01:55:51.754215",
+      "content_length": 3938
+    },
+    {
+      "id": "155000000571",
+      "title": "Marketplace Workflow Actions",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000571-marketplace-workflow-actions",
+      "category": "App Marketplace",
+      "word_count": 2253,
+      "scraped_date": "2025-10-29T01:55:55.223291",
+      "content_length": 16123
+    },
+    {
+      "id": "155000001024",
+      "title": "Marketplace Workflow Triggers",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001024-marketplace-workflow-triggers",
+      "category": "App Marketplace",
+      "word_count": 1355,
+      "scraped_date": "2025-10-29T01:55:58.682591",
+      "content_length": 9209
+    },
+    {
+      "id": "155000004585",
+      "title": "Marketplace Apps - Managing External Connections",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004585-marketplace-apps-managing-external-connections",
+      "category": "App Marketplace",
+      "word_count": 243,
+      "scraped_date": "2025-10-29T01:56:03.671681",
+      "content_length": 1632
+    },
+    {
+      "id": "155000003380",
+      "title": "How to get snapshot URL?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003380-how-to-get-snapshot-url-",
+      "category": "App Marketplace",
+      "word_count": 159,
+      "scraped_date": "2025-10-29T01:56:07.104596",
+      "content_length": 931
+    },
+    {
+      "id": "155000003709",
+      "title": "Selling Snapshots on the App Marketplace",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003709-selling-snapshots-on-the-app-marketplace",
+      "category": "App Marketplace",
+      "word_count": 789,
+      "scraped_date": "2025-10-29T01:56:10.503389",
+      "content_length": 5015
+    },
+    {
+      "id": "155000005555",
+      "title": "How to use the AI Agent Marketplace Templates for Conversation AI and Voice AI Automation",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005555-how-to-use-the-ai-agent-marketplace-templates-for-conversation-ai-and-voice-ai-automation",
+      "category": "App Marketplace",
+      "word_count": 390,
+      "scraped_date": "2025-10-29T01:56:15.558451",
+      "content_length": 2638
+    },
+    {
+      "id": "155000001157",
+      "title": "How to Set Up an E-Commerce Online Store (Websites)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001157-how-to-set-up-an-e-commerce-online-store-websites-",
+      "category": "E-commerce store",
+      "word_count": 1539,
+      "scraped_date": "2025-10-29T01:56:18.885930",
+      "content_length": 9602
+    },
+    {
+      "id": "155000002897",
+      "title": "Manual Payment Method in E-commerce Stores & Order Forms",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002897-manual-payment-method-in-e-commerce-stores-order-forms",
+      "category": "E-commerce store",
+      "word_count": 400,
+      "scraped_date": "2025-10-29T01:56:22.640245",
+      "content_length": 2505
+    },
+    {
+      "id": "155000002842",
+      "title": "Shipping and Delivery rates for Ecommerce Stores",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002842-shipping-and-delivery-rates-for-ecommerce-stores",
+      "category": "E-commerce store",
+      "word_count": 423,
+      "scraped_date": "2025-10-29T01:56:25.994013",
+      "content_length": 2587
+    },
+    {
+      "id": "155000001235",
+      "title": "Create a Template",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001235-create-a-template",
+      "category": "Certificates",
+      "word_count": 675,
+      "scraped_date": "2025-10-29T01:56:29.150545",
+      "content_length": 3931
+    },
+    {
+      "id": "155000002148",
+      "title": "Manually Issue Certificates",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002148-manually-issue-certificates",
+      "category": "Certificates",
+      "word_count": 332,
+      "scraped_date": "2025-10-29T01:56:32.961107",
+      "content_length": 2258
+    },
+    {
+      "id": "155000002663",
+      "title": "How to Toggle Certificates User Permissions + Undo & Redo Functionality",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002663-how-to-toggle-certificates-user-permissions-undo-redo-functionality",
+      "category": "Certificates",
+      "word_count": 181,
+      "scraped_date": "2025-10-29T01:56:36.361674",
+      "content_length": 1176
+    },
+    {
+      "id": "155000001236",
+      "title": "Issue certificates on Course Completion",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001236-issue-certificates-on-course-completion",
+      "category": "Certificates",
+      "word_count": 362,
+      "scraped_date": "2025-10-29T01:56:39.591130",
+      "content_length": 2468
+    },
+    {
+      "id": "155000002175",
+      "title": "Download all your Certificates from Client Portal",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002175-download-all-your-certificates-from-client-portal",
+      "category": "Certificates",
+      "word_count": 294,
+      "scraped_date": "2025-10-29T01:56:42.583112",
+      "content_length": 1934
+    },
+    {
+      "id": "155000002796",
+      "title": "How to Set Expiry Dates for Certificates",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002796-how-to-set-expiry-dates-for-certificates",
+      "category": "Certificates",
+      "word_count": 191,
+      "scraped_date": "2025-10-29T01:56:46.009377",
+      "content_length": 1145
+    },
+    {
+      "id": "155000004703",
+      "title": "Cloning Certificate Templates Across Locations",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004703-cloning-certificate-templates-across-locations",
+      "category": "Certificates",
+      "word_count": 255,
+      "scraped_date": "2025-10-29T01:56:49.199683",
+      "content_length": 1602
+    },
+    {
+      "id": "155000005539",
+      "title": "How to Use Badges in Certificate Builder",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005539-how-to-use-badges-in-certificate-builder",
+      "category": "Certificates",
+      "word_count": 1251,
+      "scraped_date": "2025-10-29T01:56:52.706517",
+      "content_length": 7753
+    },
+    {
+      "id": "155000005887",
+      "title": "Automate Badge Issuance in Workflows (Using “Issue Certificate” Action)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005887-automate-badge-issuance-in-workflows-using-issue-certificate-action-",
+      "category": "Certificates",
+      "word_count": 366,
+      "scraped_date": "2025-10-29T01:56:56.051467",
+      "content_length": 2295
+    },
+    {
+      "id": "155000000197",
+      "title": "How can my customers use the Client Portal?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000197-how-can-my-customers-use-the-client-portal-",
+      "category": "Client Portal",
+      "word_count": 1311,
+      "scraped_date": "2025-10-29T01:56:59.280290",
+      "content_length": 8334
+    },
+    {
+      "id": "155000000193",
+      "title": "How to set up the Client Portal?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000000193-how-to-set-up-the-client-portal-",
+      "category": "Client Portal",
+      "word_count": 2622,
+      "scraped_date": "2025-10-29T01:57:02.795424",
+      "content_length": 16666
+    },
+    {
+      "id": "155000001205",
+      "title": "Client Portal Dashboard",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001205-client-portal-dashboard",
+      "category": "Client Portal",
+      "word_count": 387,
+      "scraped_date": "2025-10-29T01:57:06.237819",
+      "content_length": 2371
+    },
+    {
+      "id": "48001078171",
+      "title": "List of Merge Fields",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001078171-list-of-merge-fields",
+      "category": "Merge Fields & Custom Variables",
+      "word_count": 1041,
+      "scraped_date": "2025-10-29T01:57:07.393838",
+      "content_length": 9577
+    },
+    {
+      "id": "155000004390",
+      "title": "Overview of Merge Fields & Custom Variables",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004390-overview-of-merge-fields-custom-variables",
+      "category": "Merge Fields & Custom Variables",
+      "word_count": 1671,
+      "scraped_date": "2025-10-29T01:57:12.086130",
+      "content_length": 10762
+    },
+    {
+      "id": "48000980328",
+      "title": "Reputation Management - How to Customize the Review Request Messages (SMS/Email)",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000980328-reputation-management-how-to-customize-the-review-request-messages-sms-email-",
+      "category": "Reputation Management & Reviews",
+      "word_count": 264,
+      "scraped_date": "2025-10-29T01:57:15.475520",
+      "content_length": 1579
+    },
+    {
+      "id": "48001180761",
+      "title": "How to Dispute a Google Review and Check on the Dispute Status",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001180761-how-to-dispute-a-google-review-and-check-on-the-dispute-status",
+      "category": "Reputation Management & Reviews",
+      "word_count": 469,
+      "scraped_date": "2025-10-29T01:57:18.699151",
+      "content_length": 2684
+    },
+    {
+      "id": "48001181136",
+      "title": "Review widget - Powered By going to Bad request page",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001181136-review-widget-powered-by-going-to-bad-request-page",
+      "category": "Reputation Management & Reviews",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:57:21.954061",
+      "content_length": 476
+    },
+    {
+      "id": "155000005344",
+      "title": "Reputation Management: Competitor Analysis in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005344-reputation-management-competitor-analysis-in-highlevel",
+      "category": "Reputation Management & Reviews",
+      "word_count": 800,
+      "scraped_date": "2025-10-29T01:57:25.697919",
+      "content_length": 5494
+    },
+    {
+      "id": "155000005837",
+      "title": "Easily Optimize Your Google Business Profile in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005837-easily-optimize-your-google-business-profile-in-highlevel",
+      "category": "Reputation Management & Reviews",
+      "word_count": 820,
+      "scraped_date": "2025-10-29T01:57:28.893298",
+      "content_length": 5282
+    },
+    {
+      "id": "48001222899",
+      "title": "How to Integrate Google Business Profile (GBP) With HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001222899-how-to-integrate-google-business-profile-gbp-with-highlevel",
+      "category": "Integrations",
+      "word_count": 848,
+      "scraped_date": "2025-10-29T01:57:32.221924",
+      "content_length": 5642
+    },
+    {
+      "id": "155000002560",
+      "title": "Google Business Profile - Chat sunset starting Jul 15, 2024",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000002560-google-business-profile-chat-sunset-starting-jul-15-2024",
+      "category": "Integrations",
+      "word_count": 264,
+      "scraped_date": "2025-10-29T01:57:35.575983",
+      "content_length": 1591
+    },
+    {
+      "id": "155000004190",
+      "title": "Google Drive Integration in Media Storage",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004190-google-drive-integration-in-media-storage",
+      "category": "Integrations",
+      "word_count": 635,
+      "scraped_date": "2025-10-29T01:57:39.109818",
+      "content_length": 4051
+    },
+    {
+      "id": "48000981400",
+      "title": "How to Connect Stripe to Your Sub-Account",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981400-how-to-connect-stripe-to-your-sub-account",
+      "category": "Integrations",
+      "word_count": 261,
+      "scraped_date": "2025-10-29T01:57:42.349955",
+      "content_length": 1636
+    },
+    {
+      "id": "48001164254",
+      "title": "How does the Stripe One Time Charge trigger work?",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001164254-how-does-the-stripe-one-time-charge-trigger-work-",
+      "category": "Integrations",
+      "word_count": 110,
+      "scraped_date": "2025-10-29T01:57:46.159197",
+      "content_length": 655
+    },
+    {
+      "id": "48001223700",
+      "title": "(Guest Tutorial) Pabbly Connect - How to integrate Facebook Leads Ads with Your Sub-Account",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001223700--guest-tutorial-pabbly-connect-how-to-integrate-facebook-leads-ads-with-your-sub-account",
+      "category": "Integrations",
+      "word_count": 128,
+      "scraped_date": "2025-10-29T01:57:49.448341",
+      "content_length": 778
+    },
+    {
+      "id": "48000981594",
+      "title": "A Facebook Token Has Expired In Your HighLevel Account",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981594-a-facebook-token-has-expired-in-your-highlevel-account",
+      "category": "Integrations",
+      "word_count": 253,
+      "scraped_date": "2025-10-29T01:57:53.040217",
+      "content_length": 1498
+    },
+    {
+      "id": "155000004405",
+      "title": "Connect Multiple Facebook Pages to HighLevel Sub-account",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004405-connect-multiple-facebook-pages-to-highlevel-sub-account",
+      "category": "Integrations",
+      "word_count": 238,
+      "scraped_date": "2025-10-29T01:57:56.561354",
+      "content_length": 1598
+    },
+    {
+      "id": "48001151476",
+      "title": "One time Stripe Charge Action",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001151476-one-time-stripe-charge-action",
+      "category": "Integrations",
+      "word_count": 126,
+      "scraped_date": "2025-10-29T01:58:00.137400",
+      "content_length": 757
+    },
+    {
+      "id": "48000981397",
+      "title": "Zapier Troubleshooting - Duplicate Contacts or Added to Campaigns Multiple Times",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981397-zapier-troubleshooting-duplicate-contacts-or-added-to-campaigns-multiple-times",
+      "category": "Integrations",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:58:03.420650",
+      "content_length": 476
+    },
+    {
+      "id": "48000981689",
+      "title": "Zapier Troubleshooting - Zap Isn't Working!",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000981689-zapier-troubleshooting-zap-isn-t-working-",
+      "category": "Integrations",
+      "word_count": 83,
+      "scraped_date": "2025-10-29T01:58:08.203455",
+      "content_length": 517
+    },
+    {
+      "id": "48001147414",
+      "title": "Create Tags & Tasks Via Zapier",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001147414-create-tags-tasks-via-zapier",
+      "category": "Integrations",
+      "word_count": 77,
+      "scraped_date": "2025-10-29T01:58:12.744795",
+      "content_length": 476
+    },
+    {
+      "id": "155000004140",
+      "title": "Automatic Review Request When Invoice Paid in Quickbooks",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004140-automatic-review-request-when-invoice-paid-in-quickbooks",
+      "category": "Integrations",
+      "word_count": 429,
+      "scraped_date": "2025-10-29T01:58:16.192973",
+      "content_length": 2575
+    },
+    {
+      "id": "48001175529",
+      "title": "Setting Up ActiveProspect Consent Tracking On A HighLevel Form & Survey",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001175529-setting-up-activeprospect-consent-tracking-on-a-highlevel-form-survey",
+      "category": "Integrations",
+      "word_count": 413,
+      "scraped_date": "2025-10-29T01:58:19.698341",
+      "content_length": 3019
+    },
+    {
+      "id": "48001179593",
+      "title": "Zoom Integration for Users' Calendar Bookings",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001179593-zoom-integration-for-users-calendar-bookings",
+      "category": "Integrations",
+      "word_count": 2655,
+      "scraped_date": "2025-10-29T01:58:23.771245",
+      "content_length": 16696
+    },
+    {
+      "id": "48001181602",
+      "title": "Google Integration going to This site can't be reached page \"Check if there is a typo in highlevel-backend.appspot.com\"",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001181602-google-integration-going-to-this-site-can-t-be-reached-page-check-if-there-is-a-typo-in-highlevel-ba",
+      "category": "Integrations",
+      "word_count": 120,
+      "scraped_date": "2025-10-29T01:58:27.155620",
+      "content_length": 722
+    },
+    {
+      "id": "48001203620",
+      "title": "How To Integrate Shopify With HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001203620-how-to-integrate-shopify-with-highlevel",
+      "category": "Integrations",
+      "word_count": 495,
+      "scraped_date": "2025-10-29T01:58:30.652396",
+      "content_length": 2950
+    },
+    {
+      "id": "48001203898",
+      "title": "How To Use Shopify Variables",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001203898-how-to-use-shopify-variables",
+      "category": "Integrations",
+      "word_count": 370,
+      "scraped_date": "2025-10-29T01:58:31.882073",
+      "content_length": 2990
+    },
+    {
+      "id": "48001203897",
+      "title": "Shopify Elements in HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001203897-shopify-elements-in-highlevel",
+      "category": "Integrations",
+      "word_count": 97,
+      "scraped_date": "2025-10-29T01:58:35.335890",
+      "content_length": 607
+    },
+    {
+      "id": "48001223558",
+      "title": "How to Integrate TikTok Lead Ads",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001223558-how-to-integrate-tiktok-lead-ads",
+      "category": "Integrations",
+      "word_count": 1031,
+      "scraped_date": "2025-10-29T01:58:38.841193",
+      "content_length": 6026
+    },
+    {
+      "id": "155000006620",
+      "title": "Integrate Tiktok Messaging",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006620-integrate-tiktok-messaging",
+      "category": "Integrations",
+      "word_count": 907,
+      "scraped_date": "2025-10-29T01:58:43.780933",
+      "content_length": 5321
+    },
+    {
+      "id": "155000003054",
+      "title": "Private Integrations: Everything you need to know",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003054-private-integrations-everything-you-need-to-know",
+      "category": "Integrations",
+      "word_count": 1394,
+      "scraped_date": "2025-10-29T01:58:47.109670",
+      "content_length": 8700
+    },
+    {
+      "id": "155000005429",
+      "title": "How to Integrate Jobber with HighLevel",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005429-how-to-integrate-jobber-with-highlevel",
+      "category": "Integrations",
+      "word_count": 819,
+      "scraped_date": "2025-10-29T01:58:50.621839",
+      "content_length": 5217
+    },
+    {
+      "id": "155000003896",
+      "title": "Getting Started with Custom Objects",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003896-getting-started-with-custom-objects",
+      "category": "Custom Objects.",
+      "word_count": 630,
+      "scraped_date": "2025-10-29T01:58:54.140538",
+      "content_length": 4010
+    },
+    {
+      "id": "155000003897",
+      "title": "Creating and Editing Custom Objects",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003897-creating-and-editing-custom-objects",
+      "category": "Custom Objects.",
+      "word_count": 413,
+      "scraped_date": "2025-10-29T01:58:57.674285",
+      "content_length": 2410
+    },
+    {
+      "id": "155000004023",
+      "title": "Creating and Updating Custom Object Records",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004023-creating-and-updating-custom-object-records",
+      "category": "Custom Objects.",
+      "word_count": 579,
+      "scraped_date": "2025-10-29T01:59:00.839091",
+      "content_length": 3425
+    },
+    {
+      "id": "155000003844",
+      "title": "Custom Object Audit Logs",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003844-custom-object-audit-logs",
+      "category": "Custom Objects.",
+      "word_count": 297,
+      "scraped_date": "2025-10-29T01:59:04.747079",
+      "content_length": 1819
+    },
+    {
+      "id": "155000004013",
+      "title": "Advanced Filters for Custom Objects",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004013-advanced-filters-for-custom-objects",
+      "category": "Custom Objects.",
+      "word_count": 303,
+      "scraped_date": "2025-10-29T01:59:08.082384",
+      "content_length": 1816
+    },
+    {
+      "id": "155000004029",
+      "title": "List View for Custom Objects",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004029-list-view-for-custom-objects",
+      "category": "Custom Objects.",
+      "word_count": 206,
+      "scraped_date": "2025-10-29T01:59:11.393914",
+      "content_length": 1277
+    },
+    {
+      "id": "155000004033",
+      "title": "Associations Between Opportunities and Custom Objects",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004033-associations-between-opportunities-and-custom-objects",
+      "category": "Custom Objects.",
+      "word_count": 1016,
+      "scraped_date": "2025-10-29T01:59:12.588339",
+      "content_length": 6533
+    },
+    {
+      "id": "155000004430",
+      "title": "Getting Started with Companies",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004430-getting-started-with-companies",
+      "category": "Companies",
+      "word_count": 572,
+      "scraped_date": "2025-10-29T01:59:15.729360",
+      "content_length": 3578
+    },
+    {
+      "id": "155000006688",
+      "title": "Company Based Workflows - Company Triggers & Actions",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006688-company-based-workflows-company-triggers-actions",
+      "category": "Companies",
+      "word_count": 1047,
+      "scraped_date": "2025-10-29T01:59:18.954446",
+      "content_length": 7041
+    },
+    {
+      "id": "155000003913",
+      "title": "Searching an Object Record",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003913-searching-an-object-record",
+      "category": "CRM",
+      "word_count": 521,
+      "scraped_date": "2025-10-29T01:59:22.389645",
+      "content_length": 3223
+    },
+    {
+      "id": "155000004497",
+      "title": "Viewing your CRM records",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004497-viewing-your-crm-records",
+      "category": "CRM",
+      "word_count": 368,
+      "scraped_date": "2025-10-29T01:59:25.333096",
+      "content_length": 2240
+    },
+    {
+      "id": "155000004925",
+      "title": "CRM FAQs",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004925-crm-faqs",
+      "category": "CRM",
+      "word_count": 242,
+      "scraped_date": "2025-10-29T01:59:28.516144",
+      "content_length": 1461
+    },
+    {
+      "id": "155000004555",
+      "title": "Efficiently Using HighLevel Notes for Managing Contacts, Opportunities and Company Records",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004555-efficiently-using-highlevel-notes-for-managing-contacts-opportunities-and-company-records",
+      "category": "CRM",
+      "word_count": 857,
+      "scraped_date": "2025-10-29T01:59:33.719256",
+      "content_length": 5512
+    },
+    {
+      "id": "155000005006",
+      "title": "CRM Notes Association – Link Notes Across Contacts & Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005006-crm-notes-association-link-notes-across-contacts-opportunities",
+      "category": "CRM",
+      "word_count": 844,
+      "scraped_date": "2025-10-29T01:59:37.419651",
+      "content_length": 5180
+    },
+    {
+      "id": "155000006643",
+      "title": "Tasks Across Multiple Objects",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006643-tasks-across-multiple-objects",
+      "category": "CRM",
+      "word_count": 786,
+      "scraped_date": "2025-10-29T01:59:41.039858",
+      "content_length": 5070
+    },
+    {
+      "id": "155000005346",
+      "title": "Association Limits",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005346-association-limits",
+      "category": "CRM",
+      "word_count": 337,
+      "scraped_date": "2025-10-29T01:59:44.213275",
+      "content_length": 2162
+    },
+    {
+      "id": "155000004681",
+      "title": "How to integrate Stripe with GoKollab",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004681-how-to-integrate-stripe-with-gokollab",
+      "category": "GoKollab",
+      "word_count": 207,
+      "scraped_date": "2025-10-29T01:59:49.027314",
+      "content_length": 1282
+    },
+    {
+      "id": "155000004884",
+      "title": "Pin Your Favorite Groups",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000004884-pin-your-favorite-groups",
+      "category": "GoKollab",
+      "word_count": 343,
+      "scraped_date": "2025-10-29T01:59:52.155740",
+      "content_length": 1962
+    },
+    {
+      "id": "155000005165",
+      "title": "Integration of Membership Courses with GoKollab",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005165-integration-of-membership-courses-with-gokollab",
+      "category": "GoKollab",
+      "word_count": 729,
+      "scraped_date": "2025-10-29T01:59:55.664976",
+      "content_length": 4826
+    },
+    {
+      "id": "155000003909",
+      "title": "Recurring Tasks",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000003909-recurring-tasks",
+      "category": "Tasks",
+      "word_count": 508,
+      "scraped_date": "2025-10-29T01:59:58.984142",
+      "content_length": 3108
+    },
+    {
+      "id": "155000005529",
+      "title": "Unified Task Management Across Contacts and Opportunities",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000005529-unified-task-management-across-contacts-and-opportunities",
+      "category": "Tasks",
+      "word_count": 1077,
+      "scraped_date": "2025-10-29T02:00:02.538662",
+      "content_length": 6606
+    },
+    {
+      "id": "155000006538",
+      "title": "Media Library - Built-In Image Editor",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000006538-media-library-built-in-image-editor",
+      "category": "Media Storage",
+      "word_count": 621,
+      "scraped_date": "2025-10-29T02:00:06.640514",
+      "content_length": 3722
+    }
+  ]
+}

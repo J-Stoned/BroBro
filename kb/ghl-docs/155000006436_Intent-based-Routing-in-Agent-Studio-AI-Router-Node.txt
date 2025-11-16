@@ -1,0 +1,78 @@
+---
+Title: Intent based Routing in Agent Studio (AI Router Node)
+Category: AI Employee
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006436-intent-based-routing-in-agent-studio-ai-router-node-
+Word Count: 851
+Scraped: 2025-10-29T01:40:24.255685
+---
+
+Experience a smarter workflow in Agent Studio with the new Intent Based Routing feature powered by the AI Router Node. This enhancement uses AI-driven intent classification to streamline routing decisions, providing dynamic, accurate pathways that improve agent performance and efficiency.
+TABLE OF CONTENTS
+What is Intent Based Routing in Agent Studio?
+Key Benefits of Intent Based Routing in Agent Studio
+Adding and Configuring the AI Router Node
+Enhanced Logging for Routing Decisions
+Leveraging Variables in Intent Labels
+Setup Intent Based Routing (AI Router Node)
+Frequently Asked Questions
+Related Articles
+What is Intent Based Routing in Agent Studio?
+Intent Based Routing in Agent Studio leverages an AI Router Node to automate conversation routing based on detected user intents. The node uses a large language model (LLM) to classify the conversation dynamically and direct it to the correct destination node during runtime. This intelligent approach replaces traditional conditional edges or expression-based routing, thereby enhancing workflow precision.
+Key Benefits of Intent Based Routing in Agent Studio
+This feature improves your AI workflow by easily optimizing handling of customer interactions. Benefits include:
+Improved accuracy in routing by leveraging AI intent classification
+Seamless fallback routing when no intent matches, preserving conversation integrity
+Enhanced console logging that displays detailed decision metrics, including reasoning and confidence scores
+Support for dynamic, runtime variables in intent labels to tailor the routing logic to real-time data
+Adding and Configuring the AI Router Node
+Integrating the AI Router Node into your workflow is a straightforward process. Add the node from the Flow Control section, configure custom intents, and map these intents to corresponding destination nodes. The configuration empowers your agent workflows by automating routing decisions based on the LLM’s intent classification.
+Enhanced Logging for Routing Decisions
+Enhanced logging provides clear visibility into the routing process, making it easier to understand the LLM’s decision-making process. This detailed logging displays the detected intent, the reasoning behind the routing decision, and the associated confidence score. Such insights are invaluable for debugging and refining your workflow configurations while ensuring that conversations are routed correctly.
+Leveraging Variables in Intent Labels
+The new support for variables within intent labels introduces flexibility by allowing dynamic values at runtime. This means that you can inject real-time data into your intent matching logic, ensuring that routing decisions adapt to the specific context of each interaction. This feature supports a wide range of use cases where intent conditions may depend on evolving variables.
+In the AI Agent node toggle on Extract Runtime Variables. Then create your custom runtime variables.
+They will be available to other nodes in the flow such as the AI router node.
+Setup Intent Based Routing (AI Router Node)
+A structured setup process ensures a smooth incorporation of the new Intent Based Routing feature into your Agent Studio workflows. Follow these steps to configure the AI Router Node effectively:
+Navigate to AI Agents > Agent Studio and open or create a workflow canvas.
+From the Flow Control section in the left navigation panel, add the AI Router Node to your workflow.
+In the node’s configuration panel, define the intents that you want the LLM to recognize, and map each intent to its corresponding destination node.
+If needed, edit the intent labels to include variables that capture runtime values, adding flexibility to your routing logic.
+Save your configuration and initiate a test run to verify that the LLM detects the correct intent and routes the conversation appropriately.
+Monitor the enhanced console log to review the routing decision, including detailed insights such as reasoning and confidence scores.
+Frequently Asked Questions
+Q: How does the AI Router Node determine the correct route?
+A: The node uses an LLM to analyze the conversation’s intent based on your configured mappings, ensuring that the dialogue is directed to the appropriate destination node.
+Q: What happens if no intent matches during a conversation?
+A: If no intent matches, the flow automatically routes back to the source node. This node will respond accordingly, and the conversation will end as configured.
+Q: Can I incorporate dynamic elements into the intent labels?
+A: Yes, the AI Router Node supports variables within intent labels, enabling you to use runtime values to further tailor the matching logic.
+Q: Is it possible to monitor the decision-making process of the LLM?
+A: Absolutely. Enhanced console logging provides detailed insights—including routing decisions, reasoning, and confidence scores—to help you understand and optimize workflow performance.
+Q: How does this feature integrate with my existing Agent Studio workflows?
+A: The AI Router Node is designed to seamlessly integrate with your current workflows, offering an alternative to traditional conditional edges while enhancing overall routing efficiency.
+Related Articles
+•
+Agent Studio Overview
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,58 @@
+---
+Title: Create Subscriptions & Invoices in Contact Profile
+Category: Contacts
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004163-create-subscriptions-invoices-in-contact-profile
+Word Count: 308
+Scraped: 2025-10-29T01:42:01.577169
+---
+
+HighLevel's latest update simplifies managing subscriptions and invoices by allowing users to create and schedule subscriptions directly in a contact's profile! This new feature simplifies billing by enabling businesses to create subscriptions and invoices for a particular contact without needing to search for that contact from within a different section of the app!
+TABLE OF CONTENTS
+Create Subscriptions from Contact's Profile
+Create and Send Invoices from Contact's Profile
+Frequently Asked Questions
+Create Subscriptions from Contact's Profile
+Go to
+Contacts > Contact Details
+for the relevant customer.
+Navigate to
+Payments > Actions > Create Subscription
+.
+Complete the subscription details as described above.
+Create and Send Invoices from Contact's Profile
+Navigate to
+Contacts > Contact Details
+.
+Go to
+Payments > Actions > Create Invoice
+.
+You’ll be redirected to the invoice creation page with the customer details pre-filled.
+Add the necessary invoice details.
+Save and send the invoice to the customer.
+Frequently Asked Questions
+Q: What happens if a customer’s payment method fails during subscription setup?
+If a payment method fails, the system will prompt you to select an alternate card or add a new one. The subscription will not be activated until a valid payment method is added.
+Q: Can I create multiple subscriptions for the same customer?
+Yes, you can create multiple subscriptions for a single customer. Each subscription can have its own products, billing dates, and payment methods.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

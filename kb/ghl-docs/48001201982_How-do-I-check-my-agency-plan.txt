@@ -1,0 +1,33 @@
+---
+Title: How do I check my agency plan?
+Category: Agency View
+URL: https://help.gohighlevel.com/support/solutions/articles/48001201982-how-do-i-check-my-agency-plan-
+Word Count: 120
+Scraped: 2025-10-29T01:39:58.350580
+---
+
+To check your agency plan please go to agency level view -> settings
+Go to billing option in the left menu and your agency plan will be shown like this
+For example, in this case this agency is on the 497 Pro plan.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

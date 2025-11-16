@@ -1,0 +1,105 @@
+---
+Title: Contact Types
+Category: Contacts
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001302-contact-types
+Word Count: 640
+Scraped: 2025-10-29T01:42:17.631646
+---
+
+This article explains how to set up and use Contact Types in HighLevel to better segment and manage your contacts. Contact Types are dropdown fields that help define what kind of relationship you have with a contact, such as “Lead,” “Client,” or “Prospect.”
+TABLE OF CONTENTS
+What is a Contact Type?
+Key Benefits of Contact Types
+How To Set Up Contact Types
+How To Assign a Contact Type
+Filtering Contacts by Type
+Frequently Asked Questions
+Related Articles
+What is a Contact Type?
+Contact Type is a customizable dropdown field used to define the role or status of a contact in your system. It helps with segmentation, targeting, and automation. You can assign Contact Types manually or dynamically through workflows.
+When creating a new contact, Contact Type is a mandatory field, requiring the user to select from predefined dropdown values. Each contact can have only one Contact Type at a time, which makes this field ideal for high-level segmentation based on relationship status or lifecycle stage.
+Key Benefits of Contact Types
+Organizing your contacts by type enables better segmentation, automation, and targeting in your campaigns. This section outlines the main advantages.
+Simplify segmentation and filtering of contacts
+Automate marketing and nurturing flows based on contact status
+Enables targeted Smart Lists for email, SMS, and workflows
+Easily customizable to fit any business or agency model
+Works seamlessly with other organizational tools like tags and categories
+How To Set Up Contact Types
+Learn how to add, edit, or delete Contact Types through the Custom Fields section. This is where you configure the labels that define each type.
+Navigate to
+Settings > Custom Fields
+Locate the
+Contact Type
+custom field
+Check the box next to Contact Type. Click the blue
+Bulk Actions
+button then choose
+Edit
+from the dropdown.
+Add, rename, or delete options like “Lead,” “Client,” “Cold Prospect”
+How To Assign a Contact Type
+You can assign Contact Types while creating or editing a contact or dynamically using workflows. Here's how to do it.
+Manual Assignment
+:
+Navigate to the
+Contacts
+tab
+Click on the desired contact
+Click the
+Contact
+Type
+dropdown and choose the contact type
+Assign via Workflow
+:
+Add an
+Update Contact Field
+action to a workflow
+Add a field and select
+Contact Type.
+Then select the desired contact type
+Filtering Contacts by Type
+Segmenting your contact list by Contact Type helps you send targeted messages and build Smart Lists for automation.
+Go to
+Contacts > Smart Lists
+Click
+More Filters
+then select
+Type
+Choose a Contact Type to filter by
+Frequently Asked Questions
+Q: Can I have multiple Contact Types on one contact?
+No. Contact Type is a single-select dropdown field. Use Tags for multi-labeling.
+Q: Can I use Contact Type as a trigger in workflows?
+Yes. Use the Contact Changed trigger to fire automations when the Contact Type is updated.
+Q: Can I rename or delete a Contact Type after it’s in use?
+Yes. Renaming or deleting values will update them across all contacts.
+Q: Can I bulk update Contact Types for multiple contacts at once?
+Yes. You can use the bulk action feature in Smart Lists to apply the “Update Contact Field” action to multiple selected contacts and set a new Contact Type for all of them.
+Related Articles
+Workflow Action - Update Contact Field
+Workflow Trigger - Contact Changed
+Workflow Action - Create Contact
+How to Use Custom Fields
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

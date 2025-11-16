@@ -1,0 +1,399 @@
+---
+Title: What Are Dashboard Widgets?
+Category: Dashboards
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001212-what-are-dashboard-widgets-
+Word Count: 2504
+Scraped: 2025-10-29T01:51:13.978808
+---
+
+TABLE OF CONTENTS
+What are Dashboard Widgets
+Widget Categories:
+Chart types supported:
+Using Elements in your Widgets
+Using Different Themes for your Dashboard Widgets
+Use Cases for Different Widgets
+Contact Widgets:
+Appointment Widgets:
+Opportunity Widgets:
+Visitor Data Widgets(Websites/Funnels):
+Email Widgets:
+Call Widgets:
+Conversation Widgets:
+Payments Widgets:
+Total Revenue (Last Month) – Total revenue generated in the last month
+General Widgets:
+Note:
+What are Dashboard Widgets
+Dashboard widgets are versatile and customizable tools that simplify data visualization and analysis. They provide quick access to key metrics, enabling efficient monitoring and enhanced reporting. Adding widgets to your dashboard is straightforward—just click the “Add Widget” button in the top-right corner to get started.
+Whether you prefer using predefined chart types or designing custom widgets tailored to your needs, dashboard widgets offer unmatched flexibility. The intuitive edit mode allows you to easily manage and customize your dashboard, ensuring it aligns perfectly with your workflow. These features empower you to create dynamic dashboards that streamline data analysis and drive smarter decision-making.
+To make finding the right widget even more convenient, widget categories have been introduced. These categories organize predefined widgets into specific groups, helping you quickly discover the tools you need. With this structured approach, you can save time and instantly unlock valuable insights from your data.
+Widget Categories:
+Contacts
+- Contact widgets help you manage and analyze new leads efficiently.
+Appointments
+- Appointment widgets assist in tracking and optimizing meetings with your team and customers.
+Opportunity
+- Opportunity widgets provide insights into deal status and monetary value.
+Visitor Data -
+Get an overview of your funnel visitors activity and relevant information
+.
+Emails -
+Email widgets allow you to view email campaign activities.
+Calls
+- Detailed insights about your call activities.
+Conversations -
+Conversation widget lets you track the conversation data.
+General
+- General widgets offer predefined data and performance reports for various platforms.
+Chart types supported:
+Numeric/Count -
+A number chart, also known as a counting chart, is a list of numbers arranged in a particular order.
+Donut Charts
+- The numeric value shown inside the donut chart changes as per the metric selected (example - avg. or max)
+Line charts -
+Show information as a series of points connected by lines, and are useful for tracking changes over time.
+Bar charts -
+Use the length of bars to compare numerical values.
+Horizontal Bar charts -
+A Horizontal Bar Chart uses rectangular bars to present data. They are used for displaying comparisons between categories of data.
+Tables -
+Provide organized information and precise details.
+Metrics Supported:
+Sum
+Min
+Max
+Avg
+Count
+Using Elements in your Widgets
+Elements give you the flexibility to customize your dashboard widgets. You can Add titles or headings to your dashboard to organize sections and group widgets by theme. Use textboxes for key information or task reminders to improve team communication. You can also Embed images like logos, charts, or infographics to enhance visual appeal and provide context.
+Using Different Themes for your Dashboard Widgets
+Themes give you the ability to customize the appearance of your entire
+dashboard
+or individual
+widgets
+. you can select from a variety of predefined
+themes
+or craft your own custom
+theme
+with specific colors.
+Use Cases for Different Widgets
+Contact Widgets:
+Contact Count:
+Use this widget to get a quick overview of the total number of contacts for your entire team. Great for tracking overall growth.
+Contact Count (Logged in user):
+If you want to focus on contacts assigned to you, use this widget. It helps you see how many contacts you are personally responsible for.
+Contacts by Tags:
+If you've categorized your contacts with tags (e.g., "Hot Leads," "New Prospects"), this widget lets you see how your contacts are distributed by these tags.
+Contacts by Activity:
+Monitor the number of contacts with specific activities within a defined time period. Useful for tracking engagement.
+Contacts by Type:
+Categorize your contacts by type and visualize how they are distributed with this widget.
+Contacts by Assigned User:
+If you have a team managing different contacts, use this widget to see how contacts are mapped to various team members.
+Contacts by Company Name:
+Get insights into your contacts by looking at how they are distributed among different company names.
+Contacts with Email:
+Easily track the count of contacts with email addresses.
+Contacts without Emails:
+Keep tabs on the count of contacts without email addresses.
+Contacts with Phone Numbers:
+Monitor the count of contacts with phone numbers.
+Contacts without Phone Numbers:
+Stay informed about the count of contacts without phone numbers.
+Total Contacts Count (Till Date):
+Get a snapshot of the total number of contacts created till date.
+Total Contacts Count (This Month):
+Keep track of the total number of contacts created this month.
+Contacts Count (Logged in User):
+Specifically, count the contacts associated with the logged-in user.
+Appointment Widgets:
+Appointment Count:
+Use this widget to track the total number of appointments. You can group the count by status or assignee, depending on what you want to focus on.
+Appointment Count over a Date Range:
+Monitor appointment numbers within a specific time period. Group them by status or assignee for deeper insights.
+Appointment Counts by Status:
+Visualize how your appointments are distributed by their status (e.g., "Confirmed," "No Show").
+Booked Appointments:
+Keep an eye on the number of booked appointments for a selected date range.
+Confirmed Appointments:
+Track the number of confirmed appointments for a specific time frame.
+Showed Appointments:
+Monitor the number of appointments where customers showed up.
+No Show Appointments:
+Find out how many appointments resulted in a "No Show."
+Cancelled Appointments:
+Keep track of cancelled and invalid appointments within a specified date range.
+No Show Rate Over Time:
+Observe the trend in "No Show" appointments over time.
+Upcoming Appointments (Week):
+Plan for the week ahead by checking the total number of appointments scheduled.
+Upcoming Appointment (Logged in User):
+Focus on your upcoming appointments specifically.
+Past Month Created Appointments:
+Review the total number of appointments created in the past month.
+Past Month Created Appointments (Logged in User):
+Track appointments created by the logged-in user over the past month.
+Upcoming Appointments (Logged in User):
+Stay on top of your schedule with the number of upcoming appointments tailored for the logged-in user.
+Upcoming Appointments for Next Week:
+Plan ahead with the total number of upcoming appointments for the next week, including both confirmed and not confirmed bookings.
+Past Month Created Appointments:
+Review your past month's activity with the total count of appointments created.
+Past Month Created Appointments (Logged in User):
+Drill down into your personal statistics with the total appointments created in the past month for the logged-in user.
+These widgets help you stay organized and make data-driven decisions about your appointments.
+Opportunity Widgets:
+Opened Opportunities:
+Use this widget to see how many opportunities are currently open. Helpful for real-time tracking.
+Won Opportunities:
+Keep a record of opportunities you've successfully closed as deals.
+Lost Opportunities:
+Monitor opportunities that did not convert into deals.
+Abandoned Opportunities:
+Keep an eye on opportunities that were left without action.
+Opportunity Count:
+Get an overview of your total opportunities.
+Opportunity Counts Over Time:
+Visualize how opportunities have been distributed over different time periods.
+Opportunity Revenue Over Time:
+Track the revenue generated by opportunities over time.
+Opportunity Counts by Status:
+Categorize your opportunities by status (e.g., "In Progress," "Closed").
+Opened Opportunity Value:
+Understand the monetary value of opportunities currently in progress.
+Lost Opportunity Value:
+See the value of opportunities that were lost.
+Abandoned Opportunity Value:
+Monitor the monetary value of abandoned opportunities.
+Won Opportunity Value:
+Keep track of the monetary value of opportunities that converted into deals.
+Total Opportunity Value:
+Get an overview of the cumulative monetary value of all opportunities.
+Lost Opportunities By Reason:
+Split of all lost opportunities by the reason
+Visitor Data Widgets(Websites/Funnels):
+Total Funnel Views:
+Tracks all funnel views (customizable by funnel and page type).
+Unique Funnel Views:
+Counts unique visitors across your funnels.
+Total Website Views:
+Tracks total views for all websites.
+Unique Website Views:
+Shows unique visitors for all websites.
+Funnel Views Trend:
+Line chart tracking funnel views over time.
+Website Views Trend:
+Line chart showing website view trends.
+Top Funnels by Unique Views:
+Top 5 funnels based on unique views.
+Top Websites by Unique Views:
+Top 5 websites by unique visitors.
+Total Funnel Page Views (Last Week):
+Funnel views over the last week.
+Unique Funnel Views (Last Week):
+Unique funnel visitors in the past week.
+Total Funnel Page Views (Last Month):
+Total funnel views in the last month.
+Unique Funnel Views (Last Month):
+Unique funnel views in the last month.
+T
+otal Opt-ins (All Funnels):
+Total opt-ins across all funnels.
+Email Widgets:
+Accepted Emails:
+Number of emails successfully accepted.
+Delivered Emails:
+Number of emails delivered to recipients.
+Opened Emails:
+Number of emails opened by recipients.
+Clicked Emails:
+Number of emails where links were clicked.
+Replied Emails:
+Number of emails that received replies.
+Soft Bounced Emails:
+Number of emails with soft bounces.
+Hard Bounced Emails:
+Number of emails with hard bounces.
+Failed Emails:
+Number of failed email deliveries.
+Unsubscribed Emails:
+Number of recipients who unsubscribed.
+Unsubscribed Emails Daily:
+Daily count of unsubscribed emails.
+Emails By Domain
+: Emails grouped by recipient domain.
+Call Widgets:
+I
+ncoming Calls by Status:
+Grouped count of incoming calls based on their status.
+Outgoing Calls by Status:
+Grouped count of outgoing calls based on their status.
+Incoming Calls Total Call Duration:
+The total duration of all incoming calls.
+Outgoing Calls Total Call Duration:
+The total duration of all outgoing calls.
+Incoming Calls Avg. Call Duration:
+The average duration of all incoming calls.
+Outgoing Calls Avg. Call Duration:
+The average duration of all outgoing calls.
+Total Calls Placed by Call Attendee:
+Total outgoing calls grouped by the user who made the call.
+Incoming Calls Avg. Call Duration by Call Attendee:
+Average duration of incoming calls grouped by the user who attended the call.
+Outgoing Calls Avg. Call Duration by Call Attendee:
+Average duration of outgoing calls grouped by the user who made the call.
+First Time Call by Status:
+Count of incoming calls received for the first time, grouped by status.
+First Time Call Avg Duration:
+Average duration of incoming calls received for the first time.
+First Time Call Avg Duration by Call Attendee:
+Average duration of first-time incoming calls grouped by the user who attended the call.
+First Time Call Total Duration:
+The total duration of incoming calls received for the first time.
+Note: The term 'Call attendee' refers to the team member who participated in the call, either by making or receiving the call from the customer.
+Conversation Widgets:
+Total Unread Conversations:
+Shows the number of conversations that have not been read yet.
+Total Unread Conversations today:
+Displays the number of unread conversations where the last message was received today.
+Total Unread Conversations by Channel:
+Shows the distribution of unread conversations based on the channel type of the customer's last message (e.g., email, SMS, etc.).
+Unread Conversations by Assignee:
+Indicates the number of unread conversations assigned to team members.
+Unread Conversations (logged in user):
+Displays the number of unread conversations for the logged-in user.
+Conversations Distribution by Assignee:
+Shows the number of conversations assigned to team members.
+Assigned Conversations (logged in user):
+Indicates the number of conversations assigned to the logged-in user.
+Total Unassigned Conversations:
+Displays the number of conversations not yet assigned to any team member.
+Unassigned Conversations by Channel:
+Shows unassigned conversations initiated by customers across different channels, considering the channel of the last message from the customer.
+New Conversations started (This Week):
+Indicates the number of conversations started in the current week.
+Payments Widgets:
+Revenue & Trends
+Total Revenue (Last Month)
+– Total revenue generated in the last month
+Total Revenue Trend
+– Monthly total revenue trend
+One-Time Revenue Trend
+– Monthly trend for one-time payments
+Recurring Revenue Trend
+– Monthly trend for recurring payments
+Customer & Payment Performance
+Paying Customer Trend
+– Monthly trend of paying customers
+Payment Success Trend
+– Monthly trend of successful payments
+Payment Failed Trend
+– Monthly trend of failed payments
+Revenue Breakdown
+Revenue by Channels
+– Revenue breakdown by different payment channels
+Subscription Creation Trend
+– Monthly trend of new subscriptions
+Subscription Cancellation Trend
+– Monthly trend of canceled subscriptions
+Discounts & Invoices
+Coupon Redemption Trend
+– Monthly trend of coupon redemptions
+Coupon Redemption Amount Trend
+– Monthly trend of discount amounts applied
+Invoice Sent Trend
+– Monthly trend of invoices sent
+Invoice Paid Trend
+– Monthly trend of invoices paid
+Refund Insights
+Refund Trend
+– Monthly trend of refunds issued
+Refund Amount Trend
+– Monthly trend of total refund amounts
+Total Revenue (Last Month)
+– Total revenue generated in the last month
+Total Revenue Trend
+– Monthly total revenue trend
+One-Time Revenue Trend
+– Monthly trend for one-time payments
+Recurring Revenue Trend
+– Monthly trend for recurring payments
+Paying Customer Trend
+– Monthly trend of paying customers
+Payment Success Trend
+– Monthly trend of successful payments
+Payment Failed Trend
+– Monthly trend of failed payments
+Revenue by Channels
+– Revenue breakdown by different payment channels
+Subscription Creation Trend
+– Monthly trend of new subscriptions
+Subscription Cancellation Trend
+– Monthly trend of canceled subscriptions
+Coupon Redemption Trend
+– Monthly trend of coupon redemptions
+Coupon Redemption Amount Trend
+– Monthly trend of discount amounts applied
+Invoice Sent Trend
+– Monthly trend of invoices sent
+Invoice Paid Trend
+– Monthly trend of invoices paid
+Refund Trend
+– Monthly trend of refunds issued
+Refund Amount Trend
+– Monthly trend of total refund amounts
+General Widgets:
+Opportunity Status:
+Visualize the status of your opportunities.
+Opportunity Value:
+Understand the total value of opportunities, categorized by status.
+Conversion Rate:
+Track the conversion rate and revenue generated by won opportunities.
+Funnel:
+Get a detailed view of your sales funnel and conversion rates at each stage.
+Stages Distribution:
+Understand how opportunities are distributed among different stages.
+Tasks:
+Monitor all tasks added and the team member it is assigned to.
+Manual Actions:
+Keep track of manual actions, such as SMS and phone calls, in your campaigns.
+Lead Source Report:
+Get an overview of total leads by source.
+Google Analytics Count:
+Track the number of total views in your Google Analytics report.
+Google Analytics Chart:
+Get insights into the number of total views and interactions on your website.
+Google Business Profile:
+Monitor your Google Business Profile metrics.
+Facebook Ads Report:
+Keep an eye on clicks, spending, CTR, and CPC for Facebook ads.
+Google Ads Report:
+Track clicks, spending, CTR, and CPC for Google ads.
+Sales Efficiency:
+Sales efficiency report for opportunities.
+Note:
+Wondering which plan unlocks the customizable Dashboard?
+It's currently available exclusively for the $297 plan and beyond.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

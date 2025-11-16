@@ -1,0 +1,61 @@
+{
+  "profiles": {
+    "fast-response": {
+      "name": "Fast Response",
+      "model": "claude-haiku-4.5",
+      "maxTokens": 6000,
+      "temperature": 0.7,
+      "useCases": ["chat", "quick-answers", "simple-queries"],
+      "contextStrategy": "truncate-oldest",
+      "enablePromptCaching": false,
+      "description": "Quick responses with Haiku for fast turnaround"
+    },
+    "detailed-analysis": {
+      "name": "Detailed Analysis",
+      "model": "claude-sonnet-4.5",
+      "maxTokens": 12000,
+      "temperature": 0.5,
+      "useCases": ["kb-queries", "code-review", "research", "analysis"],
+      "contextStrategy": "summarize-older",
+      "enablePromptCaching": true,
+      "promptCacheBreakpoint": 10000,
+      "description": "Comprehensive analysis with Sonnet"
+    },
+    "workflow-builder": {
+      "name": "GHL Workflow Builder",
+      "model": "claude-sonnet-4.5",
+      "maxTokens": 24000,
+      "temperature": 0.4,
+      "systemPrompt": "You are an expert GoHighLevel workflow architect with deep knowledge of automation best practices, trigger optimization, and conversion-focused design.",
+      "useCases": ["workflow-generation", "automation-design"],
+      "contextStrategy": "rag-augmented",
+      "enablePromptCaching": true,
+      "ragCollections": ["ghl-knowledge-base", "ghl-docs"],
+      "includeKBContext": true,
+      "description": "Specialized for GHL workflow generation with KB context"
+    },
+    "complex-reasoning": {
+      "name": "Complex Reasoning",
+      "model": "claude-opus-4",
+      "maxTokens": 32000,
+      "temperature": 0.3,
+      "useCases": ["architecture-design", "strategic-planning", "multi-step-analysis"],
+      "contextStrategy": "keep-all-with-compression",
+      "enablePromptCaching": true,
+      "promptCacheBreakpoint": 20000,
+      "requiresApproval": true,
+      "description": "Most capable model for complex multi-step reasoning (approval required)"
+    },
+    "default": {
+      "name": "Default Profile",
+      "model": "claude-sonnet-4.5",
+      "maxTokens": 12000,
+      "temperature": 0.6,
+      "useCases": ["general"],
+      "contextStrategy": "truncate-oldest",
+      "enablePromptCaching": false,
+      "description": "Fallback profile when none specified"
+    }
+  },
+  "defaultProfile": "detailed-analysis"
+}

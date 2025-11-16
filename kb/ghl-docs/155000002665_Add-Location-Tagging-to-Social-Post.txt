@@ -1,0 +1,40 @@
+---
+Title: Add Location Tagging to Social Post
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002665-add-location-tagging-to-social-post
+Word Count: 227
+Scraped: 2025-10-29T01:42:47.424256
+---
+
+We're thrilled to unveil the brand new feature of tagging of Location to post on social media. Add Location tagging for enhanced Engagement, Increased Visibility, Local SEO Boost and Targeted Marketing. For example, if a influencers adds the location, it allows users to get visibility and drive traffic to that location.
+Why it Matters:
+For social media engagement, location tagging helps to improve the visibility and chances of better insights like followers, likes and comments.
+How it works?
+Go to Marketing > Social Planner
+Click on Create New Post
+First step is to select the socials where you would like to post the content
+Add the content and other settings
+There is option of location tagging, it will allow you to add places or locations. It will allow to add on Facebook and Instagram Post.
+Note- It will ask them to authenticate to get more scope to allow location tagging.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

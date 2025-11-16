@@ -1,0 +1,118 @@
+---
+Title: Sticky Contact in Forms, Surveys, and Calendars
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/48000979919-sticky-contact-in-forms-surveys-and-calendars
+Word Count: 810
+Scraped: 2025-10-29T01:45:09.434730
+---
+
+This article explains the Sticky Contact feature in HighLevel forms, which simplifies the form-filling process for repeat users by pre-filling previously entered information. Learn how to enable this feature, troubleshoot issues, and use it effectively.
+TABLE OF CONTENTS
+What is Sticky Contact?
+Key Benefits of Sticky Contact
+Where to Find and Enable Sticky Contact
+Sticky Contact in Forms
+Sticky Contact in Surveys
+Sticky Contact in Calendars
+Frequently Asked Questions
+What is Sticky Contact?
+Sticky Contact is a feature in HighLevel forms that uses cookies to store and retrieve data previously entered by a user. This allows fields like name, email, or phone number to be pre-filled on subsequent visits, providing a smoother user experience.
+This mimics autofill functionality, but it works directly within the HighLevel system to enhance consistency and user experience.
+Sticky Contact is especially valuable in use cases like
+recurring event sign-ups
+, where returning attendees can quickly re-enter without having to type their details again, and
+customer portals
+, where frequent users benefit from faster navigation and order management thanks to automatically populated forms. By minimizing friction, Sticky Contact supports better engagement and higher form completion rates.
+⛔
+DON'T use Sticky Contact if:
+- Your internal team members are filling out a form/survey/calendar widget on behalf of your customers.
+- Multiple customers are going to fill out the same form at a kiosk or something similar.
+In these scenarios, Sticky Contact will continuously overwrite the contact record of the first submission with the details from the next submission because the saved data is all on a single device, either your team member's computer or at the kiosk.
+For scenarios where you want to have internal team members completing forms or booking appointments on behalf of customers, it's best to disable Sticky Contacts or just make the updates directly in the Contact Record.
+Key Benefits of Sticky Contact
+Sticky Contact reduces user effort and increases form completion rates by leveraging browser-stored data. Here’s why you might want to use it:
+Speeds up form submissions for returning visitors.
+Enhances user experience by reducing repetition.
+Ideal for multi-step funnel workflows.
+Works across forms, surveys, calendars, and order forms.
+Helps maintain data consistency across touchpoints.
+Can increase conversion rates by reducing user drop-off.
+Where to Find and Enable Sticky Contact
+Sticky Contact can be enabled across multiple areas in HighLevel, ensuring a consistent and streamlined user experience. Here’s how to find and enable it in each applicable section of the app.
+Sticky Contact in Forms
+Steps to Enable Sticky Contact in Forms:
+Navigate to
+Sites > Forms
+, then open the
+Form Builder
+.
+Select an existing form or create a new one.
+Click on the
+Form Settings
+tab.
+Toggle the
+Sticky Contact
+switch to “On”. Click
+Save
+to apply your changes.
+Sticky Contact in Surveys
+Sticky Contact can also be enabled in Surveys, allowing user data collected in forms to auto-populate survey fields—especially useful in funnel follow-ups.
+Steps to Enable Sticky Contact in Surveys:
+Go to
+Sites > Surveys
+, then launch the
+Survey Builder
+.
+Open or create a survey.
+Navigate to the
+Survey Settings
+section.
+Toggle
+Sticky Contact
+to “On.” Save your settings.
+Sticky Contact in Calendars
+Calendars benefit from Sticky Contact by auto-filling user details for repeat appointment bookings.
+Steps to Enable Sticky Contact in Calendars:
+Go to
+Calendars > Calendar Settings
+.
+Select the calendar you’d like to edit.
+Scroll to
+Forms & Payments
+.
+Turn on
+Sticky Contact
+using the toggle. Save your changes.
+Frequently Asked Questions
+Q: Can Sticky Contact work across subdomains?
+No, Sticky Contact data is domain-specific. It cannot pre-fill forms across different subdomains.
+Q: What happens if a user clears their cookies?
+If cookies are deleted, Sticky Contact will no longer retain previously entered data, and fields will not be pre-filled.
+Q: Is Sticky Contact GDPR-compliant?
+Yes, but it’s essential to inform users about cookie usage and provide opt-out options to comply with data protection laws.
+Q: Does Sticky Contact interfere with browser autofill?
+No, Sticky Contact operates independently of browser autofill. However, the two can complement each other for a seamless user experience.
+Q: Sticky Contact isn’t showing in my calendar settings—why?
+If you’re using a custom form for calendar bookings, the Sticky Contact setting will not appear in calendar settings. Instead, you must enable Sticky Contact on the custom form itself. The calendar will honor Sticky Contact data stored by that form.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

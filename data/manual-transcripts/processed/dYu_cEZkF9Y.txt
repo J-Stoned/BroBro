@@ -1,0 +1,454 @@
+SEO used to be this super advanced skill
+that took years of studying and
+experience to master. But now it's
+becoming extremely easy with AI tools
+that can do 99% of the work for us. For
+example, think of the cars that were
+mass-produced back in the 1900s. They
+completely eliminated the need for
+people to walk everywhere. They were
+more comfortable than a horse and bucky,
+and they could get people to their
+destinations faster. These new AI SEO
+tools are the same way, making SEO more
+convenient, less time inensive, and get
+you ranked faster. But just like with
+cars, in order to get the best benefits
+from these SEO tools, you have to know
+how to drive them. So, in this video,
+I'm going to show you seven AI SEO cheat
+codes for getting any local business
+ranked number one on Google, getting 10x
+more website traffic as a result. But
+before I show you these hacks, I need to
+introduce you to the AI SEO software
+that I use to get these results. And
+it's a software called Search Atlas.
+Search Atlas does everything from
+backlink building to blog writing to
+Google business profile optimization.
+and it does the majority of it using AI.
+And you can start using Search Atlas for
+just $99 a month, which will allow you
+to do SEO for one website and then you
+can upgrade as you get more clients. And
+Auto SEO Pixel
+if you sign up with my affiliate link
+down below, you can get an extended
+14-day free trial instead of the normal
+7-day free trial. But the first feature
+where Search Atlas helps with SEO is
+their auto SEO pixel, which is simply a
+line of code that you can copy and paste
+onto any website, and it'll literally do
+SEO on the website for you. You'll
+simply fill in as much of this
+information here under this knowledge
+graph section as possible about the
+business. All the top pages of their
+website, any social media profiles, the
+business owner's name, any images and
+logos. Once you've filled that in as
+much as you can, you'll simply go here
+and you'll go to this auto pixel
+integration and you'll just copy the
+code right here. It's just all these
+random strings of letters and numbers.
+You'll copy that. You'll go into the
+back end of your website. This is a
+website that we built inside of Goh High
+Level. We'll go into the settings here
+and then you'll go under the head
+tracking code section and you'll paste
+in your auto pixel code. You can see
+I've already pasted mine in here. Just
+simply paste it in, save it, and then
+you'll go back here and you'll click
+engage and then it will engage and it'll
+make all these updates and changes to
+your website. Anything that it finds
+wrong with your SEO and ways that it can
+improve it, it'll change your title
+tags, your meta descriptions, any alt
+image text that's missing, meta
+keywords, missing headlines, all these
+things. It'll change the actual text on
+the website front end and it'll do stuff
+on the back end for your SEO to help you
+get ranked higher in search. The Auto AI
+Keyword Research Tool
+SEO pixel is super powerful for helping
+businesses rank on Google, but you need
+to know how to prompt it with the best
+information to get the best results from
+it. So, that's where Search Atlas's next
+tool comes in, which is their AI keyword
+research tool. If you go to the main
+projects page in Search Atlas and you
+type in any niche keyword right here, I
+typed in landscaping and then click
+search, it'll pull up all of the search
+data for that keyword. It'll tell you
+how difficult that keyword is to rank
+for, how many monthly searches it gets
+across the United States or whatever
+country you toggle on right here. And
+then it'll give you a lot of good search
+data on this keyword. But even more, we
+can go to this related keyword section.
+We can click view all of them. and it'll
+pull up a ton of related keywords to the
+main keyword that we typed in, which in
+this case was landscaping. And it'll so
+get it'll give us different keyword
+variations of landscaping like
+landscaping, landscaping near me, lawn
+care near me, lawn care, all of these
+other keywords, and we can look at these
+main keywords that get a lot of
+searches. Typically, we want to go for
+ones that have high search volume and
+low competition. And so this one right
+here, landscaping would be a perfect
+example, gets a lot of monthly searches,
+but it's very uncompetitive. Landscaping
+near me is a little bit more
+competitive. But when we narrow down
+landscaping and then within a local
+market, there's probably going to be
+only maybe 20 other landscapers within
+a, you know, 20 mile radius that we're
+really competing with. And so we just
+have to beat out 20 other landscapers
+when we narrow it down to our local area
+and to our local um into our niche,
+which is in this case landscaping. And
+so it's really not that hard. Usually
+I'll go after more of the competitive
+keywords. And then we can jump into our
+auto tool that I showed you before. And
+under this knowledge graph section, we
+can give auto these different keywords
+that we're trying to rank for. So once
+we pick a few of the different keywords
+that we want to go after here, you could
+pick up to 10 different keywords. You
+could use all the different services
+that you offer as your main keywords. Go
+to top pages. You can then fill in and
+add your pages and add up to three
+different keywords that you're trying to
+rank for for those pages. And now auto,
+this SEO AI pixel will know exactly how
+to best optimize our website down here
+with all of its recommendations and
+fixes that it can deploy on our website
+completely on autopilot. So now you know
+AI Blog Writer
+how to apply the auto SEO pixel onto a
+website with the best keyword strategy
+backing it up. But there are other
+search atlas tools on top of these that
+can help improve SEO rankings. And the
+next one I'll show you is their AI blog
+writer. If you go into this content tab
+inside of search atlas, you'll find the
+content genius, which is an AI content
+writer that you can use to write content
+for the main pages of your website. But
+I like to use it to write the content
+for my blogs on my website and for my
+clients. So first you want to create a
+folder here. You'll go under folder
+settings. You just type in all of the
+information about the business. This
+gives the AI really good context about
+different keywords and just what your
+business is called, what you're trying
+to rank for, all that good stuff here.
+Once you've created that folder, you can
+see and you can switch into it. And then
+we'll go to this topical map section and
+we can create a topical map. I've
+already got one here. Just create that.
+And it'll ask you for all the different
+keywords you're trying to rank for for
+your blog. And then we can click view
+topical map once it's created. And it'll
+give us all these different um title
+options based on the keywords that we're
+trying to rank for. And so it creates
+these titles for us and it'll build
+these blogs and it'll generate images,
+paragraphs, everything for us. And so
+off the keyword, you know, Blige,
+Georgia tourist attractions, it created
+a blog called Blueridge, Georgia tourist
+attractions. You can't miss. And so it
+uses the a lot of the keywords in the
+titles to help you rank. And you'll hit
+generate and it'll generate it. And then
+once it's generated, it takes a few
+minutes. Then you can click view
+content. And this is an example of one.
+It generates a hero image, the H1's,
+paragraphs, it puts it all into proper
+SEO format, which is really good because
+you want the H1s to have your keywords
+and paragraphs to have your keywords
+throughout. And just having thing in
+everything in the appropriate formats
+helps with your SEO. And then you can
+simply copy everything from top to
+bottom. We'll just drag from the
+headline here. You'll go down to the
+bottom here. You'll copy all of that.
+And then you can take it into your blog
+platform. I use go high level for all of
+my blogs and our our websites that we
+build as well. And you'll go into the
+blog section and then you can click new
+post and it'll give you a blank page.
+It'll look kind of like this except
+it'll be blank here. And then you can
+simply click paste and it'll paste in
+the entire blog. It'll keep it in proper
+format. Uh and go high level at least it
+keeps it all like the H1's, the H2s, the
+paragraphs in the appropriate formats
+with the appropriate, you know, bolding
+of the text. It puts in all the images
+onto the blog and then you can click
+update. And it really is that quick and
+that easy to post blogs directly onto
+your website, which will just give you
+more chances to rank for different
+keywords cuz all of these blogs target
+different keywords that are related to
+your niche or your client's niche. Blogs
+Cloud Stacks
+are great for getting more keywords and
+key phrases onto a website, but without
+building your website authority, then it
+doesn't matter how many keywords you
+stuff onto the site. And that takes us
+into our next AI SEO tool, which is
+called cloud stacks. Cloud stacks are
+just the term that search atlas uses for
+backlinks. A backlink is anytime another
+website puts your website link on
+theirs, sending traffic from their site
+to your site. This just sends really
+good signals to Google that you're an
+authority in your niche and you get
+ranked higher because of it. The Cloud
+Stack tool in Search Atlas works like
+this. If you're on the auto tool for
+your client or for your website, you'll
+scroll down here. You'll go to the Cloud
+Stacks tool. And then you'll be able to
+add a page to your website that you're
+going to get this backlink set up on.
+And so you can type in all the different
+main pages of your website. The
+homepage, about page, contact page, the
+FAQ's page. We've added a few here. And
+then you'll just click add cloud stack.
+You'll type in that page of your website
+with the appropriate path on the end.
+And then you'll type three keywords that
+you're trying to rank that page for that
+will help with that backlink because
+that backlink will actually be an AI
+generated article on another website
+that Search Atlas partners with and
+it'll send a backlink over to your site
+which like I said will show Google that
+you're an authority. Now you've got
+another backlink. The more backlinks you
+can get, the more your website looks
+like an authority and the more you rank
+higher. And so you'll just type in that
+that page of your website here, the
+three different keywords that you're
+trying to rank that page for here. And
+then it'll add you and get you a
+backlink on 13 different high quality
+sites, the ones that you see here. And
+so you're actually getting 13 back links
+by doing this one time. And it only
+costs 15 credits, which is $15 in Search
+Atlas to get these back links. So you
+can buy more authority for your website
+essentially and get back links to every
+single page of your website. And then
+you can start going through pages again
+once you've run out of pages to add them
+to. you can go back through pages and
+just change the keywords on them and get
+ranked and get back links for other
+keywords as well. And so, it's never
+been easier to get tons of backlinks to
+your website with a few clicks of a
+Google Business Profile
+button. Backlinks are one of the best
+ways to boost your website SEO. But here
+are two even easier ways that AI can
+help any business rank higher, and
+that's through automating update posts
+and Q&As's on Google Business Profile.
+If you go to Google business profile and
+you scroll down, update posts are these
+little posts here that businesses can
+make on their profile with an image and
+a description. And really, this is just
+another opportunity for this business to
+put keywords in this description and put
+a good image that goes along with it.
+And this can help businesses rank when
+they consistently make update posts to
+their business about different services
+they offer, um, different promotions
+they're doing, etc. And if we go back
+here, the Q&As's are down here. So you
+can type questions and you can also
+answer your own questions as the
+business owner, which lots of Q&As's on
+your Google business profile. Just more
+opportunities to put keywords onto your
+profile and get ranked higher for those
+different keywords. And so inside of
+Search Atlas, if we go into the auto
+tool here, we can scroll down and we can
+integrate Google business profile into
+Search Atlas. And we can go to this GBP
+post sections which are those update
+posts with the picture and the
+description. And it will automatically
+post. It'll generate pictures with AI,
+but it'll also post and create an AI
+generated description. And it'll post
+these on autopilot for us. It does it
+randomly and sporadically, so Google
+doesn't think it's a bot posting them.
+It actually makes it look like a real
+human is posting them, but it does them
+every few days and kind of at random
+throughout the week. And it just gives
+you tons of good images and just more uh
+descriptions, more keywords that it's
+stuffed with here now, so you can rank
+better for these different things. And
+it just shows prof uh activity on your
+Google business profile. Shows that
+you're doing something and updating
+something to your profile, which sends
+good signals to Google that you're
+actively working on your Google business
+profile and you'll get ranked higher
+because of this. All you have to do to
+set this up is turn this little toggle
+switch on and it'll start automatically
+posting and AI generating these images
+and these descriptions and posting these
+to your Google business profile. Same
+thing if we scroll down here to the
+question and answer suggestions. It'll
+AI generate these Q&As's for you. It'll
+type out a question and then it'll
+answer that question. And all you have
+to do is toggle this switch on and it'll
+make these updates, these update posts
+and these Q&As's to your Google business
+profile completely on autopilot every
+few days, which will just help rank you
+higher on Google business profile, which
+is also tied into your website, so it'll
+help your website rank higher as well.
+Google Reviews
+SEO really doesn't get easier than this
+one. You can fully automate posting on
+your Google business profile with AI.
+But there's one last AI tool that seals
+the deal in this AI SEO strategy, and
+that's automated Google review
+responses. Replying to all of the Google
+reviews that a business receives is a
+great way to boost their SEO, but it can
+also be timeconuming to do if this
+business is getting a ton of Google
+reviews. So, inside of GoHigh Level, we
+can fully automate our review responses
+using AI. And the way that you do that
+is go under the reputation tab. You'll
+go to settings and then under this
+reviews AI section, we can toggle on
+auto responses first. And then we can
+set a wait time before it replies to the
+Google review. 25 minutes is good. just
+makes it look more real, like it's a
+real human instead of an AI responding
+to it. And then down here, you can
+create an AI agent with a certain
+personality. You'll just click create
+agent. I've got one here. I'll click
+edit and show you. This is what it looks
+like inside. You can name the agent.
+Just usually name it the name of the
+business that you're helping um for
+their SEO. And then you can have a
+instructions for it here. Just a short
+prompt. You can select the tone of
+voice. I like to do friendly. And then
+you can select the language. You can
+also make it dynamic where if someone
+leaves a Spanish review, it'll reply
+back in Spanish. And then review source,
+you can um set it up on Google. You can
+also do it on Facebook as you can see
+here. So it'll auto reply and use AI to
+reply to all the Facebook reviews as
+well as Google. And then right here,
+review type. You can say uh I only want
+it to reply to my four and five star
+reviews. I typically will set it up to
+reply to all reviews. We only we don't
+want just the high reviews to get
+replied to. We want the low ones to get
+replies as well. And then you can have a
+footer at the bottom of all the all the
+Google review replies saying, you know,
+thank you and then the name of the
+business. And then you save that. And
+now it'll auto reply using AI to all of
+the Google reviews uh that are left on
+the Google business profile and Facebook
+as well. If you guys want to sign up for
+GoHigh Level, this is the software I use
+here, and that's where I build all of my
+smart websites as well that we build to
+help our clients rank with their SEO,
+you guys can get a 30-day free trial of
+it down below this video. And if you use
+my link, go High Leo pays me a
+commission. So, in return, I'll jump on
+two free Zoom calls with you every
+single week for life. And I'll help you
+grow your agency, and I'll give you over
+50 plus custom smart website templates
+that were built by my amazing web
+designer, Mike. And you get those
+absolutely free just for using my
+affiliate link down below. If you use
+the seven AI SEO cheat codes that I just
+showed you, you can get almost any local
+business ranked on the first page of
+Google and top five on Google Maps
+within just 3 to 4 months. But there are
+still a lot of other moving parts to
+running a successful agency that I
+wasn't able to cover in this video. So,
+if you want to learn how to start, set
+up, and scale your own smart website
+agency, then check out my free Highle
+Quest community down below.

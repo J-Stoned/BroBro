@@ -1,0 +1,49 @@
+---
+Title: Call Events Not Working for Twilio
+Category: Phone System
+URL: https://help.gohighlevel.com/support/solutions/articles/48000981465-call-events-not-working-for-twilio
+Word Count: 300
+Scraped: 2025-10-29T01:40:47.516006
+---
+
+TABLE OF CONTENTS
+Step 1: Go to the Account dropdown on the top-right menu, click on Subaccounts
+Step 2: If there are too many subaccounts inside Twilio, you can go back to HighLevel and copy the Account SIN for that location to search in Twilio:
+Step 3: Search based on the Twilio Subaccount SID in HighLevel agency settings -> Twilio
+Paste the Account SID here and click on it:
+Step 4: Click into the subaccount so you will see there's an orange text on the top left:
+Step 5: Click Monitor -> Logs -> Calls
+Frequently Asked Questions
+Troubleshooting tips when call events don't seem to be working:
+Step 1: Go to the Account dropdown on the top-right menu, click on Subaccounts
+https://console.twilio.com/
+Step 2: If there are too many subaccounts inside Twilio, you can go back to HighLevel and copy the Account SIN for that location to search in Twilio:
+https://app.gohighlevel.com/settings/twilio
+Step 3: Search based on the Twilio Subaccount SID in HighLevel agency settings -> Twilio
+Paste the Account SID here and click on it:
+Step 4: Click into the subaccount so you will see there's an orange text on the top left:
+Step 5: Click Monitor -> Logs -> Calls
+Frequently Asked Questions
+Currently no frequently asked questions. Submit feedback on this article to help is add questions to this section!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

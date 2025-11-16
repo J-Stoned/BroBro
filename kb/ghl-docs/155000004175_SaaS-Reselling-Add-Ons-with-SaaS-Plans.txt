@@ -1,0 +1,43 @@
+---
+Title: SaaS: Reselling Add-Ons with SaaS Plans
+Category: Agency View
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004175-saas-reselling-add-ons-with-saas-plans
+Word Count: 272
+Scraped: 2025-10-29T01:39:52.841910
+---
+
+The SaaS Configurator now lets you add and resell additional products alongside your SaaS plans, right within the configurator itself. Before, only WordPress and Yext could be bundled with SaaS plans, but now you can include any of the reselling products offered. This update makes it easier for agencies to customize their SaaS offerings, meet customer needs, and support a wider range of products.
+Why is This Change Important?
+The ability to add additional products with your SaaS gives customers freedom to bundle additional products such as WhatsApp with their SaaS products.
+How Does It Work?
+Here’s how the updated feature operates:
+1.    Product Setup:
+Agencies configure which reselling products they want to include in a SaaS plan.
+2.    Purchase and Activation:
+When someone buys the SaaS plan, the system sends a message to the reselling service with all the details of the sale and configuration.
+3.    Subscription Creation:
+The reselling service then creates subscriptions for each product that’s part of the SaaS bundle.
+Important Note
+Any changes made to the bundle configurations will only affect new sub-accounts created with the SaaS plan in the future. Existing sub-accounts will not be affected by these changes.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

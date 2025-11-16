@@ -1,0 +1,47 @@
+---
+Title: Branded Mobile App Builder: In-app Form and Customizer
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004168-branded-mobile-app-builder-in-app-form-and-customizer
+Word Count: 368
+Scraped: 2025-10-29T01:44:58.743720
+---
+
+This article provides guided steps for launching branded apps. Key features we have covered in this article are color-coded progress tracking, in-app help links, and personalized branding. This ensures that users stay on top of each step, preventing delays and guesswork when they're launching their first app.
+Why we built Branded Mobile App Builder
+Launching a branded app can be overwhelming and complex, with many moving parts that often leave users confused or uncertain about their progress. With this release, we aim to empower businesses to bring their branded apps to market faster, helping them showcase their unique identity and engage their audience seamlessly.
+Below is the Break Down of Each Item :
+In-App Help:
+Get quick access to helpful articles and setup guides right in the app. Just tap the help icons and text whenever you need support.
+Progress Tracking:
+Now each step is color-coded—blue means in progress, and red shows if something needs fixing. This way, you’ll always know where you are in the process.
+Personalized Branding:
+Customize your branding and profile details so your app reflects your unique brand identity.
+Submit with Confidence:
+Once everything is ready, you can review and submit your app. After that, we’ll handle the rest, and you’ll be on your way to publishing.
+In-App Notifications:
+Receive timely notifications for any pending tasks or steps that need attention.
+Your App Goes Live:
+Finally, the moment you’ve been waiting for! Once your app is live, share it with your users and proudly represent your brand.
+Ready to bring your branded app to life? Head to Subaccount > Client Portal > Branded Mobile App to get started! In just a few clicks, you’ll be on your way to launching your own app. Let’s make it live!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,42 @@
+---
+Title: Accessibility at HighLevel
+Category: Customer Support
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006779-accessibility-at-highlevel
+Word Count: 205
+Scraped: 2025-10-29T01:39:39.128330
+---
+
+Accessibility at HighLevel
+HighLevel is dedicated to building digital experiences that work for everyone. We are constantly improving our platform to meet WCAG 2.1 Level AA accessibility standards and support users of all abilities.
+Our Planned Process
+Implementing systematic accessibility improvements across core platform features
+Integrating accessibility testing in our quality assurance process
+Prioritizing customer-facing tools and functionality based on user feedback
+Conducting third-party accessibility audits to validate our compliance efforts and guide development priorities
+While HighLevel is committed to providing accessible features and tools, customers are responsible for ensuring their own compliance with applicable accessibility laws. For questions about your specific obligations, we recommend consulting with qualified legal or accessibility professionals.
+Getting Help
+For accessibility support or to report barriers, contact
+legal@gohighlevel.com.
+Last Updated: October 24, 2025
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

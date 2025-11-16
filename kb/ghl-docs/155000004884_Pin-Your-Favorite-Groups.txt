@@ -1,0 +1,89 @@
+---
+Title: Pin Your Favorite Groups
+Category: GoKollab
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004884-pin-your-favorite-groups
+Word Count: 343
+Scraped: 2025-10-29T01:59:52.155740
+---
+
+Overview
+To help users navigate faster and stay connected to their most important groups, GoKollab now allows you to
+pin your favorite groups
+for quick access. Pinned groups are displayed at the top of the dedicated group sidebar, making it easier to jump into the spaces you use most.
+Whether you're in
+GoKollab
+or within your
+Communities
+, this feature ensures your top groups are just a click away.
+Key Benefits
+Quickly access your most-used groups
+Keep key groups visible at all times
+Simplifies navigation within both GoKollab and Communities
+How Group Pinning Works?
+Users can pin up to
+4 groups
+in both
+GoKollab
+and
+Communities
+.
+In
+GoKollab
+,
+only pinned groups
+are shown in the group sidebar.
+In
+Communities
+,
+pinned groups appear first
+, followed by the remaining groups under the sub-account.
+How to Pin a Group?
+Open the
+Group Switcher
+(located in the top navigation bar).
+Scroll to find the group you want to pin.
+Hover over the group card to reveal a
+pin icon
+on the right.
+Click the pin icon to pin the group.
+The group will now appear at the
+top of the sidebar
+and in the
+Group Switcher
+.
+How to Unpin a Group?
+Open the
+Group Switcher
+.
+Locate the pinned group at the top.
+Click the
+unpin icon
+on the right of the pinned group card.
+The group will return to its default position in the list.
+Notes:
+You can pin a maximum of
+4 groups
+per view (GoKollab and Communities).
+This feature is purely for ease of navigation—it doesn’t affect group visibility for other members.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

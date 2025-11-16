@@ -1,0 +1,36 @@
+---
+Title: Workflow Recipes - Facebook comments + Workflow AI
+Category: Workflows
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004659-workflow-recipes-facebook-comments-workflow-ai
+Word Count: 162
+Scraped: 2025-10-29T01:47:26.605891
+---
+
+Create a workflow from this recipe to get an example of an AI-customized reply comment that also sends a DM only if the comment was positive.
+Trigger: fires on any first level comment in the post.
+Action: send the comment to OpenAI with a short prompt asking for a good response.
+Action: reply in comments with the AI response.
+Action: send the original comment to OpenAI for a sentiment analysis and split the workflow by positive or negative.
+Action: when positive, send an interactive DM.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

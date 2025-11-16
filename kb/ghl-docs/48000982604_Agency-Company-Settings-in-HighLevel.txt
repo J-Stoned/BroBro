@@ -1,0 +1,257 @@
+---
+Title: Agency Company Settings in HighLevel
+Category: Settings
+URL: https://help.gohighlevel.com/support/solutions/articles/48000982604-agency-company-settings-in-highlevel
+Word Count: 1769
+Scraped: 2025-10-29T01:50:22.350572
+---
+
+This article will show you how to update and personalize your Agency Company Settings in HighLevel! From updating your agency's name, email, and logo to adding custom code or enabling powerful features like AI and advanced triggers, this guide walks you through every tab and option available in the updated UI.
+TABLE OF CONTENTS
+Key Benefits of Agency Company Settings
+What are Agency Company Settings (and How do you access Them)?
+Part 1: Basic Details Tab
+Part 2: Whitelabel Tab
+Part 3: Advanced Settings
+Frequently Asked Questions
+Related Articles
+Key Benefits of Agency Company Settings
+Agency Company Settings enhance your ability to deliver a professional, consistent, and flexible experience across all HighLevel accounts under your agency.
+Customize branding for your login portal and interface
+Control agency-wide contact information and address
+Add custom code (JS/CSS) to tailor platform appearance and function
+Toggle advanced tools like AI Employees and Premium Triggers
+Configure whitelabel and API domains for seamless branding
+Set session timeout, time zones, and client-facing experience settings
+What are Agency Company Settings (and How do you access Them)?
+Agency Company Settings
+is your central control panel for managing your agency's identity, branding, and global platform settings across all subaccounts. From customizing your logo and login domain to enabling powerful tools like Workflow AI or Template Libraries, everything starts here. You can find these settings inside your
+Agency Dashboard
+by following these steps:
+Step 1
+: Click the
+Settings
+gear icon on the bottom-left navigation panel and select the
+Company
+tab at the top.
+Step 2
+: Explore the three primary tabs, which are explained in detail below:
+Basic Details
+– Core business information, location, and toggles for agency-wide features.
+Whitelabel
+– Custom logos, domains, legal policy links, and styling with custom code.
+Advanced Settings
+– Security preferences, session timeouts, onboarding optimization tools.
+Part 1: Basic Details Tab
+The Basic Details Tab is where you set the foundation of your agency’s identity inside HighLevel. From your business name and niche to contact info and feature toggles, this area sets the tone for your agency across the platform.
+1. Company Info & Identity
+Update basic company details, such as your agency’s name, contact info, and website to ensure consistent branding across the platform. These fields form the foundation of your agency’s identity and appear in client-facing areas like login portals, email templates, and system-generated messages.
+Company Name, Email, Phone
+– Your main business identifiers used in headers, emails, and system elements.
+Website URL
+– This adds credibility and is referenced in white-labeled experiences.
+Business Category & Niche
+– Helps personalize HighLevel features for your industry.
+Usage Type
+– Define if you're an agency or a business using HighLevel directly.
+2. Company Address & Time Zone
+Address, City, State, Zip, Country
+– Used in system templates and for compliance
+Time Zone
+– Affects automation timing, workflow logs, and campaign accuracy
+3. Feature Toggles
+Enable or disable agency-level tools and automation helpers:
+AI Employee
+– A Smart assistant to handle repetitive tasks. For more, visit
+AI Employee Overview
+.
+Workflow AI
+– Inject AI logic into workflows. For more, visit
+How to Enable and Rebill Workflow AI?
+Auto-complete Address
+– Improve form usability for clients. For more, visit
+How To Use and Rebill Auto-Complete Address
+LC - Premium Triggers & Actions -
+LC Premium Triggers & Actions will be used in workflows. For more, visit
+How to enable and rebill LC Premium Triggers & Actions for Workflows
+Domain Purchase
+– Allow clients to buy domains inside the platform. For more visit
+How to Enable and Rebill Domain Purchase?
+Template Library
+– Share funnels, websites, and templates. For more, visit
+Template Library Overview & Setup
+.
+Part 2:
+Whitelabel Tab
+The Whitelabel tab lets you fully customize your agency’s branding for client-facing experiences. Add your logo, use your own domains, and maintain compliance with legal policies.
+1. Logo & Branding
+Upload your agency logo to display in key client-facing areas such as the login screen, app header, and system-generated emails. A clear, professional logo helps reinforce your brand identity across the platform.
+Recommended logo size: 350px * 180px. No bigger than 2.5 MB
+Appears in:
+Login screen
+App header
+Notification emails
+Some widgets and form footers
+2. Custom Domains
+Set up your own custom domains to completely white-label the login experience and link tracking. These domains remove HighLevel branding from your client interactions and increase trust and professionalism.
+Whitelabel Domain
+– Branded domain for your desktop login portal. For more, visit
+How to Set Up a Whitelabel Domain for the Desktop Web App
+.
+API Domain
+– Customize system-generated links in HighLevel by configuring branded (API) domains at both the Agency and Sub-account levels. For more, visit
+Branding System-Generated Links (API Domain)
+.
+3. Policy URLs
+Ensure legal compliance and transparency by linking to your agency’s Privacy Policy and Terms & Conditions. These links appear in widgets, forms, and login pages where needed.
+Privacy Policy URL
+– Required for compliance in most public-facing widgets
+Terms & Conditions URL
+– Helps clients understand their usage obligations
+For more, you can refer to
+GDPR Compliance and Data Privacy
+4. Custom Code (JS & CSS)
+Use custom code to style your agency dashboard and add third-party tools or custom logic.
+Custom JavaScript
+: For live chat widgets, Google Analytics, tracking pixels, etc.
+Custom CSS
+: For styling the platform, hiding elements, and adjusting branding.
+IMPORTANT
+: Custom JS/CSS is powerful but unsupported. Changes made to HighLevel’s core UI may break your code. Always test thoroughly.
+Custom CSS: What You Can & Cannot Customize
+Custom CSS allows you to adjust the look and feel of HighLevel’s interface, but it’s important to know what’s supported and what is not. Below are safe customization options, practical examples, and areas you should avoid.
+What You Can Customize
+You can safely adjust styling for client-facing and dashboard elements.
+Login Page
+/* Change login button color */ .login__button {  background-color: #2E86C1 !important; }
+ /* Resize login logo */ .login__logo img {  max-height: 80px !important; }
+Agency/Account Sidebar
+/* Hide Opportunities tab */ .hl_navItem[data-id="opportunities"] {  display: none !important; }
+ /* Change sidebar background */ .hl_sidebar {  background: #1F2937 !important; }
+Header Bar
+/* Change top header background */ .hl_topHeader {  background: #111827 !important; }
+Calendars & Form Widgets
+/* Adjust form field styling */ .hl_formField input {  border-radius: 8px !important;  border: 2px solid #2E86C1 !important; }
+Funnels & Websites
+Each funnel step has its own CSS panel.
+The global CSS panel applies across steps.
+What You Cannot (or Should Not) Customize
+Avoid applying CSS to the following areas, as it may cause errors or break after updates:
+Mobile apps (iOS/Android) — CSS is not supported.
+React pop-ups (e.g., Payments modals).
+Back-end generated PDF invoices/receipts.
+Core drag-and-drop builder UI (elements may shift after updates).
+Any element without a stable
+class
+or
+data-id
+.
+Caution : After any platform update, re-check your CSS with Chrome DevTools. Unsupported overrides may stop working and can cause blank screens or broken layouts.
+
+Always wrap your rules in
+<style>...</style>
+when pasting into the
+Custom CSS
+editor.
+Right-click on the element in your HighLevel dashboard.
+Select
+Inspect
+to open Chrome DevTools.
+Copy the selector.
+Paste it into
+Company Settings → Whitelabel → Custom CSS
+.
+Save changes.
+5. Theme Selection
+Choose your agency dashboard’s default theme to match your brand or personal preference. This does not affect your sub-accounts’ dashboards—only your agency-level view.
+Light Mode
+– Clean, bright appearance.
+Dark Mode
+– Modern, high-contrast interface.
+Part 3: Advanced Settings
+The Advanced Settings Tab
+allows you to secure your agency account, manage session behavior, and enhance the onboarding experience for your clients. This section includes toggles for key productivity features, early access tools, and platform security controls that affect both your agency and your subaccounts.
+Configuring this area properly helps prevent unauthorized access, improves the user experience for clients, and ensures smoother operations across your agency.
+Use Case Matrix
+Feature
+Use Case
+Best Practice
+Enhanced Security
+Protect agency and client data
+Always enable unless using legacy APIs
+Session Timeout
+Limit exposure on shared devices
+Choose 30–60 mins for most agencies
+NPS Survey
+Get client satisfaction insights
+Enable for service-based agencies
+Product Guides
+Reduce client onboarding workload
+Ideal for onboarding new SaaS clients
+Daily Updates
+Encourage lead follow-up
+Great for real estate or sales-focused clients
+Beta Features
+Access unreleased tools early
+Enable only if you’re prepared to test actively
+1. Enhanced Account Security
+Enable Enhanced Account Security to limit exposure to unauthorized API access and protect your agency’s data. This is especially important for agencies that have developers or third-party apps interacting with the platform via API.
+What it does:
+Disables auto-generation of legacy API keys
+Restricts CRUD access to sensitive API endpoints
+Prevents accidental data leaks due to open access
+For more, visit
+Enhanced Account Security
+.
+2. Session Timeout
+Control how long users can remain logged into HighLevel without activity. This feature helps secure your agency's platform access by logging out inactive users after a set duration.
+Available options typically include:
+15 minutes
+1 hour
+4 hours
+8 hours
+12 hours
+1 day
+2 days
+3 days
+Never
+This is especially useful in shared office environments or when accessing HighLevel on public or team devices.
+3. Optimize Experience Settings
+This section lets you turn on or off client-facing tools designed to improve onboarding, engagement, and feedback collection. These tools are designed to help clients understand the platform and take action faster.
+For more, visit
+Optimize Experience Features
+.
+Frequently Asked Questions
+Q: Which settings affect my clients’ experience the most?
+The Whitelabel and Optimize Experience sections directly impact what your clients see and interact with.
+Q: Can I use different domains for login and system links?
+Yes. The Whitelabel Domain controls the login portal. The API Domain controls tracking links in SMS/email.
+Q: Should I enable Enhanced Security?
+Yes, unless you use legacy API keys for external tools. Enabling it is best for data safety.
+Q: Can I upload a custom font or UI color theme?
+Only with Custom CSS inside the Whitelabel tab.
+Related Articles
+How to Set Up a Whitelabel Domain for the Desktop Web App
+How to change Agency's address in HighLevel?
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

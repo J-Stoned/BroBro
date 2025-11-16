@@ -1,0 +1,114 @@
+---
+Title: How to Integrate Google Business Profile (GBP) With HighLevel
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/48001222899-how-to-integrate-google-business-profile-gbp-with-highlevel
+Word Count: 848
+Scraped: 2025-10-29T01:57:32.221924
+---
+
+Connecting your Google Business Profile (GBP) allows you to manage reviews, messages, and your online reputation directly inside the CRM. This integration ensures you never miss customer interactions from Google Search or Maps while streamlining your communication and reputation management in one place. In this article, you can expect to learn what GBP integration is, the key benefits, setup steps with screenshots, and answers to common questions so you feel confident completing the process.
+TABLE OF CONTENTS
+What is Google Business Profile Integration?
+Key Benefits of Google Business Profile Integration
+How to Setup Google Business Profile Integration
+Frequently Asked Questions
+What is Google Business Profile Integration?
+Google Business Profile (formerly Google My Business) is a free tool by Google that lets businesses manage how they appear across Google Search and Maps. By integrating GBP with HighLevel, businesses can sync customer messages, reviews, and reputation data into the CRM.
+Connecting your GBP ensures all Google customer interactions flow into your CRM. This allows you to respond faster, manage reputation more effectively, and centralize communications alongside other channels like SMS, email, and Facebook.
+Key Benefits of Google Business Profile Integration
+Integrating GBP into HighLevel goes beyond simply connecting accounts. It enhances how your business communicates with prospects and customers by providing visibility and tools directly in the CRM.
+Centralized Reviews
+: New Google reviews automatically sync into Conversations, allowing you to reply without leaving HighLevel.
+Messaging Integration
+: GBP messaging (from Google Search and Maps) is enabled and flows into Conversations for quick replies.
+Reputation Tracking
+: Monitor and manage reviews inside the Reputation tab.
+Increased Visibility
+: Keep your business profile active, encouraging customer engagement and better local SEO.
+Streamlined Workflow
+: Manage Google interactions alongside other CRM integrations like Facebook, Instagram, and SMS.
+How to Setup Google Business Profile Integration
+Proper setup ensures a seamless flow of Google reviews and messages into your CRM. The steps below walk you through connecting and verifying your GBP with HighLevel.
+Open Settings
+From the left-hand menu of your Sub-Account dashboard, scroll down and click on
+Settings
+. This is where you’ll manage all account-level configurations, including integrations.
+Access Integrations
+Within the Settings menu, click on
+Integrations
+. This section allows you to connect external tools and accounts, including Google Business Profile, for seamless syncing.
+Connect Google Account
+Sign in with your Google account and authorize access. Once connected successfully, the account will display a
+Connected
+status, confirming the integration is active.
+Log in with the Google account that has
+Owner or Manager access
+to the GBP location(s).
+Select Google Business Profile
+In the Integrations tab, locate
+Google Business Profile
+and click
+Connect
+. This begins the process of linking your verified business profile to your HighLevel account.
+Your business must already have a verified Google Business Profile to proceed.
+Choose Business Location
+Select the appropriate Google Business Profile location from the list. If multiple pages are available, tick the box next to the correct business before proceeding to connect.
+Enable Call Tracking
+Toggle on
+GBP Call Tracking
+if you want to track customer calls made through your Google Business Profile. This helps capture valuable call data directly within HighLevel.
+Confirm Connection
+After selecting your business and preferences, click the
+Connect
+button. This finalizes the setup and links your Google Business Profile to HighLevel.
+Verify Connection Status
+Once connected, you will see your
+Google Business Profile icon
+at the top with a
+green Connected status
+and a refresh option to sync data. Below, the
+Connected Pages
+section shows the specific business name linked. You can use
+Manage Pages
+to update locations,
+Disconnect
+to remove the integration, and check if
+Call Tracking
+is enabled or disabled at the bottom.
+Frequently Asked Questions
+Q: Can I connect multiple GBP locations to HighLevel?
+Yes, but you’ll need to repeat the connection steps for each location using the same or different Google accounts with proper access.
+Q: What happens if my connection fails?
+Check that your Google account has the correct permissions (Owner or Manager). If issues persist, disconnect and reconnect GBP from Settings > Integrations.
+Q: Do reviews and messages sync instantly?
+Yes, reviews and messages appear in the Conversations stream in near real-time once connected.
+Q: Can I disconnect my GBP later?
+Yes. Simply go to Settings > Integrations and click
+Disconnect
+next to your Google Business Profile.
+Q: Do I need a verified GBP before connecting?
+Yes, your business must be verified with Google before integration will work.
+Q: Does connecting GBP enable Google Messaging automatically?
+Yes. Once integrated, GBP messaging will be enabled and customer messages will flow into Conversations tab inside your CRM platform.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

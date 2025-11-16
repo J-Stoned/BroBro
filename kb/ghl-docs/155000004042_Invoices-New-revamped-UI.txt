@@ -1,0 +1,50 @@
+---
+Title: Invoices - New revamped UI
+Category: Payments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004042-invoices-new-revamped-ui
+Word Count: 349
+Scraped: 2025-10-29T01:49:23.476003
+---
+
+What’s New?
+We’ve revamped the invoice design with a fresh layout, featuring a preview on the right side and editing options on the left.
+You can switch to this new design using the banner at the top and enabling it from the Labs section.
+This makes it super easy for the users to start and send their first invoice
+How to Use?
+Access the New Design:
+Click the banner at the top of the invoice page to switch to the new layout. Make sure to enable it from the Labs section.
+Editing Your Invoice:
+On the left side, fill in your invoice details such as customer information, line items, and totals. Use the toolbar to add elements like Late Fees, Tips, and Payment Schedules, which are still fully functional and available.
+Inline Product Addition
+: Now you can simply type in a product's name and hit enter to add it on the go making it super simple to send an invoice quickly.
+Previewing Changes:
+As you make edits, the real-time preview on the right side updates automatically, allowing you to see how the invoice will look for your customers.
+Recurring Invoices:
+When you create your first recurring product, the system will automatically set the recurring nature of that invoice. .
+Final Review and Save:
+Once you’ve completed your invoice, review the preview for any last-minute changes, and click “Save” to finalize and send to send it out.
+Why We Built This?
+This redesign aims to improve user experience with a more straightforward and appealing layout.
+The new setup makes it easier for users to edit and preview invoices, streamlining the invoicing process.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

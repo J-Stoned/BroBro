@@ -1,0 +1,40 @@
+---
+Title: Bulk Edit Opportunities
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000003097-bulk-edit-opportunities
+Word Count: 175
+Scraped: 2025-10-29T01:44:22.091353
+---
+
+Bulk Edit Opportunities feature is designed to streamline your workflow by allowing you to update multiple fields across multiple opportunities simultaneously.
+Step 1: Navigate to Opportunities > List View.
+Step 2: Select Opportunities
+Choose multiple opportunities that you wish to edit and click on the Edit button at the top.
+Step 3: Update Fields
+Select the fields you want to update and enter the new information
+Step 4: Apply Updates
+Click on Confirm to apply your changes.
+Step 5: Monitor Progress
+Head over to the Bulk Actions page to monitor the progress, review successes, and identify any errors.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

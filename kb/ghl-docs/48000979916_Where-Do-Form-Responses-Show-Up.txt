@@ -1,0 +1,33 @@
+---
+Title: Where Do Form Responses Show Up?
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/48000979916-where-do-form-responses-show-up-
+Word Count: 172
+Scraped: 2025-10-29T01:45:01.918530
+---
+
+Forms will help you capture information about contacts that fill out and submit the form. In order to view this information, start by navigating to "Sites" > "Forms" (at the top of the screen) > "Submissions"
+where, you will be able to filter or search through form submissions and view the information that was provided on a particular form submission.
+If you are using custom fields on your forms, those will also be shown in the Contact Details page which you can access by navigating to "Contacts" > (then search or click on any Contact).
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

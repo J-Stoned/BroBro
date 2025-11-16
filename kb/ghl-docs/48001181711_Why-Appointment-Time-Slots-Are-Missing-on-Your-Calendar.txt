@@ -1,0 +1,129 @@
+---
+Title: Why Appointment Time Slots Are Missing on Your Calendar
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/48001181711-why-appointment-time-slots-are-missing-on-your-calendar
+Word Count: 876
+Scraped: 2025-10-29T01:48:57.775992
+---
+
+This article will help you identify why specific appointment timeslots are either not showing when they should, or appearing when they shouldn't on your HighLevel calendar. Whether you're using a standard or round robin calendar, we'll walk you through the most common causes and how to fix them—so you can get back to booking smoothly!
+TABLE OF CONTENTS
+What is Time Slot Visibility in HighLevel?
+Key Benefits of Understanding Time Slot Visibility
+How to Troubleshoot Missing or Unexpected Time Slots
+Calendar Settings
+Slot Duration, Buffers & Interval Settings
+External Conflicts & Calendar Sync
+Timezones
+Use the Calendar Troubleshooting Tool
+Frequently Asked Questions
+Related Articles
+What is Time Slot Visibility in HighLevel?
+Time slot visibility refers to whether or not appointment booking slots appear to your clients on your public calendar. These slots are determined by a combination of factors—calendar settings, user availability, buffer times, external conflicts, and Round Robin logic. When something’s misconfigured, you may run into issues like:
+A user is available but their time slots are missing
+Time ranges are open but not bookable
+The calendar shows more (or fewer) times than expected
+Understanding how these variables interact is essential to diagnosing the issue.
+Key Benefits of Understanding Time Slot Visibility
+Knowing how calendar logic works helps you reduce missed bookings, improve user experience, and troubleshoot faster.
+Identify configuration issues faster
+Avoid overlapping or conflicting calendar events
+Optimize team availability with correct Round Robin settings
+Use the built-in Troubleshooting Tool for deeper insights
+Minimize client friction during booking
+How to Troubleshoot Missing or Unexpected Time Slots
+Time slot issues can result from multiple overlapping factors. Use the grouped checklist below to methodically diagnose and correct visibility problems.
+Calendar Settings
+Calendar configurations are the foundation of availability logic. Incorrect selections here are a common cause of visibility issues.
+Check that you're viewing the correct calendar.
+Go to
+Calendars > Calendar Settings
+. Click
+Edit
+on desired calendar. Confirm you are working inside the intended calendar by checking calendar name, calendar group and calendar type.
+Verify working hours and custom date availability
+Click
+Edit
+on the desired calendar. Visit the calendar's
+Availability
+tab and confirm that:
+Weekly hours are properly set.
+Date-specific overrides haven’t blocked times.
+Learn more about availability settings.
+Confirm the correct user(s) or team is assigned
+Availability is based on the assigned users. Check under Team Members Assigned by clicking edit on desired calendar then using the dropdown named
+Select
+Te
+am Member & Assign Meeting Location
+in the Service Details tab.
+Slot Duration, Buffers & Interval Settings
+How your slots are spaced—and buffered—can create gaps or block slots entirely.
+Check your slot interval, duration and buffer settings.
+These control how often time slots appear and how long they are. To edit, Go to
+Settings
+→
+Calendars
+. Click on the calendar you want to edit. In the calendar editor, navigate to the
+A
+vailability
+tab. Scroll to the
+Slot Duration, Post Buffer Time
+and
+Slot Interval
+fields and a
+djust the values to match your service needs.
+External Conflicts & Calendar Sync
+Connected calendars can block availability based on busy times. Check for events blocking slots in synced Google/Outlook calendars.
+External calendar events—if marked busy—will block slots on the internal calendar.
+Learn more on how conflicts work
+Timezones
+Timezone mismatches are a hidden but common issue, especially across teams or international clients.
+Make sure all timezones align
+Double-check both your user profile settings and the client’s calendar view to make sure A 3 PM slot for one user could be 10 AM for another.
+Use the Calendar Troubleshooting Tool
+Use the Troubleshooting Tool to understand slot logic
+This built-in feature breaks down exactly why a time slot is blocked. To access the tool, Navigate to Calendar Settings, locate the calendar you want to troubleshoot, and select Troubleshoot Calendar (Wrench Icon).
+Learn More on how to use the Calendar Troubleshooting Tool
+Frequently Asked Questions
+Q: Why does a team member show available but isn’t getting booked?
+The Round Robin logic may be skipping them due to prior assignments or availability priority settings.
+Q: Why are my booking slots not aligning with my working hours?
+This could be due to slot intervals, buffer times, or hidden external calendar conflicts.
+Q: Why do slots show up on some browsers but not others?
+Browser caching or mismatched timezone display can cause these inconsistencies.
+Q: Can I allow clients to pick their preferred team member?
+Yes, enable
+staff selection
+under the calendar’s settings if you're using Round Robin.
+Q: What does the troubleshooting tool show me?
+It lists every rule or condition blocking a specific slot, including time zone, buffer, user assignment, and more.
+Related Articles
+Round Robin Calendars: The Setup Guide
+Troubleshooting Tool for Calendar
+Adjusting Availability Settings
+Pre and Post Buffers
+Calendar Scheduling Conflicts
+A
+ppointment Distribution Logic
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

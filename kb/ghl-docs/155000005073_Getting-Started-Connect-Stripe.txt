@@ -1,0 +1,52 @@
+---
+Title: Getting Started - Connect Stripe
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005073-getting-started-connect-stripe
+Word Count: 263
+Scraped: 2025-10-29T01:39:11.294791
+---
+
+Ready to simplify your transactions? Stripe integration makes accepting credit card payments, subscriptions, and more straightforward and secure. Let's walk through setting it up together!
+Connect Stripe
+First, head over to your Payments section. This is where all the magic happens—integrating payment gateways to streamline your customer transactions.
+Navigate to
+Payments > Integrations
+. Here, you'll find popular options like Stripe, PayPal, Authorize.net, NMI, Manual Payment Methods (ex: cash on delivery, COD), and Square.
+Click
+Connect with Stripe
+. This will direct you to securely log in or create your Stripe account if you haven't done so already.
+Finally,
+authorize your Stripe account
+. This step ensures everything syncs smoothly and securely. When the integration is finished you can click
+Manage
+to edit the connection.
+Awesome job! Now your payments are ready to roll.
+Next
+, you can:
+Explore how to connect Stripe at the sub-account level for more tailored control.
+Learn how to import products and pricing directly from Stripe to save you time.
+Need a deeper dive? Check these out:
+How To Connect Stripe on the Sub-account Level
+Import Products / Price From Stripe
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,145 @@
+---
+Title: How Product Deletion Works
+Category: Payments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006063-how-product-deletion-works
+Word Count: 771
+Scraped: 2025-10-29T01:50:07.069312
+---
+
+This help document walks you through how to delete products in your account. You’ll learn the different ways you can delete a product, how bulk deletion works, and which types of products are protected from deletion to ensure ongoing processes aren’t disrupted.
+What does this feature do?
+What does this feature do?
+What do I need to use this feature?
+How to delete a product
+Option 1: From the Products List
+Option 2: From the Product Details page
+How to bulk delete products
+Restrictions: what you cannot delete (and why)
+SaaS products (SaaS Plans & Agency Plans)
+Calendars products
+Memberships/Communities products
+Prices & variants (SaaS, Calendars, Memberships/Communities)
+Frequently Asked Questions
+What does this feature do?
+Product deletion lets you permanently remove products you no longer need. To protect billing and customer access, the system blocks deletion for certain product types or when active/past_due subscriptions exist. In bulk actions, only eligible products are removed; protected items are skipped with clear messaging.
+Please note that deleting products doesn't necessarily delete the products that are already sold i.e. transactions, orders, invoices, subscriptions, etc. that already have this product, will continue to do so. It would only block future purchases of or actions on the product.
+What do I need to use this feature?
+Permissions:
+Role with
+Products → Delete
+(and
+Products → View
+).
+Navigation:
+Payments → Products
+(list and details pages).
+Awareness:
+Deletion is
+permanent
+and cannot be undone. Ensure the product isn’t required in active checkouts or by Calendars/Memberships or active SaaS subscription.
+How to delete a product
+Option 1: From the Products List
+Go to
+Payments → Products
+.
+Locate the product.
+Click the
+Delete (trash)
+icon.
+Confirm in the dialog.
+Option 2: From the Product Details page (Price / Variant deletion)
+Go to
+Payments → Products → Edit
+Click
+Delete Price
+. Note - This would only work if there is more than 1 price / variant available of the product, the last price / variant cannot be deleted.
+Note:
+If the delete control is disabled or you see a message about eligibility, review the “Restrictions” section below.
+How to bulk delete products
+Go to
+Payments → Products
+.
+Select multiple products with the checkboxes (or
+Select All
+).
+Click
+Delete
+under
+Bulk Actions
+.
+Review the confirmation message and confirm.
+Confirmation messages (what you’ll see):
+“Are you sure you want to delete these products? This action cannot be undone. Only products eligible for deletion will be deleted.”
+If a fixed count is shown (e.g., 10 selected):
+“Are you sure you want to delete these 10 products? This action cannot be undone. Only products eligible for deletion will be deleted.”
+Only eligible products are deleted; protected products remain.
+Restrictions: what you cannot delete (and why)
+To safeguard billing and feature integrity, the following rules apply:
+SaaS products (SaaS Plans & Agency Plans)
+Blocked if any active or past_due subscriptions exist
+on the product.
+Allowed
+only when
+no
+active/past_due subscriptions exist.
+If blocked, the delete control is disabled and the product remains.
+Calendars products
+Products created by
+Calendars
+cannot be deleted.
+The
+Delete
+CTA is hidden.
+Memberships/Communities products
+Products created by
+Memberships/Communities
+cannot be deleted.
+The
+Delete
+CTA is hidden.
+Prices & variants (SaaS, Calendars, Memberships/Communities)
+Saved
+prices/variants:
+cannot
+be deleted; the delete icon is disabled.
+Unsaved
+(just added, not saved yet) prices/variants:
+can
+be removed.
+Frequently Asked Questions
+Q: Why is the delete button not visible against my product?
+A: It’s either a Calendars or Memberships/Communities product (never deletable), or it’s a SaaS product with active/past_due subscriptions.
+Q: How do I delete a SaaS product that’s blocked?
+A: First resolve or cancel all
+active/past_due
+subscriptions tied to that product. Once none remain, the product can be deleted.
+Q: What happens in bulk delete if my selection includes protected products?
+A: Only eligible products are deleted. Protected items are skipped, and the confirmation dialog clarifies this behavior.
+Q: Can I delete a price/variant on a protected product?
+A: You can remove it only if it has
+not
+been saved yet. Saved prices/variants on SaaS, Calendars, or Memberships/Communities products cannot be deleted.
+Q: Is deletion reversible?
+A: No. Deletion is permanent. Confirm dependencies before proceeding.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

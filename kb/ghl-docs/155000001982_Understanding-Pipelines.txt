@@ -1,0 +1,119 @@
+---
+Title: Understanding Pipelines
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001982-understanding-pipelines
+Word Count: 577
+Scraped: 2025-10-29T01:43:44.432220
+---
+
+Pipelines in HighLevel are more than just lists of opportunities — they’re
+visual sales and workflow management tools
+that help you track every step of a lead or customer’s journey. Think of them as a
+digital assembly line
+: each opportunity moves from one stage to the next, giving you clarity on where things stand, what actions are needed, and where deals may be getting stuck.
+Pipelines can be accessed through:
+Sub-account > Opportunities > Pipelines
+In This Article
+Why Pipelines Matter
+Pipeline Stages
+Example Sales Pipeline Stages
+Example Service Business Pipeline Stages
+Best Practices
+1. Keep It Simple
+2. Define Clear Criteria
+3. Automate Smartly
+4. Use Visual Cues
+5. Review Regularly
+Data-Driven Optimization
+Use Cases
+Why Pipelines Matter
+Visibility
+: Instantly see where every lead, deal, or client stands.
+Consistency
+: Standardize your sales or service process so every customer gets the same experience.
+Efficiency
+: Automate repetitive tasks like reminders, follow-ups, or task assignments.
+Reporting
+: Track conversion rates, identify bottlenecks, and measure performance across the funnel.
+Pipeline Stages
+A pipeline is made up of
+stages
+, each representing a step in your sales or customer journey. Leads or clients move from left to right as they progress.
+Example Sales Pipeline Stages
+Lead Capture
+– New inquiries from forms, calls, or chats land here automatically.
+Qualification
+– Sales rep confirms budget, need, and fit.
+Appointment Setting
+– Discovery calls or demos are scheduled.
+Proposal/Negotiation
+– Quotes or offers are shared and discussed.
+Closing
+– Deal marked as Won or Lost.
+Example Service Business Pipeline Stages
+New Inquiry
+Discovery Call Booked
+Package/Service Chosen
+Payment Collected
+Onboarding
+Tip
+: Keep stages action-oriented and define clear rules for when an opportunity should move forward. For example, “Move to Appointment stage only when a meeting is confirmed in the calendar.”
+Best Practices
+1. Keep It Simple
+Avoid too many stages. Stick to the
+key steps that matter
+. Too much complexity leads to confusion and inefficiency.
+2. Automate Smartly
+Use pipeline triggers to save time:
+Auto-send follow-up emails if a lead is stuck in Qualification for 3 days.
+Assign tasks when a deal reaches the Proposal stage.
+3. Review Regularly
+Set aside time weekly or monthly to:
+Remove outdated opportunities
+Update stage definitions if your sales process changes
+Analyze conversion data
+Data-Driven Optimization
+Your pipeline isn’t just a tracker — it’s a
+diagnostic tool
+. Use reporting to answer:
+Where do leads drop off most often?
+Which stage takes the longest?
+What’s the win rate at each stage?
+Act on these insights to tighten your process, improve conversion rates, and create smoother customer journeys.
+Use Cases
+Real Estate Agency
+:
+New Lead → Property Tour → Offer → Contract Signed → Closed
+Coaching Business
+:
+Inquiry → Discovery Call → Program Chosen → Payment → Onboarding
+Agency Client Management
+:
+Lead → Strategy Call → Proposal → Agreement → Onboarded
+These examples can be adapted to fit almost any industry.
+Useful Links
+Understanding Opportunities
+Creating a pipeline
+Adding opportunities to pipelines
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

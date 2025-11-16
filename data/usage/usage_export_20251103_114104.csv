@@ -1,0 +1,6 @@
+timestamp,metric_type,endpoint,user_id,model,profile,input_tokens,output_tokens,cached_tokens,total_tokens,cost,latency_ms,success,error_type,metadata
+2025-11-03T11:41:04.344967,request,/api/workflow/generate,user_0,claude-sonnet-4.5,workflow-builder,10000,5000,2000,15000,0.1,1500,True,,
+2025-11-03T11:41:04.344967,request,/api/workflow/generate,user_1,claude-sonnet-4.5,workflow-builder,11000,5500,2000,16500,0.12000000000000001,1600,True,,
+2025-11-03T11:41:04.344967,request,/api/workflow/generate,user_0,claude-sonnet-4.5,workflow-builder,12000,6000,2000,18000,0.14,1700,True,,
+2025-11-03T11:41:04.344967,request,/api/workflow/generate,user_1,claude-sonnet-4.5,workflow-builder,13000,6500,2000,19500,0.16,1800,True,,
+2025-11-03T11:41:04.344967,request,/api/workflow/generate,user_0,claude-sonnet-4.5,workflow-builder,14000,7000,2000,21000,0.18,1900,True,,

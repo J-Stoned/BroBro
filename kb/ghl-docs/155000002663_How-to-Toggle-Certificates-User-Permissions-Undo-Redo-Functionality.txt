@@ -1,0 +1,37 @@
+---
+Title: How to Toggle Certificates User Permissions + Undo & Redo Functionality
+Category: Certificates
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002663-how-to-toggle-certificates-user-permissions-undo-redo-functionality
+Word Count: 181
+Scraped: 2025-10-29T01:56:36.361674
+---
+
+Users can now be granted access to the certificates module in the sub-account (location) level permissions.
+Undo/Redo in certificate builder
+Undo/Redo functionality is now available in the certificate builder.
+Users can now seamlessly control there edits, they can now also creatively experiment knowing they can backtrack if needed.
+Accessibility in certificate builder
+Introducing keyboard shortcuts in the certificate builder for quick actions such as previewing, saving, and undoing/redoing edits, providing users with greater control and convenience.
+Users can now utilize shortcuts like CTRL / ⌘ + Z for undo and CTRL / ⌘ + S for save in the certificate builder, enhancing workflow efficiency.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

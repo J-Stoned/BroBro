@@ -1,0 +1,38 @@
+{
+  "snapshot_name": "GHL Automations - Pressure Washing Snapshot",
+  "snapshot_id": "ghlautomations-pressure-washing",
+  "industry": "Pressure Washing / Home Services",
+  "use_case": "Complete pressure washing business automation from lead to payment",
+  "target_audience": "Pressure washing companies, home service contractors",
+  "pricing_model": "One-time ($297)",
+  "version": "1.0.0",
+  "last_updated": "2025-01-01",
+  "author": "GHL Automations",
+  "description": {
+    "overview": "Streamline your pressure washing operations with this fully-loaded snapshot. Includes lead capture, quote automation, appointment booking, customer communication, and review generation. Save time and achieve growth with proven automation workflows.",
+    "key_benefits": [
+      "Automated lead capture and follow-up",
+      "Instant quote request system",
+      "Appointment scheduling and reminders",
+      "Customer communication workflows",
+      "Review generation automation",
+      "Ready-to-use landing pages",
+      "Mobile-responsive funnels"
+    ],
+    "ideal_for": [
+      "Pressure washing businesses wanting to automate operations",
+      "New contractors needing a complete system",
+      "Established companies looking to scale"
+    ]
+  },
+  "components": {},
+  "tags": [
+    "pressure-washing",
+    "home-services",
+    "lead-generation",
+    "appointments",
+    "local-business"
+  ],
+  "source_url": "",
+  "scraped_from_marketplace": true
+}

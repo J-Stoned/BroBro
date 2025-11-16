@@ -1,0 +1,96 @@
+---
+Title: Add Custom Templates to Template Library
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001304-add-custom-templates-to-template-library
+Word Count: 744
+Scraped: 2025-10-29T01:42:53.179152
+---
+
+The Template Library is a collection of libraries with templates for specific products (email, funnels, etc). Agency Admins can add custom templates to the library(s).
+More Tutorials From the Community
+https://www.youtube.com/watch?v=2maiOckHb4E
+https://www.youtube.com/watch?v=gF2E0cIx_ok
+https://www.youtube.com/watch?v=ChDcDiQ5JG0
+TABLE OF CONTENTS
+Custom Templates Setup
+Add a Custom Template
+Frequently Asked Questions
+Custom Templates Setup
+Template Library Permissions
+- To add templates to the Template Library the agency must be on the $497/mo Pro plan.
+- Template Library must be toggled on in Agency Account > Settings > Company > Template Library for Clients
+- Users must have Agency Admin permissions to upload templates.
+Add a Custom Template
+Step 1: Navigate to the correct Product
+The Template Library is one function but to reduce confusion the Template Library only shows items from one Product at a time.
+Marketing Products
+If you want to add a
+Social Planner
+post as a template, navigate to Marketing > Social Planner > Content tab > CSV tab. Click on the 3-dot action menu next to the item you want to turn into a template and click Upload to social templates.
+For
+Email Templates
+, which are also called Templates (so they're Template Templates), navigate to Marketing > Emails > Templates tab > find the one you want then click the 3-dot action menu and Upload to email templates.
+Automation Products
+If you want to add a Workflow as a template, navigate to Automation > Workflows > find the one you want and click the 3-dot action menu and select Upload to Template Library.
+Sites Products
+If you want to add a
+Funnel, Website, Store, Blog, Email, Form, Survey, or Quiz
+as a template, navigate to Sites > [product] > find the one you want and click the
+3-dot action menu and select "Upload to [product] templates".
+Step 2: Name and Categorize the Template
+In the new modal titled "Upload to [product] templates" type a display name for the template and add it to a category. When you are satisfied, click Upload.
+Step 3: Edit Template in Admin Mode
+You will be taken to the admin mode to edit all of the library settings for the [product] template. You can edit:
+Name
+Category
+Preview
+Cover image:
+Upload a thumbnail or preview image to visually represent the template.
+Tags
+:
+Add searchable tags that help users quickly find your template (ex: New Years).
+Prerequisites
+: Specify requirements to use the functions in the template (ex: Stripe, email domain).
+Short Description
+:
+This is a quick summary that appears in the preview card of the Template Library
+.
+Long About
+: Everything else:
+detail use cases, content tips, or setup instructions, etc.
+This section supports basic formatting, so you can include feature highlights, usage instructions, or best practice tips. Think of it as a mini overview that helps users decide how and when to use the template.
+Step 4: Publish
+Once the template is ready, click Publish Template to make it public (this will make the template visible in subaccounts to be used by subaccount clients).
+The Subaccount clients will see the custom template like all other templates in their template library.
+The Agency will also see the custom template like other templates, but will have more options.
+Frequently Asked Questions
+Who can add or edit templates details in the Template Library?
+Only users with the Agency Admin role can add and manage templates.
+Is adding Custom Templates available on all plans?
+The option to add and manage custom Templates is only available on the $497/mo pro plan.
+If there are any updates in template added to template library, what happens?
+Changes made to the original source of the template will not flow through to the template in the Template Library.
+Can we hide/edit Templates already present in Template Library?
+The individual templates cannot be hidden, but Categories can be hidden, so if you add a template to only one Category, and that Category is hidden, then the Template will not appear in any Subaccount's view of the Template Library.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

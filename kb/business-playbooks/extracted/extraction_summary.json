@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-11-15T14:40:33.019680",
+  "books_processed": 5,
+  "output_directory": "kb\\business-playbooks\\extracted",
+  "results": [
+    {
+      "filename": "100M-Offers.pdf",
+      "title": "100M Offers: How To Create Irresistible Business Offers",
+      "output_file": "kb\\business-playbooks\\extracted\\100M-Offers_extracted.txt",
+      "characters": 118662,
+      "words": 8569,
+      "chunks": 149,
+      "status": "success"
+    },
+    {
+      "filename": "100M-Leads.pdf",
+      "title": "100M Leads: How To Get Strangers To Want To Buy Your Stuff",
+      "output_file": "kb\\business-playbooks\\extracted\\100M-Leads_extracted.txt",
+      "characters": 97587,
+      "words": 14728,
+      "chunks": 122,
+      "status": "success"
+    },
+    {
+      "filename": "100M-Money-Models.pdf",
+      "title": "100M Money Models: How To Design Your Business",
+      "output_file": "kb\\business-playbooks\\extracted\\100M-Money-Models_extracted.txt",
+      "characters": 253908,
+      "words": 45200,
+      "chunks": 318,
+      "status": "success"
+    },
+    {
+      "filename": "100M-Ads.pdf",
+      "title": "100M Ads: How To Get Customers Cheaply",
+      "output_file": "kb\\business-playbooks\\extracted\\100M-Ads_extracted.txt",
+      "characters": 105158,
+      "words": 19025,
+      "chunks": 132,
+      "status": "success"
+    },
+    {
+      "filename": "100M-Playbook-Lead-Nurture.pdf",
+      "title": "100M Playbook: Lead Nurturing Framework",
+      "output_file": "kb\\business-playbooks\\extracted\\100M-Playbook-Lead-Nurture_extracted.txt",
+      "characters": 76378,
+      "words": 13926,
+      "chunks": 96,
+      "status": "success"
+    }
+  ]
+}

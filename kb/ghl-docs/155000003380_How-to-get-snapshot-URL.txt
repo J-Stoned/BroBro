@@ -1,0 +1,38 @@
+---
+Title: How to get snapshot URL?
+Category: App Marketplace
+URL: https://help.gohighlevel.com/support/solutions/articles/155000003380-how-to-get-snapshot-url-
+Word Count: 159
+Scraped: 2025-10-29T01:56:07.104596
+---
+
+To add a snapshot to your app, follow these instructions.
+Step 1
+: Head to 'Account Snapshots' in the Agency view, and select the snapshot that you wish to sell via the app marketplace.
+Step 2
+: Select 'Share Snapshot' from the options and select 'Get Marketplace share link' from the available options.
+Step 3
+: Paste your snapshot link in the app and launch your app with snapshot!
+Paste your snapshot link in the app and launch your app with snapshot!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

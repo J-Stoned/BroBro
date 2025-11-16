@@ -1,0 +1,45 @@
+---
+Title: List View for Custom Objects
+Category: Custom Objects.
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004029-list-view-for-custom-objects
+Word Count: 206
+Scraped: 2025-10-29T01:59:11.393914
+---
+
+The
+List View
+for Custom Objects transforms how you can interact with your data by providing a detailed, streamlined, and customizable view. Here’s what you can do with it:
+TABLE OF CONTENTS
+Feature List:
+Custom Objects in a Listed View
+Sorting Across Fields
+Customizable Fields
+Feature List:
+Custom Objects in a Listed View
+See all your custom object records organized in a clear, tabular format, making it easier to scan through and locate the information you need quickly.
+Sorting Across Fields
+Easily sort your opportunities by any field, allowing you to prioritize and manage them more effectively.
+Customizable Fields
+Choose which fields to display in your list view. You can also resize and rearrange the fields as needed to tailor the view to your preferences including the associated fields.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

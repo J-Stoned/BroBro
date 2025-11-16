@@ -1,0 +1,49 @@
+---
+Title: How to Use the Kajabi Email Template Importer
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002542-how-to-use-the-kajabi-email-template-importer
+Word Count: 213
+Scraped: 2025-10-29T01:43:05.865586
+---
+
+Users can seamlessly import templates from Kajabi by simply sending it in an email from Kajabi to our dynamically generated email ID in just a few steps.
+Why We Did It?
+Simplicity: We wanted to ensure a straightforward importing flow that can be easily followed by both technical and non-technical users.
+Reusability: Providing the option to reuse already created templates from Kajabi enhances efficiency and saves valuable time.
+How to Import?
+Navigate to Email Marketing -> Templates in your account.
+Click on
+New -> Import
+Templates.
+Select
+"Kajabi"
+from the dropdown menu.
+Copy the dynamically generated email ID provided.
+Send the desired template as a test email or campaign to this email ID from your Kajabi account.
+Click on
+"Continue"
+to start the import.
+Specify the desired name for this Template and click on
+"Create Template"
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

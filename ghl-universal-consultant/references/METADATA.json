@@ -1,0 +1,460 @@
+{
+  "structure_version": "2.0",
+  "last_updated": "2025-11-14",
+  "content_types": ["transcripts", "pdfs", "documentation", "case-studies", "workflows", "code-examples"],
+  "domains": ["ghl", "hormozi", "cannabis", "business-strategy", "marketing", "development"],
+  
+  "transcripts": {
+    "ghl": [
+      {
+        "filename": "100m_lead_nurture_playbook_alex_hormozi.txt",
+        "path": "transcripts/ghl/100m_lead_nurture_playbook_alex_hormozi.txt",
+        "title": "$100M Lead Nurture Playbook - Alex Hormozi",
+        "author": "Alex Hormozi",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "Lead Generation & Nurturing",
+        "subcategories": ["Lead Nurturing", "Sales", "Conversion Optimization"],
+        "topics": [
+          "lead nurturing strategies",
+          "follow-up sequences",
+          "conversion optimization",
+          "sales funnel design",
+          "lead qualification",
+          "nurture campaigns"
+        ],
+        "keywords": [
+          "lead generation",
+          "nurturing",
+          "follow-up",
+          "conversion",
+          "sales funnel",
+          "lead magnet",
+          "qualification"
+        ],
+        "difficulty": "intermediate",
+        "duration_estimate": "long-form",
+        "best_for": [
+          "designing nurture sequences",
+          "improving conversion rates",
+          "lead qualification strategies",
+          "sales funnel optimization"
+        ]
+      },
+      {
+        "filename": "12_hour_ai_agency_tutorial.txt",
+        "path": "transcripts/ghl/12_hour_ai_agency_tutorial.txt",
+        "title": "12-Hour AI Agency Tutorial",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "AI & Automation",
+        "subcategories": ["AI Setup", "Chatbots", "Automation", "Agency Building"],
+        "topics": [
+          "AI agency setup",
+          "chatbot development",
+          "conversation AI",
+          "automation workflows",
+          "bot flow design",
+          "AI implementation"
+        ],
+        "keywords": [
+          "AI",
+          "chatbot",
+          "automation",
+          "conversation ai",
+          "bot flows",
+          "intent recognition",
+          "agency"
+        ],
+        "difficulty": "advanced",
+        "duration_estimate": "comprehensive",
+        "best_for": [
+          "building AI agencies",
+          "chatbot implementation",
+          "complete automation setup",
+          "AI workflow design"
+        ]
+      },
+      {
+        "filename": "austin_snider_spotlight_session.txt",
+        "path": "transcripts/ghl/austin_snider_spotlight_session.txt",
+        "title": "Austin Snider Spotlight Session",
+        "author": "Austin Snider",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "Platform Overview",
+        "subcategories": ["Best Practices", "Platform Training", "General Guidance"],
+        "topics": [
+          "platform overview",
+          "best practices",
+          "getting started",
+          "general training",
+          "platform features"
+        ],
+        "keywords": [
+          "overview",
+          "getting started",
+          "best practices",
+          "platform",
+          "training",
+          "spotlight"
+        ],
+        "difficulty": "beginner",
+        "duration_estimate": "medium",
+        "best_for": [
+          "platform introduction",
+          "understanding features",
+          "best practice guidance",
+          "general questions"
+        ]
+      },
+      {
+        "filename": "crm_contacts_pipelines_tutorial.txt",
+        "path": "transcripts/ghl/crm_contacts_pipelines_tutorial.txt",
+        "title": "CRM, Contacts & Pipelines Tutorial",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "CRM & Pipeline Management",
+        "subcategories": ["CRM", "Contact Management", "Pipeline Setup"],
+        "topics": [
+          "contact management",
+          "pipeline setup",
+          "opportunity tracking",
+          "deal stages",
+          "CRM configuration",
+          "custom fields"
+        ],
+        "keywords": [
+          "CRM",
+          "contacts",
+          "pipeline",
+          "opportunities",
+          "deals",
+          "stages",
+          "custom fields",
+          "tags"
+        ],
+        "difficulty": "beginner",
+        "duration_estimate": "medium",
+        "best_for": [
+          "CRM setup",
+          "contact organization",
+          "pipeline configuration",
+          "deal tracking"
+        ]
+      },
+      {
+        "filename": "domains_url_redirects_tutorial.txt",
+        "path": "transcripts/ghl/domains_url_redirects_tutorial.txt",
+        "title": "Domains & URL Redirects Tutorial",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "Technical Setup",
+        "subcategories": ["Domain Management", "DNS", "URL Configuration"],
+        "topics": [
+          "domain setup",
+          "URL redirects",
+          "DNS configuration",
+          "SSL setup",
+          "domain management",
+          "technical configuration"
+        ],
+        "keywords": [
+          "domain",
+          "DNS",
+          "URL redirect",
+          "SSL",
+          "CNAME",
+          "A record",
+          "technical setup"
+        ],
+        "difficulty": "intermediate",
+        "duration_estimate": "medium",
+        "best_for": [
+          "domain configuration",
+          "DNS setup",
+          "URL redirect issues",
+          "SSL troubleshooting"
+        ]
+      },
+      {
+        "filename": "highlevel_ai_sales_team_workshop.txt",
+        "path": "transcripts/ghl/highlevel_ai_sales_team_workshop.txt",
+        "title": "HighLevel AI Sales Team Workshop",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "AI & Automation",
+        "subcategories": ["AI Sales", "Conversation AI", "Team Training"],
+        "topics": [
+          "AI sales team setup",
+          "conversation AI implementation",
+          "AI-powered outreach",
+          "automated sales processes",
+          "AI team training"
+        ],
+        "keywords": [
+          "AI sales",
+          "conversation AI",
+          "sales automation",
+          "AI team",
+          "workshop",
+          "outreach"
+        ],
+        "difficulty": "advanced",
+        "duration_estimate": "long-form",
+        "best_for": [
+          "AI sales team implementation",
+          "conversation AI setup",
+          "automated sales processes",
+          "sales team scaling"
+        ]
+      },
+      {
+        "filename": "local_seo_tutorial_highlevel.txt",
+        "path": "transcripts/ghl/local_seo_tutorial_highlevel.txt",
+        "title": "Local SEO Tutorial - HighLevel",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "Local SEO & Marketing",
+        "subcategories": ["Local SEO", "Google Business", "Local Marketing"],
+        "topics": [
+          "local SEO strategies",
+          "Google Business Profile optimization",
+          "local rankings",
+          "citations",
+          "map pack rankings",
+          "local marketing"
+        ],
+        "keywords": [
+          "local seo",
+          "google business profile",
+          "GBP",
+          "local rankings",
+          "citations",
+          "maps",
+          "local search"
+        ],
+        "difficulty": "intermediate",
+        "duration_estimate": "medium",
+        "best_for": [
+          "local SEO optimization",
+          "Google Business setup",
+          "improving local rankings",
+          "local business marketing"
+        ]
+      },
+      {
+        "filename": "reputation_management_snapshot_tutorial.txt",
+        "path": "transcripts/ghl/reputation_management_snapshot_tutorial.txt",
+        "title": "Reputation Management Snapshot Tutorial",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "Reputation Management",
+        "subcategories": ["Reviews", "Reputation", "Snapshot Setup"],
+        "topics": [
+          "reputation management snapshot",
+          "review automation",
+          "reputation monitoring",
+          "snapshot configuration"
+        ],
+        "keywords": [
+          "reputation",
+          "reviews",
+          "snapshot",
+          "monitoring",
+          "automation"
+        ],
+        "difficulty": "beginner",
+        "duration_estimate": "short",
+        "best_for": [
+          "snapshot setup",
+          "reputation management basics",
+          "review automation setup"
+        ]
+      },
+      {
+        "filename": "supply_vs_demand_constraints_business_growth.txt",
+        "path": "transcripts/ghl/supply_vs_demand_constraints_business_growth.txt",
+        "title": "Supply vs Demand Constraints - Business Growth",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "Business Strategy",
+        "subcategories": ["Growth Strategy", "Business Scaling", "Constraints"],
+        "topics": [
+          "business growth strategies",
+          "scaling constraints",
+          "supply vs demand",
+          "growth optimization",
+          "business bottlenecks"
+        ],
+        "keywords": [
+          "business growth",
+          "scaling",
+          "constraints",
+          "supply",
+          "demand",
+          "optimization",
+          "bottlenecks"
+        ],
+        "difficulty": "advanced",
+        "duration_estimate": "medium",
+        "best_for": [
+          "business scaling strategies",
+          "identifying growth constraints",
+          "optimization planning",
+          "strategic growth"
+        ]
+      },
+      {
+        "filename": "trash_collection_business_turnaround_case_study.txt",
+        "path": "transcripts/ghl/trash_collection_business_turnaround_case_study.txt",
+        "title": "Trash Collection Business Turnaround - Case Study",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "Case Studies",
+        "subcategories": ["Implementation", "Real-world Examples", "Business Turnaround"],
+        "topics": [
+          "business turnaround",
+          "implementation case study",
+          "real-world example",
+          "service business optimization",
+          "automation implementation"
+        ],
+        "keywords": [
+          "case study",
+          "turnaround",
+          "implementation",
+          "real-world",
+          "service business",
+          "trash collection"
+        ],
+        "difficulty": "intermediate",
+        "duration_estimate": "medium",
+        "best_for": [
+          "real-world implementation examples",
+          "service business automation",
+          "turnaround strategies",
+          "practical applications"
+        ]
+      },
+      {
+        "filename": "ultimate_reputation_management_tutorial.txt",
+        "path": "transcripts/ghl/ultimate_reputation_management_tutorial.txt",
+        "title": "Ultimate Reputation Management Tutorial",
+        "author": "Unknown",
+        "content_type": "transcript",
+        "domain": "ghl",
+        "category": "Reputation Management",
+        "subcategories": ["Reviews", "Reputation Systems", "Complete Setup"],
+        "topics": [
+          "complete reputation management",
+          "review automation",
+          "reputation monitoring",
+          "review generation",
+          "feedback management",
+          "rating optimization"
+        ],
+        "keywords": [
+          "reputation",
+          "reviews",
+          "google reviews",
+          "review automation",
+          "ratings",
+          "feedback",
+          "monitoring"
+        ],
+        "difficulty": "intermediate",
+        "duration_estimate": "long-form",
+        "best_for": [
+          "complete reputation setup",
+          "review automation systems",
+          "managing online reputation",
+          "review generation strategies"
+        ]
+      }
+    ]
+  },
+  
+  "development": [
+    {
+      "filename": "complete_github_tutorial_beginners_corbin.txt",
+      "path": "transcripts/development/complete_github_tutorial_beginners_corbin.txt",
+      "title": "Complete GitHub Tutorial for Beginners",
+      "author": "Corbin",
+      "youtube_url": "https://www.youtube.com/watch?v=pJYOG6klqj8",
+      "content_type": "transcript",
+      "domain": "development",
+      "category": "Version Control & Development Tools",
+      "subcategories": ["GitHub", "Git", "Version Control", "Collaboration", "Development Workflow"],
+      "topics": [
+        "GitHub fundamentals",
+        "version control basics",
+        "git repositories",
+        "cloud code storage",
+        "pull requests",
+        "merge conflicts",
+        "branching strategies",
+        "git commits",
+        "SSH key setup",
+        "collaboration workflows",
+        "mono-repo vs poly-repo",
+        "production code management",
+        "code rollback",
+        ".gitignore",
+        "environment variables",
+        "open source projects"
+      ],
+      "keywords": [
+        "github",
+        "git",
+        "version control",
+        "repository",
+        "commit",
+        "push",
+        "pull",
+        "branch",
+        "PR",
+        "pull request",
+        "merge",
+        "SSH",
+        "collaboration",
+        "fork",
+        "clone",
+        "IDE",
+        "cursor ai",
+        "vs code"
+      ],
+      "difficulty": "beginner",
+      "duration_estimate": "comprehensive",
+      "best_for": [
+        "learning GitHub from scratch",
+        "understanding version control concepts",
+        "team collaboration setup",
+        "git workflow fundamentals",
+        "SSH authentication",
+        "managing code repositories",
+        "pull request workflows",
+        "production code protection"
+      ]
+    }
+  ],
+  
+  "content_stats": {
+    "total_transcripts": 12,
+    "total_pdfs": 0,
+    "total_documentation": 0,
+    "total_case_studies": 0,
+    "total_workflows": 0,
+    "total_code_examples": 0,
+    "domains_with_content": ["ghl", "development"],
+    "empty_domains": ["hormozi", "cannabis", "business-strategy", "marketing"]
+  }
+}

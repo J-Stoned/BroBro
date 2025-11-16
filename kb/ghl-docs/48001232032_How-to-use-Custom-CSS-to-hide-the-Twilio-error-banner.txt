@@ -1,0 +1,38 @@
+---
+Title: How to use Custom CSS to hide the Twilio error banner
+Category: Phone System
+URL: https://help.gohighlevel.com/support/solutions/articles/48001232032-how-to-use-custom-css-to-hide-the-twilio-error-banner
+Word Count: 210
+Scraped: 2025-10-29T01:40:43.221091
+---
+
+If you see the banner like this one shown in the screenshot below, there is a way to hide it.
+Follow these steps to get rid of the Twillio Error banner :
+First click the sub-account switcher tab located at the top left corner of the navigation side bar.
+Click "Switch to Agency View" button.
+Go to  "Settings" menu.
+Once you're inside the settings menu, click the "Company" tab. Once done, scroll down until you find the Field that says " Custom CSS."  Copy this code and paste it in the field.  the code is : .hl_alert_twilio{display:none}
+Make sure to click the "Update Company" button once you have entered the code.
+Now you have successfully removed the twillio error banner. This will be applied to all the locations to hide all Twilio banners.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

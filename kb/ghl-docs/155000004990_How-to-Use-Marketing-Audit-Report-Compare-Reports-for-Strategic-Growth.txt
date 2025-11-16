@@ -1,0 +1,107 @@
+---
+Title: How to Use Marketing Audit Report & Compare Reports for Strategic Growth
+Category: Reporting
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004990-how-to-use-marketing-audit-report-compare-reports-for-strategic-growth
+Word Count: 672
+Scraped: 2025-10-29T01:52:47.122874
+---
+
+We’re excited to announce that the Marketing Audit Report for all Sub-Accounts!
+What is the Marketing Audit?
+The
+Marketing Audit
+is a powerful diagnostic tool designed to help you understand the overall health and performance of your business (sub-account). It provides a comprehensive analysis across several key areas, helping you identify growth opportunities and reinforce your value as an agency.
+Why Use the Marketing Audit?
+Measure Business Health at a Glance
+Get an in-depth snapshot of how your business is performing across critical marketing and operational dimensions.
+Reinforce Agency Value
+Show your clients exactly where their business stands and how your agency is driving improvements.
+Boost Visibility into Key Metrics
+Access detailed insights that can guide strategy, optimize performance, and enhance client satisfaction.
+What Does the Audit Include?
+Google Business Profile Audit
+Evaluate the completeness and optimization level of your GBP listing.
+Website Performance Audit
+Check for speed, responsiveness, SEO-friendliness, and overall user experience.
+Local SEO Heatmap
+Visualize your local visibility across various search terms and geographies.
+Listings Analysis
+Ensure your business information is consistently and accurately listed across platforms.
+Online Reviews Audit
+Analyze review quantity, quality, and response patterns to gauge your reputation health.
+Business Detail Accuracy Check
+Review foundational business data (name, address, phone, etc.) for correctness and consistency.
+Feature Access Control
+The feature is enabled by default for all users within a Sub-Account.
+You can manage access by updating Roles & Permissions under:
+Sub-Account > Settings > My Staff > Roles
+How to Generate Marketing Audit Report
+Navigate to: Sub-Account > Settings > Labs
+Enable: ‘Marketing Audit’
+Go to: Sub-Account > Reporting > Audit Report
+Click: ‘Generate Report Now’ (Give it a moment – your report will be auto-generated!)
+Sub-account admins will also be notified via email once the automated report is generated.
+Note: If Report is not getting generated please check
+Your location's profile details. It should have Google Place Id URL under socal Links
+If there is no place id in social links, we try getting it from GBP integrations.
+If not found, we don't generate the report
+Competitive Analysis in the Marketing Audit
+Understand how your business stacks up against the competition with our
+AI-Powered Competitor Analysis
+. This feature helps you uncover actionable insights by comparing your business's online presence with others in your market.
+How to Add Competitors and Generate the Report
+Navigate to the "Compare Reports" Tab
+Once your Marketing Audit is generated, go to the
+Compare Reports
+tab.
+Add Up to 3 Competitor Businesses
+Enter the details of
+three distinct businesses
+you'd like to analyze against your own.
+Click “Compare Reports”
+This will initiate the AI-driven Competitor Analysis and generate side-by-side insights.
+What Does the Competitor Analysis Include?
+Currently, the Competitor Analysis covers two critical areas:
+Listings Comparison
+Review the accuracy, completeness, and optimization of your business listings compared to your competitors.
+Online Reputation (Reviews) Comparison
+Gain insight into review volume, sentiment, and engagement strategies. Understand how your reputation measures up and where you can improve.
+Note:
+The analysis is based on
+published listings
+available online for both your business and the selected competitors.
+♻️ Run Multiple Analyses Easily
+Want to analyze different competitors? Simply add new business profiles in the
+Compare Reports
+tab and click the
+Compare Reports
+button again. The system will generate a fresh comparison report with updated insights and recommendations
+Pro Tip
+Run the Marketing Audit once a month to measure progress, find opportunities, and stay ahead of your competitors
+Other Important Support Articles
+Grading Sheet and Sidebar in Marketing Report:
+https://help.gohighlevel.com/support/solutions/articles/155000004744-prospecting-tool-grading-sheet-and-sidebar-in-marketing-report
+Understanding the Grades in Your Marketing Audit Report:
+https://help.gohighlevel.com/support/solutions/articles/155000003125-understanding-the-grades-in-your-marketing-audit-report
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

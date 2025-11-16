@@ -1,0 +1,50 @@
+---
+Title: Searching for Opportunities
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002043-searching-for-opportunities
+Word Count: 314
+Scraped: 2025-10-29T01:44:08.947049
+---
+
+GoHighLevel offers powerful search capabilities that enable users to locate specific opportunities with ease, saving time and streamlining workflow. In this comprehensive guide, we'll walk you through the process of searching for opportunities in GoHighLevel.
+In this Article
+Step 1: Accessing the Opportunities Section
+Step 2: Understanding the Search Bar
+Step 3: Conducting a Basic Search
+Step 1: Accessing the Opportunities Section
+Log in to your GoHighLevel account and open your sub-account.
+Navigate to the "Opportunities" section from the sidebar menu.
+Step 2: Understanding the Search Bar
+Once you're in the Opportunities section, locate the search bar at the top of the page.
+The search bar allows you to enter keywords, phrases, or criteria to find specific opportunities that match your search query.
+You can search for Opportunity names, Phone, Email, Company, Tags and Contact name.
+Step 3: Conducting a Basic Search
+To perform a basic search, enter relevant keywords or phrases related to the opportunity you're looking for into the search bar. As you type, GoHighLevel will dynamically filter the list of opportunities to display matches that meet your search criteria in real-time.
+Search works only after typing a minimum of 3 characters in the search box.
+Search does not look for words from the middle of the word. e.g. for the term "Opportunity details", 'Oppor' will return the searched for term but 'tunity' would not.
+Other Relevant Links
+Editing Opportunities
+Filtering Opportunities
+Sorting Opportunities: TBA
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,134 @@
+---
+Title: User Access
+Category: Settings
+URL: https://help.gohighlevel.com/support/solutions/articles/48000982600-user-access
+Word Count: 730
+Scraped: 2025-10-29T01:50:38.705759
+---
+
+Managing who has access to your HighLevel account(s) is crucial for security, efficiency, and accountability. This article explains how to set up and control user access both at the
+agency level
+(across all your client accounts) and at the
+sub-account / team level
+(within a specific client account). It also describes what user attributes and permissions you can configure.
+Agency Team Management
+Who this is for
+This section applies if you’re an agency owner or admin and need to grant access to employees or client personnel across multiple client accounts.
+How to access
+Go to
+Settings
+from the side navigation menu while in
+Agency View
+.
+Select
+Team
+.
+What you can do
+From here, you can add new users, edit existing ones, or delete users.
+When adding or editing a user, you can modify the following:
+Personal logo
+(for user profile)
+First name
+Last name
+Email address
+(this is used as the login email)
+Phone number
+Password
+Permissions
+(see the
+Agency | Managing user roles & permissions
+article for the details)
+User Type
+— two choices:
+Agency
+: user can access
+all
+client accounts under the agency
+Account
+: user can access
+only selected
+client accounts
+Account assignment
+:
+If
+Agency
+type is chosen, you specify which client accounts the user gets notifications for
+If
+Account
+type is selected, you choose which specific client accounts the user can access
+Team Management (Sub-Account Level)
+Who this is for
+Used by clients or team members within a specific client’s HighLevel account. Any user added here will also be visible under Agency Team Management.
+How to access
+Switch to the relevant
+sub-account.
+In the side navigation, go to
+Settings
+.
+Click
+My Staff
+.
+What you can do
+As with agency-level user management, here you can add, delete, or edit users. For each user, you can modify:
+Personal logo
+First name
+Last name
+Email (login)
+Phone number
+Password
+Permissions
+(again, see
+User Roles, Permissions and Assigned data : Subaccount
+)
+Permissions & Roles Overview
+(If you’re not already familiar with how permission settings work, this section helps you understand what control you have.)
+You can fine-tune what a user can do by assigning roles or permission scopes. These determine what parts of HighLevel the user can access (e.g. marketing tools, settings, campaigns), what actions they can perform (view, edit, delete), and which accounts their access applies to.
+Best Practices
+Least Privilege Principle
+: Give users only the permissions they need. Avoid giving full agency access unless absolutely necessary.
+Use Account-type users
+when you want someone to have limited access (e.g. sales or support assistant for one client).
+Track changes
+: Maintain clear records of who has what access and when changes are made (helps with audits or troubleshooting).
+Review access periodically
+: People’s roles change, so prune permissions or remove users who no longer need them.
+Frequently Asked Questions
+Q: What’s the difference between “Agency” user type vs “Account” user type?
+An
+Agency
+user type grants access across all client accounts under your agency. An
+Account
+user type restricts access to only the client accounts you explicitly select.
+Q: If I add a user under “My Staff” in a sub‐account, will they appear in Agency Team Management?
+Yes — all users added in sub-accounts (“My Staff”) are also visible under the Agency’s Team list.
+Q: Can I set different permission levels for different users?
+Absolutely. The permissions settings let you control precisely which features and actions each user can use.
+Q: How do I change someone’s access later if their role changes?
+Go to the relevant user record (either in Agency Team or My Staff), edit their user type, assigned accounts, or permissions as needed.
+Related Articles
+Admin Vs. User Roles and Permission Scopes
+User Roles, Permissions and Assigned Data: Subaccount
+How to Create a User or Admin to Manage Multiple HL Locations Without Giving Them Agency Access?
+Agency | Managing user roles & permissions
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

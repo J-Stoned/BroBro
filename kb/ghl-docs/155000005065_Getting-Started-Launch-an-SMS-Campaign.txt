@@ -1,0 +1,74 @@
+---
+Title: Getting Started - Launch an SMS Campaign
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005065-getting-started-launch-an-sms-campaign
+Word Count: 308
+Scraped: 2025-10-29T01:38:47.510785
+---
+
+Design and launch an SMS campaign to instantly reach your audience. Engage customers directly with personalized messages.
+TABLE OF CONTENTS
+Launch Bulk SMS Campaign
+Create SMS Template
+View or Edit SMS Campaign
+Launch Bulk SMS Workflow
+Launch Bulk SMS Campaign
+Navigate to Contacts
+Filter Contacts and use checkboxes to select (or select all)
+Click Send SMS button (speaking chat box icon)
+Click Ok, proceed
+Select From Phone Number
+Fill message body (message snippet, text, custom values, etc)
+Select Drip Mode
+Fill Drip settings (batch size, days, etc)
+Click Send SMS
+Learn More
+Sending Bulk SMS via Contacts
+LC - Phone Messaging Policy
+Best Practices for SMS deliverability and Avoiding SMS Restrictions
+How to Use Messaging Analytics for LC Phone
+Guide To Bulk SMS: Send Messages People Actually Want To Receive
+Create SMS Template
+Navigate to Marketing > Snippets
+Click Add Snippet > Add Text Snippet
+Fill Snippet details (name, message, etc)
+Click Save
+Learn More
+SMS Templates (Snippets) - Overview
+Message Templates (Snippets)
+View or Edit SMS Campaign
+Navigate to Contacts > Smart Lists > Bulk Actions
+View status of campaign
+Use 3-dot action menu to edit, pause, or cancel
+Launch Bulk SMS Workflow
+Navigate to Automation
+Click Create Workflow > Create From Scratch
+Add Form Submitted Trigger
+Add Send SMS Action
+Click Publish
+Click Save
+Learn More
+Workflow Action - Send SMS
+Understanding Workflow Behaviour with SMS and Customer Replies
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,52 @@
+---
+Title: How to integrate Stripe with GoKollab
+Category: GoKollab
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004681-how-to-integrate-stripe-with-gokollab
+Word Count: 207
+Scraped: 2025-10-29T01:59:49.027314
+---
+
+GoKollab group owners can now integrate their Stripe accounts to seamlessly collect payments. This feature allows you to create and manage paid groups within GoKollab, enhancing your group’s monetisation capabilities.
+How to Access the Payment Integration Page
+There are two ways to navigate to the payment integration page:
+1. Th
+rough Your Pro
+file
+Step 1:
+Click on your profile picture.
+Step 2:
+Locate and click the payments icon, which appears under your profile card.
+Step 3:
+The payment integration page will open, prompting you to enter your security code.
+2. Through Group Settings
+Step 1:
+Go to your Group Settings.
+Step 2:
+Click on the Subscriptions tab.
+Step 3:
+Find and select the payment integration option
+.
+For more detailed information on payments integration, please refer to
+this article
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

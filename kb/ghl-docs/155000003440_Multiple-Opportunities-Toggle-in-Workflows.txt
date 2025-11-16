@@ -1,0 +1,63 @@
+---
+Title: Multiple Opportunities Toggle in Workflows
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000003440-multiple-opportunities-toggle-in-workflows
+Word Count: 422
+Scraped: 2025-10-29T01:44:19.017608
+---
+
+TABLE OF CONTENTS
+Overview
+Setting Name
+Setting Description
+How to Configure
+Example
+Overview
+Currently, only the most recent opportunity associated with a contact enters the workflow. However, with the introduction of the "Allow Multiple Opportunity" feature, users can enable workflows to handle multiple opportunities for the same contact. Each contact-opportunity pair will have its own distinct workflow execution, allowing more precise and effective management of opportunities.
+Setting Name
+Allow Multiple Opportunity
+Setting Description
+Once the "Allow Multiple Opportunity" toggle is enabled:
+Each opportunity associated with a contact will enter the workflow as a separate execution.
+Any updates made to the opportunity will not restart the workflow. Instead, the workflow will continue from the stage it is at, and the updated opportunity values will be used going forward.
+How to Configure
+To enable this feature, follow these steps:
+Navigate to Settings: Go to the workflow settings page.
+Locate the "Allow Multiple Opportunity" Toggle:
+Find the new toggle at the top of the settings, similar to the "Allow Re-entry" option.
+Enable the Toggle:
+Toggle the Allow Multiple Opportunity switch to "ON" to activate the feature.
+Save Changes: Make sure to save the settings.
+Example
+Let's say you are a Real Estate agent who is connecting with a client for two different properties. Hence, you have a contact "John Doe" with two opportunities "1 Madison Avenue" and "2 Nice Street"
+You have a workflow which is triggered whenever an opportunity is updated and sends a reminder SMS to the contact for 2 days
+If "Allow Multiple Opportunity" is "OFF" :
+1 Madison Avenue is updated on 1/1/2024 8 AM and an SMS is sent to John Doe
+2 Nice Street is updated on 1/1/2024 12 PM and the rest of the actions will be skipped.
+Whereas, if "
+Allow Multiple Opportunity" is "ON" :
+1 Madison Avenue is updated on 1/1/2024 8 AM and an SMS is sent to John Doe
+2 Nice Street is updated on 1/1/2024 12 PM and another SMS will be sent to John Doe
+Hence, both the opportunities will co-exist in the system.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

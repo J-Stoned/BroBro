@@ -1,0 +1,104 @@
+---
+Title: Guide To iCloud Calendar Integration
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001477-guide-to-icloud-calendar-integration
+Word Count: 933
+Scraped: 2025-10-29T01:48:42.640765
+---
+
+Integrating your iCloud account and calendars with HighLevel allows seamless two-way syncing of events, availability, and appointment scheduling. Follow this guide to connect your iCloud account and set up your calendar integration properly.
+HighLevel can sync events between iCloud and HighLevel Calendars. However,
+contact creation
+from iCloud events is
+not
+supported.
+TABLE OF CONTENTS
+Step 1: Obtain App-specific Password From Apple
+Step 1a: Sign Into Apple
+Step 1b: Enable 2F Auth
+Step 1c: App-Specific Password
+Step 1d: Name The App-specific Password
+Step 1e: Save The App-specific Password
+Step 2: Connect Your iCloud Account to HighLevel
+Step 2a: Add New Connected Calendar
+Step 2b: Save Credentials
+Step 3: Configure Calendars
+Step 3a: Calendar Configuration Panel
+Step 3b: Edit Primary Linked Calendar
+Step 3c: Edit Conflict Calendars
+Troubleshooting iCloud Integration
+Frequently Asked Questions
+Step 1: Obtain App-specific Password From Apple
+Before connecting your iCloud calendar, you'll need to obtain your app-specific password from Apple. This unique password is distinct from your regular Apple account password. Apple mandates the use of an app-specific password, in addition to enabling two-factor authentication, when connecting to third-party applications.
+Step 1a: Sign Into Apple
+Sign in to
+https://appleid.apple.com/
+Step 1b: Enable 2F Auth
+Enable two-factor authentication under the Security section if you haven't already done so.
+If you skip enabling two-factor authentication at this point and run into trouble later, come back and enable it.
+Step 1c: App-Specific Password
+Click into the Sign-in and Security section and choose "App-Specific Password" then in the modal click "Generate an app-specific password".
+Step 1d: Name The App-specific Password
+Enter a label for the password (for instance, 'CRM iCloud Integration') and click 'Create.'
+Step 1e: Save The App-specific Password
+Copy and safely keep the generated app-specific password. This will be used when connecting your iCloud calendar in the next step.
+Step 2: Connect Your iCloud Account to HighLevel
+Using the app-specific password from Step 1, connect your iCloud account to HighLevel.
+Step 2a: Add New Connected Calendar
+Navigate to subaccount > settings > calendars > connections and click "+ Add New".
+Step 2b: Save Credentials
+Click "Connect" in the iCloud Calendar widget, then e
+nter your iCloud Apple ID and app-specific password from Step 1, then click "Connect".
+Step 3: Configure Calendars
+After connecting iCloud in step 2, you need to set your primary linked calendar and "blocking" calendars.
+If you have not connected a 3rd party calendar then this Calendar Configuration panel will not appear. So, if you don't see it, go back and connect another calendar.
+Step 3a: Calendar Configuration Panel
+Navigate to subaccount > settings > My Profile > Calendar Configuration
+OR
+subaccount > settings > calendars > connections > calendar configuration (they take you to the same panel).
+Step 3b: Edit Primary Linked Calendar
+Click "Edit" next to the primary linked calendar. On the linked calendar modal, select the 3rd-party calendar to add new events to. All new events created in the system will be added to your linked calendar and all events created in the linked calendar will be synced to the system.
+Step 3c: Edit Conflict Calendars
+Click "edit next to the conflict calendars. Select one or more options such as holidays in the United States, your calendar, and other team members calendars.
+Troubleshooting iCloud Integration
+Authentication Issues:
+Ensure you use the App-Specific Password.
+Check that your Apple ID has Two-Factor Authentication enabled.
+Calendar Sync Issues:
+Ensure the correct calendar is selected as Primary.
+Remember that events created in iCloud must be on the correct calendar for them to sync to HighLevel.
+Scheduling Conflicts:
+Ensure Conflict Calendars are configured if you want busy times in iCloud to prevent double bookings in HighLevel.
+Frequently Asked Questions
+Q: Can I block my HighLevel calendar with events from 3rd-party calendars?
+A: Yes, events from third-party calendars added as conflict calendars are synced to the system, blocking your availability for the event's duration. The availability is blocked only if the event is marked as 'BUSY' in the third party calendar. For events marked as 'FREE', the events are fetched in the system but the availability remains open.
+Q: Can I add multiple blocking calendars?
+A: Yes, you can add multiple calendars to be checked to prevent double bookings.
+Q: Can I sync iCloud two-way?
+A: No, while Google and Outlook Connections offer an option to configure their Sync Preferences from the Advanced Settings, iCloud only supports Default Sync (One-Way Sync). This means that all events coming in from iCloud would be treated as Blocked Slots, and no contacts would be created for the guests found in these events. Another limitation is that if a Blocked Slot is created in the system for a user, it would not sync to the iCloud Calendar.
+Q: Can I connect multiple iCloud calendars?
+A: Yes, with the latest enhancements, each user can connect multiple iCloud integration per subaccount, and the same iCloud integration can be connected across multiple subaccounts.
+Q: Can I connect to accounts I connected to my iCloud?
+A: No, integration with a subscription calendar is not possible. This means that Highlevel cannot connect to iCloud calendars that you have subscribed to via URL (usually public calendars).
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,159 @@
+---
+Title: Template Library Overview & Setup
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/48001236650-template-library-overview-setup
+Word Count: 822
+Scraped: 2025-10-29T01:42:52.010766
+---
+
+The Template Library in HighLevel is a collection of professionally designed templates for websites, funnels, social media posts, email campaigns, and even more areas! These templates come with high-quality stock images and content, allowing users to create polished marketing materials efficiently.
+TABLE OF CONTENTS
+Who Benefits from the Template Library?
+Advantages of Using the Template Library
+What’s New in the Template Library?
+Enabling & Disabling the Template Library
+Funnels and Websites Template Library
+Social Planner Template Library
+Email Builder Template Library
+Documents and Contracts Template Library
+Ads Manager Template Library
+Reporting and Dashboard Template Library
+Frequently Asked Questions
+Who Benefits from the Template Library?
+Small Business Owners:
+Create professional marketing materials without hiring a designer.
+Marketing Agencies:
+Save time by utilizing pre-designed templates for client projects.
+Freelancers:
+Offer marketing services without extensive design skills.
+Corporate Marketing Teams:
+Streamline design processes and maintain brand consistency.
+Advantages of Using the Template Library
+Time and Effort Savings:
+Access pre-designed templates to expedite the creation of marketing materials.
+High-Quality Designs:
+Utilize templates featuring premium stock images and content for a consistent brand image.
+User-Friendly Interface:
+Easily filter and preview templates to find those that meet your business needs.
+Customization:
+Modify templates to align with your brand by adjusting images, colors, and content.
+Cost-Effective:
+Avoid the expenses associated with custom designs or hiring designers.
+Accessibility:
+Available to all users without additional fees or subscriptions.
+What’s New in the Template Library?
+Documents and Contracts:
+Create, upload, and manage templates for legal documents and contracts.
+Streamline your paperwork process by customizing pre-built templates or creating your own.
+Ads Manager:
+Access over 80 pre-built templates tailored for various ad objectives.
+Enjoy real-time previews and built-in configurations for faster ad creation.
+Reporting and Dashboard:
+Upload and manage custom templates for reports and dashboards.
+Secure sensitive data by masking it during the upload process.
+Add a preview image for quick identification in your library.
+Enabling & Disabling the Template Library
+Navigate to
+Agency Settings > Company
+.
+Scroll to the right to find the Template Library option.
+Toggle on Make Templates visible to clients.
+Funnels and Websites Template Library
+Go to your sub-account.
+Navigate to
+Sites > Funnels (or Websites)
+.
+Click on
+New Funnel (or New Website)
+.
+Choose
+Go to Template Library
+.
+Browse and select a template that fits your business needs.
+Social Planner
+Template Library
+In your sub-account, go to
+Marketing > Social Planner
+.
+Click the
++ New Post
+button.
+Select
+Choose Social Planner Templates
+.
+Review and select a template.
+Customize and schedule your posts accordingly.
+Email Builder
+Template Library
+Within your sub-account, navigate to
+Marketing > Emails > Templates
+.
+Click the
++ New
+button to create an email template.
+Select
+Template Library
+.
+Browse and choose a suitable template.
+Customize the template to match your branding.
+Documents and Contracts
+Template Library
+Navigate to the
+Documents
+tab.
+Select
+Create New
+and access the Template Library.
+Upload or customize a contract template.
+Ads Manager
+Template Library
+Navigate to
+Marketing > Ads Manager
+.
+Click on
+Create Ad
+and select a template from the library.
+Preview and customize the ad for your specific objectives.
+Form Template Library
+Navigate to Sites > Forms > Builder > Add Form > From Template
+Survey Template Library
+Navigate to Sites > Surveys > Builder > Add Survey > From Template
+Reporting
+Template Library
+(coming soon)
+When it is launched, you will be able to navigate to Reporting > Custom Reports > New Report > From Template Library
+Frequently Asked Questions
+Q: Can agencies add their own templates to the Template Library?
+Yes, agencies can add their own templates to the Template Library. This feature is available on the $497 plan and above. (
+Learn how to add your own templates
+).
+Q: Is there a cost associated with using the Template Library?
+No, the Template Library is available to all users without additional fees.
+Q: Will the Template Library include templates for other areas of HighLevel in the future?
+HighLevel is considering expanding the Template Library to include other areas of the app based on user feedback and demand.
+Q: Can an Agency hide individual templates from Subaccounts so they are only visible to the Agency?
+Yes, but not directly. Agencies can create Categories and toggle them to Hidden. As long as a Template is in a Category that is Hidden (and not in any visible Categories) that Template will not appear for Subaccounts. See the article
+Hide Individual Templates From Subaccounts
+for details.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,88 @@
+{
+  "total_urls": 16,
+  "successful": 7,
+  "failed": 9,
+  "results": [
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/155000001156-highlevel-pricing-guide",
+      "status": "failed",
+      "error": "Could not extract content"
+    },
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48000982207-how-to-set-up-a-whitelabel-domain-for-the-desktop-web-app",
+      "status": "failed",
+      "error": "Could not extract content"
+    },
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-",
+      "status": "failed",
+      "error": "Could not extract content"
+    },
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001223556-lc-phone-pricing-billing-guide",
+      "status": "failed",
+      "error": "Could not extract content"
+    },
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001184920-saas-mode-full-setup-guide-faq",
+      "status": "failed",
+      "error": "Could not extract content"
+    },
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001226115-dedicated-email-sending-domains-overview-setup",
+      "status": "failed",
+      "error": "Could not extract content"
+    },
+    {
+      "url": "https://marketplace.gohighlevel.com/docs/Authorization/authorization_doc",
+      "status": "success",
+      "word_count": 230
+    },
+    {
+      "url": "https://marketplace.gohighlevel.com/docs/category/webhook",
+      "status": "success",
+      "word_count": 541
+    },
+    {
+      "url": "https://marketplace.gohighlevel.com/docs/ghl/calendars/calendars",
+      "status": "success",
+      "word_count": 83
+    },
+    {
+      "url": "https://marketplace.gohighlevel.com/docs/ghl/contacts/contacts",
+      "status": "success",
+      "word_count": 189
+    },
+    {
+      "url": "https://marketplace.gohighlevel.com/docs/ghl/conversations/conversations",
+      "status": "success",
+      "word_count": 59
+    },
+    {
+      "url": "https://marketplace.gohighlevel.com/docs/ghl/opportunities/opportunities",
+      "status": "success",
+      "word_count": 44
+    },
+    {
+      "url": "https://marketplace.gohighlevel.com/docs/ghl/payments/integrations",
+      "status": "success",
+      "word_count": 139
+    },
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001204848-how-do-i-find-my-client-s-location-id-",
+      "status": "failed",
+      "error": "Could not extract content"
+    },
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001213941-lc-phone-messaging-policy",
+      "status": "failed",
+      "error": "Could not extract content"
+    },
+    {
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001223546-what-is-lc-lead-connector-phone-system-",
+      "status": "failed",
+      "error": "Could not extract content"
+    }
+  ],
+  "timestamp": "2025-10-31T10:50:53.505767"
+}

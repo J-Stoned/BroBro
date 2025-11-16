@@ -1,0 +1,46 @@
+---
+Title: Call Connect & Missed Call Text-Back
+Category: Settings
+URL: https://help.gohighlevel.com/support/solutions/articles/48001197248-call-connect-missed-call-text-back
+Word Count: 181
+Scraped: 2025-10-29T01:50:31.935508
+---
+
+Missed call text back release video
+How to Setup Auto Missed Call Text Back Settings
+For existing sub-accounts created
+before
+August 16th, 2021
+, these features won’t be enabled by default.
+For new sub-accounts created
+on/after
+August 16th, 2021
+, these features will be enabled by default.
+The
+"
+Enable Call Connect Feature"
+Setting can be found under sub-account settings -> phone numbers -> edit phone number/number pool
+Enabling the Call Connect feature will force whoever answers a forwarded call to press any key before connecting them to the caller.
+Call Connect will play whatever is in the whisper message field when someone answers.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

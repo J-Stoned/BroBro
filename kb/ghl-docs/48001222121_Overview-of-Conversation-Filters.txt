@@ -1,0 +1,135 @@
+---
+Title: Overview of Conversation Filters
+Category: Conversations
+URL: https://help.gohighlevel.com/support/solutions/articles/48001222121-overview-of-conversation-filters
+Word Count: 833
+Scraped: 2025-10-29T01:42:38.942883
+---
+
+In this article, you’ll learn how to enable filters, manage multiple conversations effectively, and use additional tools like snippets, internal comments, and more to streamline communication.
+TABLE OF CONTENTS
+What Are Conversation Filters?
+Benefits of Conversation Filters
+Applying Conversation Filters
+Sorting Conversations
+Starred Conversations
+Managing Multiple Conversations
+Frequently Asked Questions
+Related Articles
+What Are Conversation Filters?
+Conversation Filters are a powerful feature that helps users organize and streamline their communication workflow. By allowing you to categorize and locate conversations based on specific criteria such as message type, assignee, or date, filters make it easy to prioritize and manage interactions efficiently. They enable you to stay organized, respond promptly, and manage your communication channels with ease.
+Filters help you quickly find specific conversations by:
+Contact Engagement Score
+Assigned
+(specific team member)
+Follower Assignment
+Last Message Channel/Type/Direction
+(e.g., inbound/outbound)
+Last Outbound Message Type
+(e.g., manual/automated)
+Last Message Channel
+(e.g., SMS, Email)
+Benefits of Conversation Filters
+Understanding the advantages of using conversation filters can help you maximize their potential, allowing you to save time on repetitive tasks to enhancing collaboration within your team.
+Efficiency:
+Save time by managing multiple conversations with just a few clicks.
+Organization:
+Easily filter conversations by type, assignee, or status.
+Collaboration:
+Use internal comments and mentions to improve team communication.
+Flexibility:
+Customize filters to meet your specific needs and preferences.
+Applying Conversation Filters
+Filters are a versatile tool that help you customize the conversations view to suit your specific needs. Applying filters is quick and easy, and will help you locate relevant conversations based on various criteria, improving your response time and overall efficiency.
+Click on the
+Filter
+icon in the
+Conversations
+panel.
+Select the criteria you want to filter by.
+The conversations will update based on your selected filters.
+Sorting Conversations
+Sorting options allow you to arrange your conversations in a way that’s most convenient for you. There are multiple available sorting methods, ensuring you can always find what you’re looking for quickly.
+You can sort conversations by date to quickly find the latest or oldest messages:
+In the
+Conversations
+panel, click on the
+Sort
+dropdown menu.
+Choose either
+Newest to Oldest
+or
+Oldest to Newest
+.
+Starred Conversations
+Starred conversations are a simple yet effective way to highlight and revisit important messages, helping you keep track of high-priority interactions with ease.
+Star important conversations to easily find them later:
+In the
+Conversations
+panel, click the
+Star
+icon next to a conversation.
+To unstar, click the
+Star
+icon again.
+Managing Multiple Conversations
+Handling a high volume of conversations can be challenging, but with multiple "conversation actions", you can efficiently manage multiple conversations simultaneously, helping you maintain control and organization in a busy environment.
+Managing multiple conversations at once is easy with these steps:
+In the
+Conversations
+panel, select the conversations you want to manage (up to 100 at a time).
+Choose from the following actions:
+Mark as Read/Unread
+Star/Unstar
+Delete
+Frequently Asked Questions
+Q: What is the maximum number of conversations I can select for managing multiple conversations?
+There is no limit to how many conversations you can select at a time.
+Q: How do I reset filters to see all conversations?
+Open the conversation filters panel and click the
+Reset Filters
+button to clear all applied filters.
+Q: Can I customize the types of filters available?
+No. You cannot create custom conversation filters in HighLevel, but we are adding more as often as we can. If you need a specific conversation filter,
+post it on our ideas board here!
+Q: Are actions like marking as read or deleting conversations reversible?
+Certain actions like "mark as read" can be reversed, but other actions like "deleting conversations" are permanent, so double-check before taking any action.
+Related Articles
+HighLevel offers several supplementary tools to further enhance your conversation management experience. Explore the related articles below to maximize your use of conversation management tools in HighLevel!
+Using Snippets:
+Snippets are reusable text templates you can insert into messages to save time.
+Click here to learn more about Snippets.
+Adding Internal Comments and Mentions:
+Add internal comments and mention team members to collaborate effectively.
+Click here to learn more about Internal Comments and Mentions.
+Group Chat for SMS:
+Send group SMS messages within a conversation.
+Click here to learn more about Group Chat for SMS.
+Activity Cards:
+Quickly access tasks like editing or managing opportunities with Activity Cards.
+Click here to learn more about Activity Cards.
+Selecting SMS To and From Numbers:
+Choose specific numbers for sending SMS messages.
+Click here to learn more about Selecting SMS Numbers.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

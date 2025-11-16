@@ -1,0 +1,147 @@
+---
+Title: How to Resell Listings to Your Clients
+Category: Reselling Products
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001901-how-to-resell-listings-to-your-clients
+Word Count: 791
+Scraped: 2025-10-29T01:54:00.119168
+---
+
+This article will show you how to resell Listings services to your clients using customizable pricing! You’ll learn how to set agency-wide prices, personalize rates for sub-accounts, and manage billing
+TABLE OF CONTENTS
+Overview of Reselling Listings
+Key Benefits of Reselling Listings
+Prerequisites
+How to Set Agency-Wide Listings Pricing
+How to Customize Listings Pricing Per Sub-Account
+How Clients Activate Listings
+Turn Off Listings for a Sub-Account
+How Billing Works
+Frequently Asked Questions
+Related Articles
+Overview of Reselling Listings
+Reselling Listings allows HighLevel agencies to offer directory listing management to their clients via a subscription model. Listings syncs your clients’ business info to 70+ online directories to improve local SEO. Agencies can choose from three different pricing plans to resell and customize the pricing to generate monthly recurring revenue:
+Monthly Plan
+Smart Saver Plan (6 months)
+Annual Advantage Plan (12 months)
+Key Benefits of Reselling Listings
+Listings reselling helps you offer more value to clients while generating recurring revenue:
+Flexible Pricing:
+Set your own resale rates for each plan
+Plan Variety:
+Offer monthly, 6-month, or annual terms to match client needs
+Recurring Revenue:
+Generate additional streams of recurring revenue
+Sub-Account Control:
+Customize pricing per location
+Client-Friendly Activation:
+Clients can activate Listings directly from their dashboard
+Prerequisites
+Connect your Agency Stripe Account
+Your agency Stripe account will be used to collect subscription payments for Listings from your clients. You can connect your agency Stripe account to your agency by following this help article:
+How to connect Stripe to your agency dashboard
+How to Set Agency-Wide Listings Pricing
+Agency-level pricing defines the default cost clients will see when activating Listings. You’ll use a pricing slider to set rates and preview monthly profits per plan. Follow these steps to set the pricing:
+From the
+Agency View, c
+lick
+Reselling
+in the left-side navigation bar
+Scroll down to
+Listings
+and adjust slider to set your pricing
+Preview the
+Client Pricing
+,
+Your Cost
+, and
+Your Profit
+based on the selected pricing. Click the blue
+Save
+button to deploy changes
+How to Customize Listings Pricing Per Sub-Account
+You can override default pricing for individual sub-accounts to match unique client needs.
+Follow these steps to set the pricing:
+In
+Agency View
+, use
+the left-side navigation bar
+to navigate to
+Sub-Accounts
+Click the
+3-dots
+icon on the desired sub-account and select
+Manage Client
+Navigate to
+Reselling
+→ Listings
+Adjust the pricing slider as needed
+Tip:
+For instructions on deploying without billing the client, see
+Deploy Listings without Directly Charging the Client
+How Clients Activate Listings
+Clients can activate Listings directly from their sub-account if you’ve enabled the feature. Follow these steps to activate listings from inside a sub-account:
+From the sub-account, use the left-side navigation bar to go to the
+Reputation
+Click the
+Listings
+tab at the top
+Hit the
+Activate Listings
+button
+Choose a plan and confirm payment
+Turn Off Listings for a Sub-Account
+If you need to disable Listings for a client, turn off access in the sub-account and cancel their subscription.
+Follow these steps to turn off listings for a sub-account:
+From the Agency View, navigate to
+Sub-Accounts → Manage Client
+Go to
+Reselling → Listings
+Use the
+toggle
+to turn Listings off
+How Billing Works
+Listings reselling uses a two-layer billing structure:
+Agency → HighLevel:
+You are charged monthly via your agency wallet
+Client → Agency:
+Clients are charged via your Stripe integration
+Frequently Asked Questions
+Q: Can I deploy Listings without billing the client?
+Yes, you can choose on “Deploy without Billing” under
+Reselling → Listings
+.
+Click here for more information
+Q: Where do I see my monthly profit per plan?
+You’ll see a “Profit” row below each plan option while setting your pricing using the slider.
+Q: Do Listings charges appear in my agency wallet instantly?
+Charges typically reflect in your wallet shortly after a client activates a plan, based on the wallet billing cycle.
+Q: Is it possible to edit pricing after a client subscribes?
+Yes, you can change pricing at any time, but new prices apply only to future activations and not current subscriptions.
+Related Articles
+Online Listing Overview & Setup Doc
+Deploy Listings without Directly Charging the Client
+Cancelling Listings for Your Sub-account in HighLevel
+Rebilling, Reselling, and Wallets Explained
+How to sell Listings as part of a SaaS Offer
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

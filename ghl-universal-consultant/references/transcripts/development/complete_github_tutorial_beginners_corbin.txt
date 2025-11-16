@@ -1,0 +1,462 @@
+This will be the only GitHub tutorial you'll ever have to watch in your entire life to have a full understanding of how
+to use this platform. And I'm going to teach this as simple as possible, as if you've never even used GitHub before,
+never coded in your life. So, anytime I say any type of complex term, I'm going to explain it as simply as possible.
+Because we all know the worst thing about any of these kind of tutorials is you're like, "Oh, I want to learn how to use GitHub." And then the person teaching it is just using all this
+developer jargon and you're like, "What are you saying?" Let's jump in. Welcome back, y'all. In today's video, we're going to be going over everything you
+need to know about GitHub. I'm going to make it so that by the end of it, you'll be an advanced user from start zero to start 10. We're ready to go. I knew I
+had to make this video because my video on the topic of how to learn how to use GitHub in 10 minutes is blowing up. I
+mean, that thing is just getting so much traffic where I was like, "Okay, I get it, y'all. Y'all want to get this style teaching on a topic like GitHub." So,
+the situation is pretty simple. First thing I want you to do is make sure to check out the description. There is going to be a ton of resources in
+regards to how to use GitHub. Don't worry, I'm not going to give you like some random FAQ link made by the GitHub team. I made custom Google docs that's
+going to show you everything I talk about in today's tutorial. Included in those docs are relevant videos showing you how to set that up as well. But
+let's just get going here. What is GitHub? Why do we use it? You're going to see it everywhere. It's going to be like cursb
+integrate GitHub. Why do I care? To put simply, at a fundamental level, what GitHub allows us to do is take that code
+that's on your nice little computer and essentially put it into the cloud. When I say cloud, that is essentially just
+the internet, Wi-Fi cloud. By taking that code that is found on your computer, and don't make it complex,
+y'all. What do you mean the code that's found on my computer? You know, like that folder on your computer that's like
+your project name, and I don't know what your project name is. Maybe it's just like best app ever. I know that spelling's not amazing, but it says best
+app, like the folder is called best app. That's literally just where your code is. We call that a repository. And this repository is in the cloud or the
+internet. Now, why do we do this? Like what is fundamental about this? And why do you see so many people just being like make sure you integrate with
+GitHub. Well, step number one here, version control. And here's what I mean by version control. If you're using cursor AI, VS Code, Windsurf, maybe
+Replet, wherever you're coding, this is going to put that in the folder. What version control allows us to do when we integrate into something like GitHub is
+it allows us to make checkpoints. When I say checkpoints, this is that old little software thing that you always see.
+You're like, why is it version one? Why is it v2? Essentially with GitHub and
+these commits and these PRs we're going to get into and actually do together in today's video. Think of it like that. Version control is you've created your
+app. It's version one. Nice little app. I love the app. It's version one v1. Well, guess what? Now using GitHub, when
+you create version two of that app, maybe uh maybe your app can copy this v2. We add a little crown to the app. So
+we add a little crown. That's v2. we can create this version control with GitHub
+where in theory we go to V2 where we're going down a little coding rabbit hole
+and we made V2 of the app and then we're like hold up this is trash we can burn
+V2 and come back to V1 version control that logic you can't do if you just keep
+that little folder on your cursor AI and it's all local code you can't do this version control which is extremely
+fundamental it's like playing Mario and you're in like level one of Mario and you know in Mario when they had like the
+little flags in the middle where like checkpoint flags. Yeah, you're basically playing Mario on hardcore mode where there is no checkpoint flags that you
+can revert back to. I mean, you can play that way. I don't want to play that way. Number two, or as classic top 10
+YouTubers speak, number two, collab. You want to collab with me? Collaboration. This allows you as an individual
+developer to create a team of developers or alternatively, everyone in the interwebs could collaborate on your
+relative code project. Now, in reality, in practice, depending on your use case, most of this would be maybe your
+developer A, and you're working with your friend, developer B. This allows developer A and B to work on the same
+repository and make changes. Now, I'm going to show you a very fundamental skill when it comes to collaboration in
+this video that you're going to need to know so you don't start overwriting each other's code. You get a bunch of errors.
+It's like a merge conflict. Those are the worst. I hate merge conflicts. I'm going to show you best practices when
+doing collaborations. But that's another reason why do we use GitHub, Corbin? To expediate software development because
+now we can collaborate with other humans. Some of you are like, Corbin, it's my project. No one else is collabing with me. It's okay. This is
+just for the people that want to collab. Another big reason is get free code. Why do we love GitHub? Because GitHub is a
+community of other developers that some have potentially open- sourced their repository of code. This is a whole
+thing. Now, some of y'all that might be coming into this space might be kind of confused on why people open source or
+make their code free. So, for me to best explain what free code is and what even open source means. Just think of it like
+this. Let's imagine there's two lemonade stands. One is on the side of the street and it's selling lemonade for a dollar.
+Everyone get their lemonade. It's a dollar. It's a dollar. But then you have another lemonade stand that is giving the lemonade out for free. People might
+be skeptical because of that, but you still go to the lemonade stand with the free lemonade. You try it. Maybe it's
+amazing. Maybe it's the best lemonade you ever had. Or maybe it doesn't taste that good, but you're like, "You know
+what? It was free. Let me just drink some free lemonade." You go over to the stand, it's a dollar. You pay for a
+dollar. You're expecting it to be good. You put money into it. What I just described there is the difference
+between open- source free code and maybe just a straightup software company selling you a service. If you're buying
+a software company service, you're expected when you pay for something to get value and it works. When you go to
+the open source free code and you download an actual app that functionally could work, some open- source code
+that's free is absolutely amazing. What's an example of this? You can quite literally download a very advanced model
+from DeepSeek for free and have it locally on your computer. I'll leave that in the description down below. But the idea is that some source code or
+free code is just like not good at all too. So you just got to find out the good stuff. And one thing that GitHub does really well is because this is a
+community of developers, you're going to see how many stars a repo has. That means like, hey, I like this repo, how
+many forks a repo has. Don't worry, I'll explain what a fork and a star is soon here. I just want to give the general
+overview first. So third reason to get access to GitHub is guess what? Let's get some free code. And I'm going to
+show you today how we actually download free code and run free code. So, there's other reasons why we use GitHub. I could keep going on here, but the last one
+that's major to me personally and maybe major to you as well is real business. And what I mean by real business, as I
+run my own software company here, is that if you genuinely have employees or you work with multiple developers and
+this is an actual product, you have to use something like GitHub. GitHub allows us to take what you originally would
+have had, which is what we call a monor repo. Corbin, what do you mean monor repo? So for example, if I come back to
+our, you know, app up here, V1 app, what a monor repo is is that means one
+repository, which means that all the relevant code found in the app. This right here, monor repo told you when I
+use developer jargon, I'm I'm going explain it. So monor repo, all your relevant code for the app is inside the
+app. eg the front end and the backend. We'll just make it super general, right? Just to make our lives easy. front-end
+code and the backend code, your React tech stack, your whatever tech stack you like using in the front end, front end
+code and your backend code, AWS, GCP, Firebase, like whatever you like to use in the back end, backend code, one
+folder. What GitHub allows us to do is essentially create what we call a poly
+repo. What a poly repo in the name poly many means essentially that that one
+little folder that model re the one folder turns into maybe four different folders.
+My original folder with all of the fun stuff in it all the app code will break into maybe four folders maybe five
+folders. Maybe six folders. You might be like Corin why is there so many folders? What does that mean? That means what it
+allows us to do is now I can create a folder depending on the specific parts
+of the app. This is when applications get very big. So for example, maybe one part of this folder is all the front-end
+code. Maybe one part of this folder is all the stripe monetization code. I'll
+just do stripe code because that is a big part of an application is how you monetize. Maybe we want to separate and
+granularize that code into its own separate folder. Maybe one part of the folder is your custom pipeline. Now let
+me give you a real example of this. This company right here, this is the software company I run. And from what I remember,
+we have around 10 different folders. Each folder representing a different part of the application that then comes
+together. Another advantage of doing poly repo is it allows us to code faster. What you'll realize when you do
+GitHub, when you do coding and you're pushing it to an actual real website or software, whatever the heck you're
+building, maybe you're building the next Minecraft, it takes time to push that code. But if you granularize it in a
+poly repo, then all we have to worry about when we do a push and what you might be like, Corbin, what the heck do you mean push? Push essentially means
+essentially taking that code locally on your computer and putting it into the cloud and then congrats, it's live on
+your website. Eg. I come to my website, bumpups.com. I make a change in the
+frontend code here locally. I render that. I'm like, yo, I need to put this in the cloud. I push it to the cloud and
+it'll show up at bumpups.com. the website link everyone has access to that push happens faster when it's multiple
+folders. Another advantage of using a poly repo when it becomes a real real
+business with multiple devs is it essentially allows it so that when you have dev A we'll use a different cover
+color y'all. We'll say like gray dev A. Hi I'm dev A is someone's name dev A.
+When you have dev A here, dev A with the nice little legs, we don't have to do the monor repo situation where
+essentially, hey, I just hired you. Here's your W2. Here is your monthly income. Here's your annual income.
+Here's like uh options and equity. Let's have some fun. We don't have to give dev A access to the entire application, all
+of the code. You're probably thinking to yourself, that probably wouldn't be a smart idea. But we can give dev a maybe access only to the front-end code, but
+no access to stripe code, custom pipeline, other backend functions that incur within the application. This point
+right here, don't worry about it if you're completely fresh. Just don't even worry about it. Come back to this video in the future when you're like, you know
+what, I'm ready to take the next step and then dive into an AI model about this topic. All you need to care about right now short term is Corbin, I have
+one application. It's all the code's in the same folder. What do I do? That's going to be your monor repo. Let's proceed. So, we'll take a real quick
+look at just your GitHub. UI. Other words, user interface. Corbin went to user interface. This stuff. Oh, look at
+this. I hover over the link and a little box comes up. I hover over my name and it says change avatar user interface.
+Also, I'm not trying to patronize y'all when I talk like that. I'm I'm genuinely just trying to get the information out
+as simple as possible. You have to understand when especially for my other GitHub video or anytime I do a tutorial video, it's very much like I get
+comments like, "This guy still didn't make it simple enough." I'm trying to make this as simple as possible. Y'all scrolling down here. Obviously, you have
+your own little profile. your profile can connect with other people. You can come over and follow me. Link tree in the description down below. And you can
+see I have four projects here. These four repositories, projects, whatever you want to call them, open source. You can download them. This comes from my
+backend playlist. This comes from a entire playlist that shows you how to build out a software from literally
+scratch as that is fundamentally important to know. This is a three and a half hour playlist. Pretty cool. But the idea is that when you have a public
+repository, so I can click into this. You will notice that there is stars and forks. Stars. What does that mean? That
+means that me personally, when you have your GitHub profile selected, if you start a repository, it's kind of like
+bookmarking. That's all I want you to think about about it. I want to come back to this nice little git repo. Also,
+you know, the actual developer that made the git repo, it looks kind of cool. Like, yeah, actual backend app. I got 36
+stars. You know, you're just giving me a like. Okay. Fork. Essentially what a fork does and when I say fork I'm
+referencing this is that it's taking the repository itself all this code found
+here and it's creating an exact duplication but in your profile and what
+that allows you to do is it allows you to make changes here and then do whatever the heck you want. And then
+there's one extra layer to that where if you fork it, then essentially you make a change. In theory, you could come back
+to like we'll just call this the alpha repository and be like, "Hey Corbin, I made this change. Here's a PR request,
+pull request, a change from the original duplication. Can you add it?" And then
+I'll probably just be like, "No, I'm just playing y'all." But that's the situation there. In the short term, all
+you need to care about is Corbin repository. That's your folder on your desktop. How do we connect that? But
+before we dive over to Cursor AI and I show you some really cool git commands, some skills, and everything you should
+know in this kind of development, let me show you something you need to set up on your profile. So, if I come over to my profile here, I hit the top right, and
+then we come over to settings. Once you're in your profile, you're going to simply come here to SSH GPGs.
+The only one you're going to care about here is your SSH key. That sounds extremely confusing, I know. So, what I
+did was I created an entire Google Doc setup guide for this description down below. And it quite literally has an
+entire video dedicated to this topic to show you exactly how to do this. Your next question might be, Corbin, why the
+heck do I need an SSH key? Let me show you why. We have a laptop or desktop or some of y'all even crazy. You can do
+this on your phone now. I made some crazy videos. Check it out. I did a whole video where I was literally developing an app. This is no joke. Yo,
+I was developing an app on my phone on the back of a motorcycle in Bali. Don't believe me? Look up Corbin riding
+motorcycle jacket. You got your laptop. Your laptop has our nice little code file, right? So, we have our nice little
+nice little folder. This is my beautiful app. This is a multi-billion dollar app. Has your app and it's local and really
+like overarching idea of what it means when it I say local is that if your computer straight up dies, destroyed,
+cap, you will never be able to get this app thing again. If it was never pushed in the cloud or you never put in Google,
+like you you're just never going to be able to get it. you lose all the code. That's high level. Idea though is that you have it locally on your computer,
+but your computer has no connection to GitHub. So we come over here. This
+little green box will just say is GitHub. So let me go ahead and just write GitHub. As of now, your computer
+doesn't even know what GitHub is. It's like what's GitHub? What are you talking about? It has no connection to GitHub. So we'll add a nice little like barrier.
+So the name of the game is how do we get this local code over to GitHub? But how do we do it in a way where we aren't
+frustrated? Eg. There is ways that you can kind of do like very fast troubleshoots. If you're talking to Chad
+GBT, you're talking to Claude. Sometimes it will tell you, hey, don't worry. In order to connect your code repository
+from GitHub to your computer, use something called an access token. Don't do that. It's too much effort than it's
+worth. It's really not a long-term solution. So, set up this SSH key because what this SSH key essentially
+does is it basically tells your GitHub profile, you over here. Yeah, nice profile pick. I like it. You over here,
+it tells GitHub, hey, you own this computer. You should have full access when you do all your git commands, when
+you do any type of pushing, any type of pulling, you have access completely to your own GitHub profile and it's
+associated with your laptop, your actual piece of hardware. Fundamentally extremely important that you know that.
+Therefore, how do we make sure that this access even occurs? What is the key? # major key alert 2016 circa DJ calate
+alert like that situation that is going to be the SSH keys
+key coming over to get here. This is where you're going to set it. You're simply going to go a new SSH key and there's a lot of terminal commands
+associated with this y'all. And that's why I created this doc for you. You scroll down. It goes over all the terminal commands. And before I get
+absolutely spammed. Before I get absolutely spammed. Corbin, did you do this for Windows and Linux? I did Mac, Windows, Linux, all of it. Check out the
+doc. So that's that situation. And that's how we connect our piece of hardware, our laptop, our desktop, whatever you're using into our git
+profile. Therefore, we save ourselves a huge headache when doing commands where we get like, hey, you don't have access
+to this. Oh, um, you were trying to access that private repository that you created. Yeah, funny. You don't own
+that. And you're just kind of sitting at your computer like, what are you talking about? I just made it. What do I not own? That solves that situation. Check
+out that doc and the video associated. I'll leave the video down in the description down below because it takes around 10 minutes to set that up. But
+once you set that up, we are looking good so far because now we've done layer 2 here. You've set up our local machine.
+That's what they call it sometimes. You know, developers just want to call everything so fancy. Local machine to GitHub. The next thing you need to do is
+that great, you've connected to GitHub. But the issues you're going to be running into then is going to be like, "Hey Corbin, when I use cursor AI and I
+do a git command, it's going to say get not found. What are you talking about? Who's git?" or when you try to install a React front end, it's not going to know
+what it is because it's going to be like, "What's npm mean?" So all those little nuances of like, "What are you talking about? You don't own this.
+What's a get that very frustrating, annoying stuff?" I'm going to leave another Google doc in the description
+down below and another entire video dedicated to that. By the way, if you want to see what the video is, just hit original video, click it to set that up
+so you get to the point of having a fully ready to go developing IDE.
+Corbin, what's an IDE? integrated development environment cursor AI VS code winds surf situation is that
+description down below proceed so now we're going to get to the part of the tutorial where we start doing some commands together and we start playing
+around in cursor AI play around in anything you want and seeing how we can actually start using GitHub and if you
+stayed with me up to this point make sure you leave a like it's completely free I know the beginning part of this video you're like this was a lot of
+explaining trust me a lot of stuff on YouTube they just don't explain enough okay so I wanted to give everything in this video let's do it though so the
+example we'll we'll do today is we'll do an AI YouTube timestamp. So, what this was is I open sourced an entire software
+so y'all could see from start to finish and I created an entire series around it. If I scroll down here, you can watch the entire series. Boom. Text stack
+setup, front end, backend, monetization, launch, don't do this, full guide, everything. We're going to download this code. We're going to steal the code. If
+you're wondering what software this was, just type in tubestamp.com. This is the software we created together. put a
+YouTube link, generate timestamps, get in different languages, everything like that. So, let's say we find ourselves in a situation we're like, "Yo, I really
+like this code." Once you set up your SSH key and once you did the setup process of installing Node.js and
+everything I showed you before, now all we need to do is hit clone repo. Once we hit clone repo, we can come back to that
+GitHub page. I'm simply going to say code SSH and then copy this. Note the
+reason I can get away with SSH is because we set up our SSH key. Clone repo. Paste. Enter. Once you do that, it
+will give you the option of either selecting a pre-existing folder or just creating a new one. So, we'll say new folder. And we can call this my code.
+But in reality, call it anything you want. But whatever you call it, make sure you like the name as this is going to be where all the code is actually
+going to be downloaded to. So, we say create. Once I create that, I'm going to say select repository destination. Boom. It's going to ask to open it. We're
+going to say open. And here we go. This was able to download all that code that we just had in git repository. And what
+I mean by that, for example, app.js. What do we notice in the app.js? It says to stamp is a free online tool. Okay,
+coming over to the GitHub profile, we go to source as in source here and we go to the source where we downloaded the code.
+We go to app and look it exact same line shows up. Tub stamp is a free online tool blah blah blah. So now we have that
+git repository and a carbon copy of it complete duplication in cursor. Now, let's get to the next part of this
+tutorial, which is going to show us how to do pull request. What is a pull request? What is the value of a pull request? Then, we're going to do get
+commits together. Very fundamental git commits that you're going to type so much that sooner or later it's just
+going to be burned into your brain. Trust me, at this point, I can just type them out like I probably recite them in my sleep. That's how much you're going
+to do them. Okay, let's go and jump over to cursor here. Let's learn how we kind of just communicate between our local
+code and the code in the cloud. But before we start diving into terminal here, we got to connect this local code
+and create a new Git repository for it. So to do that, we're going to come back over here to GitHub. We'll click
+repositories. Once you're on this page, come up here to new here. Give it a name you'll know. So I'll just say my code
+for now. Here we go. Can add a description. Fun times. And everything else you can kind of leave standard. We're going to say create repository. So
+what you'll notice here is that now it's like an empty project that we need to connect. What's very important here that
+we care about is the SSH link which is found here. So, we hit copy here. Now, to be honest with you all, Cursor AI and
+all these different AI integrated IDEs have gotten so good with this chatbot feature that in theory, if you don't
+want to do what I'm about to show you right now, you could simply just ask the chat, hey, I've connected my profile with an SSH key. Here is my GitHub SSH
+link. Connect this local code and it'll probably do it for you. But fundamentally, it's always important to
+learn a skill how we used to do it back in the old days. Okay, so we're going to come down here. We're come over to terminal. Once we're in terminal, notice
+how we're in the actual thing. AI YouTube time stamp. Nice. And we're going to go and get these lines. Obviously, grab these lines from AI
+model. It's going to be get initialize, get add, get commit-m initial commit. Very first commit. You'll see what that
+means. Get remote add origin. So now we're identifying within the folder itself where we want to always push
+these kids to locally to the cloud. And the origin is that coffee fuel bump my
+git which we created here. And the reason it's called my code if you remember is because we named the
+repository my code and then get push u origin main. What does main mean here?
+Main is essentially the branch name. Now I ran into an error. Look at that. Remote origin already exists. So instead
+of me showing you how I troubleshoot this in the old ways, we can just ask the AI to do it for us. I'm going to
+simply say push this local code to my git repo. This is my first commit. I want to give context to the AI. Provide the SSH link that we just had and hit
+enter. And here we go. So let's just say I'll help you push your code to the GitHub repository. Notice how now cursor
+gives the underlying steps. And one thing that's extremely impressive that you know it wasn't like this one or two
+years ago is that when it sees errors, AI used to be like, hey, here's an air. Have fun. Now it just autocorrects
+itself. So to show you this working right now, this is the repo with no code pushed. Right? I look at it, I don't like it. We're going to let cursor keep
+pushing here. And supposedly it successfully pushed the code. I'm going to reload. And look at that. This is just I mean I could go on a whole
+another tangent about AI and IDEs and you can check out this channel here if you want to see how to even leverage this even further. But the point being
+basically if you run into errors now don't even worry most of these IDEs can handle it. So there we go. We got our
+code pushed into GitHub. Let's do some push and pulls with it. And just to prove it to you what you'll notice is this initial commit. Go to source you
+know app.js app.css. Everything is looking good here. So sometimes what I do in terminal is I'll just make a new terminal window. Let's freshen the slate
+here. I'm going zoom out for y'all a little bit and let's make our first commit together. And what a commit is essentially is that we're taking local
+code code that exists on our computer and we're pushing a new update to the cloud. So for example, if we come to our
+readme here, it says all lessons are available on YouTube. Click any title to watch. This is true. I can simply just delete this cuz maybe I don't want to
+give that CTA. And I could save it. And now we can go ahead and push that. And to push it, we're going to do get addit
+commit-m. And then you're going to tell what this commit is. I'm going to say changed readme. This can be as specific
+as possible or alternatively just random gibberish but you're like I just need to throw a save point in there. I'm going to hit enter. Once I do that, I'm going
+to do get push origin and then the branch name. So your next question might be Corbin, how do you know what the
+branch name is? There's multiple ways to see this. The first way to see this, you will notice in the bottom left of your
+IDE, it will say the branch name. So right now we're in main. Nice. Alternatively, this is the command get
+branch. Boom. Maine. And it's going to identify with it being green. Another way is coming over to GitHub. You'll
+notice his main iss right here. I can reload and you'll notice that we have a new push here. And then you'll notice it says changed readme. But how do we read
+that in an itemized way? We come over here to commits and then you can see it here. Changed readme. Click it. One file
+changed. And it's what we changed together. Nice. Now, let me show you an example of you went crazy and you just
+completely burned yourself and you're like, "Yo, Corbin, I need to roll back pronto. I got you." Let's say we come
+over here and you know we're messing with the code and I'm just like you know what I don't like any of this code. This is all horrible. I don't like it. You
+know I save this and then you know for some reason I'm crazy and I push this. Get add get commit dashm l code get push
+origin main. Right. So obviously the assumption here is that you went down some rabbit hole. You were actually trying to make real code but then at a
+certain point you found yourself creating so many files so many different things that you were like okay this is just too much to even revert. And then
+what you'll notice, you know, come back to main. We're like, "Holy smokes, L code. The code just turned into an L. We
+don't like this." You go to your commits and it's like, "What do I do, Corbin? I need to go back to change read me because at least I know and change read
+me the code was like fine and it wasn't completely broken." To do that, you're going to simply come over to here and you hit copy full. It's going to be a
+string. And the string represents a specific commit on that specific repo on your specific profile. I know that sound
+confusing, but basically it's a save checkpoint. You're playing Mario and maybe you want to redo a checkpoint and you go back in time or maybe like better
+examples like Skyrim. I know y'all know Skyrim. Skyrim is an OG. Please come out with a new game that's like a new Skyrim. I love Skyrim. It's like when
+you go to Skyrim, you are going to Winterfold. You do fuss ra you kill the entire village and you're just like,
+"Wait, there's too many guards on me. Let me save. Let me go to my save checkpoint before I did Fousea." That
+thing. If you have no clue what Skyrim is, you're like, "What is this guy rambling about?" Just trust the process. Now, there's two ways we can approach this. Some of y'all are going to be
+oldfashioned like me and you'll probably just do a terminal command to roll back to this or just, you know, we're in a
+new age. We can essentially just come up here to a chatbot and ask for it to roll back for us. So, I'll go ahead and put
+please roll back to this GitHub commits. I'll paste what I copied. Hit enter. And this stuff's just impressive, y'all. No
+longer do you really need to understand to a fundamental level terminal commands. You just need to know how to
+talk to it to get the best results. And there we go. We fundamentally pushed back to that specific commit. Now,
+sometimes this might do the wrong thing because obviously it's AI. So, let me make sure this is actually correct, y'all. So, right now it's doing this the
+safe way in the sense of like, yo, like we're going to make a separate branch to make sure that you know whatever you had in your original No, no, no. We're going
+to force push this. To do this, we're going to use the terminology of force push this, commit to main, commit string, make a new head. When you hear
+head, basically, it's like the head of the snake. Sometimes it will separate it because it want to destroy the snake. I
+know that sounded very confusing. All you got to know is that a force push makes it so that you're going to see main below me. And look it main's right
+here which is typically what you want so that we can come back and look it the commit is now changed to readme commits
+l code push disappeared. Nice. Cool. So now you know how to take your main branch push some new code into the cloud
+and you also know how to revert some code. So if you go down a rabbit hole it's no good. But let me show you a fundamental skill of what we call a pull
+request which is going to be us creating a separate branch. But let me explain a little bit further what that means. We
+got Timmy here and Timmy is using GitHub. Timmy has the most amazing app idea. It's it's absolutely amazing. He's telling everyone about it in the group
+chat. Timmy's app is currently just on the main branch. So what the branch we've been working in, right? That's all
+Timmy's been doing. Just straight deployments to main. Deployments to Maine. Deployments to main. At a certain
+point, this is an inefficient way to code. And the reason this is an inefficient way to code is because of
+the fact that you're putting Maine in a high risk position. Because when this code becomes real code and when I say
+real code I mean like it's an actual software or website you need to protect
+main at all cost as main is going to be the code that is production level ready.
+What I mean by production level ready hashtag production is essentially code
+that is currently actively in the cloud running and people are paying for it or
+maybe it's a free service maybe it's free but the point is that people are using it. Therefore, the code that's in production has to be spotless. It has to
+be no issues. That's why when you use or play a video game or you use a website
+and it's buggy, that's an issue. That's what we call a patch. That's what we call a I'm playing Call of Duty. I'm
+trying to get new skins. Why is it when I go to this part of the map, I just start going like this? Well, that's because there's a bug in the game.
+Production code is supposed to be clean. Therefore, in order to ensure production code stays clean, and there's a bunch of other reasons why, guys. In order to
+ensure production code stays clean, we protect Maine at all costs. Therefore, how do we make it so that Timmy over
+here isn't just absolutely going crazy on Maine? Well, that is when a pull
+request and a separate branch of Maine is made. So, let me explain this. And I explained this in the 10-minute video,
+so some of you already know this, but it's always nice to rehear so you really stick with it. Maine. What
+is Maine? Maine is the code found in this branch. We love Maine. Maine is going to be production. Maine is going
+to be the code we push all the time. But when we want to do a pull request, we are essentially making a exact
+duplication of main. It is the exact same code, y'all. Exact same. We're calling it something else. So maybe not
+main, maybe it's a new feature. This new feature allows you to put up profile picks. So maybe we call the branch just
+profile. So now at the bare roots, and I'm going to show you all how to do this like actually on GitHub, but at the bare roots, we have identical branches that
+were just created. One called profile, one called main. But obviously when I make a change in the profile branch, it
+starts to look different than Maine. And slowly the profile branch becomes a whole new breed and animal of our
+original app. When the profile branch gets to a certain point of being like, "Hey, this looks good." That is when we
+take the profile branch and we do something called a PR. We're going to do this. Don't worry, y'all. I know this might be confusing because we haven't
+done it together, but we're going to do it together. A PR is a pull request. And what a pull request does is it will
+cross reference the main branch, the original where it all started, the chicken or the egg, the chicken and the
+egg maybe. But the main branch is going to cross reference a profile. It's going to first identify is there any what we
+call merge conflicts. Now merge conflicts is like the boogeyman of software development. It is extremely
+annoying to deal with. But essentially a merge conflict is that when there was something you did in this new code that
+essentially conflicts with the main branch, the production branch, the code we're not supposed to break, right? So
+when you get a merge conflict, it could either be a big deal or alternatively you did that on purpose because you're
+like this one feature that is in production code. Yeah, we're just like that's trash. We need to do a completely
+new feature. So you're going to have inherent merge conflicts that are incurred there. There are situations
+though and probably in most situations with merge conflicts where the actual code that you're trying to merge my
+profile branch back into main. Oh, that's an issue. We want to keep the main branch stable where we don't have
+that conflict. So, we solve it by maybe having the main code, the code found in the main branch override the profile.
+We're going to do this all together. But the idea is this. Using this methodology, using this method of coding, it also opens the door for
+collaboration. So, we have PR. You made your profile. Nice. It's a beautiful profile. But what also happened was that
+while you were working on profile, you were the best profile creator in the game. Someone else on your team was
+working on item, new items. So, we'll say new. So, we'll just call this branch
+new item. I know my spelling is not amazing. Someone else was working on new item and they copied the code directly
+from main and then they went down their little rabbit hole of new item branch. So, we'll just say new for now, but new
+item branch. Now, typically in software development, if you do it correctly, new item branch and profile, there should be
+no issues here. You should never really have an issue where you really hit each other. No car crashes. Sometimes it
+happens, sometimes it doesn't. It just really just comes down to like, hey Timmy, I know you're working on profile,
+but why'd you touch my files in this area of the repository and you're causing a conflict? You know, the yin
+and yang of software development is when you have a really good front-end engineer and a really good backend engineer. That's the yin of all yangs
+because that allows it so that the front-end guy or gal can just code code
+code code and so can the backend person and there really isn't any merge issues there. When you have two full stack
+engineers it's good that's really good but sometimes you can have an issue where one full stack engineer when I say
+full stack that means you're really good at nice little zoom zoom back out AI camera. When I say full stack that means
+that the engineer knows how to do front end and back end at a sufficient level. could run into some issues there. But obviously the more you know the better.
+Let's actually do this though in practice. And the last little note here is that obviously when you have multiple branches PRs, it expediates the S3
+development workflow. To do this in practice though, we do this. I'm going to do get branch. All right, we're on main. Nice. I'm going to do get branch.
+Get checkout-b. And this is going to be what we call our branch. So maybe our branch is, you know, I don't like the
+name stamp. So I'm going to say like rename. Okay, perfect. Now when I do get branch again, notice bottom left it says
+rename. And also notice that the asterisk is green next to rename. Now to be clear, as you already saw earlier in
+this tutorial, if you don't like these commands or they look scary, you can probably ask Cursor AI to do the same thing. Hey cursor, can you make me a new
+branch called this? And then it'll probably do it for you. Cool. We're in rename. First thing you'll notice is that if you go back to your GitHub
+profile, rename's not here. And you'll be like, Corbin, where's rename? I just made a branch called rename. What's
+going on? That's because it's still locally on your computer. You first have to do a commit. What I mean by that is maybe we don't like tube stamp. Maybe we
+like coffee is good. That's the new name of this platform. I hit save. And then
+when I do get add commit, you know, get add dot getit commit and then do, you
+know, nice name. It's a beautiful name. And then I do get push origin rename. So
+we're always notice that get push origin. I'm not doing main anymore. I'm doing rename. Why Corbin? Because we are
+in the rename branch. We're pushing this code to rename. Enter. That's going to show up in GitHub. Boom. It's going to
+show up as like, hey, do you want to create a pull request? You don't have to do this right away, but you can. So, you can do compare and pull request. Nice
+name. Cool. Create pull request. This isn't merging it yet, but now what you'll notice is that now we have an
+open PR. Nice. In software development, what will happen when you have a multitude team of engineers is you're
+going to see a ton of PRs. Now, in the actual structuring of a software company, what will occur is that junior
+engineer here builds a PR or maybe they're just assigned to something else. But the point is that let's just say hypothetically junior engineer gets a PR
+or makes a PR. I made a PR. Senior engineer checks junior engineer's PR. Is this code good? And then there could
+even be one level higher than senior engineer that checks that code to make sure we are really good before we go to production. Point being is that this is
+what creates the development process to ensure that XYZ person that makes code, the code isn't cooked like it's good. If
+you're a oneman team or one gal team, don't worry about it. You are your own like person that looks at the code to
+make sure it's not bad. Point being though, as you'll notice, and especially when we were running our teams here, you there's a ton of PRs and sometimes the
+PRs kind of conflict with each other, but as the higher level engineer, you have to take discretion on making sure
+if a PR is pushed to main, it looks good, right? Let's take our PR here. We just made together, which is just this,
+which all we did. We go to commits, we go to files changed, and you know, coffee is good, which is true. That's
+all that's changed. In theory, if I come over here, go to index.js, or maybe like just go to like unoff landing page.js,
+GS. I come over here and I change something else. Like I put in a comment like, "Hey, this is cool." Save. Here is
+a nice little tip. Go on your laptop or your desktop or wherever your keyboard is. Hit up on the arrow keys and you go
+to pass terminal commit. So I'm going to do get add again. Get commit. I could change it. So I could be like omit added
+comment added. Enter. And then I do get push origin rename. So now what you just learned there is that within a PR
+itself, we can do multiple commits which obviously you will do, right? So what you'll notice is that the first one was nice name. The second one was comment
+added. We go to files changed and now there's two files changed. It's the app.js and the landing page.js as well.
+Both showing here. Red meaning aviden or probably just tush is gone and then green meaning the new code that is
+specifically in this branch. So what does this mean? This means that the skill you learned earlier in this video
+where you're able to roll back on a commit like you mess up in one of these little PRs. Don't worry, there's the
+little code that you need to copy again. You copy that code and the whole code, not just those that string. You click it
+and you'll come up here to copy this code, that code, put it into the cursor thing. Hey, can we roll back to this force push? And then you're able to roll
+back to previous checkpoints that you make here. So your next question is, what is industry standard practice on what makes a good PR essentially, right?
+This is business to business. This is company to company. Everyone has their own ways of approaching what makes a
+good PR. But I would say as a general rule of thumb, typically you would go in
+here to this edit. You would leave comments of things you did. So this is about nice name, but if it's like a
+feature thing, we say new page made at slash whatever new UI box XYZ. We have
+the ability to link stuff. We have the ability to put specific code in here. We have the ability to add images here.
+What I personally like doing and what I tell front-end engineers to do is if you are making a front-end change, add the
+little bullet point notes. But on top of that, it's a front-end change. So therefore, add an image of the change
+you made, right? Screenshot it and place it here. Now, last thing you should know is coming over here to reviewers. This
+is if you had a team. Typically, this is that senior level management or whatever it may be, whoever is reviewing the PR.
+That's when you would kind of put their name there in your GitHub organization and be like, "Hey, I made the PR." And
+you probably hit them up on Slack. You DM them on Slack. You're like, "Yo, the PR is ready." You put their name there and then they would confirm it. There's
+like security. There's like a way deeper tutorial I could get into when it comes to like operationally how to run a
+business level organization in GitHub. But to be honest with you, I don't think a lot of you'all care about that. If you do, let me know in the comments down below. For now though, assuming look at
+no conflicts on the branch. I love it. Assuming we made this new branch and we're like, you know what, Corbin, this looks good. You know, maybe it's not
+profile, maybe it's the new PR, new name PR. This is what I was talking about here. So now this code can go back to
+main. Therefore, let me show you fundamentally what merge pull request means. Right now, you know for certainty
+that in the files changed on this separate little branch, it says coffee is good in the app.js.
+If I go back to my main branch, I'm in main. I go to source. I go to app.js.
+The exact same file. Notice it says tube stamp. There's the difference. Come back to my pull request. I want to change it
+now. Merge pull request. Confirm merge. And then standard practice is I can delete that branch. Don't worry if you
+delete it and you want to grab it back, you can. It's not gone forever. Go back to your mine code and look at this.
+Merge pull request one and then it tells the name of it. Rename on top of that. Plus two minus two. What does that mean?
+Plus two lines of code, minus two lines of code. Come back to source. We're in the main now. Go to app.tjs. Coffee is
+good. So this means that any other future development on the main branch now when I create a branch based off
+this, it's off the updated version of main. So there's an iteration of how you do a pull request in a GitHub
+environment. So that's how it looks in the cloud. But what you'll notice is you come back to your code locally on your
+computer. It's like Corbin. This is a mess. I'm still in rename branch here in the top bottom left. How do I just like
+refresh start a slate? Don't worry. Go and do get branch again. So you'll notice we're in rename and main. Therefore, I'm going to do get checkout.
+What checkout means is that now we're in the main branch. But very important for you to understand, this main branch isn't up to date with the cloud code,
+which I'll show you how to do that pretty soon here. First, let's just delete the local branch of rename. We don't need it anymore. So, we can do get
+branch-d capital rename. This is going to delete it locally on your computer. We don't need it. Bye-bye. I always like
+to do get branch again just to confirm. So, now we're in get branch main. So, what you want to notice is we're in main. When I say we're in main, it's
+this main branch right here. But if I go to app.js, it still says tube stamp. So, what happened? Essentially what happened
+is that you're playing on an app and you haven't downloaded the update yet. So all you got to do is get pull origin
+main and watch what happens to stamp. Boom. Coffee is good. So now this code when I do get pull origin and then the
+branch name is going to be the most up-to-date code relative to this code. You've just successfully connected cloud
+code to local code perfectly. Make sure you leave a link. Fundamentally that is an important skill to have as another
+example of this could be let's say you are in a team or maybe it's just you and your friend having a good time. Let's
+just code for fun, which if it is, make sure to check out the community in the description down below. It's literally going to be like join free community. We
+got something cool going on here. It's called builder console log. Ask questions. Just think of it like Reddit but for like builders like you and me
+that want to do really cool stuff all free. Let's run it. So, you have your friends and you guys want to make the
+next billion dollar app ID. Okay, this is where PRs are fundamental as what a PR allows you to do is everything I just
+described, but assuming we have a new pull request here that you didn't create. What you want to do is simply
+and you wanted to check the code locally, eg on your computer, then all you would need to do is simply do get
+fetch origin and git fetch origin is going to grab all the relevant branches associated with that GitHub repo, which
+means your friend makes branch called test one two3 and it's right here. I
+just do the close whatever it's right here. test 123 and you're like how do I access that Corbin? I want to get test
+one two3 get edge origin and then it's going to be able to get that little branch there and then once you have test
+get test one two three get branch you do get checkout and then whatever your friend named that branch want to get
+that out of the way because that is fundamental skill to learn in collaboration software development on
+top of that if you are kind of confused what I just said there use the chat here and just use the same terminology that I
+was just using in the in those sentences the same dictation and you'll be fine you have a pretty fundamental idea of what GitHub is now let me show Two last
+things that are pretty important to kind of put a bow in this entire video. First major thing that you need to understand
+about GitHub is going to be the ignore file. A lot of people when they first start developing one don't even know
+what this is, two could just delete it because they're like this just looks weird. But agit ignore does is pretty
+much in the name. These are files that are ignored and not pushed into the cloud. So let me give you an example of
+this. A another fundamental file that pairs well with ignore is the env. What
+aenv is is these are high-risk variables that we store locally on our computer.
+What's an example of this? Any type of API key. OpenAI's API key you would put
+in the MMV and then in the ignore you would simply put EMV. So what this will
+fundamentally do is make it so that when you put high-risk stuff in here and it
+is read in the EMV here like the getit ignore it is read here you will never
+see it show up in your code repository you'll never see av file show up here
+because we placed it in the git ignore there's other stuff that will show up here right different debug logs uh when
+I say debug log like a console log right you uh you know hello world or like an error log or whatever the reason logs
+don't show up or you don't want to push logs to GitHub is because sometimes logs can you know put high-risk information
+in the log itself like hey we tried your open AI key and then just prints out the entire thing in the log that's part of
+the reason why logs don't show up in GitHub as well also it's kind of annoying dealing with logs in GitHub you don't need them there these are the now
+you might be like Corbin I want a deep lesson on the EMVs what the heck an EMV is well first off it stands for
+environment but why is it localdevelopment
+test.local evenproduction.local like all this craziness. I'm going to reference a series at the end here or
+you can just go down to the description and you'll see it pretty clearly. It's a three and a half hour series and in this
+three and a half hour series I go over everything I just speak here. I do it in practice and I build out an actual
+software. Definitely watch that if you're serious about all this. But as a shorthand TLDDR for this video in my
+Firebase.js, look at this. My Firebase config. Firebase works with GCP Google Cloud process. This like the back end,
+right? These are like high-risk variables associated with Firebase, which makes more sense if you watch my
+videos on it, but essentially these variables, we're not actually giving the real API key here, but we're calling it
+through the EMV file here. I know this is confusing. Just watch that 3 and 1/2 hour series. I'm telling you, you will
+understand all this and even be way better at it because of all the improvements that have been made with AI and IDEs. Now, your takeaway from that
+though is simply get ignore. They are important. learn them and understand why we use them. So
+that three and a half hour series I'll leave in the description down below. Funny enough, the end product of that
+series was the AI YouTube timestamp that we've been working with here, like a open- source software that you can just
+download right away to your laptop or desktop. I'll leave this in the description down below, but some of y'all are like, Corbin, you know, three
+and a half hours of content, that is a lot of content. So then what I suggest you to do if you kind of want like a granularized version of this lesson by
+lesson, go to that free community, go to classroom here. It's this one right here. build an app with no coding experience and then you can watch each
+lesson as its own. So lesson one, how do we even create an app? What's the tech stack? Lesson four, how do you create
+your app's back end? So maybe you're like, you know what, I'm really confident at front end. I don't need to watch Corbin in that. But you're like,
+I'm a little weaker at the back end. Just check out that lesson right there. You'll be good to go. And here are our last couple shoutouts. If you didn't
+know, I am one of the only AI influencers that actually streams. And you might be asking yourself, when do you stream, Corbin? Every single day,
+6:00 p.m. to 7:00 p.m. PST. I will randomly show up. So, make sure to check me out on stream if you want to stay up to date on new things happening of AI or
+new things I'm doing or really cool stuff that I see in the industry. Check me out on X. Also, I just do a bunch of
+random posts as well. Like, don't worry, it isn't going to be like top 10 AI tools. I know you don't care. I know
+we're all just human here and sometimes you just want to laugh. So, here's like a really funny like stream promo clip I made.
+Nothing beats that bold nacho cheese crunch. We'll make it le stream day 11 needs us.
+Stream day 11. Today was stream day 11. I don't know when you're going to join. Also, that's elite lead the llama. If you know, you know. You'll know pretty
+soon. But that just about does today's video. To feel like you learned something, make sure you leave a like. It is completely free. I know this was a
+long one. I have a ton of resources on my channel, y'all. There is so many times I'm looking in the comments of people asking specific questions. Just
+take the 10 seconds, look at my playlist. I guarantee you I've already made a 2 or 3 hour completely free
+course with me in it teaching you how to do it in this style. So, if you're genuinely interested in creating
+software with AI, check me out. It's all free. I'm There's no payw wall. No pay wall. But, as you already know, these
+style videos, I'll see you in the next. Did you just watch the only GitHub video that you ever have to watch in your entire life on the internet from Corbin?
+Maybe.

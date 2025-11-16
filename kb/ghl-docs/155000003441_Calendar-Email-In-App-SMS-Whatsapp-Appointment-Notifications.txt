@@ -1,0 +1,223 @@
+---
+Title: Calendar: Email, In-App, SMS & Whatsapp Appointment Notifications
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000003441-calendar-email-in-app-sms-whatsapp-appointment-notifications
+Word Count: 1224
+Scraped: 2025-10-29T01:48:24.465164
+---
+
+With customizable calendar notifications, you can send In-App and tailored emails, SMS and WhatsApp messages when appointments are booked, canceled, rescheduled, or need reminders or follow-ups. Notifications can be configured for Contacts, Guests, Users, and any additional email addresses/phone numbers you specify. This feature allows you to streamline notifications to suit your business needs, ensuring effective communication with your customers
+TABLE OF CONTENTS
+What are Customizable Calendar Notifications?
+Available Notification Options
+How to Set Up Appointment Notifications
+Email Appointment Notifications
+In-App Appointment Notifications
+SMS Appointment Notifications
+Whatsapp Appointment Notifications
+Important Note
+Frequently Asked Questions
+Related Articles
+What are Customizable Calendar Notifications?
+With customizable calendar notifications, you can send In-App and tailored emails, SMS and WhatsApp messages when appointments are booked, canceled, rescheduled, or need reminders or follow-ups. Notifications can be configured for Contacts, Guests, Users, and any additional email addresses/phone numbers you specify. This feature allows you to streamline notifications to suit your business needs, ensuring effective communication with your
+Available Notification Options
+You now have the option to set up six different types of appointment notifications. These notifications can be either email notifications and/or in-app notifications.
+Appointment Booked (Unconfirmed Status):
+Sent immediately when an appointment is booked with the unconfirmed status.
+Appointment Booked (Confirmed Status):
+Sent immediately when an appointment is booked with the confirmed status confirmed or when an appointment's status is updated to confirmed.
+Cancellation Email:
+Sent when an appointment is canceled, marked as no-show, or deemed invalid.
+Reschedule Email:
+Sent when the appointment date or time is changed.
+Reminder Email:
+Sent before the appointment based on the timing you configure.
+Follow-Up Email:
+Sent after the appointment based on the timing you configure.
+How to Set Up Appointment Notifications
+You can manage email notifications at the individual calendar level. Follow these steps to configure your settings.
+Step 1:
+Navigate to the Notifications Tab
+Go to
+Calendar > Calendar Settings.
+Select the calendar you wish to configure.
+Click on the
+Notifications
+tab.
+Step 2:
+Customize Your Notifications
+You have several options to customize each notification type to give you, your team, and your customers the best experience possible!
+Customize Content
+for each receiver type: Contact, Guest, User, or Additional Emails/Phone Numbers.
+Disable Notifications
+for certain receiver types if you do not want them to receive a specific notification
+Email Appointment Notifications
+You will see a list of all notification types. Click on the one you'd like to configure, then go to the
+Email
+tab. Ensure the toggle is turned on.
+Choose an existing email template or directly customize the subject line and email body. To remove the selected template, click on the first option (
+None
+) in the email dropdown list.
+Optionally, send a test email to see how the notification looks.
+For
+Reminders
+and
+Follow-Up Emails
+, configure when the email should be triggered:
+For
+Reminders
+, set how far in advance the email should be sent before the appointment.
+For
+Follow-Up Emails
+, set how long after the appointment the email should be sent. You can also add multiple trigger timings if needed.
+Save Your Settings
+once you’ve configured the email notifications for each type and receiver.
+In-App Appointment Notifications
+From the list of notification types, Go to the
+In-App
+tab.
+Choose the Users to Notify
+Ensure that the toggle is turned on
+Here, you can choose which users should receive the notification.
+Configure Time Triggers for Reminders and Follow-Up Notifications
+For
+Reminders
+and
+Follow-Up
+notifications, you can set when the notification should be triggered.
+Reminders:
+Specify how far in advance the notification should be sent before the appointment.
+Follow-Up:
+Specify how long after the appointment the notification should be sent.
+SMS Appointment Notifications
+From the list of notification types, Go to the
+SMS
+tab.
+Choose recipients:
+Contact
+,
+Assigned User
+, or
+Additional Phone Numbers
+.
+Choose an existing SMS template, edit the SMS template if needed or create a new one.
+Optionally, send a test SMS to see how the notification looks.
+For
+Reminders
+and
+Follow-Up SMS
+, configure when the SMS should be triggered:
+For
+Reminders
+, set how far in advance the SMS should be sent before the appointment.
+For
+Follow-Up Emails
+, set how long after the appointment the SMS should be sent. You can also add multiple trigger timings if needed.
+Save Your Settings
+once you’ve configured the SMS notifications for each type and receiver.
+Whatsapp Appointment Notifications
+Select a notification type and go to the
+WhatsApp
+tab. Turn the toggle
+on
+to enable it.
+Choose recipients:
+Contact
+,
+Assigned User
+, or
+Additional Numbers
+.
+Choose or create an
+approved template
+for the desired notification type.
+Use
+Send Test WhatsApp Notification
+to preview how the message will appear.
+Click
+Save
+to activate WhatsApp notifications.
+Important Notes
+In-App Notifications:
+The in-app notification configuration is customisable - for example, you can turn on the confirmation notification for the calendar but keep all other types turned off.
+For
+Event Calendars
+, the default setting is that account admins will receive the notifications.
+For other calendar types, the
+assigned user
+will be selected by default to receive notifications.
+Email Notifications:
+Additional Emails
+refers to any extra recipients you want to notify. Simply add their email addresses, and they’ll receive the notifications as well.
+You can create your email templates through the
+Email Builder
+in
+Marketing module > Emails > Templates.
+Ensure you have added a
+subject line in your email template
+for successful delivery.
+If you have enabled the
+Add Guest
+function and have included a custom form, you can send that custom form to the guest as well. Enabling this option will send a system-generated email to guests with a link to the custom form once their appointment is confirmed. To prevent duplicate emails, ensure a separate confirmation email is not already set up for guests (verify this in the Notifications tab under
+Confirmation Notification
+).
+SMS Notifications:
+Additional Phone Numbers
+refers to any extra recipients you want to notify. Simply add their phone number(s), and they’ll receive the notifications as well.
+Phone numbers must
+include country codes
+for successful delivery.
+SMS messages are billed per segments and are subject to charges. Keep them concise to manage costs.
+Whatsapp Notifications:
+Ensure your
+WhatsApp Business Account
+is connected and verified.
+Only
+approved WhatsApp templates
+can be used.
+Use
+Fetch New Templates
+to refresh available templates.
+Always test templates for formatting and content before enabling.
+Frequently Asked Questions
+Q: Can I personalize SMS with appointment details?
+Yes. Use
+Custom Values
+like
+{{contact.name}}
+,
+{{appointment.start_time}}
+, and
+{{appointment.time_zone}}
+in your template.
+Q: Does SMS support all appointment events?
+Yes, Unconfirmed, Confirmed, Cancellation, Reschedule, Reminder, and Follow-Up.
+Q: How do I test without notifying the client?
+Use Send Test SMS with a personal or team test number.
+Related Articles
+How To Create Service Calendars
+Getting Started - Setup A Booking Calendar
+SMS Templates (Snippets) - Overview
+How to Configure SMS Compliance Settings
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

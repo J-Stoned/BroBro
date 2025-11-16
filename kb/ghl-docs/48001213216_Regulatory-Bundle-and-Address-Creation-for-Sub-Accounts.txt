@@ -1,0 +1,170 @@
+---
+Title: Regulatory Bundle and Address Creation for Sub-Accounts
+Category: Phone System
+URL: https://help.gohighlevel.com/support/solutions/articles/48001213216-regulatory-bundle-and-address-creation-for-sub-accounts
+Word Count: 971
+Scraped: 2025-10-29T01:41:02.082340
+---
+
+Learn how to create a regulatory bundle and address for sub-accounts in HighLevel using LC Phone. This ensures compliance with telecom regulations so you can successfully purchase phone numbers in regulated countries.
+TABLE OF CONTENTS
+What is a Regulatory Bundle?
+Key Benefits of Regulatory Bundles
+How to Create a Regulatory Bundle
+Step 1: Navigate to Regulatory Bundle/Address
+Step 2: Create a Regulatory Bundle
+Step 3: Create a New Address Bundle
+Assigning a Regulatory Bundle to a Phone Number
+Frequently Asked Questions
+Related Articles
+What is a Regulatory Bundle?
+Regulatory Bundles are required by telecom carriers to verify the identity and location of businesses or individuals purchasing phone numbers in certain countries. These bundles include documentation such as government-issued ID, utility bills, or business registration details, and help ensure legal compliance with local number ownership laws.
+Without a regulatory bundle, phone numbers in regulated regions cannot be activated. LC Phone users can manage this process directly within the HighLevel platform.
+Key Benefits of Regulatory Bundles
+Submitting a regulatory bundle is essential for purchasing international phone numbers in compliance with regional laws. This process ensures verified identity, prevents telecom issues, and simplifies global number management across your agency.
+Compliance with Local Telecom Regulations:
+Meets legal requirements in regulated countries to activate and maintain phone numbers.
+Improved Deliverability and Service Quality:
+Verified bundles reduce the risk of carrier filtering, suspension, or number removal.
+In-App Management:
+Allows regulatory bundles to be created and submitted directly inside HighLevel — no need to leave the platform.
+Faster Setup with Built-In Compliance Tab:
+For LC Phone users, the Compliance tab streamlines document upload and address validation.
+How to Create a Regulatory Bundle
+LC Phone users can create and manage regulatory bundles directly within HighLevel using the built-in Compliance tab in each Sub-Account.
+Step 1:
+Navigate to Regulatory Bundle/Address
+Navigate to the desired
+Sub-Account
+in your HighLevel Agency Dashboard.
+Open the
+Settings
+navigation menu on the left side of the page
+Choose the tab labeled
+Phone Numbers
+on the left
+Select the tab labeled
+Regulatory Bundle/Address
+at the top
+Step 2:
+Create a New Address Bundle
+Click the blue button in the upper left labelled
++
+Create
+A popup will appear with the options of Address Bundle or Regulatory Bundle. Select
+Address Bundle
+.
+Fill out requested business information including Business/Individual Name, Full Street Address, City, State/Province, Postal Code and Country
+Click on
+Submit.
+Step 3:
+Create a Regulatory Bundle
+Click the blue button in the upper left labelled
++
+Create
+A popup will appear with the options of Address Bundle or Regulatory Bundle. Select
+Regulatory Bundle
+.
+Using the
+Select County
+dropdown menu, select the desired country
+Using the
+Select Number Type
+selector, choose the type of number desired
+Fill out requested
+Business Information
+.
+Upload
+Supporting Documents
+.
+Note:
+While not all countries require documents, many do. Required document types and rules vary based on the country and usage.
+Submit
+bundle for review
+Assigning a Regulatory Bundle to a Phone Number
+Once a regulatory bundle is approved, it must be assigned to the number you're purchasing. This step is required to activate regulated numbers and verify compliance before use.
+Click on
+Settings
+from your sub-account
+.
+Click on
+Phone Numbers
+.
+Click
++ Add Number
+button and select
+Add
+Phone
+Number
+from the dropdown.
+Select the desired
+Country
+and a
+Number
+.
+If the number requires a regulatory bundle, you'll see
+Required
+under the
+Address
+Requirement
+column.
+Click on the
+Proceed to Buy
+button.
+Use the dropdown to assign your approved
+R
+egulatory bundle
+.
+Click on
+Proceed to Buy
+button to complete the purchase.
+Frequently Asked Questions
+Q: What is a regulatory bundle, and why is it needed?
+A regulatory bundle is a set of documents used to verify the identity and location of a person or business. It's required to purchase phone numbers in countries with telecom regulations, ensuring legal use and compliance.
+Q: Where do I create a regulatory bundle in HighLevel?
+Go to the Sub-Account, click
+Phone Numbers
+, and then open the
+Compliance
+tab. From there, click
+Create Bundle
+to begin the submission process.
+Q: What documents are required to create a bundle?
+Many countries require supporting documents (like proof of address, business registration and identity). Requirements vary by country and use type (personal or business).
+Q: How long does bundle approval take?
+Most regulatory bundles are reviewed and approved within 72 hours. Ensure your documents are clear and accurate to avoid delays.
+Q: Can I reuse a bundle for multiple phone numbers?
+Yes. Once approved, a regulatory bundle can be used for additional phone numbers, as long as they fall under the same regulation and region.
+Q: What happens if my bundle is rejected?
+You'll receive a reason for rejection. You can update the documents or details and resubmit the bundle for another review.
+Q: Can I edit or delete an existing bundle?
+Bundles cannot be edited once submitted, but you can create a new bundle and use that instead. Deletion options depend on review status and assignment history.
+Related Articles
+How to Purchase a Phone Number in a Sub-Account
+Create Regulatory Bundle from within the Web App
+Regulatory Bundle Creation and View for LC Phone Accounts
+How do I migrate my agency and sub-account over to LC Phone?
+What is LC - Phone System?
+How to buy a toll free number inside GHL?
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

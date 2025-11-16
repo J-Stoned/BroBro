@@ -1,0 +1,234 @@
+---
+Title: How To Use Shopify Variables
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/48001203898-how-to-use-shopify-variables
+Word Count: 370
+Scraped: 2025-10-29T01:58:31.882073
+---
+
+Shopify Variable Details
+Shopify Variable format
+Data Sample
+Abandoned Checkout Trigger
+Order Placed Trigger
+Order Info
+Order id
+{{
+order.id
+}}
+1900968798308
+YES
+YES
+Order number
+{{order.number}}
+1044
+-
+YES
+Order status URL
+{{order.order_status_url}}
+link to order
+-
+YES
+Abandoned checkout URL
+{{order.abandoned_checkout_url}}
+link to abandoned checkout
+YES
+-
+Created at
+{{order.created_at}}
+2021-10-21T11:47:12+05:30
+YES
+YES
+Created on
+{{order.created_on}}
+default format 10-20-2021
+YES
+YES
+Currency
+{{order.currency}}
+$
+YES
+YES
+Currency code
+{{order.currency_code}}
+USD
+YES
+YES
+Customer Info
+First Name
+{{order customer.first_name}}
+John
+YES
+YES
+Last Name
+{{order.customer.last_name}}
+Carter
+YES
+YES
+Email
+{{order.customer.email}}
+johncarter@gmail.com
+YES
+YES
+Phone
+{{order.customer.phone}}
+18989898989
+YES
+YES
+Order Value
+Total Cart Price
+{{order.total_cart_price}}
+99.00
+-
+YES
+Discount Code
+{{order.discount_code}}
+TESTDISC20
+-
+YES
+Total Discount Value
+{{order.total_discounts}}
+11.99
+-
+YES
+Order has discount?
+{{order.has_discount}}
+true/false
+-
+YES
+Subtotal Price
+{{order.subtotal_price}}
+88.99
+-
+YES
+Total Shipping Price
+{{order.total_shipping_price}}
+14.49
+-
+YES
+Total Price
+{{order.total_price}}
+102.99
+-
+YES
+Customer Billing Address
+Contact Name
+{{order.billing_address.name}}
+John Carter
+-
+YES
+Address Company
+{{order.billing_address.company}}
+Marvel Inc.
+-
+YES
+Address 1
+{{order.billing_address.address1}}
+890
+-
+YES
+Address 2
+{{order.billing_address.address2}}
+Fifth Avenue, Manhattan
+-
+YES
+Province
+{{order.billing_address.province}}
+New York City
+-
+YES
+Zip
+{{order.billing_address.zip}}
+10128
+-
+YES
+Country
+{{order.billing_address.country}}
+United States
+-
+YES
+Customer Shipping Address
+Contact Name
+{{order.shipping_address.name}}
+John Carter
+-
+YES
+Address Company
+{{order.shipping_address.company}}
+Marvel Inc.
+-
+YES
+Address 1
+{{order.shipping_address.address1}}
+890
+-
+YES
+Address 2
+{{order.shipping_address.address2}}
+Fifth Avenue, Manhattan
+-
+YES
+Province
+{{order.shipping_address.province}}
+New York City
+-
+YES
+Zip
+{{order.shipping_address.zip}}
+10128
+-
+YES
+Country
+{{order.shipping_address.country}}
+United States
+-
+YES
+Order requires shipping?
+{{order.requires_shipping}}
+true/false
+-
+YES
+Advanced Variables
+Order/Abandoned cart items
+(*Coming Soon)
+{{#each Order line_items as | item |}}
+YES
+YES
+item.id
+item.image
+item.title
+item.quantity
+item.price
+item.line_price
+{{/each}}
+Order Tax Details
+(*Coming Soon)
+{{#each Order tax_lines as | tax |}}
+-
+YES
+tax.title
+tax.rate
+tax.price
+{{/each}}
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,118 @@
+---
+Title: Create a Template
+Category: Certificates
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001235-create-a-template
+Word Count: 675
+Scraped: 2025-10-29T01:56:29.150545
+---
+
+We're thrilled to introduce Certificates, a fantastic feature designed to acknowledge and celebrate user accomplishments in your community. With Certificates, you can create personalised certificates and issue them to your users. In this initial release, we've focused on making it easy to award certificates for course completion. Here's how to get started:
+In This Article
+Where to find Certificates ?
+Create a template
+Editing Templates
+Where to find Certificates ?
+To get started with certificates:
+Go to Memberships from the left bar (in a location) > Certificates
+Create a template
+To start creating a certificate template:
+Click on
+New
+To create a template, choose Certificate Templates or Blank Certificates
+Choose an existing template
+To create a template, choose from the existing templates:
+Select a template
+Click on
+Confirm
+Template is ready to use
+Create a template from scratch
+To create a template from scratch:
+Click on
+Blank Certificates
+Start creating from scratch
+Editing Templates
+To edit a template, there are various elements to use:
+1. Layout:
+To choose a layout, click on
+Layout,
+and choose between Portrait or Landscape
+Once selected, you can choose frames for both the layouts, respectively
+To remove a frame, click on the same frame again (from the right bar)
+Note
+: Changing the layout from Portrait to Landscape or vice-versa, will disrupt the edits
+2. Background:
+To choose a background, click on
+Background
+Choose the colours
+Upload an image as background or enter image link to upload
+Choose the opacity of the background image or colour by using the opacity slider
+To choose a pattern as background image, click on
+Patterns
+and choose a pattern. Further choose the colour of the pattern
+3. Header
+To add a header, drag and drop the
+Header
+element to your template and start editing the text after selection
+Elements can be cloned or deleted by clicking on the copy and delete icons
+Choose Font Styles, Font Size, Font Type (Heading 1, Heading 2, etc ...), Font Colour, etc. from the top bar after selecting a text
+To resize, move the blue dots of the text box
+4. Text
+To add a text, drag and drop the
+Text
+element to your template and start editing the text after selection
+Elements can be cloned or deleted by clicking on the copy and delete icons
+Choose Font Styles, Font Size, Font Type (Headings,Paragraohs, etc..), Font Colour, etc. from the top bar after selecting a text
+To resize, move the blue dots of the text box
+5. Image
+To add an image, drag and drop the
+Image
+element to your template
+Upload an image or add the image link to upload
+Choose the opacity of the background image by using the opacity slider
+To resize, move the blue dots of the box
+6. Badge
+To add a badge, drag and drop the
+Badge
+element to your template
+Choose a badge with from the options by clicking on it
+To resize, move the blue dots of the box
+7. Signatures
+To add a signature, drag and drop the
+Signature
+element to your template
+Choose a badge with from the options by clicking on it
+Choose the signature styles after selecting the signature
+To resize, move the blue dots of the box
+Preview and Save a template
+To preview a template, click on
+Preview
+To save a template, click on
+Save
+Before saving a template, enter a relevant name for your certificate from the top section
+Saved Templates
+Once saved, click on
+Back
+Saved templates are visible under the Template tab
+From the three dots, choose to Preview, Edit or Delete a template
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

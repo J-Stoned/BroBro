@@ -1,0 +1,96 @@
+---
+Title: Getting Started - Launch a Course
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005072-getting-started-launch-a-course
+Word Count: 431
+Scraped: 2025-10-29T01:39:05.905126
+---
+
+Setting up and launching your online course might seem daunting at first, but trust me—it's simpler than you think! With just a few clicks, you'll be on your way to sharing your expertise, building your audience, and even earning some income. Let's dive in step-by-step.
+TABLE OF CONTENTS
+Create a Course
+Create an Offer
+Sell Offer
+Create a Course
+Creating your first course is like laying the foundation for your teaching empire. It’s exciting and easy—let's walk through it together.
+Navigate to
+Memberships > Courses > Products
+.
+Click
+Create Product > Start from Scratch
+.
+Click
+Start Building
+to pick the format that suits your teaching style:
+Sprint Course (quick and concise)
+Marathon Course (long-form and comprehensive)
+Membership (recurring content)
+Build your own (completely customized)
+Give your course a memorable name.
+Click
+Create Product
+.
+Build out your course content from scratch or edit the template.
+Click
+Save
+.
+?
+Next step:
+Explore more ways to enhance your course:
+How To Build Courses / Membership Sites
+Paid Courses inside Communities
+Advanced Course Unlock Options in Communities
+Create an Offer
+Once your amazing course is ready, creating an offer is like packaging a beautiful gift—enticing and clearly valuable. Here's how to make it irresistible:
+Navigate to
+Memberships > Courses > Offers
+.
+Click
+Create Offer
+.
+Fill in your offer details to clearly communicate the value.
+Assign your newly created course product to the offer.
+Set your desired price.
+Click
+Create
+.
+Switch your Offer from Draft to Published and click Save.
+Or switch between draft and published directly in the offers list.
+Next you can:
+Consider bundling offers or creating discount codes to attract more learners.
+Sell Offer
+Congratulations, your offer is ready to share with the world! The final step is all about connecting with your audience. Let’s quickly generate and share your offer:
+Navigate back to
+Memberships > Courses > Offers
+.
+Click the
+link
+icon to get the link for an offer.
+Click
+Copy
+.
+Share it across your channels—social media, emails, or your website.
+Next you can:
+Explore marketing strategies or launch a campaign to boost your course sales.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

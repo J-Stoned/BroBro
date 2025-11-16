@@ -1,0 +1,110 @@
+---
+Title: White Label the IPhone App
+Category: Mobile & Desktop App
+URL: https://help.gohighlevel.com/support/solutions/articles/48000982208-white-label-the-iphone-app
+Word Count: 382
+Scraped: 2025-10-29T01:54:29.936848
+---
+
+To publish apps on the iOS App Store, each business must have its
+own Apple Developer account
+. Below is a step-by-step guide for creating one under an organization.
+✅ What You'll Need
+D-U-N-S Number
+: Register
+here
+Legal Entity
+: Your business must be a registered company (no DBAs or sole proprietorships).
+Legal Authority
+: The enroller must be the owner or an authorized executive.
+Company Website
+: A publicly accessible company website is required.
+Business Email
+: Use a domain-based email (e.g., name@yourcompany.com).
+Apple ID
+: Create or use one to enroll. Recommended: Use a business-specific Apple ID.
+? Step-by-Step Enrollment Process
+Step 1: Create or Sign In with Apple ID
+Visit
+Apple Developer Enrollment
+Sign in with your
+Apple ID
+, or create one for your business
+Step 2: Accept Developer Agreement
+Agree to Apple’s Developer Terms and Conditions
+Step 3: Choose Entity Type
+Select
+Organization
+Your developer name will reflect your
+company name
+, not your personal name
+Step 4: Enter Organization Details
+Provide your
+D-U-N-S Number
+Verify
+Legal Entity Status
+and
+Legal Authority
+Fill in accurate
+contact information
+Step 5: Payment & Confirmation
+The program costs
+$99/year
+(nonprofits, schools, and government orgs may qualify for free enrollment)
+Enter payment info and confirm the purchase
+Step 6: Email Verification
+Confirm your email via the link Apple sends you
+Apple may take
+up to 48 hours
+to verify and activate your account
+⚡ Important Notes
+Log in at
+developer.apple.com
+and
+appstoreconnect.apple.com
+to manage your account
+Accept any additional Apple terms of service as prompted
+Make sure
+Two-Factor Authentication is enabled
+on your Apple ID
+? Helpful Links
+Enrollment:
+https://developer.apple.com/programs/enroll/
+D-U-N-S Number:
+https://www.dnb.co.in/duns/get-a-duns
+Update Identity Info: https://developer.apple.com/enroll/identity/edit
+Video Guide:
+Watch here
+Apple Developer Support: https://developer.apple.com/support/
+If you face issues, contact Apple Support directly at
+1-800-633-2152
+.
+_
+_______________________________________________________________________________________
+______________________________________________________________________________________________________
+______________________________________________________________________________________________________
+______________________________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

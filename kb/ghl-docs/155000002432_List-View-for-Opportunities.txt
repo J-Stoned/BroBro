@@ -1,0 +1,54 @@
+---
+Title: List View for Opportunities
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002432-list-view-for-opportunities
+Word Count: 361
+Scraped: 2025-10-29T01:44:12.239944
+---
+
+The new List View transforms how you can interact with your opportunities by providing a detailed, streamlined, and customizable view. Here’s what you can do with it:
+In This Article
+How to Access the List View
+Feature List
+Benefits of the Last View
+How to Access the List View:
+Navigate to your Opportunities section and switch to the List View from the top right toggle.
+Feature List:
+Opportunities in a Listed View:
+See all your opportunities organized in a clear, tabular format. This makes it easier to scan through and find the information you need quickly.
+Sorting Across Fields:
+Easily sort your opportunities by any field, allowing you to prioritize and manage them more effectively.
+Customizable Fields:
+Choose which fields you want to display in your list view. You can resize and rearrange the fields as well.
+Full Feature Parity with Board View:
+All the powerful features you use in the board view are available in the list view too. This includes advanced filters to narrow down your search and robust search functionality to quickly find specific opportunities.
+Benefits of the List View
+The List View offers several key advantages that can enhance your productivity and streamline your workflow:
+Enhanced Visibility:
+With more opportunities displayed in the same view, you can get a comprehensive look at your pipeline without having to switch between screens.
+Increased Customization:
+Tailor your columns to display the information that matters most to you. This customization ensures that your view is always aligned with your specific needs and preferences.
+Improved Efficiency:
+By enabling sorting, filtering, and exporting directly from the list view, you can manage your opportunities more efficiently, saving time and reducing the effort needed to perform routine tasks.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,76 @@
+---
+Title: Getting Started with Companies
+Category: Companies
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004430-getting-started-with-companies
+Word Count: 572
+Scraped: 2025-10-29T01:59:15.729360
+---
+
+The
+Companies
+feature in HighLevel allows you to manage your business relationships at the company level, rather than solely focusing on individual contacts. This feature is particularly helpful for organizations that deal with multiple contacts within the same company or need a consolidated view of interactions and tasks related to a business entity.
+TABLE OF CONTENTS
+Feature 1 - Create, Edit, and Save Company Details
+Feature 2 - Create and Manage Custom Fields
+Feature 3 - Customize the List View
+Feature 4 - Advanced Filters
+Feature 5 - Sorting
+Feature 6 - Search Across Standard and Custom Fields
+Feature 1 - Create, Edit, and Save Company Details
+You can easily add new companies to your database or update details for existing records. You can store essential information such as:
+Company Name
+Phone Number
+Email Address
+Website
+Address (including State, City, Postal Code, and Country)
+Description of the company
+This ensures that all critical business details are stored in one place, accessible to your team whenever needed.
+Feature 2 - Create and Manage Custom Fields
+The Companies feature allows you to create custom fields tailored to your business needs. This flexibility ensures that you can track additional data points, such as:
+Industry type
+Revenue range
+Number of employees
+Custom fields are easy to create, edit, and update, helping you personalize the information you track for different companies.
+Feature 3 - Customize the List View
+The List View offers a comprehensive snapshot of your companies. You can customize this view using the
+Manage Fields
+option, deciding which columns to display. For example, you can include or exclude fields like "Website" or "State" to match your requirements. This ensures that you see only the most relevant information at a glance.
+Feature 4 - Advanced Filters
+The
+Advanced Filters
+feature helps you narrow down company records based on specific criteria. Filters can be applied to standard fields like "City" and "Email," or custom fields you create. This makes it easy to find exactly what you need, such as companies located in a particular state or those in a specific industry.
+Feature 5 - Sorting
+Effortlessly sort your company records to organize the data. You can sort by various fields, such as "Company Name," "City," or "State," ensuring you can quickly locate the companies most relevant to your tasks.
+Feature 6 - Search Across Standard and Custom Fields
+The
+Search
+functionality is robust, allowing you to find company records based on any standard or custom field. For example, you can search for companies by name, phone number, or even specific custom field values depending on the searchable fields set up for Companies. This feature ensures that no matter how large your database grows, finding the right information is always quick and easy.
+Examples of Use Cases
+Sales Teams:
+Track potential clients and their details to streamline the sales pipeline.
+Account Management:
+Maintain updated contact information for partners and vendors.
+Marketing Teams:
+Segment companies by industry or location for targeted campaigns.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

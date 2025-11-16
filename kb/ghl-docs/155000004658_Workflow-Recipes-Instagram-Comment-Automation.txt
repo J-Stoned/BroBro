@@ -1,0 +1,35 @@
+---
+Title: Workflow Recipes - Instagram Comment Automation
+Category: Workflows
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004658-workflow-recipes-instagram-comment-automation
+Word Count: 166
+Scraped: 2025-10-29T01:47:22.879252
+---
+
+Create a workflow from this recipe to get an example of a full IG "comment to get the file" style workflow.
+Trigger: fires on any first level comment on the post.
+Action: responds to the comment with "hey check your DM" or "thanks for showing interest. please check your DM".
+Action: interactive messenger reply to comment via DM "I am excited that you want to start your Personal Finance journey." with buttons "visit our website" or "get the checklist".
+Action: interactive messenger reply to DM "here is your checklist".
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

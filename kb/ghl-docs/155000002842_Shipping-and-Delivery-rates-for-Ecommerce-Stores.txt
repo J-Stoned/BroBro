@@ -1,0 +1,72 @@
+---
+Title: Shipping and Delivery rates for Ecommerce Stores
+Category: E-commerce store
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002842-shipping-and-delivery-rates-for-ecommerce-stores
+Word Count: 423
+Scraped: 2025-10-29T01:56:25.994013
+---
+
+About:
+Gohighlevel has introduced new features that enable e-commerce store owners to define manual delivery charges based on various criteria, such as shipping zones, states/provinces, and product weights. This document serves as a guide to help store owners set up and manage these shipping and delivery rates effectively.
+Setting up shipping zones:
+Shipping zones allow store owners to create specific regions with customised delivery charges. Store owners can define the delivery charges for selected states/provinces within a country.
+Steps to Create a Shipping Zone:
+Navigate to
+Sub-Account > Payments > Settings > Shipping & Delivery
+.
+Click on
+Add Zone
+.
+Select the desired countries to include in the zone. Select specific states/provinces within a country that are required in the created zone.
+Click on
+Add Rate
+to define manual rates for the zone. Here, users can define shipping rates and also add a conditional pricing.
+Buyer's preview on the checkout page:
+Setup conditional Pricing on Shipping rates:
+Store owners can define delivery rates based on either the total amount in the cart or the product weights. This allows store owners to setup differential pricing on the shipping and delivery charges.
+Example Setup based on product weight range:
+Free Shipping
+: If the order weight is in the 0-10 kg range.
+Standard Shipping
+: Charge $10 if the order weight is below 10 kg.
+Example Setup based on total order amount:
+Free Shipping
+: If the order amount is above $500.
+Standard Shipping
+: Charge $10 if the order amount is below $500.
+Steps:
+Go to
+Sub-Account > Payments > Settings > Shipping & Delivery > Add Rate > Select conditional pricing
+.
+Select either of the conditional pricing parameter:
+By order price, By item weight.
+Define the Minimum and Maximum (maximum is optional) for Price/ weight.
+Click on
+Add
+to apply.
+Notes:
+Store owners can create differential pricing for multiple shipping zones based on states/ province.
+Once a states/ province is added in a zone, it can't be added to another zone.
+Store owners can create differential pricing for multiple product weights in a zone
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

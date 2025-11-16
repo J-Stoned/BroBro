@@ -1,0 +1,111 @@
+---
+Title: Buying a Twilio Number in Your Own Twilio Account Connected to HighLevel
+Category: Phone System
+URL: https://help.gohighlevel.com/support/solutions/articles/48001219820-buying-a-twilio-number-in-your-own-twilio-account-connected-to-highlevel
+Word Count: 568
+Scraped: 2025-10-29T01:41:23.820218
+---
+
+Overview
+If you’re using your own Twilio account connected to HighLevel, any numbers you purchase directly in your Twilio console can automatically reflect in your HighLevel location.
+This guide walks you through the step-by-step process to buy a phone number from your Twilio console while ensuring it becomes immediately available inside your HighLevel account.
+Steps to Purchase a Twilio Number and Reflect It in HighLevel
+Step 1: Log in to Twilio
+Go to
+https://www.twilio.com/login
+and log in to your account.
+At the top of the dashboard, locate your
+Main Account
+, click it, and select the relevant
+Sub-account
+.
+Note
+:If you have multiple sub-accounts in Twilio and are unsure which one to select, you can retrieve the correct Account SID from HighLevel.
+https://app.gohighlevel.com/settings/twilio
+To do this:
+Go to
+HighLevel Agency View > Settings > Phone Integration > Sub-account Settings
+.
+Find and
+copy the Account SID
+for the specific location.
+Step 2: Locate the Sub-account in Twilio
+Return to the Twilio dashboard.
+Use the
+Account SID
+copied from HighLevel to search for and switch into the correct Twilio sub-account.
+Paste the Account SID in Twilio’s account switcher and select it.
+Step 3: Navigate to Purchase a Number
+In the left-hand sidebar of the Twilio console, go to:
+Develop > Phone Numbers > Manage > Buy a Number
+.
+Step 4: Choose the Country
+In the country dropdown menu (top-left corner), type and select your desired country (e.g.,
+Australia
+).
+Twilio will now display a list of
+local phone numbers
+with
+voice capabilities only
+.
+Step 5: Use Advanced Search to Find Mobile Numbers
+Click on
+Advanced Search
+.
+Uncheck the
+Local
+number option and search again.
+This will now display
+mobile phone numbers
+available for purchase with the selected capabilities (e.g., voice, SMS).
+Step 6: Finalize and Verify in HighLevel
+After purchasing the desired number, return to your
+HighLevel location
+.
+Navigate to
+Settings > Phone Numbers
+.
+You should now see the newly purchased Twilio number automatically reflected in the list.
+Frequently asked question
+Q1)
+Will the newly purchased Twilio number automatically appear in my HighLevel location?
+A)
+Yes. As long as your Twilio sub-account is properly connected to the correct HighLevel location, the number will sync automatically and appear under
+Settings > Phone Numbers
+in the location.
+Q2)
+How do I make sure I’m using the correct Twilio sub-account?
+A)
+You can confirm the correct sub-account by:
+Going to your HighLevel
+Agency view > Settings > Phone Integration > Sub-account Settings
+Copying the Account SID linked to the location
+Using that SID to search and switch to the correct sub-account in Twilio
+Q)Do I need to configure anything else after buying the number?
+A)
+No additional configuration is required if your Twilio account is correctly integrated with HighLevel. The number should be fully functional for workflows, conversations, and calls.
+Related Articles
+How to request a number that's not available?
+How to Purchase a Phone Number in a Sub-Account
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

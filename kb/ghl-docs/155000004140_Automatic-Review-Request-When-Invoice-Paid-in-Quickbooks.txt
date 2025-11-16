@@ -1,0 +1,47 @@
+---
+Title: Automatic Review Request When Invoice Paid in Quickbooks
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004140-automatic-review-request-when-invoice-paid-in-quickbooks
+Word Count: 429
+Scraped: 2025-10-29T01:58:16.192973
+---
+
+The Quickbooks integration comes with a built-in automation to
+send a Review Request
+whenever a contact's first invoice is paid in full (balance drops to $0). This is independent of manual and workflow actions to send a Review Request. This can be left enabled, or it can be disabled.
+Click here to learn more about the Quickbooks Integration.
+The Quickbooks Automatic Review Request is built into the integration, it does not use the HighLevel Workflow triggers/actions. The Workflow trigger for Invoice Paid does not respond to invoices paid in Quickbooks, only to invoices paid in HighLevel.
+TABLE OF CONTENTS
+What is the Quickbooks Automatic Review Request?
+Why does the Quickbooks integration have an automatic Review Request?
+How can I turn on off / disable the Quickbooks automatic Review Request?
+What is the Quickbooks Automatic Review Request?
+A Review Request is a HighLevel feature that sends a prebuilt message (email or SMS) to a contact asking them to review the service provider. The Quickbooks integration is a feature that connects Quickbooks to HighLevel so that certain information can be passed back and forth. The Quickbooks integration has a built-in automation that will send a Review Request to a contact the first time they pay an invoice down to $0.
+You can c
+ustomize the Review Request message here.
+Why does the Quickbooks integration have an automatic Review Request?
+Every small business should be asking for reviews and most of them aren't asking often enough. An excellent time to ask for a review is right after the first transaction has closed. This can be automated by connecting to Quickbooks to get a message when the first invoice is paid down to $0.
+How can I turn off / disable the Quickbooks automatic Review Request?
+For a period of time there was no way to disable this automatic Review Request. In Oct 2024 a new feature was released that allows toggling this feature on / off. You can control this in Subaccount > Settings > Integrations > Quickbook Integration > deselect "Send Review Requests for contacts". You can turn it back on / reenable later.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,44 @@
+---
+Title: Google Business Profile - Chat sunset starting Jul 15, 2024
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002560-google-business-profile-chat-sunset-starting-jul-15-2024
+Word Count: 264
+Scraped: 2025-10-29T01:57:35.575983
+---
+
+What is happening?
+Google is sunsetting its Google Business Profile - Chat
+starting from
+Jul 15, 2024
+. We understand that this is a frustrating situation, and we are here to help you through this change.
+Timeline:
+Beginning July 15, 2024, your contacts won't be able to start new chat conversations with your business from Google. Contacts in existing chat conversations will see a notification from Google about the feature phaseout.
+On July 31, 2024, the chat feature will be removed from Google Business Profile. You won’t receive new chat messages.
+Will my contacts be notified about this change?
+Beginning July 15, 2024, contacts in existing chat conversations will be notified about the feature phaseout. These notifications will be shown in existing chat conversations until July 31, 2024, when GBP chat will no longer be supported.
+What should I do now?
+If your profile currently does not have a phone number or if the number is hidden, we recommend adding one to your Business Profile by July 31 so customers can continue to contact you directly.
+Learn more about how to edit your business phone number
+.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

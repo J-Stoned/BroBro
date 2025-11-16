@@ -1,0 +1,169 @@
+---
+Title: Media Library - Built-In Image Editor
+Category: Media Storage
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006538-media-library-built-in-image-editor
+Word Count: 621
+Scraped: 2025-10-29T02:00:06.640514
+---
+
+HighLevel’s built-in Image Editor lets you crop, rotate, flip, and fine‑tune images directly inside the Media Library, no external tools required. Edit, save, and reuse visuals across Social Planner, Funnels, and Email Builder in a few clicks. Keep assets consistent, reduce duplicates, and speed up production while staying fully inside HighLevel.
+Note:
+This Feature is currently in
+Labs
+and needs to be
+enabled
+by
+Agency
+for sub-accounts.
+TABLE OF CONTENTS
+What is the Built-In Image Editor in Media Library?
+Key Benefits of the Built-In Image Editor
+How To Use the Built-In Image Editor
+Frequently Asked Questions
+Related Articles
+What is the Built-In Image Editor in Media Library?
+The Built-In Image Editor is a lightweight, on-screen workspace embedded in the Media Library. It focuses on essential adjustments that marketers and teams routinely need, helping you prep images right before publishing without downloading files or opening third‑party apps. The editor opens from any image in the Media Library after you click Edit, rendering a modal with tools for crop, rotate, flip, brightness, and contrast, plus undo/redo and save options.
+Key Benefits of the Built-In Image Editor
+Work Inside HighLevel:
+Eliminate external tools and context switching.
+Cleaner Asset Management:
+Replace or save as new to prevent duplicate clutter.
+On-brand Visuals:
+Adjust right before publishing to maintain consistency.
+Lower Storage Overhead:
+Avoid multiple near-duplicate uploads.
+Faster multi-module workflows:
+Edited images are immediately available anywhere the Media Library appears (e.g., Social Planner, Funnels, Email Builder).
+How To Use the Built-In Image Editor
+Follow these steps to edit from any supported module:
+Step 1:
+Open the Edit Modal
+Click on
+Media Storage
+from your sub-account.
+Or open any Media Library supported module like Social Planner and click on
+Upload from Media Storage.
+Hover on the image you want to edit and click on the
+three dots
+on the top right corner.
+Click on
+Edit
+.
+Step 2:
+Edit an Image
+Crop
+an image using custom aspect ratio or pre-set aspect ratios.
+You can also
+flip
+an
+image
+horizontally
+or
+vertically
+.
+Apply
+Filters
+to the image from a wide range of options.
+Make
+Adjustments
+to the image like
+brightness
+,
+contrast
+,
+saturation
+, and
+blur
+.
+Add
+Text
+to the image and customize the
+Font
+Family
+,
+Font
+Size
+,
+Alignment
+,
+Font
+Color
+,
+Background
+color
+, and
+Line
+Spacing
+.
+Add
+Stickers
+in the form of
+Emojis
+or
+Shapes
+and adjust its
+Opacity
+and
+Color
+.
+Use the
+Brush
+to draw on the image and adjust Brush
+Hardness
+,
+Size,
+and
+Color
+.
+Use the
+Undo
+and
+Redo
+icons to reverse or reapply the previous actions.
+Click on
+Save
+,
+name
+the
+image
+and you can also choose to
+Save
+to
+Folder
+.
+Click on
+Save
+to store it to the Media Library as a new image.
+Frequently Asked Questions
+Q: Is the editor available in the mobile app?
+Not yet. The feature currently targets desktop. Edits made on desktop are visible on mobile once saved.
+Q: Which file types can I edit?
+Supported image formats are PNG and JPEG.
+Q: Can I bulk edit multiple images at once?
+Not currently. Open and edit images one at a time.
+Related Articles
+Media Library – Mobile App
+Complete Guide to Media Storage!
+Media Storage & File Upload Limits
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

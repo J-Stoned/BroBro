@@ -1,0 +1,673 @@
+---
+Title: How to Set Up WhatsApp for a Sub-Account
+Category: Reselling Products
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001980-how-to-set-up-whatsapp-for-a-sub-account
+Word Count: 4188
+Scraped: 2025-10-29T01:54:06.981629
+---
+
+TABLE OF CONTENTS
+Method 1: Connect a New WhatsApp Business number
+How to Sign Up With the New WhatsApp Business App
+Phone Number Verification
+Once you migrate a phone number to the WhatsApp Business Platform, you cannot use that number on the WhatsApp Business App concurrently. Your number must be used either on the Business Platform or on the Business App.
+Restrictions for WhatsApp Business Sign-Up
+Method 2:  Connect your existing WhatsApp Business App
+Unsupported Countries for Coexistence feature
+Unsupported Countries
+Unsupported Regions & Kingdoms
+How to Link your WhatsApp Business app to a Facebook Page
+How to Sign Up using the WhatsApp Business App
+Agency Setup
+How to set Set Reselling Amount in High Level.
+Direct Deployment (Skipping Reselling the WhatsApp subscription)
+WhatsApp Conversations
+Types of WhatsApp Conversations
+Conversation (Template) Categories
+How to Create a WhatsApp Template
+WhatsApp Overview
+Subaccount Setup
+Opening a New Conversation
+WhatsApp Pricing
+FAQs
+Method 1: Connect a New WhatsApp Business number
+How to Sign Up With the New WhatsApp Business App
+Step 1: Purchase a LeadConnector (LC) Phone Number
+•    Buy a
+LeadConnector (LC) phone number
+and
+forward calls
+to your primary contact number.
+Step 2: Start the Signup Process
+•    Navigate to
+Settings > WhatsApp > Set Up a New WhatsApp Number
+.
+Step 3: Continue with Facebook
+•    Click
+“Continue with your Facebook account”
+to proceed
+Step 4: Begin the Setup
+•    Tap
+“Get Started”
+to initiate the integration process.
+Step 5: Enter Business Details
+•    Fill in the required
+business information
+and click
+“Next”
+.
+Step 6: Create a WhatsApp Business Account
+•    Select
+“Create WhatsApp Business Account”
+.
+Step 7: Confirm Your Selection
+•    Click
+“Next”
+to proceed.
+Step 8: Save & Complete Setup
+•    Click
+“Save”
+to apply your settings.
+Step 9: Complete the Setup
+•    Tap
+“Finish”
+—your
+WhatsApp Business Account
+is now successfully integrated!
+Phone Number Verification
+Step 10: Add & Verify Your Phone Number
+•    Click
+“Add Phone Number”
+and proceed with verification.
+Step 11: Choose a Verification Method
+•
+Text Message (SMS):
+Select this option to receive an
+OTP via SMS
+. Navigate to the
+Conversations tab
+to retrieve the code.
+•
+Phone Call:
+If selected, you will receive a
+verification call
+on your
+forwarded number
+.
+Step 12: Enter the 6-Digit OTP
+•    Enter the
+6-digit OTP
+received via SMS or call to verify your number.
+Step 13: Verification Complete!
+•    Your
+WhatsApp Business number is now successfully verified
+and ready to use.
+Once you migrate a phone number to the WhatsApp Business Platform, you cannot use that number on the WhatsApp Business App concurrently. Your number must be used either on the Business Platform or on the Business App.
+Restrictions for WhatsApp Business Sign-Up
+When signing up for the
+WhatsApp Business Platform
+, businesses must adhere to the following restrictions:
+1️⃣
+New Phone Number Requirement
+•    Businesses must use a
+new
+phone number for registration, whether onboarding
+manually
+or through
+Embedded Signup
+.
+•
+Existing numbers
+that are
+currently active
+on WhatsApp or WhatsApp Business App
+cannot
+be used for signup.
+Method 2:  Connect your existing WhatsApp Business App
+Unsupported Countries for Coexistence feature
+WhatsApp Business accounts do not support phone numbers with country codes from the following regions and countries. If your business operates in these locations, you may need to explore alternative solutions.
+Unsupported Countries
+WhatsApp Business account phone numbers from the following countries are
+not supported
+:
+Nigeria
+South Africa
+How to Link your WhatsApp Business app to a Facebook Page
+When using the WhatsApp Business app, you can link your Facebook Page with your WhatsApp Business account.
+Business Tip: Linking your WhatsApp Business account enables customers visiting your Facebook Page to message you directly on WhatsApp with just one click
+To link these accounts, you must have the following:
+A Facebook page for your businessAn app on the WhatsApp Business app.
+The latest versions of the mobile apps.
+You can link your accounts from within the WhatsApp Business app.
+Step 1: Open the
+WhatsApp Business app.
+Step 2: On Android, tap
+More options
+. On iPhone, tap
+Settings
+.
+Step 3: Tap
+Business tools
+>
+Facebook & Instagram
+.
+Step 4: Tap
+Facebook
+>
+Continue
+. This will open the Facebook login page.
+Step 5: Enter the login information for your Facebook account. Tap Log In.
+Step 6: Select the Facebook Page you want to link to your WhatsApp Business account. Tap Connect WhatsApp. .
+Step 7: If you don’t have a Facebook Page, you’ll have the option to create one.
+Step 8: You’ll now see a WhatsApp button on your Facebook page.
+Step 9: Once you return to the WhatsApp Business app, you’ll see your linked Facebook Page at the top of the Facebook & Instagram screen.
+How to Sign Up using the WhatsApp Business App
+Step 1: Start the Signup Process
+•    Navigate to
+Settings > WhatsApp > Signup with Facebook
+Step 2: Continue with Signup
+•    Follow the on-screen instructions to proceed with the registration.
+Step 3: Connect to LeadConnector
+•    Click
+Get Started
+to link your
+WhatsApp Business account
+with
+LeadConnector
+.
+Step 4: Enter Your Business Information
+•    Fill in the necessary business details as prompted.
+Step 5: Select Onboarding Type
+•    Choose
+“Connect your existing WhatsApp Business App”
+for seamless integration.
+Step 6: Confirm WhatsApp Business App Connection
+•
+Share your existing WhatsApp Business account
+with
+LeadConnector
+.
+•    You will retain full access to the
+WhatsApp Business App
+while using the CRM.
+Connect your existing WhatsApp Business app
+Share your WhatsApp Business account with LeadConnector. You'll still have full access to your WhatsApp Business app and can continue using it
+Step 7: Add a WhatsApp Phone Number
+•    Enter the
+WhatsApp number
+you want to connect.
+Step 8: Verify or Edit Your WhatsApp Business Account
+•    Ensure all details are correct before proceeding.
+Step 9: Import Contacts & Chat History
+•
+Import contacts
+and up to
+six months of chat history
+from the WhatsApp Business App to LeadConnector.
+•
+Important:
+Update your
+WhatsApp Business App
+to the
+latest version
+before proceeding.
+•    Look for a
+message from the official Facebook business account
+and
+scan the QR code
+.
+Step 10: Connect to the Business Platform
+•
+Scan the QR code
+to complete the connection.
+•    You can continue using your
+WhatsApp Business App
+along with the
+Business Platform
+.
+Step 11: Share Chat History & Contacts
+•    Your contacts and conversations will be securely
+synced with LeadConnector
+.
+Step 12: Setup Complete!
+•    Your
+WhatsApp Business App
+is now successfully integrated with
+LeadConnector
+!
+NOTE
+1. Sending template messages is not supported via WhatsApp Business App, it can only be send through the CRM
+2. You will be able to manage your WhatsApp profile from the WhatsApp Business App, and not from the CRM
+3. You can only have maximum of one phone number under coexistence
+Agency Setup
+Pre-requisites for Auto-Reselling
+Connect your Agency Stripe Account
+Your agency Stripe account will be used to collect subscription payments for WhatsApp from your clients. You can connect your agency Stripe account to your agency by following this helpful article:
+How to Connect Stripe to Agency
+.
+Note: You can also
+Direct Deploy WhatsApp
+if you do not have a Stripe connected. However, this will charge your agency Card on file, skipping the reselling feature.
+How to set Set Reselling Amount in High Level.
+Setting Up Reselling
+In the reselling tab of agency settings, you can offer WhatsApp and set your pricing for subaccounts. This allows you to charge your clients a markup while HighLevel bills you at a fixed rate. When a client wants to, they can then purchase WhatsApp at this marked-up price. Allowing you to recoup the HighLevel price we charge you and then make a profit every month.
+After setting this up in the Agency, a Sub-Account can purchase it themselves, which will then charge the card on file for that Sub-Account.
+Direct Deployment (Skipping Reselling the WhatsApp subscription)
+If you want to skip the reselling, that is if you do want, your sub accounts to pay the WhatsApp subscription charges, you can direct deploy WhatsApp to a specific Sub-Account without reselling markups, you can do this from the Manage Sub-Account Tab. This will charge your Agency Card on file, located in your Company Billing Tab.
+Navigate to the Agency View > Sub-Accounts > Find the Sub-Account, then click Manage Sub-Account
+Scroll down to Re-Sell WhatsApp, then check the Deploy directly box, then Pay Now. This will charge your Agency Card on file, located in your Company Billing Tab.
+Learn more about
+WhatsApp Agency Setup.
+WhatsApp Conversations
+Unless a customer sends you a message, you must utilize a Template to send a new message to a customer. In general, there are two ways to open a WhatsApp conversation (1) when a customer messages you or (2) when you message a template to a customer.
+Types of WhatsApp Conversations
+Business-Initiat
+ed:
+Messages sent by businesses to customers using a template. There are four categories of templates and the templates are created and reviewed by Facebook Meta before they can be used. You can only send templates to customers until they respond, if they do not respond, you can only send templates.
+Customer-Initiated:
+Messages initiated by the customers sending a message to the business. When a customer messages you, it opens up a 24-hour window where you can send any template or free-form message to them.
+Free Entry Conversations:
+Initiated when customers interact with a WhatsApp Ad or a Facebook Business Page WhatsApp Action Button, allowing for a 72-hour window for businesses to respond. The business must respond within 24 hours of customer free point entry, after the business responds, the 72-hour timer begins.
+Conversation (Template) Categories
+When opening a new Business-initiated conversation, you must utilize a Template. First, you
+create a WhatsApp template in HighLevel
+. The template will be reviewed and approved (or denied) by Facebook Meta. Below we will review the types of template categories.
+Marketing
+— Enables you to achieve a wide range of goals, from generating awareness to driving sales and retargeting customers. Examples include new product, service, or feature announcements, targeted promotions/offers, and cart abandonment reminders.
+Utility
+— Enables you to follow-up on user actions or requests. Examples include opt-in confirmation, order/delivery management (e.g., delivery update); account updates or alerts (e.g., payment reminder); or feedback surveys.
+Authentication (To be Released)
+— This enables you to authenticate users with one-time passcodes, potentially at multiple steps in the login process (e.g., account verification, account recovery, integrity challenges).
+Service (To be Released)
+— Enables you to resolve customer inquiries.
+Learn more about
+Template Categorization Guidelines.
+How to Create a WhatsApp Template
+Templates are used to begin business-initiated conversations, though this is not their only use. You will need to create and have Meta (owner of WhatsApp) approve your templates.
+Learn
+how to create a WhatsApp Template
+.
+WhatsApp Overview
+Nearly everything you need to know about WhatsApp.
+Introduction
+Welcome to this comprehensive guide on WhatsApp. In this video, we'll cover everything from setting up your account, understanding sending limits and pricing, to utilizing WhatsApp efficiently within High Level. Let's dive in!
+What is WhatsApp and Why Does it Matter?
+WhatsApp is a messaging platform which boasts over 2 billion users globally. Unlike SMS, WhatsApp is worldwide, anyone with a WhatsApp account and internet connection can use it. Further, WhatsApp can be significantly cheaper than standard SMS messages.
+Subaccount Setup
+When setting up WhatsApp within a subaccount, you'll need a Facebook Meta business account and a WhatsApp Business profile. Follow the prompts to link accounts and fill in business information.
+You will need a
+Facebook Account
+and a
+Facebook Meta Business Account
+. (Learn what a Meta Business Account is
+here
+.)
+Opening a New Conversation
+Unless a customer sends you a message, you must utilize a Template to send a new message to a customer. Until a customer responds, you can only send approved templates to customers.
+For example, in HighLevel, unless the customer sends you a message within 24 hours, you will see a prompt to send a template. You can only send templates until the customer responds.
+Conversations are opened when you send a template message or free-form message under the following conditions.
+[Business-Initiated] Marketing, Utility, and Authentication Conversations
+Marketing, utility, and authentication conversations are opened when you send an approved marketing, utility, or authentication template message to a customer and no open conversation with that category exists between you and that customer.
+For example, if an open authentication conversation exists between you and a customer and you send them another authentication template message within 24 hours, a new conversation is not opened. If you send them a marketing message, however, a new marketing conversation is opened, resulting in two open conversations.
+[Business-Initiated] Service Conversations
+Service conversations are opened when you are within a customer service window, you send a free-form message to a customer, and no open conversation of any category exists between you and the customer.
+For example, if an open conversation of any category exists between you and a customer and you send them a free-form message within 24 hours, no new conversation is opened. However, if no open conversation exists and the customer messages you (which starts a customer service window) and you reply within 24 hours with a free-form message, a new service conversation is opened.
+[Customer-Initiated] Customer Service Windows
+When a customer messages you, a 24-hour timer called a customer service window starts. If you are within the window, you can send free-form messages or template messages. If you are outside the window, you can only send template messages.
+Multiple Conversations
+It is possible to have multiple open conversations between you and a customer. This can happen in the following situations:
+An open marketing, utility, or authentication conversation exists between you and a customer and you send them a template message of a different category within 24 hours.
+An open service conversation exists between you and a customer and you send them a template message within 24 hours.
+Duration of Conversations
+Marketing, utility, authentication, and service conversations last 24 hours unless closed by a newly opened free-entry point conversation.
+Free-entry point conversations last 72 hours.
+WhatsApp Pricing
+Unlike SMS, WhatsApp charges per conversation. Only business-initiated conversations are charged. The charge varies depending on the Template Category and country. All Customer-initiated or Free point conversations are free and are not charged. You must have a WhatsApp Subscription on the Sub-Account as well, which is charged the HighLevel Price of $10/mo.
+[WhatsApp Sub-Account Subscription]:
+$10/mo
+[New Business-Initiated Conversation]:
+The amount charged is based on the template category used and the recipient's country.
+[Free Entry Point Pricing]:
+No charge
+Template Pricing (New Business-Initiated Conversations)
+Market
+Currency
+Marketing
+Utility
+Service
+Argentina
+$US
+0.0618
+0.034
+0
+Brazil
+$US
+0.0625
+0.008
+0
+Chile
+$US
+0.0889
+0.02
+0
+Colombia
+$US
+0.0125
+0.0002
+0
+Egypt
+$US
+0.1073
+0.0052
+0
+France
+$US
+0.1432
+0.03
+0
+Germany
+$US
+0.1365
+0.055
+0
+India
+$US
+0.0107
+0.0014
+0
+Indonesia
+$US
+0.0411
+0.02
+0
+Israel
+$US
+0.0353
+0.0053
+0
+Italy
+$US
+0.0691
+0.03
+0
+Malaysia
+$US
+0.086
+0.014
+0
+Mexico
+$US
+0.0436
+0.01
+0
+Netherlands
+$US
+0.1597
+0.05
+0
+Nigeria
+$US
+0.0516
+0.0067
+0
+Pakistan
+$US
+0.0473
+0.0054
+0
+Peru
+$US
+0.0703
+0.02
+0
+Russia
+$US
+0.0802
+0.04
+0
+Saudi Arabia
+$US
+0.0455
+0.0115
+0
+South Africa
+$US
+0.0379
+0.0076
+0
+Spain
+$US
+0.0615
+0.02
+0
+Turkey
+$US
+0.0109
+0.0053
+0
+United Arab Emirates
+$US
+0.0384
+0.0157
+0
+United Kingdom
+$US
+0.0529
+0.022
+0
+North America
+$US
+0.025
+0.004
+0
+Rest of Africa
+$US
+0.0225
+0.004
+0
+Rest of Asia Pacific
+$US
+0.0732
+0.0157
+0
+Rest of Central & Eastern Europe
+$US
+0.086
+0.0353
+0
+Rest of Latin America
+$US
+0.074
+0.0113
+0
+Rest of Middle East
+$US
+0.0341
+0.0157
+0
+Rest of Western Europe
+$US
+0.0592
+0.03
+0
+Other
+$US
+0.0604
+0.0077
+0
+*Pricing is subject to change from time to time as per Meta’s policy*.
+Conclusion
+WhatsApp, when integrated with High Level, offers powerful tools for efficient communication and automation in your business workflows. Explore the possibilities today and enhance your business's messaging capabilities!
+FAQs
+Q. If a contact sends me a WhatsApp Message, and then an SMS message, can I reply on both?
+Yes, you will select the option you want to reply to. Also, we have color-coated and labeled all inbound messages by channel. WhatsApp is a Channel and SMS and a Channel. The only part is you will need to select the correct channel when replying.
+Q. You have already linked the maximum number of phone numbers allowed for this business account. Delete a phone number to continue or request additional numbers.
+Meta allows you to have only two phone numbers per WABA account
+Q. I am getting Message Undeliverable error
+Reasons can include:
+The recipient phone number is not a WhatsApp phone number.
+Sending an authentication template to a WhatsApp user who has a +91 country calling code (India). Authentication templates currently cannot be sent to WhatsApp users in India.
+The message was not delivered to create a high quality user experience. See
+Per-User Marketing Template Message Limits
+.
+Q. Failed to send a message because this user's phone number is part of an experiment
+Starting June 14, 2023, roughly 1% of WhatsApp users will not receive marketing template messages from any business unless one of the following conditions is met:
+a
+customer service window
+exists between the customer and the business
+an open
+marketing conversation
+exists between the customer and the business
+an open
+free-entry point conversation
+exists between the customer and the business
+If you send a marketing template message to a customer who is part of the experiment group, your message will not be sent and you will not be billed for it since no conversation was created
+Q. What is Per-User Marketing Template Message Limits
+To create high-quality user experiences and maximize marketing template message engagement, we may limit the number of marketing template messages a person receives from any business in a given period of time, starting with a small number of conversations that are less likely to be read. Note that the limit is determined based on the number of marketing template messages that person has already received from any business, and is not related to your business specifically.
+The limit only applies to marketing template messages that would normally
+open a new marketing conversation
+. If a marketing conversation is already open between you and a WhatsApp user, marketing template messages sent to the user will not be affected.
+Q. Customers are not able to see my Business name on their WhatsApp app, instead they are seeing the phone number
+You need to Verify your business on Meta. You will Get 1,000+ daily business-initiated conversations and show your business name in chat with customers.
+Submit business documents in Business Manager to verify your business
+.
+Q. I received an error message stating that the number is registered to an existing WhatsApp account. What should I do next?
+Answer:
+This error usually occurs in two situations:
+Active WhatsApp Account on Your Mobile Device:
+If you currently have an active WhatsApp account on your mobile device, you need to delete that account to connect with the chat account. Follow these steps:
+Open the WhatsApp app.
+Navigate to Settings > Account > Delete my account.
+Note:
+After integration, you will not be able to use WhatsApp on your phone, and your previous conversation history and contacts will not be migrated
+Learn More on how to Migrate an Existing WhatsApp Number to a Business Account
+WhatsApp Number Connected to Another Provider:
+If your WhatsApp number is linked to another provider, you need to create a new WABA account and migrate your number to the new WABA account
+Q. You have already linked the maximum number of phone numbers allowed for this business account. Delete a phone number to continue or request additional numbers.
+Meta allows you to have only two phone numbers per WABA account
+Q. How do I verify my WhatsApp Business phone number?
+Once you’ve added your phone number, you can verify it using one of these methods:
+•
+SMS Verification:
+Receive an OTP via SMS and enter it in the Conversations tab.
+•
+Phone Call Verification:
+Receive a verification call on your forwarded number and enter the OTP provided.
+Q. Can I change the WhatsApp Business phone number after verification?
+No, once a number is verified and linked to the
+WhatsApp Business Platform
+, you cannot switch it to another number without reconfiguring your account.
+Q. What should I do if I don’t receive the OTP during verification?
+•    Ensure your phone number is correct and formatted properly.
+•    Check if your network provider is blocking verification messages.
+•    Retry after a few minutes or select
+phone call verification
+as an alternative.
+Q. What happens if my WhatsApp Business account setup fails?
+If you experience issues during setup, check the following:
+•    Ensure that your business information is
+correct
+.
+•    Confirm that you are using a
+new phone number
+that is not active on WhatsApp.
+•    Retry the
+verification process
+with a different method (SMS or Call).
+Q. Can I manage my WhatsApp profile from the CRM?
+No, you can only manage your
+WhatsApp Business Profile
+from the
+WhatsApp Business App
+, not from the
+CRM
+.
+Q. What are the benefits of using the WhatsApp Business Platform instead of the App?
+•
+Automation & Workflows:
+Send messages automatically using CRM workflows.
+•
+Multiple Users:
+Manage WhatsApp conversations across your team.
+•
+Template Messaging:
+Send pre-approved templates for business communication.
+Q. Can I transfer my WhatsApp Business number back to the WhatsApp Business App?
+No, once a number is
+migrated
+to the WhatsApp Business Platform, it
+cannot
+be moved back to the WhatsApp Business App.
+Q. What is the difference between the WhatsApp Business App and WhatsApp Business Platform?
+Feature
+WhatsApp Business App
+WhatsApp Business Platform
+Message Automation
+❌ Limited
+✅ Advanced workflows & APIs
+Multiple User Access
+❌ No
+✅ Yes
+Template Messaging
+❌ No
+✅ Pre-approved templates
+CRM Integration
+❌ No
+✅ Full CRM support
+Q. I am getting Message Undeliverable error
+Reasons can include:
+The recipient phone number is not a WhatsApp phone number.
+Sending an authentication template to a WhatsApp user who has a +91 country calling code (India). Authentication templates currently cannot be sent to WhatsApp users in India.
+The message was not delivered to create a high quality user experience. See Per-User Marketing Template Message Limits.
+Q. Failed to send a message because this user's phone number is part of an experiment
+Starting June 14, 2023, roughly 1% of WhatsApp users will not receive marketing template messages from any business unless one of the following conditions is met:
+a
+customer service window
+exists between the customer and the business
+an open
+marketing conversation
+exists between the customer and the business
+an open
+free-entry point conversation
+exists between the customer and the business
+If you send a marketing template message to a customer who is part of the experiment group, your message will not be sent and you will not be billed for it since no conversation was created
+Q. Can I use an LC/Twilio number on WhatsApp even if my A2P 10DLC registration is incomplete?
+Yes, you can use the number to register on WhatsApp. However, it is highly recommended that you complete the A2P 10DLC registration for better compliance and reliability.
+Q. Customers are not able to see my Business name on their WhatsApp app, instead they are seeing the phone number
+You need to Verify your business on Meta. You will Get 1,000+ daily business-initiated conversations and show your business name in chat with customers.
+Submit business documents in Business Manager to verify your business
+.
+Q: What is the WhatsApp Coexistence feature?
+The WhatsApp Coexistence feature allows businesses to use their existing WhatsApp Business App account with LeadConnector's advanced CRM tools powered by WhatsApp Cloud API.
+Q: What version of the WhatsApp Business App do I need?
+You need to have the latest version of WhatsApp Business App, version 2.24.17 or newer.
+Q: What does “Last onboarding failed! This WABA is already onboarded at this Location ID” mean?
+This message indicates that the
+WABA (WhatsApp Business Account)
+you’re trying to onboard is
+already connected to another Location ID
+, as shown in the error message or screenshot. If you’d like to onboard this WABA to a different Location ID, you’ll first need to
+disconnect it from the current Location
+. Once it’s removed, you can proceed with onboarding it to the desired Location ID.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,154 @@
+This will be the only GitHub tutorial you'll ever have to watch in your entire life to have a full understanding of how
+to use this platform. And I'm going to teach this as simple as possible, as if you've never even used GitHub before,
+never coded in your life. So, anytime I say any type of complex term, I'm going to explain it as simply as possible.
+Because we all know the worst thing about any of these kind of tutorials is you're like, "Oh, I want to learn how to use GitHub." And then the person teaching it is just using all this
+developer jargon and you're like, "What are you saying?" Let's jump in. Welcome back, y'all. In today's video, we're going to be going over everything you
+need to know about GitHub. I'm going to make it so that by the end of it, you'll be an advanced user from start zero to start 10. We're ready to go. I knew I
+had to make this video because my video on the topic of how to learn how to use GitHub in 10 minutes is blowing up. I
+mean, that thing is just getting so much traffic where I was like, "Okay, I get it, y'all. Y'all want to get this style teaching on a topic like GitHub." So,
+the situation is pretty simple. First thing I want you to do is make sure to check out the description. There is going to be a ton of resources in
+regards to how to use GitHub. Don't worry, I'm not going to give you like some random FAQ link made by the GitHub team. I made custom Google docs that's
+going to show you everything I talk about in today's tutorial. Included in those docs are relevant videos showing you how to set that up as well. But
+let's just get going here. What is GitHub? Why do we use it? You're going to see it everywhere. It's going to be like cursb
+integrate GitHub. Why do I care? To put simply, at a fundamental level, what GitHub allows us to do is take that code
+that's on your nice little computer and essentially put it into the cloud. When I say cloud, that is essentially just
+the internet, Wi-Fi cloud. By taking that code that is found on your computer, and don't make it complex,
+y'all. What do you mean the code that's found on my computer? You know, like that folder on your computer that's like
+your project name, and I don't know what your project name is. Maybe it's just like best app ever. I know that spelling's not amazing, but it says best
+app, like the folder is called best app. That's literally just where your code is. We call that a repository. And this repository is in the cloud or the
+internet. Now, why do we do this? Like what is fundamental about this? And why do you see so many people just being like make sure you integrate with
+GitHub. Well, step number one here, version control. And here's what I mean by version control. If you're using cursor AI, VS Code, Windsurf, maybe
+Replet, wherever you're coding, this is going to put that in the folder. What version control allows us to do when we integrate into something like GitHub is
+it allows us to make checkpoints. When I say checkpoints, this is that old little software thing that you always see.
+You're like, why is it version one? Why is it v2? Essentially with GitHub and
+these commits and these PRs we're going to get into and actually do together in today's video. Think of it like that. Version control is you've created your
+app. It's version one. Nice little app. I love the app. It's version one v1. Well, guess what? Now using GitHub, when
+you create version two of that app, maybe uh maybe your app can copy this v2. We add a little crown to the app. So
+we add a little crown. That's v2. we can create this version control with GitHub
+where in theory we go to V2 where we're going down a little coding rabbit hole
+and we made V2 of the app and then we're like hold up this is trash we can burn
+V2 and come back to V1 version control that logic you can't do if you just keep
+that little folder on your cursor AI and it's all local code you can't do this version control which is extremely
+fundamental it's like playing Mario and you're in like level one of Mario and you know in Mario when they had like the
+little flags in the middle where like checkpoint flags. Yeah, you're basically playing Mario on hardcore mode where there is no checkpoint flags that you
+can revert back to. I mean, you can play that way. I don't want to play that way. Number two, or as classic top 10
+YouTubers speak, number two, collab. You want to collab with me? Collaboration. This allows you as an individual
+developer to create a team of developers or alternatively, everyone in the interwebs could collaborate on your
+relative code project. Now, in reality, in practice, depending on your use case, most of this would be maybe your
+developer A, and you're working with your friend, developer B. This allows developer A and B to work on the same
+repository and make changes. Now, I'm going to show you a very fundamental skill when it comes to collaboration in
+this video that you're going to need to know so you don't start overwriting each other's code. You get a bunch of errors.
+It's like a merge conflict. Those are the worst. I hate merge conflicts. I'm going to show you best practices when
+doing collaborations. But that's another reason why do we use GitHub, Corbin? To expediate software development because
+now we can collaborate with other humans. Some of you are like, Corbin, it's my project. No one else is collabing with me. It's okay. This is
+just for the people that want to collab. Another big reason is get free code. Why do we love GitHub? Because GitHub is a
+community of other developers that some have potentially open- sourced their repository of code. This is a whole
+thing. Now, some of y'all that might be coming into this space might be kind of confused on why people open source or
+make their code free. So, for me to best explain what free code is and what even open source means. Just think of it like
+this. Let's imagine there's two lemonade stands. One is on the side of the street and it's selling lemonade for a dollar.
+Everyone get their lemonade. It's a dollar. It's a dollar. But then you have another lemonade stand that is giving the lemonade out for free. People might
+be skeptical because of that, but you still go to the lemonade stand with the free lemonade. You try it. Maybe it's
+amazing. Maybe it's the best lemonade you ever had. Or maybe it doesn't taste that good, but you're like, "You know
+what? It was free. Let me just drink some free lemonade." You go over to the stand, it's a dollar. You pay for a
+dollar. You're expecting it to be good. You put money into it. What I just described there is the difference
+between open- source free code and maybe just a straightup software company selling you a service. If you're buying
+a software company service, you're expected when you pay for something to get value and it works. When you go to
+the open source free code and you download an actual app that functionally could work, some open- source code
+that's free is absolutely amazing. What's an example of this? You can quite literally download a very advanced model
+from DeepSeek for free and have it locally on your computer. I'll leave that in the description down below. But the idea is that some source code or
+free code is just like not good at all too. So you just got to find out the good stuff. And one thing that GitHub does really well is because this is a
+community of developers, you're going to see how many stars a repo has. That means like, hey, I like this repo, how
+many forks a repo has. Don't worry, I'll explain what a fork and a star is soon here. I just want to give the general
+overview first. So third reason to get access to GitHub is guess what? Let's get some free code. And I'm going to
+show you today how we actually download free code and run free code. So, there's other reasons why we use GitHub. I could keep going on here, but the last one
+that's major to me personally and maybe major to you as well is real business. And what I mean by real business, as I
+run my own software company here, is that if you genuinely have employees or you work with multiple developers and
+this is an actual product, you have to use something like GitHub. GitHub allows us to take what you originally would
+have had, which is what we call a monor repo. Corbin, what do you mean monor repo? So for example, if I come back to
+our, you know, app up here, V1 app, what a monor repo is is that means one
+repository, which means that all the relevant code found in the app. This right here, monor repo told you when I
+use developer jargon, I'm I'm going explain it. So monor repo, all your relevant code for the app is inside the
+app. eg the front end and the backend. We'll just make it super general, right? Just to make our lives easy. front-end
+code and the backend code, your React tech stack, your whatever tech stack you like using in the front end, front end
+code and your backend code, AWS, GCP, Firebase, like whatever you like to use in the back end, backend code, one
+folder. What GitHub allows us to do is essentially create what we call a poly
+repo. What a poly repo in the name poly many means essentially that that one
+little folder that model re the one folder turns into maybe four different folders.
+My original folder with all of the fun stuff in it all the app code will break into maybe four folders maybe five
+folders. Maybe six folders. You might be like Corin why is there so many folders? What does that mean? That means what it
+allows us to do is now I can create a folder depending on the specific parts
+of the app. This is when applications get very big. So for example, maybe one part of this folder is all the front-end
+code. Maybe one part of this folder is all the stripe monetization code. I'll
+just do stripe code because that is a big part of an application is how you monetize. Maybe we want to separate and
+granularize that code into its own separate folder. Maybe one part of the folder is your custom pipeline. Now let
+me give you a real example of this. This company right here, this is the software company I run. And from what I remember,
+we have around 10 different folders. Each folder representing a different part of the application that then comes
+together. Another advantage of doing poly repo is it allows us to code faster. What you'll realize when you do
+GitHub, when you do coding and you're pushing it to an actual real website or software, whatever the heck you're
+building, maybe you're building the next Minecraft, it takes time to push that code. But if you granularize it in a
+poly repo, then all we have to worry about when we do a push and what you might be like, Corbin, what the heck do you mean push? Push essentially means
+essentially taking that code locally on your computer and putting it into the cloud and then congrats, it's live on
+your website. Eg. I come to my website, bumpups.com. I make a change in the
+frontend code here locally. I render that. I'm like, yo, I need to put this in the cloud. I push it to the cloud and
+it'll show up at bumpups.com. the website link everyone has access to that push happens faster when it's multiple
+folders. Another advantage of using a poly repo when it becomes a real real
+business with multiple devs is it essentially allows it so that when you have dev A we'll use a different cover
+color y'all. We'll say like gray dev A. Hi I'm dev A is someone's name dev A.
+When you have dev A here, dev A with the nice little legs, we don't have to do the monor repo situation where
+essentially, hey, I just hired you. Here's your W2. Here is your monthly income. Here's your annual income.
+Here's like uh options and equity. Let's have some fun. We don't have to give dev A access to the entire application, all
+of the code. You're probably thinking to yourself, that probably wouldn't be a smart idea. But we can give dev a maybe access only to the front-end code, but
+no access to stripe code, custom pipeline, other backend functions that incur within the application. This point
+right here, don't worry about it if you're completely fresh. Just don't even worry about it. Come back to this video in the future when you're like, you know
+what, I'm ready to take the next step and then dive into an AI model about this topic. All you need to care about right now short term is Corbin, I have
+one application. It's all the code's in the same folder. What do I do? That's going to be your monor repo. Let's proceed. So, we'll take a real quick
+look at just your GitHub. UI. Other words, user interface. Corbin went to user interface. This stuff. Oh, look at
+this. I hover over the link and a little box comes up. I hover over my name and it says change avatar user interface.
+Also, I'm not trying to patronize y'all when I talk like that. I'm I'm genuinely just trying to get the information out
+as simple as possible. You have to understand when especially for my other GitHub video or anytime I do a tutorial video, it's very much like I get
+comments like, "This guy still didn't make it simple enough." I'm trying to make this as simple as possible. Y'all scrolling down here. Obviously, you have
+your own little profile. your profile can connect with other people. You can come over and follow me. Link tree in the description down below. And you can
+see I have four projects here. These four repositories, projects, whatever you want to call them, open source. You can download them. This comes from my
+backend playlist. This comes from a entire playlist that shows you how to build out a software from literally
+scratch as that is fundamentally important to know. This is a three and a half hour playlist. Pretty cool. But the idea is that when you have a public
+repository, so I can click into this. You will notice that there is stars and forks. Stars. What does that mean? That
+means that me personally, when you have your GitHub profile selected, if you start a repository, it's kind of like
+bookmarking. That's all I want you to think about about it. I want to come back to this nice little git repo. Also,
+you know, the actual developer that made the git repo, it looks kind of cool. Like, yeah, actual backend app. I got 36
+stars. You know, you're just giving me a like. Okay. Fork. Essentially what a fork does and when I say fork I'm
+referencing this is that it's taking the repository itself all this code found
+here and it's creating an exact duplication but in your profile and what
+that allows you to do is it allows you to make changes here and then do whatever the heck you want. And then
+there's one extra layer to that where if you fork it, then essentially you make a change. In theory, you could come back
+to like we'll just call this the alpha repository and be like, "Hey Corbin, I made this change. Here's a PR request,
+pull request, a change from the original duplication. Can you add it?" And then
+I'll probably just be like, "No, I'm just playing y'all." But that's the situation there. In the short term, all
+you need to care about is Corbin repository. That's your folder on your desktop. How do we connect that? But
+before we dive over to Cursor AI and I show you some really cool git commands, some skills, and everything you should
+know in this kind of development, let me show you something you need to set up on your profile. So, if I come over to my profile here, I hit the top right, and
+then we come over to settings. Once you're in your profile, you're going to simply come here to SSH GPGs.
+The only one you're going to care about here is your SSH key. That sounds extremely confusing, I know. So, what I
+did was I created an entire Google Doc setup guide for this description down below. And it quite literally has an
+entire video dedicated to this topic to show you exactly how to do this. Your next question might be, Corbin, why the
+heck do I need an SSH key? Let me show you why. We have a laptop or desktop or some of y'all even crazy. You can do
+this on your phone now. I made some crazy videos. Check it out. I did a whole video where I was literally developing an app. This is no joke. Yo,
+I was developing an app on my phone on the back of a motorcycle in Bali. Don't believe me? Look up Corbin riding
+motorcycle jacket. You got your laptop. Your laptop has our nice little code file, right? So, we have our nice little
+nice little folder. This is my beautiful app. This is a multi-billion dollar app. Has your app and it's local and really
+like overarching idea of what it means when it I say local is that if your computer straight up dies, destroyed,
+cap, you will never be able to get this app thing again. If it was never pushed in the cloud or you never put in Google,
+like you you're just never going to be able to get it. you lose all the code. That's high level. Idea though is that you have it locally on your computer,
+but your computer has no connection to GitHub. So we come over here. This
+little green box will just say is GitHub. So let me go ahead and just write GitHub. As of now, your computer
+doesn't even know what GitHub is. It's like what's GitHub? What are you talking about? It has no connection to GitHub. So we'll add a nice little like barrier.
+So the name of the game is how do we get this local code over to GitHub? But how do we do it in a way where we aren't
+frustrated? Eg. There is ways that you can kind of do like very fast troubleshoots. If you're talking to Chad
+GBT, you're talking to Claude. Sometimes it will tell you, hey, don't worry. In order to connect your code repository
+from GitHub to your computer, use something called an access token. Don't do that. It's too much effort than it's
+worth. It's really not a long-term solution. So, set up this SSH key because what this SSH key essentially
+does is it basically tells your GitHub profile, you over here. Yeah, nice profile pick. I like it. You over here,
+it tells GitHub, hey, you own this computer. You should have full access when you do all your git commands, when
+you do any type of pushing, any type of pulling, you have access completely to your own GitHub profile and it's
+associated with your laptop, your actual piece of hardware. Fundamentally extremely important that you know that.
+Therefore, how do we make sure that this access even occurs? What is the key? # major key alert 2016 circa DJ calate
+alert like that situation that is going to be the SSH keys

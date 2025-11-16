@@ -1,0 +1,129 @@
+{
+  "tiers": {
+    "tier1": {
+      "description": "Initial tier - $5 minimum purchase, $100 max single purchase",
+      "qualificationSpend": 5,
+      "maxSinglePurchase": 100,
+      "models": {
+        "claude-sonnet-4.5": {
+          "rpm": 50,
+          "itpm": 30000,
+          "otpm": 8000,
+          "note": "Shared limit across Sonnet 4 and Sonnet 4.5"
+        },
+        "claude-haiku-4.5": {
+          "rpm": 50,
+          "itpm": 50000,
+          "otpm": 10000
+        },
+        "claude-opus-4": {
+          "rpm": 50,
+          "itpm": 20000,
+          "otpm": 8000
+        }
+      }
+    },
+    "tier2": {
+      "description": "Tier 2 - $40 cumulative spend, $500 max single purchase",
+      "qualificationSpend": 40,
+      "maxSinglePurchase": 500,
+      "models": {
+        "claude-sonnet-4.5": {
+          "rpm": 50,
+          "itpm": 30000,
+          "otpm": 8000
+        },
+        "claude-haiku-4.5": {
+          "rpm": 50,
+          "itpm": 50000,
+          "otpm": 10000
+        },
+        "claude-opus-4": {
+          "rpm": 50,
+          "itpm": 20000,
+          "otpm": 8000
+        }
+      }
+    },
+    "tier3": {
+      "description": "Tier 3 - $200 cumulative spend, $1000 max single purchase",
+      "qualificationSpend": 200,
+      "maxSinglePurchase": 1000,
+      "models": {
+        "claude-sonnet-4.5": {
+          "rpm": 50,
+          "itpm": 30000,
+          "otpm": 8000
+        },
+        "claude-haiku-4.5": {
+          "rpm": 50,
+          "itpm": 50000,
+          "otpm": 10000
+        },
+        "claude-opus-4": {
+          "rpm": 50,
+          "itpm": 20000,
+          "otpm": 8000
+        }
+      }
+    },
+    "tier4": {
+      "description": "Tier 4 - $400 cumulative spend, $5000 max single purchase, monthly invoicing available",
+      "qualificationSpend": 400,
+      "maxSinglePurchase": 5000,
+      "monthlyInvoicing": true,
+      "models": {
+        "claude-sonnet-4.5": {
+          "rpm": 50,
+          "itpm": 30000,
+          "otpm": 8000
+        },
+        "claude-haiku-4.5": {
+          "rpm": 50,
+          "itpm": 50000,
+          "otpm": 10000
+        },
+        "claude-opus-4": {
+          "rpm": 50,
+          "itpm": 20000,
+          "otpm": 8000
+        }
+      },
+      "longContextBeta": {
+        "enabled": true,
+        "description": "1M token context window for Sonnet 4/4.5",
+        "threshold": 200000,
+        "limits": {
+          "itpm": 1000000,
+          "otpm": 200000
+        }
+      }
+    },
+    "enterprise": {
+      "description": "Custom limits for enterprise - contact Anthropic sales",
+      "customLimits": true,
+      "contactSales": true
+    }
+  },
+  "currentTier": "tier1",
+  "promptCaching": {
+    "enabled": true,
+    "description": "Only uncached input tokens count towards ITPM limits",
+    "benefit": "Significantly higher effective throughput with caching"
+  },
+  "notes": {
+    "tierAdvancement": "Automatic upon reaching cumulative spend threshold",
+    "limitsPerOrganization": true,
+    "limitsPerModel": true,
+    "sharedLimits": {
+      "sonnet": "Sonnet 4 and Sonnet 4.5 share the same rate limit pool"
+    },
+    "source": "https://docs.claude.com/en/api/rate-limits",
+    "lastUpdated": "2025-11-03"
+  },
+  "rateLimit": {
+    "windowSeconds": 60,
+    "trackingMethod": "sliding-window",
+    "separateLimitsByModel": true
+  }
+}

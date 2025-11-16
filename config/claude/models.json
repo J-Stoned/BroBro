@@ -1,0 +1,51 @@
+{
+  "models": {
+    "claude-sonnet-4.5": {
+      "id": "claude-sonnet-4-5-20250929",
+      "displayName": "Claude Sonnet 4.5",
+      "contextWindow": 200000,
+      "maxOutputTokens": 64000,
+      "costPer1MInputTokens": 3.00,
+      "costPer1MOutputTokens": 15.00,
+      "strengths": ["reasoning", "coding", "analysis", "workflow-generation"],
+      "latencyMs": 2000,
+      "recommended": true,
+      "description": "Latest and most capable model for complex tasks"
+    },
+    "claude-haiku-4.5": {
+      "id": "claude-haiku-4-5-20241022",
+      "displayName": "Claude Haiku 4.5",
+      "contextWindow": 200000,
+      "maxOutputTokens": 64000,
+      "costPer1MInputTokens": 1.00,
+      "costPer1MOutputTokens": 5.00,
+      "strengths": ["speed", "cost-efficiency", "quick-queries"],
+      "latencyMs": 500,
+      "fallbackFor": ["claude-sonnet-4.5"],
+      "description": "Fast and economical for simple queries"
+    },
+    "claude-opus-4": {
+      "id": "claude-opus-4-20250514",
+      "displayName": "Claude Opus 4",
+      "contextWindow": 200000,
+      "maxOutputTokens": 64000,
+      "costPer1MInputTokens": 15.00,
+      "costPer1MOutputTokens": 75.00,
+      "strengths": ["complex-reasoning", "creative-writing", "advanced-analysis"],
+      "latencyMs": 5000,
+      "usageRequiresApproval": true,
+      "description": "Highest capability for most complex tasks (approval required)"
+    }
+  },
+  "defaultModel": "claude-sonnet-4.5",
+  "fallbackChain": ["claude-sonnet-4.5", "claude-haiku-4.5"],
+  "betaFeatures": {
+    "extendedContext": {
+      "enabled": false,
+      "header": "anthropic-beta: context-1m-2025-08-07",
+      "contextWindow": 1000000,
+      "requiresTier": 4,
+      "description": "1M token context window (requires Tier 4+ API access)"
+    }
+  }
+}

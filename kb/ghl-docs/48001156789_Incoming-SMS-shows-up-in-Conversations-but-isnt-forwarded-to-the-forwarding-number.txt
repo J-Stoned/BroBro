@@ -1,0 +1,106 @@
+---
+Title: Incoming SMS shows up in Conversations but isn’t forwarded to the forwarding number.
+Category: Phone System
+URL: https://help.gohighlevel.com/support/solutions/articles/48001156789-incoming-sms-shows-up-in-conversations-but-isn-t-forwarded-to-the-forwarding-number-
+Word Count: 479
+Scraped: 2025-10-29T01:41:06.749480
+---
+
+Overview
+HighLevel’s mobile and web apps are built to receive inbound SMS messages directly within the Conversations tab. However, by configuring a workflow with custom triggers and notifications, you can also forward these incoming messages notifications—though this will result in additional charges.
+If you’d like incoming SMS messages to appear in the Conversations tab
+and
+be automatically forwarded to a designated number as a notification, this guide will walk you through the process. By following the troubleshooting steps provided, you can ensure that every incoming message is successfully redirected to your chosen forwarding number.
+TABLE OF CONTENTS
+Step 1: Create a Workflow
+Step 2: Start from Scratch
+Step 3: Add a Workflow Trigger
+Step 4: Select “Customer Replied”
+Step 5: Add Filters
+Step 6: Select Reply Channel
+Step 7: Choose SMS
+Step 8: Click on Save Trigger
+Step 9: Add an Action – Send Internal Notification
+Step 10: Add Custom Values – Message Body
+Step 11: Add Custom Values – Contact First Name
+Frequently Asked Questions
+Related Articles
+We will only receive the inbound messages in the Conversation tab using Highlevel's mobile app and web app.
+Incoming SMS will not be forwarded to the forwarding number
+You set up a
+Customer replied
+workflow trigger like this with the Custom Value
+{{message.body}}
+Steps to create a workflow-
+Step 1: Create a Workflow
+Navigate to
+Automation > Workflows > Create Workflow
+.
+Step 2: Start from Scratch
+Click
+Start from Scratch
+and then select
+Create New Workflow
+.
+Step 3: Add a Workflow Trigger
+Click
+Add New Workflow Trigger
+.
+Step 4: Select “Customer Replied”
+Choose
+Customer Replied
+as the workflow trigger.
+Step 5: Add Filters
+Click
+Add Filters
+.
+Step 6: Select Reply Channel
+In the filter options, select
+Reply Channel
+Step 7: Choose SMS
+From the reply channel dropdown, choose
+SMS
+.
+Step 8: Click on Save Trigger
+Click on Please select action
+Step 9: Add an Action – Send Internal Notification
+Choose
+Send Internal Notification
+.
+⚠
+Note:
+SMS notifications will generate charges for each SMS sent.
+Step 10: Add Custom Values – Message Body
+Navigate to
+Custom Values > Message > Message Body
+.
+Step 11: Add Custom Values – Contact First Name
+Navigate to
+Contact > First Name
+to include personalization.
+Frequently Asked Questions
+Currently no frequently asked questions. Submit feedback on this article to help is add questions to this section!
+Related Articles
+Workflow - Send SMS Actions
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

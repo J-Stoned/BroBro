@@ -1,0 +1,209 @@
+---
+Title: How to Create Custom Business Card QR Codes
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005740-how-to-create-custom-business-card-qr-codes
+Word Count: 1050
+Scraped: 2025-10-29T01:45:40.715904
+---
+
+This article will guide you through creating a fully customizable Business Card QR Code in HighLevel. You’ll learn how to build a sleek digital business card that makes sharing your contact details easy and efficient, perfect for networking, promotions, or client engagement.
+TABLE OF CONTENTS
+What is Business Card QR Code?
+Key Benefits of Business Card QR Code
+How To Create a Business Card QR Code
+Step 1: Access the QR Code Builder
+Step 2: Configure QR Code Details
+Step 3: Set Page Color
+Step 4: Add Branding Image
+Step 5: Enter Business Contact Information
+Step 6: Set Business Hours
+Step 7: Add Social Media Links
+Step 8: Customize QR Code Appearance
+Step 9: Download and Save
+Customizable Design
+Operating Hours Display
+Frequently Asked Questions
+Related Articles
+What is Business Card QR Code?
+Business Card QR Codes in HighLevel let you create a mobile-friendly digital card that can be scanned and saved instantly. Instead of handing out paper cards or having people manually type in your details, you can share one sleek QR code that includes your contact info, logo, hours, and even social media links, making it easier than ever for people to connect with your brand.
+Key Benefits of Business Card QR Code
+This feature streamlines networking and enhances brand presentation by letting you generate digital business cards accessible via a simple QR scan. Benefits include:
+Dynamic Business Card Generation:
+Easily select the “Business Card” QR type from a diverse options list.
+Customizable Design:
+Personalize colors, logo, background transparency, and more to match your branding.
+Complete Contact Details:
+Integrate phone, email, website, address, and company information all in one card.
+Operating Hours Display:
+Incorporate your weekly business timings with individual day toggles.
+Social Media Integration:
+Add links to your Instagram, Facebook, LinkedIn, Pinterest, and other profiles.
+Live Preview:
+Instantly see how your digital card appears to users before finalizing the design.
+How To Create a Business Card QR Code
+The Business Card QR Code builder in HighLevel lets you create a professional, scannable digital card that instantly shares your contact information. Follow the steps below to build and customize your own.
+Step 1:
+Access the QR Code Builder
+Log in to your
+HighLevel sub-account
+.
+From the left-hand sidebar, click
+Sites
+.
+Under the Sites section, click on
+QR Codes
+.
+Click the
+Create QR Code
+button.
+Step 2:
+Configure QR Code Details
+Give your QR Code a
+name
+(e.g., "My Digital Business Card").
+Select
+Business Card
+as the QR code type.
+You will see a
+live preview
+of your digital card on the right-hand side.
+Click
+Next
+to proceed.
+Step 3:
+Set Page Color
+Click the
+color picker
+to pick a custom color or use predefined hex code.
+Choose a
+page color
+that matches your brand or preference.
+Step 4:
+Add Branding Image
+Upload an
+image
+to appear at the top of the card (e.g., your logo or profile picture).
+Adjust the
+image transparency
+using the slider (0% to 100%).
+Step 5:
+Enter Business Contact Information
+Fill in the following
+required
+fields:
+Phone Number
+Email Address
+Optionally add:
+Website URL
+Company Name
+Company Description
+Enter your
+S
+treet/Business address
+.
+Step 6:
+Set Business Hours
+Use the
+toggle switches
+to mark which days you're open or closed.
+By default,
+Sunday is toggled off
+(closed).
+Set the
+open and close times
+for each day you're operational.
+Step 7:
+Add Social Media Links
+Choose from supported platforms:
+X (
+Twitter)
+Instagram
+Facebook
+LinkedIn
+Pinterest
+TikTok
+YouTube
+Paste the URL for each platform you want to display.
+Click on
+Next
+.
+Step 8:
+Customize QR Code Appearance
+Customize
+Background Color,
+Dots Color,
+Marker Border & Center Color.
+Choose
+Dot Styles
+for the QR and customize
+Marker Borders and Centers.
+Upload your own logo or use a preloaded icon (e.g., Google, YouTube, WhatsApp).
+Enable or disable
+Remove Background Behind Logo
+depending on your preference.
+Upload a
+background image
+for the entire page.
+Adjust its
+transparency
+using the slider.
+Step 9:
+Download and Save
+Choose your
+download format
+: PNG, SVG, or PDF.
+Click
+Download
+to save your QR code.
+Click the
+Save
+button to save the QR Code to your HighLevel library.
+Customizable Design
+Customizable Design gives you full control over your digital business card’s appearance, ensuring it aligns with your brand identity.
+Adjust background colors and transparency to suit your branding.
+Upload your company logo to create a personalized look.
+Real-time design preview available to see your adjustments as you make them.
+Operating Hours Display
+The Operating Hours Display feature accommodates businesses with varying weekly schedules.
+Toggle on/off for each day to display accurate operating hours.
+Sunday is off by default, ideal for six-day work weeks but can be turned on if needed.
+Simple interface to input and adjust daily timings effortlessly.
+Frequently Asked Questions
+Q: Can I edit a Business Card QR Code after it's created?
+Yes, you can return to the QR code details and make any necessary changes after generation.
+Q: What happens if I do not want to display Sunday’s hours?
+Sunday is toggled off by default, making it ideal for businesses with a six-day work week.
+Q: Is it possible to add multiple social media links?
+Absolutely, you can add a variety of social media profiles including Instagram, Facebook, LinkedIn, and Pinterest.
+Q: Will the QR code work on all mobile devices?
+Yes, the QR code is designed to be mobile-responsive and works seamlessly across various devices.
+Q: Will the QR code work on physical printouts?
+Yes! The generated QR code is high resolution and can be used on flyers, business cards, event booths, or even store signage.
+Related Articles
+QR Code Generation and Download Guide
+How to Create vCards in the QR Code Builder
+Bulk QR Code Creation
+How to create a QR Code linked with Website
+How to create a QR Code linked with Review Page
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

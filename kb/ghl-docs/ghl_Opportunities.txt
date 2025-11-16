@@ -1,0 +1,34 @@
+---
+Title: Opportunities
+Category: API Documentation
+URL: https://marketplace.gohighlevel.com/docs/ghl/opportunities/opportunities
+Word Count: 44
+Scraped: 2025-10-31T10:50:22.151747
+---
+
+Opportunities
+Opportunities
+Opportunities
+Documentation for Opportunities API
+📄️
+Get Opportunity
+Get Opportunity
+📄️
+Delete Opportunity
+Delete Opportunity
+📄️
+Update Opportunity
+Update Opportunity
+📄️
+Update Opportunity Status
+Update Opportunity Status
+📄️
+Upsert Opportunity
+Upsert Opportunity
+📄️
+Create Opportunity
+Create Opportunity
+Previous
+Introduction
+Next
+Get Opportunity

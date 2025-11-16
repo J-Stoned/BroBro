@@ -1,0 +1,52 @@
+---
+Title: Overview of Chat Widget Customizations
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002960-overview-of-chat-widget-customizations
+Word Count: 374
+Scraped: 2025-10-29T01:45:28.290678
+---
+
+We're thrilled to unveil a brand-new raevolutionaried feature in Chat Widget - You can now customise the chat widget according to your test with the placement, look and feel and bring more customisations.
+How Does It Work?
+Navigate to Sites > Go to Chat Widget
+Click on New to Create Chat Widget
+Select the option between the SMS/Email Widget, Live Chat or WhatApp Chat
+Once that is done, you will be able to go to Widget to customise the look and feel with options of different style and themes. There options to select the avatar images, select the placements and size of the widget.
+Add Chat Launcher with or without prompt
+Select the Chat icon
+Select the theme or customise according to your brand
+Allow users to add the message for first time and return visitors
+Add Avatar images
+Select where you would like to add the widget placement
+Widget dimension - keep it auto or customise it with width and height
+Next is Chat Window, all the message which are static visible to visitors are configured here. For each type, the chat widget adds extra fields. In Chat window, they are asking for branding and compliance parts.
+Add Chat Window title, Intro message, allow user to enable email and change CTA button
+Allow users to add their own branding and legal consent for HIPAA
+The last option is messaging which allow customisation of acknowledgement and language settings.
+Adding support contact details, acknowledgement message and greetings
+User can select the language for the chat widget
+Few Notes
+If you were already using the chat widget, it will show in the Widget option of theme with light blue color
+Wordpress plugin will work for default widget, allowing user to select the widget will be part of upcoming releases.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

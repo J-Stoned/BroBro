@@ -1,0 +1,168 @@
+---
+Title: How to Create vCards in the QR Code Builder
+Category: Sites
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005640-how-to-create-vcards-in-the-qr-code-builder
+Word Count: 848
+Scraped: 2025-10-29T01:45:44.370531
+---
+
+This article explains how to
+create a vCard QR Code
+using the HighLevel QR Code Builder. Share your contact details with a single scan—ideal for networking, events, and lead generation.
+TABLE OF CONTENTS
+What is vCard Support in QR Code Builder?
+Key Benefits of vCard Support in QR Code Builder
+How To Create a vCard QR Code
+Step 1: Navigate to the QR Code Builder
+Step 2: Select QR Code Type
+Step 3: Fill in Contact Information
+Step 4: Choose your desired QR Code colors
+Step 5: Select your QR shape and Form
+Step 6: Add a Logo
+Step 7: Page Background Image
+Step 8: Download and Save Your QR Code
+Dynamic & Ready-to-Scan
+Frequently Asked Questions
+Related Articles
+What is vCard Support in QR Code Builder?
+vCard Support in QR Code Builder allows users to create QR codes that, when scanned, instantly display a digital contact card. This functionality simplifies sharing professional and personal contact details by leveraging dynamic QR codes to open a full contact card on any mobile device. Users can now input vital contact information like names, phone numbers, email addresses, physical addresses, websites, and even a profile image, ensuring a seamless networking experience.
+Key Benefits of vCard Support in QR Code Builder
+This feature enhances your networking abilities by offering several key advantages:
+Instant sharing of comprehensive contact details, reducing manual data entry.
+Customizable contact fields for tailored professional branding.
+Dynamic QR codes that enable updates and re-use without generating new codes.
+Ideal for digital networking, contactless information sharing, and efficient lead generation.
+How To Create a vCard QR Code
+Setting up vCard Support in the QR Code Builder is a straightforward process that ensures your contact information is shared instantly and efficiently. Follow these steps to get started:
+Step 1:
+Navigate to the QR Code Builder
+Log in to your
+HighLevel sub-account
+.
+Click on the
+Sites
+tab in the left-hand menu.
+Click on the
+QR Codes
+tab.
+Step 2:
+Select QR Code Type
+Click the
+Create QR Code
+button.
+In the
+QR Code Name
+field, enter a descriptive name for your reference.
+From the
+Select QR Code Type
+section, choose
+vCard
+.
+Click
+Next
+.
+Step 3:
+Fill in Contact Information
+Enter the following contact fields:
+First Name
+Last Name
+Phone Number (Required)
+Mobile Number
+Email
+Website
+Upload your profile image or company logo.
+Street Address, City, State, Country, Postal Code
+Company Name and Job Title
+Once all necessary fields are filled, click
+Next
+.
+Step 4:
+Choose your desired QR Code colors
+Background Color
+Dots Color
+Marker Border Color
+Marker Center Color
+Use a color picker or enter hex codes.
+Step 5:
+Select your QR shape and Form
+Choose from different styles of:
+Dots
+.
+Marker
+borders
+.
+Marker
+centers
+.
+Step 6:
+Add a Logo
+Upload your logo or choose from built-in options.
+Toggle
+Remove background behind logo
+ON or OFF based on preference.
+ON:
+Makes the background around the logo clear.
+OFF:
+Places the logo as-is on top of the QR code.
+Step 7:
+Page Background Image
+Upload a
+Background Image
+of your choice.
+Adjust the
+transparency
+level for the background as needed.
+Step 8:
+Download and Save Your QR Code
+Click on the file type (PNG by default), from the dropdown, choose one of the available formats:
+PNG
+SVG
+PDF
+Click
+Download
+to store the QR code file in your device.
+Click
+Save
+to store it in HighLevel.
+Dynamic & Ready-to-Scan
+The dynamic nature of the vCard QR codes means that the links remain update-able and reusable. This sub-feature is tailored for efficiency and ongoing adaptability.
+Supports dynamic URLs, allowing for real-time updates.
+Ensures that the QR code remains effective for multiple contact sharing events.
+Ideal for scenarios where contact information might change over time.
+Frequently Asked Questions
+Q: Do vCard QR Codes work offline?
+Once the QR code is scanned, the contact details are saved directly to the device, even if offline.
+Q: Can I include social media links?
+Currently, only basic contact info is supported. For social links, consider using a Profile Card.
+Q: What devices are compatible with scanning vCard QR codes?
+All standard smartphones with a QR code scanner app can easily scan and view the vCard.
+Q: Can I update my contact information after generating the QR code?
+Yes, the dynamic URL feature allows updates without needing to create a new QR code.
+Related Articles
+QR Code Generation and Download Guide
+Bulk QR Code Creation
+How to create a QR Code linked with Review Page
+How to Set up Digital QR Code for Maximising Review Generation
+How to create a QR Code linked with Website
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,37 @@
+---
+Title: Unread VS Read - Must Manually Mark as Read
+Category: Conversations
+URL: https://help.gohighlevel.com/support/solutions/articles/48000980858-unread-vs-read-must-manually-mark-as-read
+Word Count: 113
+Scraped: 2025-10-29T01:42:29.848094
+---
+
+How to mark the Conversation as read:
+1. Click
+Mark as Read
+2. Reply to the conversation manually
+3. Use workflow action to
+edit conversation
+4. Toggle on Auto Mark as Read in the workflow settings
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

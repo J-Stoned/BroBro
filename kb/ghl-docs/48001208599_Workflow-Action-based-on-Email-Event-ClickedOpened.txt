@@ -1,0 +1,46 @@
+---
+Title: Workflow Action based on Email Event Clicked/Opened
+Category: Email
+URL: https://help.gohighlevel.com/support/solutions/articles/48001208599-workflow-action-based-on-email-event-clicked-opened
+Word Count: 178
+Scraped: 2025-10-29T01:41:31.697153
+---
+
+How To Add an Email Event Trigger (Clicked/Opened) to a Workflow:
+Step 1:
+Select the initial trigger within your workflow and search email
+Step 2:
+Select Email Events from the dropdown
+Step 3:
+Click Add filters
+Step 4:
+Select Email Events from filter options, then Event
+Step 5:
+Select the appropriate action - Clicked or Opened
+Your new Trigger is now within your Workflow!
+Note:
+For accurate tracking and to maintain a strong sender reputation, ensure that
+Open and Click events are enabled for your sending domain
+. These events provide critical engagement data that mailbox providers use to determine deliverability.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

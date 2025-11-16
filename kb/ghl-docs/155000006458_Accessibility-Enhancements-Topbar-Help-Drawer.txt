@@ -1,0 +1,75 @@
+---
+Title: Accessibility Enhancements - Topbar & Help Drawer
+Category: Customer Support
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006458-accessibility-enhancements-topbar-help-drawer
+Word Count: 527
+Scraped: 2025-10-29T01:39:18.979853
+---
+
+This article outlines the new Accessibility Enhancements for the HighLevel Topbar and Help & Support Side Drawer. Discover how these improvements elevate VoiceOver compatibility, keyboard navigation, and screen reader support to provide a more inclusive experience for all users.
+TABLE OF CONTENTS
+Overview of the Topbar & Help Drawer Accessibility Enhancements
+Key Benefits of the Topbar & Help Drawer Accessibility Enhancements
+Topbar Accessibility Improvements
+Help & Support Accessibility Overhaul
+Frequently Asked Questions
+Related Articles
+Overview of the Topbar & Help Drawer Accessibility Enhancements
+HighLevel’s Accessibility Enhancements refine the user interface by optimizing both the Topbar navigation and the Help & Support Side Drawer. These updates integrate ARIA labels, improved keyboard navigation, semantic HTML, and enhanced focus management to deliver a more reliable and inclusive experience for users relying on assistive technologies.
+Key B
+enefits of the Topbar & Help Drawer Accessibility E
+nhancements
+These improvements bring essential upgrades that guarantee smoother navigation and better compatibility with assistive technology tools.
+Consistent VoiceOver compatibility across the Topbar and Help & Support drawer
+Improved keyboard navigation ensuring every interactive element is reachable
+Clear ARIA labels and roles for accurate screen reader interpretation
+Enhanced focus management that supports predictable user interaction
+Topbar Accessibility Improvements
+Enhancements to the Topbar ensure that every element within the main navigation meets modern accessibility standards. These improvements empower users by facilitating intuitive, accessible interactions.
+Fixed VoiceOver compatibility issues in the main navigation topbar
+Improved keyboard navigation support for effortless use
+Added ARIA labels and roles for screen reader interpretation
+Enhanced focus management for topbar elements
+Updated switcher items – including user switching (login as functionality) – with accessible descriptions and cues
+Help & Support Accessibility Overhaul
+The Help & Support Side Drawer now features a comprehensive accessibility overhaul, making customer support resources fully reachable through assistive technologies. This update makes the support experience more intuitive and reliable.
+Added accessibility for the Help & Support Side Drawer
+Implementation of semantic HTML and comprehensive ARIA attributes
+Enhanced keyboard navigation and focus indicators
+Added descriptive labels for all interactive elements
+Frequently Asked Questions
+Q: Do I need to enable these accessibility features in settings?
+No. These are platform-level improvements and are automatically enabled.
+Q: Where can I get help if I encounter issues with these enhancements?
+Please contact
+HighLevel support
+for assistance if you experience any challenges with the new accessibility features.
+Q: What is ARIA?
+ARIA (Accessible Rich Internet Applications) is a set of HTML attributes that add extra semantics—such as accessible name, role, and state—so screen readers can correctly announce and interact with complex UI.
+Related Articles
+24/7 Customer Support Options
+Login As User (Agency Admin Only)
+Customizing HighLevel Menus: A Guide to Custom Menu Links
+Expandable Sidebar in Conversations
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

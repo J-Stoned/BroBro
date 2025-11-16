@@ -1,0 +1,37 @@
+{
+  "snapshot_name": "GHL Star Boys - Dental Implants Snapshot",
+  "snapshot_id": "ghlstarboys-dental-implants",
+  "industry": "Dental / Implants",
+  "use_case": "Specialized dental implant patient acquisition and nurturing",
+  "target_audience": "Implant dentists, oral surgeons, dental implant centers",
+  "pricing_model": "Paid",
+  "version": "1.0.0",
+  "last_updated": "2025-01-01",
+  "author": "GHL Star Boys",
+  "description": {
+    "overview": "Turnkey solution for dental implant practices. Fully integrates with dental practice management software, HIPAA compliant, with specific funnels and workflows for implant consultations, treatment plans, and post-operative care.",
+    "key_benefits": [
+      "Implant consultation booking funnels",
+      "Treatment plan presentation automation",
+      "Pre-operative and post-operative care sequences",
+      "Financing options integration",
+      "HIPAA compliant communications",
+      "Integration with dental software"
+    ],
+    "ideal_for": [
+      "Dental implant specialists",
+      "Oral surgery practices",
+      "Multi-specialty dental groups"
+    ]
+  },
+  "components": {},
+  "tags": [
+    "dental",
+    "implants",
+    "healthcare",
+    "hipaa",
+    "high-ticket"
+  ],
+  "source_url": "",
+  "scraped_from_marketplace": true
+}

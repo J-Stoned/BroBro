@@ -1,0 +1,28 @@
+---
+Title: Conversations
+Category: API Documentation
+URL: https://marketplace.gohighlevel.com/docs/ghl/conversations/conversations
+Word Count: 59
+Scraped: 2025-10-31T10:50:16.933147
+---
+
+Conversations
+Conversations
+Conversations
+Documentation for Conversations API
+📄️
+Get Conversation
+Get the conversation details based on the conversation ID
+📄️
+Update Conversation
+Update the conversation details based on the conversation ID
+📄️
+Delete Conversation
+Delete the conversation details based on the conversation ID
+📄️
+Create Conversation
+Creates a new conversation with the data provided
+Previous
+Introduction
+Next
+Get Conversation

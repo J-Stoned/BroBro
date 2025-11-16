@@ -1,0 +1,116 @@
+---
+Title: Adding PayPal Buttons to Payment Elements
+Category: Payments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004254-adding-paypal-buttons-to-payment-elements
+Word Count: 777
+Scraped: 2025-10-29T01:50:15.853592
+---
+
+HighLevel's Payment Element now supports PayPal and PayLater, enhancing your payment processing capabilities. This integration allows customers to choose PayPal as a payment method across various platforms, including forms, invoices, payment links, and order forms.
+TABLE OF CONTENTS
+What is the PayPal Payment Element?
+Benefits of Using PayPal in the Payment Element
+Features That Support PayPal in Payment Elements
+How to Enable PayPal in the Payment Element
+Frequently Asked Questions
+Related Articles
+What is the PayPal Payment Element?
+The Payment Element in HighLevel now includes PayPal and PayLater options, providing a seamless payment experience for your customers. By integrating PayPal, you can offer a widely recognized and trusted payment method, potentially increasing conversion rates and customer satisfaction.
+Benefits of Using PayPal in the Payment Element
+Increased Payment Options:
+Offer customers the flexibility to choose their preferred payment method, including PayPal and PayLater.
+Seamless Checkout:
+The integration ensures a smooth and secure payment process, enhancing the overall customer experience.
+Enhanced Trust:
+Leverage PayPal's reputation to build trust with your customers.
+Easy Integration:
+Easily incorporate PayPal into your existing payment workflows without significant changes.
+Global Reach:
+Access a broader customer base, as PayPal is widely used internationally.
+Features That Support PayPal in Payment Elements
+Websites & Funnels:
+Use the 1-step order form and 2-step order form page elements to collect payments on your website or funnel using PayPal buttons!
+Forms & Surveys:
+Collect payment using PayPal buttons in your forms and surveys with the "collect payment" element!
+Invoices:
+Easily collect invoice payments from your clients using PayPal buttons!
+Payment Links:
+Integrate PayPal buttons directly into your one-time payment links!
+E-Commerce Stores:
+Give shoppers more ways to pay by adding PayPal buttons to your e-commerce stores!
+How to Enable PayPal in the Payment Element
+Step 1:
+Connect Your PayPal Account
+Navigate to
+Payments > Integrations
+in your HighLevel dashboard.
+Click on
+PayPal
+and enter your
+Client ID
+and
+Secret Key
+obtained from your PayPal developer account.
+Save the integration settings.
+Step 2:
+Add or
+Update the Payment Element
+If you are collecting payments in your forms, surveys, websites, or funnels, simply add the payment element to enable PayPal buttons during the checkout experience.
+If you already have a payment element and are now adding PayPal as a payment option, ensure that your Payment Element is updated to the latest version that supports PayPal.
+Note :
+If you are collecting payments in your
+Forms or Surveys
+, add the
+“Collect Payment”
+element to enable PayPal buttons during the checkout experience.
+If you are collecting payments in your
+Funnels or Websites
+, use the
+1-Step or 2-Step Order Form
+elements instead. These now support PayPal automatically — no additional payment element is needed.
+If you added the order form before Nov 1st, 2024, delete it and re-add it to ensure compatibility with PayPal.
+Step 3:
+Preview Payment Element
+In order to see the PayPal buttons in your payment element, you will need to preview your form, survey, website, or funnel.
+IMPORTANT:
+You will
+NOT
+see the buttons when adding the payment element in the form, survey, website, or funnel builder.
+Frequently Asked Questions
+Q: How do I obtain my PayPal Client ID and Secret Key?
+Log in to your PayPal developer account, navigate to
+My Apps & Credentials
+, and create a new app to receive your Client ID and Secret Key.
+Q: Can I use PayPal alongside other payment providers?
+Yes, if you have multiple payment providers connected, customers can choose their preferred payment method during checkout. The image below is showcasing what a customer would see if they opened a payment link from your business, and you had multiple payment providers integrated. In this example, PayPal and Stripe are connected to the sub-account.
+Q: Is PayLater available for all transactions?
+PayLater availability depends on PayPal's terms and the customer's eligibility. This is not configured within HighLevel.
+Q: Do I need to update my existing Payment Elements to support PayPal?
+Yes, you need to upgrade your Payment Element to the latest version, which includes PayPal support.
+Related Articles
+Getting Started - Setup Payment Links
+Payments Integration in Surveys | Collect Payments & Sell Products
+Collecting Payments in Calendars
+How to Create Invoices in HighLevel
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

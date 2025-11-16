@@ -1,0 +1,59 @@
+{
+  "compilerOptions": {
+    // Target ES2022 for modern JavaScript features
+    "target": "ES2022",
+
+    // Use NodeNext for ES modules with Node.js
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+
+    // Specify library files to be included
+    "lib": ["ES2022"],
+
+    // Output directory for compiled files
+    "outDir": "./dist",
+    "rootDir": "./src",
+
+    // Enable all strict type-checking options
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+
+    // Additional checks
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+
+    // Module resolution and interop
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+
+    // Generate .d.ts files for better IDE support
+    "declaration": true,
+    "declarationMap": true,
+
+    // Generate source maps for debugging
+    "sourceMap": true,
+
+    // Skip lib checking for faster compilation
+    "skipLibCheck": true,
+
+    // Ensure consistent casing in file names
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "tests"
+  ]
+}

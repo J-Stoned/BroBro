@@ -1,0 +1,56 @@
+---
+Title: Reputation Management - How to Customize the Review Request Messages (SMS/Email)
+Category: Reputation Management & Reviews
+URL: https://help.gohighlevel.com/support/solutions/articles/48000980328-reputation-management-how-to-customize-the-review-request-messages-sms-email-
+Word Count: 264
+Scraped: 2025-10-29T01:57:15.475520
+---
+
+In this article, we will cover how to turn on and customize the review messages for Email/ SMS review requests. This can be found in the sub-account
+S
+ettings > Reputation Management
+tab
+Covered in this article:
+How to set up and customize your review request emails/SMS
+How to add a different review URL to your review request
+How to enable (Toggle on) the review request feature throughout the sub-account
+Areas within the CRM where you can send review requests:
+How to set up and customize your review request emails/SMS
+Please Note:
+All location users
+regardless of admin or user permissions will recieve a system generated review email every time a new review comes in -
+See system generated email example here
+How to add a different review URL to your review request
+How to enable (
+Toggle on
+) the review request feature throughout the sub-account
+Please toggle the
+"Customize Review SMS"
+and
+"Customize Review Email"
+Related Articles:
+Different ways to send review requests within the CRM
+How to Dispute a Google Review and Check on the Dispute Status
+Reputation - Breaking Down the Reviews Tab
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

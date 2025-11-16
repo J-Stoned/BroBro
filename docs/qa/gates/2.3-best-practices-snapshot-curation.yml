@@ -1,0 +1,208 @@
+story_id: "2.3"
+story_title: "Best Practices & Snapshot Reference Curation"
+review_date: "2025-10-25"
+reviewer: "Quinn (QA Agent)"
+gate_status: "CONCERNS"
+
+summary: |
+  Story 2.3 is primarily a manual curation effort with minimal technical implementation.
+  While the structure and templates are well-defined, the story lacks clear scope boundaries,
+  acceptance criteria are somewhat vague on "how much is enough," and there's no clear script
+  or automation to support the curation process. This is more content research than development.
+
+strengths:
+  - Clear content categories (lead nurturing, appointment automation, form optimization, SaaS setup)
+  - Well-defined Markdown templates for best practices and snapshot profiles
+  - Good metadata structure (category, effectiveness, source, last verified)
+  - Organized directory structure (by topic for practices, by marketplace for snapshots)
+  - Source citation requirements for credibility
+  - Includes "last verified" dates for currency tracking
+  - Structured format designed for easy parsing in downstream chunking (Story 2.4)
+
+findings:
+  medium_severity:
+    - issue_id: "SCOPE-001"
+      description: "AC1 'best practices documented for...' does not specify quantity"
+      impact: "Unclear when this AC is satisfied. How many practices per topic?"
+      recommendation: "Specify minimum number of practices per category (e.g., 5-10 per topic = 30-60 total)"
+
+    - issue_id: "SCOPE-002"
+      description: "AC2 'snapshot marketplace information compiled' lacks quantity target"
+      impact: "Unclear how many snapshots to document. 10? 50? 100?"
+      recommendation: "Specify target snapshot count (e.g., 30-50 snapshots across all marketplaces)"
+
+    - issue_id: "IMPL-003"
+      description: "No script or automation support - entirely manual curation"
+      impact: "Time-intensive, error-prone, difficult to validate completeness"
+      recommendation: "Consider web scraping for snapshot marketplaces, or at least templates/tooling to speed curation"
+
+    - issue_id: "TEST-004"
+      description: "AC6 'source citations included' is not specific about citation format"
+      impact: "Inconsistent citations across documents"
+      recommendation: "Define citation format (e.g., [Source](URL) - Last Verified: YYYY-MM-DD)"
+
+  low_severity:
+    - issue_id: "DATA-005"
+      description: "Best practices may become outdated quickly (2025 standards noted)"
+      impact: "Content requires periodic review and updates"
+      recommendation: "Add maintenance schedule or expiration dates to best practices"
+
+    - issue_id: "QUALITY-006"
+      description: "No clear definition of 'proven vs experimental' effectiveness rating"
+      impact: "Subjective ratings may be inconsistent"
+      recommendation: "Define criteria for proven (widely adopted, documented success) vs experimental (new, limited testing)"
+
+    - issue_id: "TEST-007"
+      description: "Content quality validation is manual ('review for accuracy and completeness')"
+      impact: "No automated quality checks, relies on human judgment"
+      recommendation: "Add automated checks: required sections present, citations valid, word count minimums"
+
+  high_severity:
+    - issue_id: "DEP-008"
+      description: "Story has no technical blocking dependencies but claims dependency on Story 1.6"
+      impact: "Unclear why this story depends on Epic 1 completion - it's independent content curation"
+      recommendation: "Clarify dependencies or remove. This story could run in parallel with Epic 1"
+
+nfr_validation:
+  performance:
+    status: "N/A"
+    notes: "Manual content curation - no performance requirements"
+
+  reliability:
+    status: "CONCERNS"
+    notes: "Manual process prone to errors. No validation scripts. Content may be inconsistent"
+
+  security:
+    status: "PASS"
+    notes: "Public information, no sensitive data"
+
+  maintainability:
+    status: "PASS"
+    notes: "Structured Markdown with templates. Clear organization. Need periodic updates"
+
+  scalability:
+    status: "CONCERNS"
+    notes: "Manual curation doesn't scale well. Adding 100+ snapshots would be time-intensive"
+
+testability_score: 5
+testability_notes: |
+  Limited testability due to manual nature:
+  - AC1: How to verify "best practices documented"? No quantity specified
+  - AC2: How to verify "snapshot marketplace information compiled"? No quantity target
+  - AC3: Can verify snapshot profiles have required fields (name, features, pricing, use cases, reviews)
+  - AC4: Can verify files exist in kb/best-practices/ and kb/snapshots-reference/
+  - AC5: Can verify content is valid Markdown with proper structure
+  - AC6: Can verify citations exist (but not validity without manual checking)
+
+  Major issues:
+  - No clear completion criteria (how many best practices? how many snapshots?)
+  - Quality validation is entirely manual
+  - No automated validation scripts mentioned
+  - "Structured Markdown" can be validated but content accuracy cannot
+
+dependencies:
+  blocks:
+    - "2.4" # Chunking needs all content including best practices and snapshots
+
+  blocked_by: []
+    # Story claims dependency on 1.6 but it's unclear why. This is independent content curation.
+
+  parallel_possible:
+    - "2.1" # Documentation scraping
+    - "2.2" # YouTube extraction
+    # This story could run in parallel with most Epic 1 and Epic 2 stories
+
+risks:
+  - risk: "Manual curation is time-intensive and may not be completed on schedule"
+    mitigation: "Set realistic scope (e.g., 30-50 best practices, 30-50 snapshots). Allocate sufficient time"
+    severity: "HIGH"
+
+  - risk: "Content quality may be inconsistent without clear guidelines"
+    mitigation: "Define quality criteria, use templates consistently, peer review before acceptance"
+    severity: "MEDIUM"
+
+  - risk: "Source citations may link to content that changes or disappears"
+    mitigation: "Include 'last verified' dates. Plan for periodic review and updates"
+    severity: "MEDIUM"
+
+  - risk: "Snapshot marketplace data may be incomplete or require paid access"
+    mitigation: "Focus on publicly available information. Document limitations in snapshot profiles"
+    severity: "LOW"
+
+  - risk: "Best practices may conflict with official GHL recommendations"
+    mitigation: "Cite sources, note when practices are community-driven vs official"
+    severity: "LOW"
+
+recommendations:
+  must_address:
+    - "Define clear quantity targets: minimum best practices per topic and total snapshots"
+    - "Clarify dependency on Story 1.6 or remove if this can run independently"
+    - "Add completion criteria to ACs (e.g., 'at least 40 best practices documented')"
+
+  should_address:
+    - "Create validation script to check Markdown structure, required sections, citation format"
+    - "Define quality criteria for 'proven vs experimental' effectiveness ratings"
+    - "Add automated checks for required metadata fields in all documents"
+    - "Consider web scraping for snapshot marketplaces to reduce manual effort"
+
+  nice_to_have:
+    - "Add maintenance schedule or expiration dates to best practices"
+    - "Create template files to speed up curation"
+    - "Add automated link checking for source citations"
+    - "Consider involving domain experts for content review"
+
+acceptance_criteria_assessment:
+  - ac_number: 1
+    description: "Best practices documented for: lead nurturing, appointment automation, form optimization, SaaS setup"
+    testable: false
+    clear: false
+    notes: "Missing quantity target. How many practices per topic? What defines 'documented'?"
+
+  - ac_number: 2
+    description: "Snapshot marketplace info compiled: Extendly, GHL Central, Snapshot Marketplace"
+    testable: false
+    clear: false
+    notes: "Missing quantity target. How many snapshots? All available or curated subset?"
+
+  - ac_number: 3
+    description: "Each snapshot profile includes: name, features, pricing, use cases, reviews"
+    testable: true
+    clear: true
+    notes: "Can verify required fields are present in snapshot profile files"
+
+  - ac_number: 4
+    description: "Files saved to kb/best-practices/ and kb/snapshots-reference/"
+    testable: true
+    clear: true
+    notes: "Can verify directories exist and contain files"
+
+  - ac_number: 5
+    description: "Content formatted in structured Markdown for easy parsing"
+    testable: true
+    clear: true
+    notes: "Can verify valid Markdown and presence of required sections"
+
+  - ac_number: 6
+    description: "Source citations included for all information"
+    testable: true
+    clear: false
+    notes: "Can check citations exist but not validate format consistency without defined standard"
+
+decision: |
+  ⚠️ CONCERNS - Story 2.3 needs clarification before development.
+
+  This is primarily a manual content curation story with vague acceptance criteria.
+  Major issues:
+  1. No clear quantity targets (how many best practices? how many snapshots?)
+  2. No completion criteria (when is "documented" or "compiled" satisfied?)
+  3. No automation or tooling support (entirely manual, time-intensive)
+  4. Limited testability (quality validation is subjective)
+  5. Unclear dependencies (why does this depend on Story 1.6?)
+
+  This story can proceed with clarifications:
+  - Define minimum content targets (e.g., 40 best practices, 40 snapshots)
+  - Add validation scripts for Markdown structure and required fields
+  - Clarify or remove Epic 1 dependency
+  - Consider running this in parallel with Epic 1 as it's independent content work
+
+  Recommendation: Have Product Owner clarify scope and acceptance criteria before starting development.

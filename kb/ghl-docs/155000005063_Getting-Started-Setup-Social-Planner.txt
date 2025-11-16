@@ -1,0 +1,101 @@
+---
+Title: Getting Started - Setup Social Planner
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005063-getting-started-setup-social-planner
+Word Count: 457
+Scraped: 2025-10-29T01:38:45.166135
+---
+
+Ready to simplify your social media management? Great! With the Social Planner, you'll easily schedule and manage your posts, ensuring your brand maintains a consistent presence across popular platforms like Facebook, Instagram, and beyond. Let's get started!
+TABLE OF CONTENTS
+Setup Social Planner
+Creating Posts Using Templates
+Creating Custom Posts
+Connecting More Social Accounts
+Setup Social Planner
+First things first, we'll get your accounts connected so you can start posting with ease. Here's how:
+Navigate to
+Marketing > Social Planner > Settings (gear icon)
+.
+Click
+Connect Social >
+Connect Facebook
+.
+Log in to your Facebook account.
+Choose at least one Facebook page you'd like to manage.
+Verify your connection.
+Now that you're connected, let's create some engaging posts!
+Creating Posts Using Templates
+Templates make your life easy. Quickly customize pre-made designs for impactful posts. Here's the scoop:
+Navigate to
+Marketing > Social Planner >
+New Post > Social Planner Templates
+.
+Search, browse, and filter available templates.
+Preview a template you like, then click
+Continue
+.
+Schedule your selected template by clicking
+Select Socials
+(the plus icon on the right).
+Fill out the necessary details in the Schedule Post modal, including your Facebook account and timing.
+Click
+Schedule Posts
+.
+Your post is scheduled and ready to go! Next, why not explore creating your own unique post?
+Creating Custom Posts
+Feeling creative? Craft your own custom posts in just a few clicks. Here's how easy it is:
+In Marketing > Social Planner, click
+New Post > Create New Post
+.
+Enter your post details, selecting your social account, content, and more.
+Choose to
+save for later
+,
+post now
+,
+schedule for later
+,
+send for approval
+, or
+schedule as recurring
+.
+Fantastic! Your content is all set. Now, let's enhance your experience further by connecting more social accounts.
+Connecting More Social Accounts
+Expanding your social presence? Easily add more social media accounts to manage all in one place:
+Click
+Settings
+(the gear icon).
+Select additional social accounts you wish to connect.
+Click
+Connect Social
+and follow the prompts.
+There you go! You're now managing multiple platforms effortlessly.
+Learn More
+How to connect to your Facebook Page(s)
+Facebook Publishing Troubleshooting Guide
+How to schedule Facebook Story from Social Planner?
+Post Facebook Reel From Social Planner
+Happy posting!
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,72 @@
+---
+Title: User Permissions in Calendars
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004698-user-permissions-in-calendars
+Word Count: 377
+Scraped: 2025-10-29T01:47:38.095033
+---
+
+Overview
+The Calendar module now supports granular user permissions, allowing you to control who can view and manage different aspects of the calendar system. This helps ensure that users have access only to the data and functionalities relevant to their roles.
+Types of Permissions
+There are two main types of permissions:
+View Permissions
+: Grants users the ability to see specific elements within the calendar module.
+Manage Permissions
+: Grants users the ability to create, edit, and delete elements within the calendar module.
+Assigned Data Access
+In addition to general permissions, users can also have
+Assigned Data
+toggled on or off:
+If
+Assigned Data
+is enabled, the user will only be able to see appointments and calendars they are assigned to.
+If
+Assigned Data
+is disabled, permissions will apply based on their granted access, regardless of assignment.
+Granular Permission Options
+You can now specify view and manage permissions at different levels:
+View Permissions
+Users can be granted view access for:
+Calendars
+Appointments
+Groups
+Enabling these permissions will allow the user to access the Calendar module.
+Manage Permissions
+Users can be given manage permissions for:
+Calendars
+Appointments
+Groups
+With these granular controls, you can determine:
+Which users have access to the Calendar module.
+Which aspects of the calendar each user can manage.
+Example Scenarios
+A user with View access for Calendars but no Manage permissions
+They can see all calendars but cannot create, edit, or delete them.
+A user with Manage permissions for Appointments only
+They can create, edit, and delete appointments but cannot modify calendars or groups.
+A user with Assigned Data enabled and View permissions for Appointments
+They can only see appointments they are assigned to.
+By configuring these permissions properly, you can control the level of access each user has, ensuring a more secure and organized scheduling experience.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

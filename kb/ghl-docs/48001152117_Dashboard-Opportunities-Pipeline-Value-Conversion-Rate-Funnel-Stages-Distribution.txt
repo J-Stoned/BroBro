@@ -1,0 +1,62 @@
+---
+Title: Dashboard: Opportunities, Pipeline Value, Conversion Rate, Funnel, Stages Distribution
+Category: Dashboards
+URL: https://help.gohighlevel.com/support/solutions/articles/48001152117-dashboard-opportunities-pipeline-value-conversion-rate-funnel-stages-distribution
+Word Count: 520
+Scraped: 2025-10-29T01:51:03.215543
+---
+
+The
+Date Range filter
+is based on the
+Date Created
+of the leads.
+So the opportunities view above shows the 4 leads who opt-in to HL from Jan 24th to Jul 25th are in OPEN status.
+If you only want to see the number of leads who opt-in on a certain day, you could
+double-click
+the date you want!
+Conversion rate
+= the number of leads in the WON status (1) divided by all the leads opt-in (5)
+The
+WON
+at the end of the list is added automatically here. So you don't need to create a WON stage to keep track of leads who are in the status of WON.
+The percentage on the right for the Prospects stage means that 80% of the leads who joined the Facebook Leads pipeline will move forward to the Prospects stage.
+60% of the leads who joined the Facebook Leads pipeline will move forward to the Booked stage.
+The way we build our pipeline is like a sales stage. E.g. If we have a pipeline for stages like Elementary school, High school, University. If the person is in the University stage, we will increase the number of leads in the stage for Elementary and High school by 1 because we assume that the person has been to those stages.
+So if you like to track the leads who are in the NO SHOW stage, it doesn't make sense to refer to the Funnel chart because that would mean that 40% of the leads who joined the Facebook Leads pipeline will move forward to the NO SHOW stage. In fact, it should be 20% instead of 40% because only 1 lead is no show. The other lead is marked as WON. When the lead is marked as WON, the number of leads on all stages will be increased by 1 because we assume the lead went through all the steps to purchase the product.
+If you want to refer to the Funnel chart, each pipeline stage should be one step closer to sale, like Prospect -> Survey submitted -> Consultation -> Purchase
+More info to creating a pipeline:
+https://gohighlevelassist.freshdesk.com/support/solutions/articles/48000982197-create-a-pipeline
+If you want to keep track of stage like No-shows, showed didn't buy, you could refer to the
+Stages Distribution chart.
+The chart above simply shows the number of leads who are currently in which stages.
+If you want to track how many leads have been to which stages, you could
+Allow Duplicate Opportunity
+so if the lead has been to the No show stage, it will leave an opportunity card there.
+Make sure that the trigger action
+Add/Update Opportunity
+also has
+Allow duplicate opportunities
+toggle on.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

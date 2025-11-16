@@ -1,0 +1,40 @@
+---
+Title: Facebook Conversion API Workflow Trigger Not Working
+Category: Workflows
+URL: https://help.gohighlevel.com/support/solutions/articles/48001185898-facebook-conversion-api-workflow-trigger-not-working
+Word Count: 175
+Scraped: 2025-10-29T01:47:11.472254
+---
+
+Please make sure that you are not using the test workflow button when testing the Facebook Conversion API in Workflow.
+Always save and publish and use one of these triggers to test your conversion..
+Trigger should be a input trigger like
+Form Submission
+Survey submission
+Appointment Submission (from booking widget)
+2 step order form
+For appointment it will only work with
+“Customer Booked appointment” not with “appointment” as appointments is general trigger and “Customer Booked appointment” is the trigger for widget
+Lead value is required if you will use Purchase event of else you can keep it blank.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

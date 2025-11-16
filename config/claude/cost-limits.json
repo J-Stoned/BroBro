@@ -1,0 +1,58 @@
+{
+  "limits": {
+    "daily": {
+      "maxCostUSD": 50.00,
+      "warningThresholdPercent": 80,
+      "blockNewRequestsAtLimit": true,
+      "notifyEmails": ["admin@brobro.com"],
+      "description": "Daily spending limit with 80% warning threshold"
+    },
+    "perRequest": {
+      "maxCostUSD": 0.50,
+      "requireApprovalAbove": 0.25,
+      "description": "Maximum cost per individual request"
+    },
+    "monthly": {
+      "maxCostUSD": 1000.00,
+      "budgetAlerts": [500, 750, 900],
+      "description": "Monthly budget with alerts at 50%, 75%, 90%"
+    },
+    "modelSpecific": {
+      "claude-opus-4": {
+        "dailyMaxCost": 10.00,
+        "requiresExplicitApproval": true,
+        "description": "Opus limited to $10/day due to high cost"
+      }
+    }
+  },
+  "alerts": {
+    "channels": ["email", "log", "console"],
+    "throttleMinutes": 60,
+    "severity": {
+      "warning": {
+        "threshold": 0.8,
+        "message": "Approaching daily budget limit"
+      },
+      "critical": {
+        "threshold": 0.95,
+        "message": "Critical: Near daily budget limit"
+      },
+      "blocked": {
+        "threshold": 1.0,
+        "message": "Budget limit reached - requests blocked"
+      }
+    }
+  },
+  "costTracking": {
+    "enabled": true,
+    "persistToDatabase": true,
+    "aggregationLevels": ["request", "endpoint", "user", "model", "profile"],
+    "retentionDays": 90,
+    "description": "Track costs across multiple dimensions for analysis"
+  },
+  "notes": {
+    "pricing": "Costs calculated based on model definitions in models.json",
+    "updates": "Check Anthropic pricing page quarterly for updates",
+    "overages": "Requests blocked at hard limits to prevent budget overrun"
+  }
+}

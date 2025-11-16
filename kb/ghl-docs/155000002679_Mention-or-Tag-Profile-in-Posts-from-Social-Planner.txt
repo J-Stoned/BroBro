@@ -1,0 +1,77 @@
+---
+Title: @Mention or Tag Profile in Posts from Social Planner
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002679--mention-or-tag-profile-in-posts-from-social-planner
+Word Count: 441
+Scraped: 2025-10-29T01:42:42.410776
+---
+
+TABLE OF CONTENTS
+Mentioning and Tagging Profiles in Posts from the Social Planner
+Key Benefits of Tagging and Mention Profiles
+Key Information
+How to Add a Mention or Tag to Posts
+Step 1: Navigate to the Social Planner
+Step 2: Create a New Post
+Step 3: Select Socials
+Step 4: Write Post
+Mentioning and Tagging Profiles in Posts from the Social Planner
+The Social Planner now allows users to add @Mentions in posts! @Mentions will work for socials like Facebook, LinkedIn (Only company pages) and plain text will be available Instagram, Tiktok and GMB. @Mentions will be the search for public profiles or pages.
+If more than one social channel is used, it will ask to customise the post for each channel to be enabled to allow users to search by the name, followers and social wise.
+Key Benefits of Tagging and Mention Profiles
+Improves Post engagement for customers
+Brands and influencers often use @Mentions strategically to cross-promote each other's content
+On some platforms, @Mentions contribute to the searchability of content
+Key Information
+This will not work in CSV and other options like Review Posting, RSS Posting.
+The tag will appear highlighted (in blue) in the preview. This visual highlight confirms that the tag was recognized successfully by the system.
+Auto-suggestions for mentions are not available for Instagram
+. You’ll need to type @username manually, and the person being tagged must have their settings enabled to allow mentions.
+How to Add a Mention or Tag to Posts
+Step 1:
+Navigate to the Social Planner
+On the left-side navigation bar, select
+Marketing
+Click the
+Social
+Planner
+tab on the top navigation ribbon
+Step 2:
+Create a New Post
+Click the blue
++ New
+Post
+Button
+From the dropdown, select
++ Create New Post
+Step 3:
+Select Socials
+While creating new post, selects the social
+If more than one social channel is selected, it will ask you to enable the customise for each channel option.
+Step 4:
+Write Post
+Create the post for each social channel
+To mention a profile, use the @ followed by the username of the profile you would like to tag
+After typing in the first few letters, recommended options will populate
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

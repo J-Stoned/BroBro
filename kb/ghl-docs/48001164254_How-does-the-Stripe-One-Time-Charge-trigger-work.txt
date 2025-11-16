@@ -1,0 +1,32 @@
+---
+Title: How does the Stripe One Time Charge trigger work?
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/48001164254-how-does-the-stripe-one-time-charge-trigger-work-
+Word Count: 110
+Scraped: 2025-10-29T01:57:46.159197
+---
+
+The Stripe one time charge trigger is always associated with the stripe integration in the Agency Settings!
+Please note: a card has to be set as default in stripe for OTC to work
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

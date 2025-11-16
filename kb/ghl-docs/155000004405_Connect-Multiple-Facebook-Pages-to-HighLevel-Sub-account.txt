@@ -1,0 +1,45 @@
+---
+Title: Connect Multiple Facebook Pages to HighLevel Sub-account
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/155000004405-connect-multiple-facebook-pages-to-highlevel-sub-account
+Word Count: 238
+Scraped: 2025-10-29T01:57:56.561354
+---
+
+We are excited to announce the release of one of the most asked integration features - connecting multiple Facebook pages.
+TABLE OF CONTENTS
+What's new?
+Why is this feature important?
+Coming soon:
+What's new?
+Leads Sync: Sync leads automatically from Facebook Lead Ads across multiple pages with clear attribution to the source
+Conversations: Chat with customers across multiple Facebook pages using Facebook and Instagram chat integrations
+Automation: Build customised workflows to automate customer engagement across multiple Facebook pages
+Reputation: Manage reviews and your review responses across multiple Facebook pages
+Why is this feature important?
+This was one of the most asked Integration features on Canny, with 800+ votes. This feature will enable customers across a spectrum of use-cases - SMBs managing multiple outlets, to influencers managing multiple fan pages.
+Coming soon:
+Mobile App: The HighLevel mobile app currently does not support conversations across multiple Facebook pages.
+Conversation AI: Conversation AI currently does not support auto-response to messages across multiple Facebook pages.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

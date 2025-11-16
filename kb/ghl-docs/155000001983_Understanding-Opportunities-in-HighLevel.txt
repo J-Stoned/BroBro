@@ -1,0 +1,88 @@
+---
+Title: Understanding Opportunities in HighLevel
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001983-understanding-opportunities-in-highlevel
+Word Count: 623
+Scraped: 2025-10-29T01:43:49.179659
+---
+
+Opportunities in HighLevel represent potential sales or deals at various stages of the sales pipeline.
+They encapsulate leads or prospects showing interest in products/services, ripe for conversion into paying customers.
+TABLE OF CONTENTS
+What Are Opportunities?
+Key Benefits of Opportunities
+Pipeline Integration
+Stage Progression
+Opportunity Status
+Data Management
+Related Articles
+What Are Opportunities?
+Opportunities are records that represent a potential sale or deal at any point in your pipeline—from a brand‑new lead to a signed contract. Each opportunity stores the prospect’s contact information, deal value, and historical notes, ensuring everyone on your team has context and can take action quickly. Opportunities move through stages inside a pipeline, reflecting real‑world progress toward a win.
+Note:
+In HighLevel, a contact becomes an opportunity when there's a prospect of a sale or deal associated with that contact and it is added to a sales pipeline.
+Key Benefits of Opportunities
+Opportunities allow you to organize, automate, and forecast your sales in one place.
+Centralized Tracking:
+All notes, tasks, and communications live on the opportunity card, eliminating data silos.
+Stage‑Based Forecasting:
+Predict revenue by looking at how many deals sit in each stage and their expected values.
+Automation Triggers:
+Fire workflows when an opportunity is created, moves stages, or changes status—saving hours of manual work.
+Team Collaboration:
+Assign owners, tag teammates, and track activity history without endless email threads.
+Performance Reporting:
+Use the HighLevel dashboards and reports to see win rates and bottlenecks across reps or products.
+Pipeline Integration
+Opportunities are managed within pipelines which in turn are series of consecutive stages.
+Customizable pipelines align with unique sales processes and business goals.
+Learn more about pipelines
+here
+Stage Progression
+Opportunities advance through pipeline stages, signifying their position in the sales cycle.
+Stages typically include "Prospecting," "Qualification," "Proposal," and "Negotiation"
+Learn more about creating pipelines
+here
+Opportunity Status
+"Open", "Won", "Lost" and "Abandoned" are opportunity status which are present by default.
+An opportunity can be in one of the four statuses and we can use these to prepare filters for the same.
+Open:
+Opportunities with the "Open" status are actively being pursued and are still in progress. These opportunities represent potential deals that have not yet been won, lost, or abandoned and are still viable for conversion.
+Won:
+The "Won" status indicates that the opportunity has been successfully converted into a sale or deal. This status is applied when the lead has made a purchase or signed a contract, resulting in revenue generation for the business.
+Lost:
+Opportunities with the "Lost" status represent deals that have been unsuccessfully concluded. This status is applied when the lead decides not to move forward with the purchase or chooses a competitor's offering.
+Abandoned:
+The "Abandoned" status indicates that the opportunity has been neglected or disregarded, either by the lead or by the sales team. This status is applied when there is no further action or follow-up planned for the opportunity, and it is effectively removed from active consideration.
+Learn more about Opportunity Statuses
+here
+Data Management
+Robust data management within opportunities tracks opportunity source, contact details, opportunity value, and notes.
+Users can also streamline communication and task assignment under Opportunity - linked contacts, enhancing workflow efficiency and timely engagement.
+Related Articles
+Step-by-Step Guide to Creating Opportunities
+Editing Opportunities
+Automating Opportunities
+Filtering Opportunities
+Bulk Edit Opportunities
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

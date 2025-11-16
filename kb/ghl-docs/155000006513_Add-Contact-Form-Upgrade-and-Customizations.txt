@@ -1,0 +1,184 @@
+---
+Title: "Add Contact" Form Upgrade and Customizations
+Category: Contacts
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006513--add-contact-form-upgrade-and-customizations
+Word Count: 1021
+Scraped: 2025-10-29T01:41:53.728885
+---
+
+HighLevel’s upgraded
+Add Contact
+sidebar streamlines contact creation and keeps your CRM consistent. Admins can choose which fields appear (including custom fields), set required fields, and reorder the form to match team workflows. The result is faster data entry, better data quality, and a consistent experience across desktop and mobile.
+IMPORTANT:
+Add Contact Modal — Upgrade & Customization is currently available in
+Labs
+. If you don't see it, ask an admin to enable it at
+Agency settings > Labs
+. For more, refer to
+Labs features - Complete overview
+TABLE OF CONTENTS
+What is the Add Contact Modal Upgrade and Customisation of Contact Form?
+Key Benefits of the Add Contact Modal Upgrade & Customization
+Admin Permissions & Access
+Duplicates & Data Quality Tips
+How To Setup the Customization of the Add contact Modal
+Accessing the Add Contact Modal
+Frequently Asked Questions
+Related Articles
+What is the Add Contact Modal Upgrade and Customisation of Contact Form?
+The upgraded Add Contact experience replaces the classic pop-up with a modern slide-out and adds admin controls for which fields show up and in what order. By aligning the form with your process and using required fields for must-have data, you reduce errors at the source and standardize intake across your team.
+Designed for productivity, the slide-out modal supports
+standard
+and
+custom fields
+,
+drag-and-drop field ordering
+,
+field-level Required
+toggles,
+Preview
+, and
+unsaved-changes
+protection. Admins define the layout once; all users then enjoy a consistent, responsive create flow with Save and Save & Add Another
+actions.
+Key Benefits of the Add Contact Modal Upgrade & Customization
+These benefits focus on speed, data accuracy, and governance—so you capture the right data the first time.
+Faster entry:
+Slide-out UI keeps you on the page while creating contacts.
+Cleaner data:
+Show only the fields your team actually needs; hide the rest.
+Higher quality:
+Make critical fields required (for example,
+Contact Type
+) to prevent incomplete records.
+Works with custom fields:
+Include
+contact-level custom fields
+so your unique data points are captured at creation.
+Admin control:
+Admins govern the layout so standards stay consistent while users focus on selling.
+Admin Permissions & Access
+Limiting layout control to admins protects your data model while allowing end users to focus on selling and support.
+Who can customize the layout?
+Admin-level users in the sub-account (via Roles & Permissions).
+Who can create contacts?
+Any user with access to the Contacts area can open
+Add Contact
+and use the configured form.
+Duplicates & Data Quality Tips
+Contact intake quality depends on how duplicates are handled. Configure deduplication preferences so new entries behave the way you expect.
+Configure
+Settings → Business Profile → Contact Deduplication Preferences
+to control matching behavior (choose primary/secondary match fields like
+Email
+or
+Phone
+).
+CSV imports
+always check email/phone and merge matches—duplicates cannot be created via CSV.
+If duplicates slip in from forms or integrations, you can
+merge up to 10 contacts
+and choose a master record.
+How To Setup the Customization of the Add contact Modal
+A short, sequenced setup prevents rework and ensures your team starts in a smooth, consistent state.
+Step 1: Open the Add Contact sidebar
+In your Sub-Account, Go to
+Contacts → Smart Lists → + Add Contact
+to launch the modal.
+Step 2: Customize the form (admins)
+Click
+Customize Form
+→ Add/Remove
+standard
+and
+contact-level custom
+fields; drag to reorder.
+Step 3: Set required fields
+Turn on
+Required
+for any field that
+must
+be completed before saving the contact form.
+Step 4: Preview & Save
+Use
+Preview
+to validate, then save the layout for your team.
+Step 5: (Optional) Automate next steps via Workflows
+Use a
+Contact Created
+trigger in a
+Workflow
+to send welcomes, assign owners, or tag new contacts automatically.
+Accessing the Add Contact Modal
+Everyone on your team uses the same entry point to create new contacts, ensuring a consistent, predictable experience.
+Go to
+Contacts → Smart Lists → + Add Contact
+to launch the slide-out modal.
+Complete the required fields, then choose an action:
+Save
+to create the contact
+Save & Add Another
+for rapid back-to-back entries, or
+Cancel
+to exit without saving
+Note
+:
+If you try to close the modal without saving changes,
+you’ll get an unsaved-changes prompt
+to confirm.
+Frequently Asked Questions
+Q: Who can customize the Add Contact form layout?
+Admin-level users in the sub-account (via Roles & Permissions). Regular users use the configured form.
+Q: Can I include custom fields on the Add Contact form?
+Yes. Any
+contact-level custom field
+can be added, reordered, and marked required. Manage fields in
+Settings → Custom Fields
+.
+Q: How do I prevent duplicate contacts during intake?
+Configure
+Contact Deduplication Preferences
+(choose email/phone matching). CSV imports auto-merge by email/phone and can’t create duplicates.
+Q: What automations pair well with this?
+Start with a
+Contact Created
+workflow to assign owners, tag by source, and send welcomes; use
+Create Contact
+and
+Update Contact Field
+actions as needed.
+Q: Does “Save & Add Another” keep the previous values?
+It creates the contact and reopens a blank form for the next entry. Use workflows to auto-apply tags/owners if you need consistency.
+Q: Do modal-required fields affect CSV imports or API creates?
+No. Required rules in the Add Contact modal apply to manual entry only. CSV imports and API requests have their own validations.
+Q: Will users see my layout changes immediately?
+Yes for new sessions; existing users may need to refresh the Contacts page to load the latest configuration.
+Related Articles
+Getting Started - Create New Contact
+How to Use Custom Fields
+Contact Types
+Allow Duplicate Contacts (Contact Deduplication Preferences)
+How to Merge Duplicate Contacts in HighLevel
+Workflow Trigger - Contact Created
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

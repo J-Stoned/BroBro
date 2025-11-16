@@ -1,0 +1,204 @@
+story_id: "2.2"
+story_title: "YouTube Tutorial Curation & Extraction"
+review_date: "2025-10-25"
+reviewer: "Quinn (QA Agent)"
+gate_status: "PASS"
+
+summary: |
+  Story 2.2 provides comprehensive YouTube transcript extraction with dual MCP fallback strategy.
+  Good curation targets (50-100 videos from verified experts), robust error handling, and organized storage.
+  Ready for development with minor recommendations around initial curation validation.
+
+strengths:
+  - Clear curation targets (Robb Bailey, Shaun Clark, GHL Official, 50-100 videos)
+  - Dual MCP strategy (YouTube Transcript Pro with Intelligence Suite fallback)
+  - Comprehensive metadata extraction (title, creator, URL, duration, publish date, category)
+  - Dual organization (by-creator and by-topic)
+  - Good error handling (failed.log with distinction between no-transcript vs extraction errors)
+  - Both plain text and timestamped transcript preservation
+  - Index file with searchable metadata and distribution statistics
+  - Script already planned in Story 1.5 (scripts/extract-yt-transcripts.js)
+  - Configuration-driven approach (youtube-sources.json)
+
+findings:
+  low_severity:
+    - issue_id: "DATA-001"
+      description: "youtube-sources.json needs to be populated with actual video IDs before execution"
+      impact: "Cannot extract transcripts without curated source list"
+      recommendation: "First task should validate youtube-sources.json has at least 50 high-value videos configured"
+
+    - issue_id: "PERF-002"
+      description: "100 videos with fallback strategy could take significant time"
+      impact: "Long-running operation, potential for timeouts or interruptions"
+      recommendation: "Add checkpoint/resume capability to handle interrupted extraction runs"
+
+    - issue_id: "TEST-003"
+      description: "Manual spot-check of 10 random transcripts is subjective"
+      impact: "Quality validation may be inconsistent"
+      recommendation: "Define specific quality criteria (minimum word count, coherence checks, timestamp accuracy)"
+
+  medium_severity:
+    - issue_id: "DEP-004"
+      description: "Dual dependency on two YouTube MCP servers (Transcript Pro + Intelligence Suite)"
+      impact: "If both MCPs fail, extraction cannot proceed"
+      recommendation: "Test both MCP servers before starting. Consider tertiary fallback or manual extraction process"
+
+    - issue_id: "SCOPE-005"
+      description: "AC7 mentions symlinks or copies for topic organization - Windows symlink support varies"
+      impact: "Cross-platform compatibility issues (Windows vs Unix-like systems)"
+      recommendation: "Use copies instead of symlinks for broader compatibility, or document OS-specific behavior"
+
+nfr_validation:
+  performance:
+    status: "PASS"
+    notes: "50-100 videos is reasonable scope. Fallback mechanism adds resilience but may slow extraction"
+
+  reliability:
+    status: "PASS"
+    notes: "Excellent fallback strategy (Transcript Pro -> Intelligence Suite). Failed.log for manual review"
+
+  security:
+    status: "PASS"
+    notes: "Using YouTube's public transcript APIs via MCP servers. No authentication required"
+
+  maintainability:
+    status: "PASS"
+    notes: "Configuration-driven (youtube-sources.json), clear metadata schema, organized directory structure"
+
+  scalability:
+    status: "PASS"
+    notes: "Design supports scaling beyond 100 videos. Index file enables efficient searching"
+
+testability_score: 8
+testability_notes: |
+  All ACs are testable:
+  - AC1: Verify youtube-sources.json has 50-100 videos from target creators
+  - AC2: Verify script loads configuration and processes sources
+  - AC3: Verify videos categorized by topic (workflows, funnels, saas, api, best-practices)
+  - AC4: Verify transcripts extracted (check file count and content)
+  - AC5: Check extraction logs for fallback usage
+  - AC6: Verify metadata files contain all required fields
+  - AC7: Verify files in by-creator/ and by-topic/ directories
+  - AC8: Verify index.json structure and metadata completeness
+  - AC9: Verify failed.log exists with error details
+
+  Minor deductions:
+  - AC5 fallback testing requires intentional MCP failures (complex test setup)
+  - Quality validation (spot-check) is somewhat subjective
+
+dependencies:
+  blocks:
+    - "2.3" # Document chunking needs all content including transcripts
+    - "2.4" # Embedding generation needs chunked transcripts
+
+  blocked_by:
+    - "1.4" # YouTube MCP servers must be operational
+    - "1.5" # Extraction script must exist
+    - "1.6" # youtube-sources.json must be populated
+
+  parallel_possible:
+    - "2.1" # Documentation scraping can run in parallel
+
+risks:
+  - risk: "YouTube MCP servers may not be operational or configured correctly"
+    mitigation: "Test both YouTube Transcript Pro and Intelligence Suite MCPs before starting. Verify get_transcript, get_timed_transcript, and get_video_info tools work"
+    severity: "HIGH"
+
+  - risk: "Many videos may not have transcripts available (auto-generated or manual)"
+    mitigation: "Fallback to Intelligence Suite. Accept some failures. Target 50-100 but aim higher (120+) to compensate for failures"
+    severity: "MEDIUM"
+
+  - risk: "youtube-sources.json may not be populated with 50-100 quality videos"
+    mitigation: "First subtask is curation and validation. Review video quality and relevance before extraction"
+    severity: "MEDIUM"
+
+  - risk: "Timestamped transcripts may not align perfectly with video content"
+    mitigation: "Spot-check timestamp accuracy as part of validation. Document known issues"
+    severity: "LOW"
+
+  - risk: "Some creators may have removed or privated videos since curation"
+    mitigation: "Extraction script should handle 404/403 errors gracefully. Log failed videos for manual review"
+    severity: "LOW"
+
+recommendations:
+  must_address: []
+
+  should_address:
+    - "Verify both YouTube MCP servers are operational before starting extraction"
+    - "Validate youtube-sources.json has minimum 50 high-quality videos with correct IDs"
+    - "Test extraction with 5-10 sample videos before full batch processing"
+    - "Define specific quality criteria for transcript validation (word count, coherence)"
+
+  nice_to_have:
+    - "Add checkpoint/resume capability for interrupted extractions"
+    - "Use copies instead of symlinks for cross-platform compatibility"
+    - "Add automated quality checks (minimum word count, detect garbled transcripts)"
+    - "Track extraction success rate and optimize source list based on success"
+
+acceptance_criteria_assessment:
+  - ac_number: 1
+    description: "kb/youtube-sources.json reviewed and populated with 50-100 videos"
+    testable: true
+    clear: true
+    notes: "Verify configuration file has required video count and metadata"
+
+  - ac_number: 2
+    description: "scripts/extract-yt-transcripts.js reads config and processes sources"
+    testable: true
+    clear: true
+    notes: "Test script loads youtube-sources.json and iterates through sources"
+
+  - ac_number: 3
+    description: "Videos categorized by topic"
+    testable: true
+    clear: true
+    notes: "Verify videos tagged with: workflows, funnels, saas, api, best-practices"
+
+  - ac_number: 4
+    description: "Transcripts extracted using YouTube Transcript Pro MCP"
+    testable: true
+    clear: true
+    notes: "Verify transcript files exist and contain content"
+
+  - ac_number: 5
+    description: "Fallback to YouTube Intelligence Suite for unavailable transcripts"
+    testable: true
+    clear: false
+    notes: "Testing fallback requires MCP failure simulation. Document which server was used in metadata"
+
+  - ac_number: 6
+    description: "Metadata saved: title, creator, URL, duration, publish date, category"
+    testable: true
+    clear: true
+    notes: "Verify .meta.json files contain all required fields"
+
+  - ac_number: 7
+    description: "Transcripts saved to by-creator/ and by-topic/ directories"
+    testable: true
+    clear: false
+    notes: "Symlinks vs copies not specified. Recommend copies for Windows compatibility"
+
+  - ac_number: 8
+    description: "Index file created with all metadata"
+    testable: true
+    clear: true
+    notes: "Verify index.json structure matches schema in Dev Notes"
+
+  - ac_number: 9
+    description: "Failed extractions logged to failed.log"
+    testable: true
+    clear: true
+    notes: "Verify log distinguishes between no-transcript-available vs extraction errors"
+
+decision: |
+  ✅ PASS - Story 2.2 is ready for development.
+
+  The story has comprehensive YouTube extraction strategy with dual MCP fallback, good error handling,
+  and organized storage. Main dependencies are YouTube MCP server availability and youtube-sources.json
+  curation.
+
+  Recommendations:
+  1. Test both YouTube MCP servers before starting
+  2. Validate youtube-sources.json has 50+ quality videos
+  3. Start with small batch (5-10 videos) to validate approach
+  4. Use copies instead of symlinks for cross-platform support

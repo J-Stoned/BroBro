@@ -1,0 +1,48 @@
+---
+Title: Add Pinterest Pins in Social Planner
+Category: Marketing
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002753-add-pinterest-pins-in-social-planner
+Word Count: 284
+Scraped: 2025-10-29T01:42:50.729530
+---
+
+What's New?
+We're thrilled to unveil a brand-new feature in Social Planner: the ability to connect multiple Pinterest accounts and create endless pins.
+How Does It Work?
+1.Navigate to Marketing > Social Planner.
+2. Connect your Pinterest account (ensure you are an admin of the account).
+3.   Create a new post using the social planner post composer.
+4. Select the Pinterest account along with your other social accounts.
+5. You will be prompted to select the Pinterest board.
+6. If you do not have any boards, you can create one using the "Add board" option in the board selection dropdown.
+- The locked icon is private board
+- The public board will not have the locked icon
+- User can create new board
+Pinterest Requirements:
+- Pinterest requires 1 image or 1 video for creating a pin.
+- For Image - it needs to be 10MB or less than 10 MB, it supports PNG and JPG.
+- For Video - it needs to be 1 GB or less than 1GB, it supports MOV,MP4 and WEBP and it requires minimum 4 secs or maximum 5 mins video size. The recommended aspect ratio is
+9:16 (full-bleed videos), 1:2, 2:3, 3:4, 4:5, or 1:1 and
+Video Encoding: H.264 or H.265.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

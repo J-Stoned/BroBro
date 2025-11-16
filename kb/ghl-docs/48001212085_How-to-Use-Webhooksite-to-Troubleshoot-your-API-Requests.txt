@@ -1,0 +1,74 @@
+---
+Title: How to Use Webhook.site to Troubleshoot your API Requests
+Category: Developer Resources
+URL: https://help.gohighlevel.com/support/solutions/articles/48001212085-how-to-use-webhook-site-to-troubleshoot-your-api-requests
+Word Count: 565
+Scraped: 2025-10-29T01:52:10.738855
+---
+
+Things To Note:
+The steps in this article are for Advanced Integration and for informational purposes only.
+While
+we
+do not
+currently service or support either the Basic or Advanced API
+due to their complexities, we have many tools and groups to help you get started and connected! For assistance with APIs, you can join our Developer Council Slack Community here:
+https://www.gohighlevel.com/dev-slack
+We also hold a
+Developer Council Zoom Call once a month
+(second to last Friday) which you can find on the Events calendar here:
+https://www.gohighlevel.com/events
+For more information and links to our API documentation, visit our developer's website:
+https://developers.gohighlevel.com/
+STEPS:
+1.
+Go to Webhook.site
+2. Click on "Copy to clipboard" next to your unique Testing Webhook on the homepage
+3. Go to Your Custom Integration like Zapier or other third-party solution
+For this example, we are using Zapier, and to use Webook.site to test you will need to click "Set Up Action"
+4. Replace the HighLevel API URL with the Webhook.site testing URL
+Temporarily swap out the HighLevel API URL for the Webhook.site URL for testing purposes. You'll follow a similar process for any other custom integration that is POSTING data into HighLevel.
+5. Save your updates
+Make sure to save your changes, then run whatever flow you have in place that would normally execute the webhook. If your tool or integration (like Zapier, Integromat, etc.) has a built-in testing tool, don't utilize this. Instead, use a real-world example. If the webhook is triggered when a form is submitted, go to the form and submit a test. If the automation fires when an action is performed in an external system, perform said action.
+This will provide you and your developers with the most accurate information, and will be incredibly valuable when troubleshooting advanced API-related issues.
+6. Review Payload Data
+Next, you'll be presented with the raw data being received by HighLevel anytime the webhook is executed. You can compare this with the information available on our API documentation websites to test your configuration.
+7. Click Copy
+Click Copy in the Upper Right of the Raw Data input box to copy the entire Payload. Save this for troubleshooting with your developers, or with the HighLevel team.
+Related Articles:
+HighLevel API
+Creating Subaccounts Using Zapier
+Troubleshooting:
+For more information and links to our API documentation, visit our developer's website:
+https://developers.gohighlevel.com/
+The steps in this article are for Advanced Integration and for informational purposes only.
+While
+we do not currently service or support either the Basic or Advanced API
+due to their complexities, we have many tools and groups to help you get started and connected! For assistance with APIs, you can join our Developer Council Slack Community here:
+https://www.gohighlevel.com/dev-slack
+We also hold a Developer Council Zoom Call once a month (second to last Friday) which you can find on the Events calendar here:
+https://www.gohighlevel.com/events
+For more information and links to our API documentation, visit our developer's website:
+https://developers.gohighlevel.com/
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

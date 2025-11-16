@@ -1,0 +1,230 @@
+---
+Title: Getting Started - Launch a Website from Blank
+Category: Getting Started w/ HighLevel
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005428-getting-started-launch-a-website-from-blank
+Word Count: 1229
+Scraped: 2025-10-29T01:38:59.089921
+---
+
+Launching your own website from scratch can feel overwhelming, but don't let the blank page stop you. With these instructions you can go from idea to published in record time.
+TABLE OF CONTENTS
+Preparation & Planning
+Create Blank Website
+Build the Home Page
+Add More Pages
+Add Navigation
+Previewing, Settings & Publishing
+Preparation & Planning
+Before you even log into GoHighLevel or drag your first element, taking some time to plan your website will save you significant time and effort, and result in a much more effective site.
+Define Your Website's
+Purpose
+:
+What is the primary goal of this website? Is it to generate leads, sell products, provide information, build brand awareness, or book appointments? Knowing this will guide all your design and content decisions.
+Who is your target audience? Understanding their needs, preferences, and pain points will help you tailor the website's content and design to resonate with them.
+Outline Your
+Content & Structure
+:
+What pages do you need? Most business websites start with a Home, About, Services/Products, and Contact page. You might need more or fewer depending on your goals.
+What key information or call-to-action needs to be on each page? Think about what you want visitors to do or learn on each page.
+Gather your assets: Do you have your logo, brand colors, images, videos, and written content (or at least an idea of it) ready?
+A Simple
+Plan
+: A table can help you map this out. Your plan might look something like this:
+Page/Element
+Purpose
+Sections & Contents
+Home
+Introduce the business, highlight key offerings, main call to action
+Main Headline (ex: Welcome to Business)
+Sub Headline (ex: We help you do Thing)
+Call To Action (ex: Book a Call)
+Intro Media (ex: hero image or video sales letter)
+Overview of each product/service
+About Us
+Build trust, tell your story, introduce the team
+Company history/mission
+Team member photos & bios
+Values/What makes us different
+Contact
+Allow visitors to get in touch, provide a location
+Contact form
+Phone number, email
+Address
+Map
+Services/Products
+Details about what you offer
+List and description of products/services
+Pricing information
+Benefits
+Case studies
+Navigation Menu
+Easy site-wide navigation
+Logo, links to pages
+Footer
+Important links, copyright, contact info
+Copyright notice
+Privacy policy
+Terms of service
+Contact info
+Social media icons
+Create Blank Website
+Navigate
+to Sites > Websites > New Website > From Blank and click Create.
+Click
+Add New Page
+then give it a
+name
+(ex: Home) and click
+Create New Page
+.
+Build the Home Page
+Click
+Create From Blank
+Open the
+Website Builder.
+Understand the Editor:
+Control Panel:
+Control what appears in the Left Panel (4) such as elements, pages, and metadata.
+Device Switcher:
+Switch between desktop and mobile views to test responsiveness.
+Meta Controls
+: History, undo, preview, save, publish, etc.
+Left Panel
+: Elements and settings for the page.
+Center Panel:
+Live editable preview of your page.
+Right Panel:
+Settings and styling options for the selected Section, Row, or Element.
+Add a Section:
+In the center (if empty) or by clicking the
++ (Add Element/Section)
+icon on the left sidebar, choose
+Sections
+, then s
+elect a section width (e.g.,
+Full Width
+).
+Add a Row:
+Inside the new green-bordered section, drag to add a
+Row
+and select
+1 Column
+.
+Add Headline and Sub-Headline:
+In the 1 Column Row, click
+Add Element.
+Headline:
+Drag a "Headline" element into the row. Click the text to edit it (e.g., "Welcome"). Use the right panel to change font, size, color, etc.
+Sub-Headline:
+Click
++ Add Element
+again, drag a "Sub-Headline" below the main headline. Edit its text and style (ex: We Help You Grow).
+Add a Button
+: Under the sub-headline add a
+button
+. Then, edit the text of the button to
+"Call Us Now"
+,
+Add an Action
+: In the button's settings (Right Panel) scroll down to
+Button Actions,
+select
+Call,
+then input your phone number.
+Repeat:
+Continue adding sections, rows, and elements to build out your homepage.
+Save
+: Click the save icon.
+Add More Pages
+Navigate to
+Sites > Websites > Site Details (if you are still in the page editor click the back button).
+Add a New Page:
+Click the Add New Page button. Name the page (Ex: About Us) Click
+Create New Page
+.
+Create From Blank
+: In this case, click the Create From Blank button.
+Build Page
+: Add elements and content to the page in the same way. You can add a
+text
+element and an
+image
+element. Make sure to click
+Save
+and then
+Back
+.
+Add Navigation
+Navigate
+to
+Sites > Websites > Site Details (if you are still in the page editor click the back button).
+Edit the Home Page
+: Under the page card titled "home" click
+Edit
+.
+Add new top full width section
+: At the very top of the page, above all the other sections, add a new full width section.
+Add a 1 column row and Navigation Menu
+: Inside the new top section, add a 1 column row, then add the element called Navigation Menu.
+Edit Navigation Menu Settings
+: Click to select the navigation menu, then in the right settings bar, make sure each link goes to the right page, add a logo, etc.
+Add a new bottom full width section
+: At the bottom of the page, under all the other sections, add a new full width section.
+Add a prebuilt footer
+: Open Elements > Prebuilt Elements > Footer and drag a footer into the bottom section.
+Edit Navigation Menu and Footer
+: Select each element and delete it or edit its settings in the
+Right Panel
+. When you're done, click
+Save
+and
+Back
+.
+Previewing, Settings & Publishing
+Navigate
+to
+Sites > Websites > Site Details and click the
+preview page button
+(box with arrow icon).
+OR
+if you are in the page builder, click the
+preview button
+(eyeball icon).
+Preview mobile
+: In the page builder, click the mobile phone icon to switch between desktop and mobile views. OR in the preview, right click and select inspect, then in the inspector panel click the desktop/mobile icon.
+Adjust for responsiveness
+: In the page editor, adjust the elements and settings until everything looks good on both desktop and mobile. If you can't get one element looking the way you want, you can duplicate it and in
+advanced settings
+make one element
+visible on desktop
+and the other
+visible on mobile
+.
+Save and Publish
+: You should be frequently saving and maybe publishing. When you're done, make sure to save and publish for the last time.
+SEO Meta Data
+: In the page builder, click the SEO icon to open the SEO Meta Data panel. Edit SEO and meta data details (title, description, favicon, etc).
+Connect a domain
+: Optional, but if you have a custom domain you can attach it to your site.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

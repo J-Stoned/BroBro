@@ -1,0 +1,181 @@
+---
+Title: Send HighLevel Documents and Contracts via SMS
+Category: Payments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000006280-send-highlevel-documents-and-contracts-via-sms
+Word Count: 1132
+Scraped: 2025-10-29T01:49:33.084421
+---
+
+SMS delivery option for Documents & Contracts makes it easier to reach clients quickly and reliably. This guide walks you through how to set up global defaults, create SMS snippets, send documents individually or through workflows, and manage recipient details so your contracts are delivered seamlessly.
+TABLE OF CONTENTS
+What is Send Documents via SMS?
+Key Benefits of Send Documents via SMS
+Global Defaults for Document Notifications
+Create SMS Templates with Snippets
+Send Documents Individually
+Send Documents via Workflows
+Viewing Contact Information When Adding Recipients
+Frequently Asked Questions
+What is Send Documents via SMS?
+Send Documents via SMS in HighLevel allows you to deliver contracts and documents directly through text messages. Instead of relying solely on email, this feature ensures that your documents reach clients faster and with higher visibility by leveraging SMS. It integrates with existing workflows, snippets, and notification settings for seamless document delivery.
+Key Benefits of Send Documents via SMS
+Delivering documents through SMS provides a faster and more reliable way to connect with your clients. With configurable defaults and flexible sending options, this feature improves efficiency and communication.
+Higher Visibility
+: SMS messages are more likely to be seen immediately compared to emails.
+Flexible Delivery
+: Choose SMS only, Email only, or Email + SMS for maximum visibility.
+Custom Messaging
+: Use Snippets to create personalized SMS templates for document delivery.
+Workflow Integration
+: Automate document sends via workflows with SMS as a delivery option.
+Time-Saving Defaults
+: Configure global defaults for document sent and signed notifications.
+Improved Recipient Management
+: View contact information while adding recipients to documents.
+Global Defaults for Document Notifications
+Setting global defaults ensures that your document delivery method is consistent and time-efficient. These defaults apply across all documents unless manually overridden.
+Step 1: Navigate to Documents & Contracts
+From the left-hand menu, click on
+Payments
+.
+At the top of the Payments page, select the
+Documents & Contracts
+tab.
+This will take you to the Documents & Contracts area, where you can manage all proposals, estimates, and contracts created for your business.
+Step 2: Open Document Settings
+Once you are in the
+Documents & Contracts
+section, look to the upper-right corner of the screen.
+Click on the
+Settings
+button (gear icon).
+This opens the configuration area where you can manage customer notifications, including enabling SMS for document delivery.
+Step 3: Go to Customer Notifications
+Inside
+Settings
+, navigate to the left-hand menu.
+Click on
+Customer Notifications
+.
+This section allows you to configure how customers are notified when they receive or sign a document. It includes options for setting up both email and SMS notifications.
+Step 4: Configure “Document Received” Notifications
+In the
+Customer Notifications
+section, locate the
+Document received
+area.
+Here you can configure how customers are notified when they receive a document.
+Email Notifications
+: Check this option to send an email notification. You can select a template and customize the subject line.
+SMS Notifications
+: Check this option to send a text message. You can choose an SMS template by clicking
+Manage
+and selecting from your saved snippets.
+This ensures that recipients are immediately alerted via email, SMS, or both when a document is sent to them.
+Step 5: Configure “Document Signed” Notifications
+In the
+Customer Notifications
+settings, locate the
+Document signed
+section.
+This setting controls how customers are notified once a document has been successfully signed or accepted.
+Email Notifications
+: Check this option to notify recipients by email. You can select an email template and edit the subject line.
+SMS Notifications
+: Check this option to notify recipients by text message. Use the
+Manage
+option to choose your SMS template.
+Note:
+Document Received can be overridden later if needed, but Document Signed always follows the global setting.
+Create SMS Templates with Snippets
+Snippets allow you to create reusable, personalized SMS messages that make sending documents faster and more professional.
+From the left-hand menu, click on
+Marketing
+.
+At the top, select the
+Snippets
+tab.
+Click the
++ Add Snippet
+button in the top-right corner.
+Choose
+Add Text Snippet
+to create an SMS snippet.
+Enter your message content (for example:
+“Your document is ready. Please review and sign using the link provided.”
+).
+Save the snippet — it will then be available to select when configuring SMS notifications for documents.
+Send Documents Individually
+When sending documents one by one, you can choose whether to deliver them via email, SMS, or both.
+From Documents and Contracts Dashboard, create a new document or Open the existing document you want to send.
+Once you have done creating all the info to the document, Click
+Send
+.
+From there, select "Send Document" option
+Select the channel:
+Email
+,
+SMS
+, or
+Email + SMS
+.
+If using SMS:
+Choose your preferred SMS template from Snippets.
+Review and send.
+Send Documents via Workflows
+Automating document sends via workflows saves time and ensures consistency. SMS can be selected as a sending channel.
+Navigate to
+Automation → Workflows
+.
+Add a
+Send Document
+action.
+Choose the delivery channel:
+Email
+,
+SMS
+, or both.
+Save the workflow. The system will use your default SMS content/template.
+Viewing Contact Information When Adding Recipients
+To improve accuracy, HighLevel displays recipient contact details when adding them to a document. This ensures you select the correct phone number for SMS delivery.
+Frequently Asked Questions
+Q: Can I send documents via SMS only, without email?
+Yes, you can choose SMS only as the delivery method.
+Q: Can I override the global default delivery setting?
+Yes, you can override for
+Document Received
+, but
+Document Signed
+will always follow the global default.
+Q: Are there character limits for SMS templates?
+Yes, standard SMS character limits apply (160 characters per message). Longer messages may be split.
+Q: Can I include attachments in SMS document messages?
+Documents themselves are delivered via secure links in SMS, not as direct attachments.
+Q: What happens if the client’s phone number is invalid or SMS fails?
+If SMS delivery fails, you can resend via email or correct the contact information and try again.
+Q: Can I use merge fields in SMS templates for personalization?
+Yes, merge fields can be used in SMS snippets to personalize messages with client details.
+Q: Is SMS sending available in all countries?
+SMS availability depends on carrier and region. Check delivery logs or troubleshooting if issues occur.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

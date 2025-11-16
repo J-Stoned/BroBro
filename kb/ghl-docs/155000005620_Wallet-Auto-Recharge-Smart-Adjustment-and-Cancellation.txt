@@ -1,0 +1,113 @@
+---
+Title: Wallet - Auto Recharge, Smart Adjustment and Cancellation
+Category: Customer Support
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005620-wallet-auto-recharge-smart-adjustment-and-cancellation
+Word Count: 676
+Scraped: 2025-10-29T01:39:28.007528
+---
+
+Keeping your HighLevel wallet funded ensures uninterrupted SMS, email, and phone usage for you and your clients.
+Auto  Recharge
+automatically tops up your wallet balance when it dips below a threshold, while
+Smart Adjustment
+intelligently increases that top‑up amount when your usage grows. This guide explains both features, why they matter, and how to fine‑tune or disable them to maintain cost control.
+TABLE OF CONTENTS
+What are Auto Recharge & Smart Adjustment?
+Key Benefits of Auto Recharge & Smart Adjustment
+Auto Recharge
+Smart Adjustment
+How To Setup Auto Recharge
+How to Disable Auto Recharge/Update
+Frequently Asked Questions
+Related Articles
+What are Auto Recharge & Smart Adjustment?
+Auto Recharge adds funds to your HighLevel wallet whenever the balance falls under a limit you decide. Smart Adjustment is an adaptive tier system that , based on recent recharge frequency , raises your Auto Recharge amount to ensure fewer funding interruptions as your volume scales.
+Key Benefits of Auto Recharge & Smart Adjustment
+Keeping your wallet funded isn’t just convenient; it protects campaign deliverability and client satisfaction.
+Uninterrupted Service:
+Prevents SMS, email, and call failures caused by insufficient wallet funds.
+Time Savings:
+Eliminates manual deposits, allowing you to focus on revenue‑generating work.
+Scales With You:
+Smart Adjustment increases the recharge tier automatically as your usage grows, reducing the number of recharges and potential card authorization holds.
+Budget Visibility:
+Threshold and recharge amounts are fully configurable, giving you predictable cash‑flow control.
+One‑Click Disable:
+Turn Auto Recharge off at any time if you prefer a fixed recharge amount.
+Auto Recharge
+Auto Recharge uses two simple fields:
+Recharge Amount
+– The dollar amount added to your wallet each time Auto Recharge triggers.
+Threshold Balance
+– The wallet balance that triggers the recharge once it’s reached or passed.
+Example
+: If Recharge Amount = $50 and Threshold Balance = $25, then when your wallet balance hits $24.99, HighLevel instantly charges your saved payment method $50 and deposits it in your wallet.
+Smart Adjustment
+Smart Adjustment monitors how often Auto Recharge fires. When the same recharge amount triggers more than
+three times within any seven‑day window
+, HighLevel moves you to the next preset tier (e.g., from $200 → $500).
+Why it matters:
+As your sending volume grows, larger recharges mean fewer credit‑card holds and fewer risk‑flag reviews by card issuers.
+How To Setup Auto Recharge
+Login to your Agency account and click on
+Settings
+.
+Navigate to
+Billing › Wallet & Transactions
+.
+In the
+Auto recharge with
+dropdown, select the amount HighLevel should add (e.g., $200).
+In the
+Balance
+is lower than
+dropdown, choose the trigger amount (e.g., $50).
+How to Disable Auto Recharge/Update
+In the same
+Auto Recharge
+tile, click the
+three‑dot
+menu on the right.
+Select
+Disable Auto‑update
+.
+Confirm by clicking
+Yes
+.
+Frequently Asked Questions
+Q: How does HighLevel determine the next tier when Smart Adjustment upgrades?
+It moves to the very next predefined recharge tier (e.g., $200 → $500 → $1,000). Custom amounts are not skipped.
+Q:
+Will I receive email notifications when Auto Recharge or Smart Adjustment occurs?
+Yes. Billing notification emails are sent to agency owner admins by default.
+Q: Can I change the Threshold Balance without affecting Smart Adjustment history?
+Yes. Adjusting the threshold does not reset your usage count. The three‑in‑seven‑days rule still applies.
+Q: What happens if my saved payment method fails?
+HighLevel will retry the charge up to three times over 24 hours and email you each attempt. Service pauses after final failure.
+Related Articles
+Account Billing Dashboard
+HighLevel Pricing Guide
+Rebilling, Reselling, and Wallets Explained
+SaaS Wallet Credit Management - Sub Account Level
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

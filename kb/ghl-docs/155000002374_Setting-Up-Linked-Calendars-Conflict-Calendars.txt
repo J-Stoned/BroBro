@@ -1,0 +1,217 @@
+---
+Title: Setting Up Linked Calendars & Conflict Calendars
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/155000002374-setting-up-linked-calendars-conflict-calendars
+Word Count: 1135
+Scraped: 2025-10-29T01:48:21.273945
+---
+
+HighLevel lets you synchronize external calendars (Google, Office 365, Outlook.com) to keep your availability up to date and prevent double-bookings. Use
+Connected Calendars
+to authorize HighLevel’s access,
+Linked Calendars
+to import events and show true availability, and
+Conflict Calendars
+to automatically block HighLevel slots when you have other commitments.
+TABLE OF CONTENTS
+When to Use Connected, Linked & Conflict Calendars
+Prerequisites
+Setting up the Linked Calendar
+Sync Preferences (Advanced Settings)
+Conflict Calendars
+How these Calendars Work
+Best Practices & Considerations
+Common Troubleshooting
+Related Articles
+When to Use Connected, Linked & Conflict Calendars
+Connected Calendars
+: Grant HighLevel permission to read (and optionally write) events from an external calendar account.
+Linked Calendars
+: Import events and availability into HighLevel so your true busy times display.
+Conflict Calendars
+: Mark certain connected calendars as blockers, automatically making overlapping High-Level booking slots
+Unavailable
+.
+Prerequisites
+User Role
+: Admin or Manager access in the sub-account.
+External Calendar Account
+: Active Google Calendar, Office 365, or Outlook.com login credentials for each user.
+Setting up the Linked Calendar
+Step 1:
+Access the Connections Tab
+In your HighLevel sub-account sidebar, go to
+Settings → Calendars,
+then click the
+Connections
+tab at the top to go to
+Calendars
+and
+Connected Calendars
+.
+Step 2:
+Add a Calendar
+Under
+Connected Calendars
+, click
++ Add New
+.
+Select your provider:
+Google
+,
+Outlook, iCloud or Calendly Calendar.
+Sign in and grant HighLevel permission to
+read
+events (and
+write
+, if you plan to sync bookings back).
+Once successful, you’ll see your email listed with its provider icon.
+Alert: Reconnect Broken Integrations
+If you ever see a red banner like
+“Reconnect your integration”
+or the calendar tile is outlined in red, your OAuth token has expired or been revoked. Simply click
+Reconnect
+and re-authorize HighLevel to restore access.
+Step 3:
+Configure Your Linked Calendar
+In the
+Calendar Configuration
+section under
+Linked Calendar
+, click
+Add
+.
+Choose one of your
+Connected Calendars
+to import events into HighLevel.
+Click
+Save
+.
+IMPORTANT:-
+1. Writer's access is required for the user to select a calendar as a linked calendar.
+2. The linked calendar is by default added to the conflict calendar. This means any event created on the third-party linked calendar will be fetched in the system, and any event created in the system will be pushed to the third-party linked calendar.
+3. You can set your
+Sync Preferences
+from the Advanced Settings.
+Sync Preferences (Advanced Settings)
+1. Default Sync (One Way Sync)
+Events created on the system will be synced to Linked Calendar (Eg, Google).
+Events created on Linked Calendar (Eg, Google) will be synced to the system.
+These events are synced as blocked slots.
+No contact is created for guests in the Linked Calendar (Eg, Google) events.
+No automations / workflows are triggered.
+2. Two-Way Sync
+Events created on the system will be synced to Linked Calendar (Eg, Google).
+Events created on Linked Calendar (Eg, Google) will be synced to the system.
+These events are synced as appointments.
+Contact is created for the guests found in the Linked Calendar (Eg, Google) events.
+Automation/workflows can be triggered like any other appointment created in the system.
+For Example:
+John has created a google event from 1:00 pm to 2:00 pm called 'Doctor's Appointment with Dr. Mark' and has added Dr. Mark as a guest in his google calendar.
+Default Sync (One-way Sync):
+Only a blocked time from 1:00 pm to 2:00 pm will be added in the system so that no one can book during that time.
+Two-way Sync:
+An appointment is created in the system from 1:00 pm to 2:00 pm so that no one can book during that time. A new contact for Dr. Mark is created in the system. If any workflows are created, they would get triggered for Dr. Mark.
+Conflict Calendars
+Events from third-party calendars added as conflict calendars are synced to the system, blocking your availability for the event's duration. As the name suggests, we read all the events from the selected calendar and block off the timings when the user is not available. The availability is blocked only if the event is marked as 'BUSY' in the third-party calendar. For events marked as 'FREE', the events are fetched in the system but the availability remains open.
+This ensures accurate availability and avoids double bookings. You can add multiple calendars to be checked to prevent double bookings. In the Conflict Calendars section, we do not create any appointments, instead we just block off the time for any event already scheduled in your third party calendar.
+How these Calendars Work
+Booking Requests
+When a client requests an appointment, HighLevel checks both your
+Linked
+and
+Conflict
+calendars. Any overlapping events render those slots
+Unavailable
+.
+Two-Way Sync
+If you
+enable
+Write Back Appointments
+, HighLevel will write
+new bookings into your external calendar.
+Cancellations or reschedules in HighLevel also update your external calendar.
+Calendar View
+In the
+Calendar
+tab, external events display as shaded blocks, High-Level bookings as colored events, and blocked slots as
+Unavailable
+marking.
+Best Practices & Considerations
+Limit Write-Back
+: Enable write-back on only your primary work calendar to avoid duplicate entries.
+Block Personal Events
+: Link personal calendars as
+Conflict Calendars
+so family or personal commitments auto-block booking slots.
+Align Time Zones
+: Ensure your external calendar’s time zone matches your HighLevel profile to prevent mismatches.
+Periodic Reauthorization
+: If you change your external account password or security settings, reauthorize HighLevel to prevent broken integrations.
+Common Troubleshooting
+Issue
+Cause
+Resolution
+Integration shows as broken (red banner)
+OAuth token expired or revoked
+Under
+Settings → Calendars → Connections
+, click
+Reconnect
+and re-authorize.
+Events not appearing in HighLevel
+No Linked Calendar selected or sync disabled
+In
+Calendar Configuration → Linked Calendar
+, click
+Edit
+, ensure
+Sync Events
+is on.
+Slots are still bookable during external events
+Conflict Calendar is not enabled
+Under
+Conflict Calendars
+, click
+Edit
+, toggle
+Use as Conflict Calendar
+, then
+Save
+.
+High-level appointments are not writing back
+Write-Back toggle is off
+Edit your Linked Calendar settings to enable
+Write Back Appointments
+, then
+save
+.
+Duplicate external events
+Multiple calendars have write-back enabled
+Disable write-back on secondary calendars or unlink extras you don’t need.
+Related Articles
+Calendar Scheduling Conflicts
+Round Robin Calendars: The Setup Guide
+How to Re-Integrate Google Calendar with HighLevel for a User
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

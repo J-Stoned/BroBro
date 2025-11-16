@@ -1,0 +1,36 @@
+---
+Title: Embedding HighLevel Calendars using HTML Code
+Category: Calendars & Appointments
+URL: https://help.gohighlevel.com/support/solutions/articles/48000982201-embedding-highlevel-calendars-using-html-code
+Word Count: 178
+Scraped: 2025-10-29T01:47:34.570615
+---
+
+Go to "Calendars" > "Calendar Settings"
+For the specific calendar you'd like to embed, click the "three dots" icon and select "Share"
+In the pop-up modal, select the "Embed Code" tab
+Click "Copy"
+Past the embed code in a custom code element on another website as desired.
+Note: If you are looking to embed a HighLevel Calendar in a funnel or website page in HighLevel, you can use the Calendar element in the page builder. This element will allow you to choose the calendar you'd like to display and automatically insert it without the need for adding an embed code manually.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

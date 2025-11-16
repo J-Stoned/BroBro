@@ -1,0 +1,132 @@
+---
+Title: How to Use Opportunity Notes?
+Category: Opportunities & Pipelines
+URL: https://help.gohighlevel.com/support/solutions/articles/155000005152-how-to-use-opportunity-notes-
+Word Count: 778
+Scraped: 2025-10-29T01:43:41.164684
+---
+
+TABLE OF CONTENTS
+What are opportunity notes?
+Key Benefits of Opportunity Notes
+How do opportunity notes work?
+How to use opportunity notes?
+Best Practices
+Related Articles
+What are opportunity notes?
+We’ve launched Opportunity Notes that lets you link notes to both Opportunities and Contacts independently. This gives you more flexibility in how you manage and view your notes in both opportunities and contacts.
+Each opportunity can have their own dedicated notes, separate from contact notes, while still maintaining the flexibility to associate notes with multiple entities when needed.
+Note: To enable this feature, go to Subaccount > Settings > Labs and toggle "Opportunity Notes" on.
+Key Benefits of Opportunity Notes
+The Opportunity Notes feature enables you to:
+Entity-Specific Notes:
+Create dedicated notes for opportunities without mixing them with contact notes either from the contacts tab or from the opportunities tab directly. (see example)
+Flexible Associations:
+Choose to either associate notes with Contacts, Opportunities, or both.
+Cleaner Organization:
+Maintain distinct notes for Contacts and Opportunities, reducing clutter and improving clarity.
+Smart Filtering:
+Quickly filter and find notes based on their entity associations.
+Powerful Search:
+Instantly find notes using improved search functionality.
+How do opportunity notes work?
+Example scenario:
+John Doe (a contact) has two opportunities for 2 different real estate properties- Property A and Property B. Sara (the Sales Agent & GHL Admin) managing the properties for John Doe wants to create specific notes for each opportunity to keep relevant information tied to each property’s opportunity only.
+Here’s how Sara will create opportunity & contact-specific notes.
+Step #1:
+Under Property A’s Opportunity, Sara navigates to the Notes section, clicks
+Add Note
+, and enters the note’s contents.
+Step #2:
+She selects the associations for the note; in this case, she chooses both the Opportunity (Property A) and the Contact (John Doe).
+Step #3:
+She adds another note but selects only the opportunity under associations (omitting the contact John Doe), then clicks
+Save
+to create an opportunity-only note.
+After Step #3:
+Sara now has two notes:
+One linked only to Property A (opportunity-specific note).
+One linked to both John Doe and Property A (shared note between opportunity and contact.)
+Viewing Property B:
+When Sara switches to Property B’s Opportunity, she sees only the shared note (the one linked to John Doe), because the Property A–specific note isn’t associated with Property B.
+Adding a Note for Property B:
+She clicks
+Create New Note
+, enters the note, selects both contact associations and then hits save.
+Filtering in Contacts:
+In the Contacts tab, selecting John Doe and going to
+Notes
+, Sara can filter notes by Opportunities or Contacts to view exactly what she needs.
+Key Takeaways:
+Opportunity notes let you maintain notes specific to each deal without mixing contexts.
+Notes shared with a contact appear across opportunities; opportunity-only notes remain in their respective opportunities.
+How to use opportunity notes?
+1. Create Notes and Select Associations
+a) Adding Notes Via Opportunities
+Navigate to the
+Opportunities
+section, select the specific opportunity and click on add note.
+Enter your note description clearly in the provided text box:
+Under
+Associated Objects
+, click on
+Associate To
+and c
+hoose whether the note should be associated with:
+Opportunities
+Both Opportunities and Contacts
+Contact
+Use the search and add functionality to precisely link entities and then click on save.
+b) Adding Notes Via Contacts
+Navigate to
+Contacts
+, select a contact, then click
+Notes Button
+.
+Click on
+Add Note
+button
+Select the Relevant associations you’d like to add with the specific opportunity.
+Easily search for the opportunities and select the relevant one.
+2. Filtering Notes by Associations
+In the
+Notes
+tab in Opportunity and also in contacts, use filters to quickly find notes linked to specific opportunities or contacts.
+Click the
+Filter
+icon to specify and refine associations.
+Filter Tab in Opportunities.
+Filter Tab in Contacts.
+3. Access and Manage Notes
+View and manage notes conveniently in the
+Notes
+tab under Contacts or Opportunities.
+Click on a note's association indicator to view or adjust its linked entities.
+Best Practices
+Regularly review your note associations for accuracy.
+Clearly label notes to streamline filtering and search.
+If notes don't appear correctly, confirm your association settings.
+Related Articles
+Adding and Managing Notes
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

@@ -1,0 +1,37 @@
+---
+Title: (Guest Tutorial) Pabbly Connect - How to integrate Facebook Leads Ads with Your Sub-Account
+Category: Integrations
+URL: https://help.gohighlevel.com/support/solutions/articles/48001223700--guest-tutorial-pabbly-connect-how-to-integrate-facebook-leads-ads-with-your-sub-account
+Word Count: 128
+Scraped: 2025-10-29T01:57:49.448341
+---
+
+HighLevel can directly integrate with Facebook Lead Ads (
+see guide
+). In the event, you would like to integrate using a 3rd party service like Pabbly Connect or Zapier check out the tutorial below.
+Please Note:
+The Pabbly HighLevel integreation is now called LeadConnector.
+Click here for more info
+.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

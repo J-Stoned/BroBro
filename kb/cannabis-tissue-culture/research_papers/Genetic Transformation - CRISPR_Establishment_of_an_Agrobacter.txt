@@ -1,0 +1,3078 @@
+TITLE: Establishment of an Agrobacterium-mediated Genetic Transformation and CRISPR/Cas9-mediated Targeted Mutagenesis in Hemp
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8486249/
+
+
+<!DOCTYPE html>
+<html lang="en" >
+    <head >
+
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        
+        
+
+        
+        
+  <link rel="stylesheet" href="/static/assets/style-8258669d.css" />
+<script type="module" crossorigin="" src="/static/assets/base_style-f4a99799.js"></script>
+
+  <link rel="stylesheet" href="/static/assets/style-ef962842.css" />
+<link rel="stylesheet" href="/static/assets/style-3ade8b5c.css" />
+<script type="module" crossorigin="" src="/static/assets/article_style-d757a0dd.js"></script>
+
+  
+  
+    <style>
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3E%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+</style>
+
+  
+
+
+
+        
+            <link rel="apple-touch-icon"
+                  sizes="180x180"
+                  href="/static/img/favicons/apple-touch-icon.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="48x48"
+                  href="/static/img/favicons/favicon-48x48.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="32x32"
+                  href="/static/img/favicons/favicon-32x32.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="16x16"
+                  href="/static/img/favicons/favicon-16x16.png" />
+            <link rel="manifest" href="/static/img/favicons/site.webmanifest" />
+            <link rel="mask-icon"
+                  href="/static/img/favicons/safari-pinned-tab.svg"
+                  color="#0071bc" />
+            <meta name="msapplication-config"
+                  content="/static/img/favicons/browserconfig.xml" />
+            <meta name="theme-color" content="#ffffff" />
+        
+
+        <title>
+            Establishment of an Agrobacterium‐mediated genetic transformation and CRISPR/Cas9‐mediated targeted mutagenesis in Hemp (Cannabis Sativa L.) - PMC
+        </title>
+
+        
+        
+  
+  <!-- Logging params: Pinger defaults -->
+<meta name="ncbi_app" content="cloudpmc-viewer" />
+<meta name="ncbi_db" content="pmc" />
+<meta name="ncbi_phid" content="8E59CF4A916CF92331CF4A000FB9D33B.m_1" />
+<meta name="ncbi_pinger_stat_url" content="https://pmc.ncbi.nlm.nih.gov/stat" />
+<!-- Logging params: Pinger custom -->
+<meta name="ncbi_pdid" content="article" />
+  
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+
+    
+        <link rel="preconnect" href="https://cdn.ncbi.nlm.nih.gov" />
+    
+
+    <!-- Include USWDS Init Script -->
+    <script src="/static/assets/uswds-init.js"></script>
+
+
+    <meta name="ncbi_domain" content="plantbioj">
+<meta name="ncbi_type" content="fulltext">
+<meta name="ncbi_pcid" content="journal">
+<meta name="ncbi_feature" content="associated_data">
+<link rel="canonical" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486249/">
+<meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE">
+<meta name="citation_journal_title" content="Plant Biotechnology Journal">
+<meta name="citation_title" content="Establishment of an Agrobacterium‐mediated genetic transformation and CRISPR/Cas9‐mediated targeted mutagenesis in Hemp (Cannabis Sativa L.)">
+<meta name="citation_author" content="Xiaoyu Zhang">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Gencheng Xu">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Chaohua Cheng">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Lei Lei">
+<meta name="citation_author_institution" content="Department of Biochemistry and Molecular Biology, Oklahoma State University, Stillwater, USA">
+<meta name="citation_author" content="Jian Sun">
+<meta name="citation_author_institution" content="School of Life Sciences, Nantong University, Nantong, China">
+<meta name="citation_author" content="Ying Xu">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Canhui Deng">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Zhigang Dai">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Zemao Yang">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Xiaojun Chen">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Chan Liu">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Qing Tang">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_author" content="Jianguang Su">
+<meta name="citation_author_institution" content="Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China">
+<meta name="citation_publication_date" content="2021 Jun 23">
+<meta name="citation_volume" content="19">
+<meta name="citation_issue" content="10">
+<meta name="citation_firstpage" content="1979">
+<meta name="citation_doi" content="10.1111/pbi.13611">
+<meta name="citation_pmid" content="33960612">
+<meta name="citation_abstract_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486249/">
+<meta name="citation_fulltext_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486249/">
+<meta name="citation_pdf_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486249/pdf/PBI-19-1979.pdf">
+<meta name="description" content="Hemp (Cannabis sativa L.) is an annual and typically dioecious crop. Due to the therapeutic potential for human diseases, phytocannabinoids as a medical therapy is getting more attention recently. Several candidate genes involved in cannabinoid ...">
+<meta name="og:title" content="Establishment of an Agrobacterium‐mediated genetic transformation and CRISPR/Cas9‐mediated targeted mutagenesis in Hemp (Cannabis Sativa L.)">
+<meta name="og:type" content="article">
+<meta name="og:site_name" content="PubMed Central (PMC)">
+<meta name="og:description" content="Hemp (Cannabis sativa L.) is an annual and typically dioecious crop. Due to the therapeutic potential for human diseases, phytocannabinoids as a medical therapy is getting more attention recently. Several candidate genes involved in cannabinoid ...">
+<meta name="og:url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486249/">
+<meta name="og:image" content="https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ncbi">
+    
+    
+
+    </head>
+    <body >
+        
+    <a class="usa-skipnav " href="#main-content">
+      Skip to main content
+    </a>
+
+
+        
+            
+
+<section class="usa-banner " aria-label="Official website of the United States government" >
+    <div class="usa-accordion">
+        <header class="usa-banner__header">
+            <div class="usa-banner__inner">
+                <div class="grid-col-auto">
+                    <img aria-hidden="true"
+                         class="usa-banner__header-flag"
+                         src="/static/img/us_flag.svg"
+                         alt="" />
+                </div>
+
+                <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+                    <p class="usa-banner__header-text">
+                        An official website of the United States government
+                    </p>
+                    <span class="usa-banner__header-action">Here's how you know</span>
+                </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-accordion__button usa-banner__button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    aria-expanded="false"
+    aria-controls="gov-banner-default"
+    
+    data-testid="storybook-django-banner"
+    
+    >
+    
+        
+
+        
+                    <span class="usa-banner__button-text">Here's how you know</span>
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </div>
+        </header>
+
+        <div class="usa-banner__content usa-accordion__content"
+             id="gov-banner-default"
+             hidden>
+            <div class="grid-row grid-gap-lg">
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="/static/img/icon-dot-gov.svg"
+                         alt=""
+                         aria-hidden="true" />
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Official websites use .gov</strong>
+                            <br />
+                            A
+                            <strong>.gov</strong> website belongs to an official
+                            government organization in the United States.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="/static/img/icon-https.svg"
+                         alt=""
+                         aria-hidden="true" />
+
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Secure .gov websites use HTTPS</strong>
+                            <br />
+                            A <strong>lock</strong> (
+                            <span class="icon-lock">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                     width="52"
+                                     height="64"
+                                     viewBox="0 0 52 64"
+                                     class="usa-banner__lock-image"
+                                     role="graphics-symbol"
+                                     aria-labelledby="banner-lock-description"
+                                     focusable="false">
+                                    <title id="banner-lock-title">Lock</title>
+                                    <desc id="banner-lock-description">
+                                    Locked padlock icon
+                                    </desc>
+                                    <path fill="#000000"
+                                          fill-rule="evenodd"
+                                          d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" />
+                                </svg>
+</span>) or <strong>https://</strong> means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+
+        
+    
+    
+    
+
+<div class="usa-overlay">
+</div>
+
+
+
+<header class="usa-header usa-header--extended usa-header--wide" data-header data-testid="header"    >
+    <div class="ncbi-header">
+        <div class="ncbi-header__container">
+            <a class="ncbi-header__logo-container"
+               href="https://www.ncbi.nlm.nih.gov/">
+                <img alt="NCBI home page"
+                     class="ncbi-header__logo-image"
+                     src="/static/img/ncbi-logos/nih-nlm-ncbi--white.svg"
+                     width="410"
+                     height="100" />
+            </a>
+
+            <!-- Mobile menu hamburger button -->
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-menu-btn ncbi-header__hamburger-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Show menu"
+    data-testid="navMenuButton"
+    
+    >
+    
+        
+
+        
+                <svg aria-hidden="true"
+                     class="ncbi-hamburger-icon"
+                     fill="none"
+                     focusable="false"
+                     height="21"
+                     viewBox="0 0 31 21"
+                     width="31"
+                     xmlns="http://www.w3.org/2000/svg">
+                    <path clip-rule="evenodd"
+                          d="M0.125 20.75H30.875V17.3333H0.125V20.75ZM0.125 12.2083H30.875V8.79167H0.125V12.2083ZM0.125 0.25V3.66667H30.875V0.25H0.125Z"
+                          fill="#F1F1F1"
+                          fill-rule="evenodd" />
+                </svg>
+            
+
+        
+    
+        
+            </button>
+        
+
+
+
+            
+                <!-- Desktop buttons-->
+                <div class="ncbi-header__desktop-buttons">
+                    
+                        <!-- Desktop search button -->
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button
+           "
+    aria-expanded="false"
+    aria-controls="search-field-desktop-navigation"
+    aria-label="Show search overlay"
+    data-testid="toggleSearchPanelButton"
+    data-toggle-search-panel-button
+    >
+    
+        
+
+        
+                            
+
+
+
+    <svg class="usa-icon " role="graphics-symbol" aria-hidden="true" >
+        
+        <use xlink:href="/static/img/sprite.svg#search" />
+    </svg>
+
+
+                            Search
+                        
+
+        
+    
+        
+            </button>
+        
+
+
+                    
+
+                    <!-- Desktop login dropdown -->
+                    
+                        <div class="ncbi-header__login-dropdown">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button ncbi-header__login-dropdown-button
+           "
+    aria-expanded="false"
+    aria-controls="login-dropdown-menu"
+    aria-label="Show login menu"
+    data-testid="toggleLoginMenuDropdown"
+    data-desktop-login-button
+    >
+    
+        
+
+        
+                                
+
+
+
+    <svg class="usa-icon " role="graphics-symbol" aria-hidden="true" >
+        
+        <use xlink:href="/static/img/sprite.svg#person" />
+    </svg>
+
+
+
+                                <span data-login-dropdown-text>Log in</span>
+
+                                <!-- Dropdown icon pointing up -->
+                                
+
+
+
+    <svg class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-less ncbi-header__login-dropdown-icon--hidden" role="graphics-symbol" aria-hidden="true" data-login-dropdown-up-arrow>
+        
+        <use xlink:href="/static/img/sprite.svg#expand_less" />
+    </svg>
+
+
+
+                                <!-- Dropdown icon pointing down -->
+                                
+
+
+
+    <svg class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-more ncbi-header__login-dropdown-icon--hidden" role="graphics-symbol" aria-hidden="true" data-login-dropdown-down-arrow>
+        
+        <use xlink:href="/static/img/sprite.svg#expand_more" />
+    </svg>
+
+
+                            
+
+        
+    
+        
+            </button>
+        
+
+
+
+                            <!-- Login dropdown menu -->
+                            <ul class="usa-nav__submenu ncbi-header__login-dropdown-menu"
+                                id="login-dropdown-menu"
+                                data-desktop-login-menu-dropdown
+                                hidden>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                <li class="usa-nav__submenu-item">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--outline ncbi-header__login-dropdown-logout-button
+           "
+    
+    
+    
+    data-testid="desktopLogoutButton"
+    data-desktop-logout-button
+    >
+    
+        
+
+        Log out
+
+        
+    
+        
+            </button>
+        
+
+
+                                </li>
+                            </ul>
+                        </div>
+                    
+                </div>
+            
+        </div>
+    </div>
+
+    <!-- Search panel -->
+    
+        <div class="ncbi-search-panel ncbi--show-only-at-desktop"
+             data-header-search-panel
+             hidden>
+            <div class="ncbi-search-panel__container">
+                <form action="https://www.ncbi.nlm.nih.gov/search/all/"
+                      
+                      autocomplete="off"
+                      class="usa-search usa-search--big ncbi-search-panel__form"
+                      data-testid="desktop-navigation-search-form"
+                      method="GET"
+                      role="search">
+                    <label class="usa-sr-only" for="search-field-desktop-navigation">
+                        Search…
+                    </label>
+                    <input class="usa-input"
+                           id="search-field-desktop-navigation"
+                           name="term"
+                           
+                               placeholder="Search NCBI"
+                           
+                           type="search"
+                           value="" />
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                        <span class="usa-search__submit-text">
+                            Search NCBI
+                        </span>
+                    
+
+        
+    
+        
+            </button>
+        
+
+
+                </form>
+
+                
+            </div>
+        </div>
+    
+
+    <nav aria-label="Primary navigation" class="usa-nav">
+        <p class="usa-sr-only" id="primary-navigation-sr-only-title">
+            Primary site navigation
+        </p>
+
+        <!-- Mobile menu close button -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-nav__close ncbi-nav__close-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Close navigation menu"
+    data-testid="navCloseButton"
+    
+    >
+    
+        
+
+        
+            <img src="/static/img/usa-icons/close.svg" alt="Close" />
+        
+
+        
+    
+        
+            </button>
+        
+
+
+
+        
+            <!-- Mobile search component -->
+            <form class="usa-search usa-search--small ncbi--hide-at-desktop margin-top-6"
+                  action="https://www.ncbi.nlm.nih.gov/search/all/"
+                  
+                  autocomplete="off"
+                  data-testid="mobile-navigation-search-form"
+                  method="GET"
+                  role="search">
+                <label class="usa-sr-only" for="search-field-mobile-navigation">
+                    Search
+                </label>
+
+                <input class="usa-input"
+                       id="search-field-mobile-navigation"
+                       type="search"
+                       
+                           placeholder="Search NCBI"
+                       
+                       name="term" />
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                    <!-- This SVG should be kept inline and not replaced with a link to the icon as otherwise it will render in the wrong color -->
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjUgMTRoLS43OWwtLjI4LS4yN0E2LjQ3MSA2LjQ3MSAwIDAgMCAxNiA5LjUgNi41IDYuNSAwIDEgMCA5LjUgMTZjMS42MSAwIDMuMDktLjU5IDQuMjMtMS41N2wuMjcuMjh2Ljc5bDUgNC45OUwyMC40OSAxOWwtNC45OS01em0tNiAwQzcuMDEgMTQgNSAxMS45OSA1IDkuNVM3LjAxIDUgOS41IDUgMTQgNy4wMSAxNCA5LjUgMTEuOTkgMTQgOS41IDE0eiIvPjwvc3ZnPg=="
+                         class="usa-search__submit-icon"
+                         alt="Search" />
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </form>
+
+            
+        
+
+        <!-- Primary navigation menu items -->
+        <!-- This usa-nav__inner wrapper is required to correctly style the navigation items on Desktop -->
+        
+
+        
+            <div class="ncbi-nav__mobile-login-menu ncbi--hide-at-desktop"
+                 data-mobile-login-menu
+                 hidden>
+                <p class="ncbi-nav__mobile-login-menu-status">
+                    Logged in as:
+                    <strong class="ncbi-nav__mobile-login-menu-email"
+                            data-mobile-login-email-text></strong>
+                </p>
+                <ul class="usa-nav__primary usa-accordion">
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           ncbi-nav__mobile-login-button ncbi--hide-at-desktop
+           "
+    
+    
+    
+    data-testid="mobileLoginButton"
+    data-mobile-login-button
+    >
+    
+        
+
+        Log in
+
+        
+    
+        
+            </button>
+        
+
+
+    </nav>
+</header>
+
+    
+    
+        
+
+<section class="pmc-header pmc-header--basic" aria-label="PMC Header with search box">
+    <div class="pmc-nav-container">
+        <div class="pmc-header__bar">
+           <div class="pmc-header__logo">
+               <a href="/" title="Home" aria-label="PMC Home"></a>
+           </div>
+            <button
+                    type="button"
+                    class="usa-button usa-button--unstyled pmc-header__search__button"
+                    aria-label="Open search"
+                    data-ga-category="search"
+                    data-ga-action="PMC"
+                    data-ga-label="pmc_search_panel_mobile"
+            >
+                <svg class="usa-icon width-4 height-4 pmc-icon__open" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#search"></use>
+                </svg>
+                <svg class="usa-icon width-4 height-4 pmc-icon__close" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#close"></use>
+                </svg>
+            </button>
+        </div>
+        <div class="pmc-header__search">
+            
+
+
+<form class="usa-search usa-search--extra usa-search--article-right-column  pmc-header__search__form" id="pmc-search-form" autocomplete="off" role="search">
+<label class="usa-sr-only" for="pmc-search">Search PMC Full-Text Archive</label>
+<span class="autoComplete_wrapper flex-1">
+<input class="usa-input width-full maxw-none" required="required" placeholder="Search PMC Full-Text Archive" id="pmc-search"  type="search" name="term" data-autocomplete-url="https://pmc.ncbi.nlm.nih.gov/autocomp/search/autocomp/"/>
+</span>
+<button
+class="usa-button"
+type="submit"
+formaction="https://pmc.ncbi.nlm.nih.gov/search/"
+data-ga-category="search"
+data-ga-action="PMC"
+data-ga-label="PMC_search_button"
+>
+<span class="usa-search__submit-text">Search in PMC</span>
+<img
+src="/static/img/usa-icons-bg/search--white.svg"
+class="usa-search__submit-icon"
+alt="Search"
+/>
+</button>
+</form>
+            <div class="display-flex flex-column tablet:flex-row tablet:flex-justify flex-justify-center flex-align-center width-full desktop:maxw-44">
+                <ul class="pmc-header__search__menu">
+                    <li>
+                        
+                            <a class="usa-link" href="/journals/" data-ga-action="featured_link" data-ga-label="journal list">
+                                Journal List
+                            </a>
+                        
+                    </li>
+                    <li>
+                        
+                            <a class="usa-link" href="/about/userguide/" data-ga-action="featured_link"
+                            data-ga-label="user guide">
+                                User Guide
+                            </a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+        
+        
+
+       
+  <div class="usa-section padding-top-0 desktop:padding-top-6 pmc-article-section" data-article-db="pmc" data-article-id="8486249">
+
+    
+
+   
+
+
+
+<div class="grid-container pmc-actions-bar" aria-label="Actions bar" role="complementary">
+    <div class="grid-row">
+        <div class="grid-col-fill display-flex">
+             <div class="display-flex">
+                <ul class="usa-list usa-list--unstyled usa-list--horizontal">
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <button
+                                type="button"
+                                class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                                aria-label="Open resources"
+                                data-extra-class="is-visible-resources"
+                                data-ga-category="resources_accordion"
+                                data-ga-action="click"
+                                data-ga-label="mobile_icon"
+                        >
+                            <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                                <use xlink:href="/static/img/sprite.svg#more_vert"></use>
+                            </svg>
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <a
+                                href="https://doi.org/10.1111/pbi.13611"
+                                class="usa-link display-flex usa-tooltip"
+                                role="button"
+                                target="_blank"
+                                rel="noreferrer noopener"
+                                title="View on publisher site"
+                                data-position="bottom"
+                                aria-label="View on publisher site"
+                                data-ga-category="actions"
+                                data-ga-action="click"
+                                data-ga-label="publisher_link_mobile"
+                        >
+                                <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                                    <use xlink:href="/static/img/sprite.svg#launch"></use>
+                                </svg>
+                        </a>
+                    </li>
+                    
+                    
+                        <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                             <a
+                                     href="pdf/PBI-19-1979.pdf"
+                                     class="usa-link display-flex usa-tooltip"
+                                     role="button"
+                                     title="Download PDF"
+                                     data-position="bottom"
+                                     aria-label="Download PDF"
+                                     data-ga-category="actions"
+                                     data-ga-action="click"
+                                     data-ga-label="pdf_download_mobile"
+                             >
+                                <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                                    <use xlink:href="/static/img/sprite.svg#file_download"></use>
+                                </svg>
+                            </a>
+                        </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button
+                            class="usa-button usa-button--unstyled  usa-tooltip collections-dialog-trigger collections-button display-flex collections-button-empty"
+                            title="Add to Collections"
+                            data-position="bottom"
+                            aria-label="Save article in MyNCBI collections."
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="collections_button_mobile"
+                            data-collections-open-dialog-enabled="false"
+                            data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC8486249%2F%23open-collections-dialog"
+                            data-in-collections="false"
+                        >
+                            <svg class="usa-icon width-4 height-4 usa-icon--bookmark-full" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/action-bookmark-full.svg#icon"></use>
+                            </svg>
+                            <svg class="usa-icon width-4 height-4 usa-icon--bookmark-empty" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/action-bookmark-empty.svg#icon"></use>
+                            </svg>
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button role="button" class="usa-button usa-button--unstyled usa-tooltip citation-dialog-trigger display-flex"
+                            aria-label="Open dialog with citation text in different styles"
+                            title="Cite"
+                            data-position="bottom"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="cite_mobile"
+                            data-all-citations-url="/resources/citations/8486249/"
+                            data-citation-style="nlm"
+                            data-download-format-link="/resources/citations/8486249/export/"
+                        >
+                            <svg class="usa-icon width-4 height-4 usa-icon--bookmark-empty" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/sprite.svg#format_quote"></use>
+                            </svg>
+                        </button>
+                    </li>
+                    
+                    <li class="pmc-permalink display-flex" >
+                         <button
+                                 type="button"
+                                 title="Permalink"
+                                 data-position="bottom"
+                                 class="usa-button usa-button--unstyled display-flex usa-tooltip"
+                                 aria-label="Show article permalink"
+                                 aria-expanded="false"
+                                 aria-haspopup="true"
+                                 data-ga-category="actions"
+                                 data-ga-action="open"
+                                 data-ga-label="permalink_mobile"
+                         >
+                            <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                                <use xlink:href="/static/img/sprite.svg#share"></use>
+                            </svg>
+                        </button>
+                        
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486249/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#content_copy"></use>
+                  </svg>
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+                    </li>
+                </ul>
+            </div>
+            <button
+                    type="button"
+                    class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                    aria-label="Open article navigation"
+                    data-extra-class="is-visible-in-page"
+                    data-ga-category="actions"
+                    data-ga-action="open"
+                    data-ga-label="article_nav_mobile"
+            >
+                <svg class="usa-icon width-4 height-4" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#list"></use>
+                </svg>
+            </button>
+        </div>
+    </div>
+</div>
+    <div class="grid-container desktop:padding-left-6">
+      <div id="article-container" class="grid-row grid-gap">
+        <div class="grid-col-12 desktop:grid-col-8 order-2 pmc-layout__content">
+            <div class="grid-container padding-left-0 padding-right-0">
+                <div class="grid-row desktop:margin-left-neg-6">
+                    <div class="grid-col-12">
+                        <div class="pmc-layout__disclaimer" role="complementary" aria-label="Disclaimer note">
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.<br/>
+    Learn more:
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="Disclaimer" data-ga-label="New disclaimer box" href="/about/disclaimer/">PMC Disclaimer</a>
+    |
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="PMC Copyright Notice" data-ga-label="New disclaimer box" href="/about/copyright/">
+        PMC Copyright Notice
+    </a>
+</div>
+                    </div>
+                </div>
+                <div class="grid-row pmc-wm desktop:margin-left-neg-6">
+                    <!-- Main content -->
+                    <main
+                      id="main-content"
+                      class="usa-layout-docs__main usa-layout-docs grid-col-12 pmc-layout pmc-prose padding-0"
+                    >
+
+                      
+                        <section class="pmc-journal-banner text-center line-height-none" aria-label="Journal banner"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-plantbioj.png" alt="Plant Biotechnology Journal logo" usemap="#pmc-banner-imagemap" width="500" height="75"><map name="pmc-banner-imagemap"><area alt="Link to Plant Biotechnology Journal" title="Link to Plant Biotechnology Journal" shape="default" href="https://doi.org/10.1111/pbi.13611" target="_blank" rel="noopener noreferrer"></map></section><article lang="en"><section aria-label="Article citation and metadata"><section class="pmc-layout__citation font-secondary font-xs"><div>
+<div class="display-inline-block"><button type="button" class="cursor-pointer text-no-underline bg-transparent border-0 padding-0 text-left margin-0 text-normal text-primary" aria-controls="journal_context_menu">Plant Biotechnol J</button></div>. 2021 Jun 23;19(10):1979–1987. doi: <a href="https://doi.org/10.1111/pbi.13611" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">10.1111/pbi.13611</a>
+</div>
+<nav id="journal_context_menu" hidden="hidden"><ul class="menu-list font-family-ui" role="menu">
+<li role="presentation"><a href="https://pmc.ncbi.nlm.nih.gov/search/?term=%22Plant%20Biotechnol%20J%22%5Bjour%5D" class="usa-link" role="menuitem">Search in PMC</a></li>
+<li role="presentation"><a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Plant%20Biotechnol%20J%22%5Bjour%5D" lang="en" class="usa-link" role="menuitem">Search in PubMed</a></li>
+<li role="presentation"><a href="https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Plant%20Biotechnol%20J%22%5BTitle%20Abbreviation%5D" class="usa-link" role="menuitem">View in NLM Catalog</a></li>
+<li role="presentation"><a href="?term=%22Plant%20Biotechnol%20J%22%5Bjour%5D" class="usa-link" role="menuitem" data-add-to-search="true">Add to search</a></li>
+</ul></nav></section><section class="front-matter"><div class="ameta p font-secondary font-xs">
+<hgroup><h1>Establishment of an <em>Agrobacterium</em>‐mediated genetic transformation and CRISPR/Cas9‐mediated targeted mutagenesis in Hemp (<em>Cannabis Sativa</em> L.)</h1></hgroup><div class="cg p">
+<a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Zhang%20X%22%5BAuthor%5D" class="usa-link" aria-describedby="id1"><span class="name western">Xiaoyu Zhang</span></a><div hidden="hidden" id="id1">
+<h3><span class="name western">Xiaoyu Zhang</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Zhang%20X%22%5BAuthor%5D" class="usa-link"><span class="name western">Xiaoyu Zhang</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Xu%20G%22%5BAuthor%5D" class="usa-link" aria-describedby="id2"><span class="name western">Gencheng Xu</span></a><div hidden="hidden" id="id2">
+<h3><span class="name western">Gencheng Xu</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Xu%20G%22%5BAuthor%5D" class="usa-link"><span class="name western">Gencheng Xu</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Cheng%20C%22%5BAuthor%5D" class="usa-link" aria-describedby="id3"><span class="name western">Chaohua Cheng</span></a><div hidden="hidden" id="id3">
+<h3><span class="name western">Chaohua Cheng</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Cheng%20C%22%5BAuthor%5D" class="usa-link"><span class="name western">Chaohua Cheng</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Lei%20L%22%5BAuthor%5D" class="usa-link" aria-describedby="id4"><span class="name western">Lei Lei</span></a><div hidden="hidden" id="id4">
+<h3><span class="name western">Lei Lei</span></h3>
+<div class="p">
+<sup>
+<sup>2</sup>
+</sup>Department of Biochemistry and Molecular Biology, Oklahoma State University, Stillwater, USA</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Lei%20L%22%5BAuthor%5D" class="usa-link"><span class="name western">Lei Lei</span></a>
+</div>
+</div>
+<sup>2</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Sun%20J%22%5BAuthor%5D" class="usa-link" aria-describedby="id5"><span class="name western">Jian Sun</span></a><div hidden="hidden" id="id5">
+<h3><span class="name western">Jian Sun</span></h3>
+<div class="p">
+<sup>
+<sup>3</sup>
+</sup>School of Life Sciences, Nantong University, Nantong, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Sun%20J%22%5BAuthor%5D" class="usa-link"><span class="name western">Jian Sun</span></a>
+</div>
+</div>
+<sup>3</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Xu%20Y%22%5BAuthor%5D" class="usa-link" aria-describedby="id6"><span class="name western">Ying Xu</span></a><div hidden="hidden" id="id6">
+<h3><span class="name western">Ying Xu</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Xu%20Y%22%5BAuthor%5D" class="usa-link"><span class="name western">Ying Xu</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Deng%20C%22%5BAuthor%5D" class="usa-link" aria-describedby="id7"><span class="name western">Canhui Deng</span></a><div hidden="hidden" id="id7">
+<h3><span class="name western">Canhui Deng</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Deng%20C%22%5BAuthor%5D" class="usa-link"><span class="name western">Canhui Deng</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Dai%20Z%22%5BAuthor%5D" class="usa-link" aria-describedby="id8"><span class="name western">Zhigang Dai</span></a><div hidden="hidden" id="id8">
+<h3><span class="name western">Zhigang Dai</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Dai%20Z%22%5BAuthor%5D" class="usa-link"><span class="name western">Zhigang Dai</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Yang%20Z%22%5BAuthor%5D" class="usa-link" aria-describedby="id9"><span class="name western">Zemao Yang</span></a><div hidden="hidden" id="id9">
+<h3><span class="name western">Zemao Yang</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Yang%20Z%22%5BAuthor%5D" class="usa-link"><span class="name western">Zemao Yang</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20X%22%5BAuthor%5D" class="usa-link" aria-describedby="id10"><span class="name western">Xiaojun Chen</span></a><div hidden="hidden" id="id10">
+<h3><span class="name western">Xiaojun Chen</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20X%22%5BAuthor%5D" class="usa-link"><span class="name western">Xiaojun Chen</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Liu%20C%22%5BAuthor%5D" class="usa-link" aria-describedby="id11"><span class="name western">Chan Liu</span></a><div hidden="hidden" id="id11">
+<h3><span class="name western">Chan Liu</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Liu%20C%22%5BAuthor%5D" class="usa-link"><span class="name western">Chan Liu</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Tang%20Q%22%5BAuthor%5D" class="usa-link" aria-describedby="id12"><span class="name western">Qing Tang</span></a><div hidden="hidden" id="id12">
+<h3><span class="name western">Qing Tang</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Tang%20Q%22%5BAuthor%5D" class="usa-link"><span class="name western">Qing Tang</span></a>
+</div>
+</div>
+<sup>1,</sup><sup>✉</sup>, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Su%20J%22%5BAuthor%5D" class="usa-link" aria-describedby="id13"><span class="name western">Jianguang Su</span></a><div hidden="hidden" id="id13">
+<h3><span class="name western">Jianguang Su</span></h3>
+<div class="p">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div class="p">Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Su%20J%22%5BAuthor%5D" class="usa-link"><span class="name western">Jianguang Su</span></a>
+</div>
+</div>
+<sup>1,</sup><sup>✉</sup>
+</div>
+<ul class="d-buttons inline-list">
+<li><button class="d-button" aria-controls="aip_a" aria-expanded="false">Author information</button></li>
+<li><button class="d-button" aria-controls="anp_a" aria-expanded="false">Article notes</button></li>
+<li><button class="d-button" aria-controls="clp_a" aria-expanded="false">Copyright and License information</button></li>
+</ul>
+<div class="d-panels font-secondary-light">
+<div id="aip_a" class="d-panel p" style="display: none">
+<div class="p" id="pbi13611-aff-0001">
+<sup>
+<sup>1</sup>
+</sup>Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha, Hunan, China</div>
+<div id="pbi13611-aff-0002">
+<sup>
+<sup>2</sup>
+</sup>Department of Biochemistry and Molecular Biology, Oklahoma State University, Stillwater, USA</div>
+<div id="pbi13611-aff-0003">
+<sup>
+<sup>3</sup>
+</sup>School of Life Sciences, Nantong University, Nantong, China</div>
+<div class="author-notes p">
+<div class="fn" id="correspondenceTo">
+<sup>*</sup><p class="display-inline">
+
+*<em>Correspondence</em> (Tel +86 0731‐88998561; fax +86 0731‐88998561; email: <span>sujianguang@caas.cn</span> (QT) and Tel +86 0731‐88998562; fax +86 0731‐88998562; email: <span>zhangxiaoyuyyy@gmail.com</span> (JS))
+</p>
+</div>
+<div class="fn" id="_fncrsp93pmc__">
+<sup>✉</sup><p class="display-inline">Corresponding author.</p>
+</div>
+</div>
+</div>
+<div id="anp_a" class="d-panel p" style="display: none"><div class="notes p"><section id="historyarticle-meta1" class="history"><p>Revised 2021 Apr 16; Received 2021 Mar 4; Accepted 2021 Apr 20; Collection date 2021 Oct.</p></section></div></div>
+<div id="clp_a" class="d-panel p" style="display: none">
+<div>© 2021 The Authors. <em>Plant Biotechnology Journal</em> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &amp; Sons Ltd.</div>
+<p>This is an open access article under the terms of the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">http://creativecommons.org/licenses/by-nc-nd/4.0/</a> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</p>
+<div class="p"><a href="/about/copyright/" class="usa-link">PMC Copyright notice</a></div>
+</div>
+</div>
+<div>PMCID: PMC8486249  PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33960612/" class="usa-link">33960612</a>
+</div>
+</div></section></section><section aria-label="Article content"><section class="body main-article-body"><section class="abstract" id="pbi13611-abs-0001"><h2>Summary</h2>
+<p>Hemp (<em>Cannabis</em>
+<em>sativa</em> L.) is an annual and typically dioecious crop. Due to the therapeutic potential for human diseases, phytocannabinoids as a medical therapy is getting more attention recently. Several candidate genes involved in cannabinoid biosynthesis have been elucidated using omics analysis. However, the gene function was not fully validated due to few reports of stable transformation for Cannabis tissues. In this study, we firstly report the successful generation of gene‐edited plants using an <em>Agrobacterium</em>‐mediated transformation method in <em>C</em>. <em>sativa</em>. DMG278 achieved the highest shoot induction rate, which was selected as the model strain for transformation. By overexpressing the cannabis developmental regulator chimera in the embryo hypocotyls of immature grains, the shoot regeneration efficiency was substantially increased. We used CRISPR/Cas9 technology to edit the phytoene desaturase gene and finally generated four edited cannabis seedlings with albino phenotype. Moreover, we propagated the transgenic plants and validated the stable integration of T‐DNA in cannabis genome.</p>
+<section id="kwd-group1" class="kwd-group"><p><strong>Keywords:</strong> Agrobacterium‐mediated transformation, CRISPR, Cas9, Hemp, genome editing</p></section></section><section id="pbi13611-sec-0001"><h2 class="pmc_sec_title">Introduction</h2>
+<p>
+<em>Cannabis sativa</em> belongs to the Cannabaceae family and its ability to induce a relaxed state has been known for over 2700 years (Russo <em>et al</em>., <a href="#pbi13611-bib-0020" class="usa-link" aria-describedby="pbi13611-bib-0020">2008</a>). Since the last decade, renewed interest in the medical effects of cannabinoids emanated (Galán‐Ávila <em>et al</em>., <a href="#pbi13611-bib-0010" class="usa-link" aria-describedby="pbi13611-bib-0010">2020</a>). Although cannabis is best known for the psychoactive effects of D9‐tetrahydrocannabinol (THC), it contains various phytocannabinoids with the therapeutic potential for the treatment of multiple human diseases from complex neurological diseases to cancer, such as cannabidiol (CBD), cannabinol (CBN), cannabigerol (CBG), and cannabichromene (CBC). At present, the medical cannabis market is one of the fastest‐growing markets worldwide, which was worth $3.5 billion at retail prices in 2019. A growing market worth $20.2 billion is expected in the forecast period of 2020 to 2025 (Aliekperova <em>et al</em>., <a href="#pbi13611-bib-0002" class="usa-link" aria-describedby="pbi13611-bib-0002">2020</a>). By 2020, medical cannabis and cannabinoids have been legalized in more than 50 countries, including China (YUNNAN and HEILONGJIANG), Australia, Germany, Israel, Canada and most of the US, etc.</p>
+<p>Despite a lot of genes involved in cannabinoid biosynthesis had been elucidated (Liu <em>et al</em>., <a href="#pbi13611-bib-0016" class="usa-link" aria-describedby="pbi13611-bib-0016">2021</a>), functions of these genes were not yet fully validated due to few reports of stable transformation for Cannabis tissues. Recently, the nanoparticle‐based method was used in the transient transformation of Cannabis, as an effective carrier to introduce foreign DNA fragments (Ahmed <em>et al</em>., <a href="#pbi13611-bib-0001" class="usa-link" aria-describedby="pbi13611-bib-0001">2021</a>). Compared with <em>Nicotiana benthamiana</em>, cannabis seedlings and explants are less susceptible to be transformed with <em>A</em>. <em>tumefaciens</em>, another important tool of generating the genome‐edited plants that could be used for further gene function study (Sorokin <em>et al</em>., <a href="#pbi13611-bib-0022" class="usa-link" aria-describedby="pbi13611-bib-0022">2020</a>). In addition, the regeneration of transgenic plantlets from transformed cells is a time‐consuming process and often limited by cannabis varieties (Chaohua <em>et al</em>., <a href="#pbi13611-bib-0005" class="usa-link" aria-describedby="pbi13611-bib-0005">2016</a>; Galán‐Ávila <em>et al</em>., <a href="#pbi13611-bib-0010" class="usa-link" aria-describedby="pbi13611-bib-0010">2020</a>).</p>
+<p>Since conventional genetic transformation is a huge obstacle to <em>C</em>. <em>sativa</em>, we plan to reprogram plant meristems and manipulate the genome by coexpressing developmental regulators and genome‐editing components, which have been reported to be effective in several monocot and dicot plant species such as maize, wheat, rice, and sunflower (Debernardi <em>et al</em>., <a href="#pbi13611-bib-0006" class="usa-link" aria-describedby="pbi13611-bib-0006">2020</a>; Kong <em>et al</em>., <a href="#pbi13611-bib-0012" class="usa-link" aria-describedby="pbi13611-bib-0012">2020</a>; Lowe <em>et al</em>., <a href="#pbi13611-bib-0017" class="usa-link" aria-describedby="pbi13611-bib-0017">2018</a>). When BABY BOOM (BBM) and WUSCHEL (WUS) were transformed into immature maize embryos, these embryos can germinate into plants without a callus phase (Lowe <em>et al</em>., <a href="#pbi13611-bib-0017" class="usa-link" aria-describedby="pbi13611-bib-0017">2018</a>). Although the expression of BBM and WUS improved plant regeneration efficiency, these developmental regulators had to be excised from transgenic plants because of the negative pleiotropic effects, which restricted their application (Luo and Palmgren, <a href="#pbi13611-bib-0018" class="usa-link" aria-describedby="pbi13611-bib-0018">2020</a>). Additional developmental genes are proposed to further improve the regeneration efficiency. In <em>N</em>. <em>benthamiana</em>, overexpression of the developmental regulators SHOOT MERISTEMLESS (STM) and ISOPENTENYL TRANSFERASE (IPT) were sufficient to induce the shoot organogenesis (Maher <em>et al</em>., <a href="#pbi13611-bib-0019" class="usa-link" aria-describedby="pbi13611-bib-0019">2020</a>). It was demonstrated that the transcription factor GROWTH‐REGULATING FACTOR (GRF) could form a functional transcriptional complex with GRF‐INTERACTING FACTOR (GIF), which regulated the transition between stem cells and boost genetic transformation in various crop species (Debernardi <em>et al</em>., <a href="#pbi13611-bib-0006" class="usa-link" aria-describedby="pbi13611-bib-0006">2020</a>; Kong <em>et al</em>., <a href="#pbi13611-bib-0012" class="usa-link" aria-describedby="pbi13611-bib-0012">2020</a>). This GRF‐GIF duo performed well under various transformation protocols, and even antibiotic resistance markers were not required due to the high regeneration rate without exogenous cytokinin.</p>
+<p>The research described in this paper is initiated to develop a stable <em>Agrobacterium</em>
+<em>tumefaciens</em>‐mediated transformation system for <em>C</em>. <em>sativa</em>. We estimated the regeneration efficiency within different explants, such as cotyledon, hypocotyl, true leaf, and immature embryo hypocotyl isolated from immature grains after anthesis. Then we cloned the cannabis candidate genes homologous to <em>ZmWUS2</em>, <em>NbSTM</em>, <em>NbIPT</em>, <em>OsGRF4</em> and <em>AtGIF1</em>, which had been reported to stimulate somatic embryogenesis or organogenesis in other species (Duan <em>et al</em>., <a href="#pbi13611-bib-0008" class="usa-link" aria-describedby="pbi13611-bib-0008">2015</a>; Maher <em>et al</em>., <a href="#pbi13611-bib-0019" class="usa-link" aria-describedby="pbi13611-bib-0019">2020</a>; Shimano <em>et al</em>., <a href="#pbi13611-bib-0021" class="usa-link" aria-describedby="pbi13611-bib-0021">2018</a>). We overexpressed the different combinations of these developmental regulators in the immature embryo hypocotyl, evaluated the effects on the shoot regeneration of diﬀerent cannabis varieties, and further obtained stable <em>C</em>. <em>sativa</em> transgenic plants and seedlings with knocked out phytoene desaturase gene (<em>CsPDS1</em>), a common marker gene that can test genetic manipulation tools. The system we developed can be applied to functional genomic studies and release the real potential of genome editing in <em>C</em>. <em>sativa</em>.</p></section><section id="pbi13611-sec-0002"><h2 class="pmc_sec_title">Results</h2>
+<section id="pbi13611-sec-0003"><h3 class="pmc_sec_title">Effect of explant, variety, and developmental regulator on shoot organogenesis</h3>
+<p>To evaluate the regeneration efficiency of different explant types, seeds of hemp strain YUNMA7 were surface sterilized and cultured in the Murashige &amp; Skoog (MS) medium. True leaves, cotyledons and hypocotyls were collected from these seedlings about 17 days later after the germination (Figure <a href="#pbi13611-fig-0001" class="usa-link">1a‐c</a>). In addition, the embryo hypocotyls of immature grains were collected from YUNMA7 spikes approximately 10 days, 15 days, 20 days and 25 days after anthesis (Figure <a href="#pbi13611-fig-0001" class="usa-link">1d</a>). All the explants were cultured in a callus induction medium. Over 20% of the immature embryo hypocotyls developed embryogenic calli within 5 days (Figure <a href="#pbi13611-fig-0001" class="usa-link">1h</a>), and the hypocotyls collected 15 days after anthesis (D15) produced more calli (at an average of 31.08%) compared to those collected earlier or later (Table <a href="#pbi13611-tbl-0001" class="usa-link">1</a>). Throughout the 4‐week incubation, we observed the induction frequencies of only 5.97% in true leaves, 7.65% in cotyledons and 5.31% in hypocotyls (Table <a href="#pbi13611-tbl-0001" class="usa-link">1</a>; Figure <a href="#pbi13611-fig-0001" class="usa-link">1e‐g</a>). After an additional 2 weeks, proliferating tissue was transferred to regeneration medium at 26 °C under continuous light (50 μM/m<sup>2</sup>/s) for 5 weeks. About 6.12% of the D15 calli produced shoots, and less than 3% of the calli developed proliferated shoots from the other three explants (Table <a href="#pbi13611-tbl-0001" class="usa-link">1</a>; Figure <a href="#pbi13611-fig-0001" class="usa-link">1i‐l</a>).</p>
+<figure class="fig xbox font-sm" id="pbi13611-fig-0001"><h4 class="obj_head">Figure 1.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><img class="graphic" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10df/11385967/ffd52f1a1666/PBI-19-1979-g006.jpg" loading="lazy" id="jats-graphic-1" height="522" width="709" alt="Figure 1"></p>
+<div class="p text-right font-secondary"><a href="figure/pbi13611-fig-0001/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Callus induction and shoot regeneration from different explants of YUNMA7. The developmental stages are described as follows: (a, b and c) Isolated true leaves, cotyledons and hypocotyls from 17‐days‐old seedlings. (d) Embryo hypocotyls dissected from immature grains 15 days after anthesis; co: cotyledon; hy: hypocotyl. (e, f, g and h) Formation of embryogenic calli at the callus induction medium after 29 days of <em>in vitro</em> culture. (i, j, k and l) Development of shoots at the regeneration medium after 78 days of <em>in vitro</em> culture. Scale bars: 2 cm.</p></figcaption></figure><section class="tw xbox font-sm" id="pbi13611-tbl-0001"><h4 class="obj_head">Table 1.</h4>
+<div class="caption p"><p>Effect of explant on callus induction and regeneration rate of YUNMA7 explants</p></div>
+<div class="tbl-box p" tabindex="0"><table class="content" frame="hsides" rules="groups">
+<col style="border-right:solid 1px #000000" span="1">
+<col style="border-right:solid 1px #000000" span="1">
+<col style="border-right:solid 1px #000000" span="1">
+<col style="border-right:solid 1px #000000" span="1">
+<col style="border-right:solid 1px #000000" span="1">
+<col style="border-right:solid 1px #000000" span="1">
+<col style="border-right:solid 1px #000000" span="1">
+<thead valign="top"><tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="top" rowspan="1" colspan="1"></th>
+<th align="left" valign="top" rowspan="1" colspan="1"></th>
+<th align="left" valign="top" rowspan="1" colspan="1">
+<em>n</em>
+</th>
+<th align="left" valign="top" rowspan="1" colspan="1">Responding explants at callus induction stage (%)</th>
+<th align="left" valign="top" rowspan="1" colspan="1">Significance</th>
+<th align="left" valign="top" rowspan="1" colspan="1">Responding explants at regeneration stage (%)</th>
+<th align="left" valign="top" rowspan="1" colspan="1">Significance<a href="#pbi13611-note-0003" class="usa-link"><sup>*</sup></a>
+</th>
+</tr></thead>
+<tbody>
+<tr>
+<td align="left" rowspan="4" colspan="1">Embryo hypocotyls of immature grains</td>
+<td align="left" rowspan="1" colspan="1">10 Days after anthesis</td>
+<td align="center" rowspan="1" colspan="1">1969</td>
+<td align="center" rowspan="1" colspan="1">17.18 ± 5.28</td>
+<td align="left" rowspan="1" colspan="1">b</td>
+<td align="center" rowspan="1" colspan="1">5.71 ± 1.06</td>
+<td align="left" rowspan="1" colspan="1">ab</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">15 Days after anthesis</td>
+<td align="center" rowspan="1" colspan="1">1561</td>
+<td align="center" rowspan="1" colspan="1">31.08 ± 8.54</td>
+<td align="left" rowspan="1" colspan="1">a</td>
+<td align="center" rowspan="1" colspan="1">6.12 ± 1.51</td>
+<td align="left" rowspan="1" colspan="1">a</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">20 Days after anthesis</td>
+<td align="center" rowspan="1" colspan="1">1846</td>
+<td align="center" rowspan="1" colspan="1">21.46 ± 6.81</td>
+<td align="left" rowspan="1" colspan="1">ab</td>
+<td align="center" rowspan="1" colspan="1">5.29 ± 0.85</td>
+<td align="left" rowspan="1" colspan="1">b</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">25 Days after anthesis</td>
+<td align="center" rowspan="1" colspan="1">1227</td>
+<td align="center" rowspan="1" colspan="1">19.77 ± 2.15</td>
+<td align="left" rowspan="1" colspan="1">ab</td>
+<td align="center" rowspan="1" colspan="1">5.77 ± 1.16</td>
+<td align="left" rowspan="1" colspan="1">ab</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" colspan="1">Seedlings</td>
+<td align="left" rowspan="1" colspan="1">Ture leaves</td>
+<td align="center" rowspan="1" colspan="1">1828</td>
+<td align="center" rowspan="1" colspan="1">5.97 ± 1.56</td>
+<td align="left" rowspan="1" colspan="1">c</td>
+<td align="center" rowspan="1" colspan="1">2.27 ± 1.29</td>
+<td align="left" rowspan="1" colspan="1">c</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Cotyledons</td>
+<td align="center" rowspan="1" colspan="1">1757</td>
+<td align="center" rowspan="1" colspan="1">7.65 ± 2.17</td>
+<td align="left" rowspan="1" colspan="1">c</td>
+<td align="center" rowspan="1" colspan="1">1.78 ± 0.76</td>
+<td align="left" rowspan="1" colspan="1">c</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Hypocotyls</td>
+<td align="center" rowspan="1" colspan="1">1413</td>
+<td align="center" rowspan="1" colspan="1">5.31 ± 2.38</td>
+<td align="left" rowspan="1" colspan="1">c</td>
+<td align="center" rowspan="1" colspan="1">1.41 ± 0.47</td>
+<td align="left" rowspan="1" colspan="1">c</td>
+</tr>
+</tbody>
+</table></div>
+<div class="p text-right font-secondary"><a href="table/pbi13611-tbl-0001/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<div class="tw-foot p">
+<div class="fn" id="pbi13611-note-0002"><p>Mean of responding explants is denoted as a percentage (±SE) of the total explants.</p></div>
+<div class="fn" id="pbi13611-note-0003">
+<sup>*</sup><p class="display-inline">Different letters (a, b and c) among the levels of each factor indicate the significant differences between them (<em>P</em> &lt; 0.05).</p>
+</div>
+</div></section><p>Genotype dependence is one of the major limitations of regeneration and <em>Agrobacterium</em>‐mediated transformation for <em>Cannabis</em>
+<em>sativa</em>. To increase the robustness of the protocol and evaluate the regeneration differences, we performed a regeneration assay for one hundred cannabis varieties obtained from the national germplasm bank of Institute of Bast Fiber Crops (IBFC), which were planted in the experimental station during the 2020 growing season. The immature grains were collected from spikes approximately 15 days after anthesis because D15 hypocotyls produced more shoots on average, compared with the other three groups (Table <a href="#pbi13611-tbl-0001" class="usa-link">1</a>). After sterilization, their hypocotyls were isolated and incubated in the mediums to estimate the regeneration ability. Significant differences between varieties were observed among all the varieties estimated in this study, DMG278 achieved the highest shoot induction rate of 7.09%, which was selected as the model variety for the <em>Agrobacterium</em>‐mediated transformation (Figure <a href="#pbi13611-fig-0002" class="usa-link">2</a>). DMG278 was a hemp strains, which was the F2 line bred from the crossing of Red Cherry Berry and YUNMA7. Red Cherry Berry was an indica‐dominant hybrid originating from a cross between Skunk #1 and Californian Indica. YUNMA7 was a commercial hemp strain in China.</p>
+<figure class="fig xbox font-sm" id="pbi13611-fig-0002"><h4 class="obj_head">Figure 2.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><img class="graphic" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10df/11385967/bb28c39015a0/PBI-19-1979-g004.jpg" loading="lazy" id="jats-graphic-3" height="300" width="709" alt="Figure 2"></p>
+<div class="p text-right font-secondary"><a href="figure/pbi13611-fig-0002/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Effect of cannabis varieties on the shoot regeneration rate of immature embryo hypocotyls. For each variety, 90–130 hypocotyls were dissected from immature embryos, cultured in callus induction medium and then transferred to regeneration medium. The regeneration rate was calculated as the percentage of regenerated shoots /total calli for each variety, which were 7.09% for DMG278 and 6.12% for YUNMA7. The two varieties are coloured red and yellow.</p></figcaption></figure><p>To enhance and accelerate the shoot formation, we reprogrammed plant meristems by expressing developmental regulators with positive influences on shoot organogenesis (Debernardi <em>et al</em>., <a href="#pbi13611-bib-0006" class="usa-link" aria-describedby="pbi13611-bib-0006">2020</a>; Kong <em>et al</em>., <a href="#pbi13611-bib-0012" class="usa-link" aria-describedby="pbi13611-bib-0012">2020</a>; Lowe <em>et al</em>., <a href="#pbi13611-bib-0017" class="usa-link" aria-describedby="pbi13611-bib-0017">2018</a>). To compare their effects on regeneration efficiency, we cloned the cDNA sequences of five cannabis candidate genes based on their homology to <em>ZmWUS2</em>, <em>NbSTM</em>, <em>NbIPT</em>, <em>OsGRF4</em> and <em>AtGIF1</em> (Figure <a href="#pbi13611-sup-0001" class="usa-link">S2</a>). We designed ten candidate combinations, cloned their cDNA fragments into the pKSE401 binary vector and transformed into <em>Agrobacterium</em> strain AGL1 separately. After that, the D15 hypocotyls isolated from DMG278 immature grains were inoculated with <em>Agrobacterium</em> for 40 min and transferred to callus induction mediums with 100 mg/L Kanamycin. The average regeneration efficiencies for the <em>CsGRF3–CsGIF1</em> chimera and four chimeras harbouring <em>CsWUS4</em> were 1.7‐fold higher than for the empty vector control (Figure <a href="#pbi13611-fig-0003" class="usa-link">3</a>). The average regeneration efficiency of the separate <em>CsSBH1</em>, <em>CsIPT3</em> and their chimera did not accelerate the shoot regeneration significantly compared to that for the control.</p>
+<figure class="fig xbox font-sm" id="pbi13611-fig-0003"><h4 class="obj_head">Figure 3.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><img class="graphic" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10df/11385967/62dcf697e8be/PBI-19-1979-g005.jpg" loading="lazy" id="jats-graphic-5" height="329" width="709" alt="Figure 3"></p>
+<div class="p text-right font-secondary"><a href="figure/pbi13611-fig-0003/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Effect of developmental regulators on shoot regeneration frequency. All the calli used in the transformation experiments were produced from the hypocotyls of immature DMG278 grains (15 days after anthesis). Box plots show the regeneration frequencies for different regulator combinations as well as the control (empty pKSE401 vector). The box is divided by the median with the range from the first to third quartile, and the range of whiskers from the minimum to the maximum values in each treatment (***<em>P</em> &lt; 0.001). The growing green shoots are noted in the callus (red arrows). Control: pKSE401 empty vector.</p></figcaption></figure></section><section id="pbi13611-sec-0004"><h3 class="pmc_sec_title">Application of protoplast technology to estimate gene‐editing efficiency</h3>
+<p>Gene editing reagents single guide RNA (sgRNA) and Cas9 protein can be synthesized to form active ribonucleoprotein complexes in protoplast and mutagenize the target gene. Thus, a reliable protoplast isolation and transformation protocol can greatly benefit the determination of mutagenesis efficiency. The protoplast validations of targeting mutagenesis mediated by CRISPR/Cas9 were reported in several species, while this strategy remains a bottleneck to cannabis. Protoplast isolation and transfection were performed following Borgato <em>et al</em>. (<a href="#pbi13611-bib-0004" class="usa-link" aria-describedby="pbi13611-bib-0004">2007</a>) for Solanaceae since this protocol was successfully applied in several dicot plant species. However, the protoplast yield was much lower compared with descriptions in the paper. To improve the protoplast isolation efficiency, 10 g/L Cellulase RS Onozuka and 2 g/L Macerozyme enzymes were replaced with 12 g/L pectinase and 5 g/L cellulose R10 enzymes, which released more protoplasts in the digestion treatment.</p>
+<p>Protoplast quality is important for successful transient transformation. To calculate the efficiency of transformation, pA7‐GFP plasmid was mixed with protoplasts and cultured in the dark at room temperature for 18 h. The number of GFP‐ﬂuorescing cells was checked using a ﬂuorescence microscope (Figure <a href="#pbi13611-sup-0001" class="usa-link">S1</a>). The transfection efficiency in cannabis protoplasts was calculated as the percentage of GFP‐ﬂuorescing cells /intact cells, which was 63% on average (the basic requirement for successful transient transformation was &gt;40% for most plant species).</p>
+<p>To demonstrate the genetic transformation system useful to generate genome‐edited plants, six candidates of target sites within <em>CsPDS1</em> were selected using the online software CHOPCHOP (<a href="https://chopchop.cbu.uib.no/" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://chopchop.cbu.uib.no/</a>). Since the <em>CsGRF3–CsGIF1</em> chimera resulted in higher regeneration efficiency than other combinations, each of the targeting portions was synthesized as a pair of reverse complementary oligonucleotides and assembled into the genome‐editing vector pG41sg harbouring <em>CsGRF3–CsGIF1</em> chimera. The constructs expressing gRNA targeting the <em>CsPDS1</em> gene were co‐transformed into protoplasts and incubated in the dark for 48 h. Protoplast DNA was isolated and the genomic regions of <em>CsPDS1</em> gene were amplified by PCR and detect the mutations efficiency by deep sequencing (Figure <a href="#pbi13611-fig-0004" class="usa-link">4</a>). The mutagenesis efficiencies for guide3, guide4 and guide5 were higher compared with efficiencies for guide1, guide2 and guide6. Based on the editing results in protoplast, higher efficiency of targeted mutagenesis can be achieved in Exon 6 of <em>CsPDS1</em> because the targeting sites of guide3, guide4 and guide5 were all located in this region.</p>
+<figure class="fig xbox font-sm" id="pbi13611-fig-0004"><h4 class="obj_head">Figure 4.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><img class="graphic" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10df/11385967/9bf0aa894fab/PBI-19-1979-g003.jpg" loading="lazy" id="jats-graphic-7" height="411" width="709" alt="Figure 4"></p>
+<div class="p text-right font-secondary"><a href="figure/pbi13611-fig-0004/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Indel efficiency of pG41sg at the six targeting sites of <em>CsPDS1</em>. The empty pG41sg vector was used as a control. The indel frequency was calculated as the percentage of successful mutations for each target sites, which were 7.55% for guide3, 3.43% for guide4 and 4.72% for guide5.</p></figcaption></figure></section><section id="pbi13611-sec-0005"><h3 class="pmc_sec_title">Characterization of the <em>CsPDS1</em>‐targeted editing in <em>C</em>. <em>sativa</em> transformants</h3>
+<p>The guide3 sgRNA fused to pG41sg was delivered to the immature embryo hypocotyls (D15) via infection by AGL1. We isolated about 3950 DMG278 hypocotyls for transformation. After a 4‐week incubation in a callus induction medium, a total of 1185 immature hypocotyls developed embryogenic calli. Then we transferred these calli to the regeneration medium containing 50 mg/L kanamycin. A total of 161 calli produced shoots after a 5‐week incubation under continuous light, and the regeneration efficiency of embryogenic calli was 13.59% for DMG278. Of these shoots, 83 had chimeric tissues with the upper shoot having green leaves, whereas the lower shoot displayed white and developmental abnormalities. Only four calli produced white seedlings, approximately 2.48% of the generated shoots and 0.101% of the dissected hypocotyls. All these shoots did not form full plants probably because of the CsPDS1 inactivation, and their vitality was compromised by a lack of chlorophyll (Figure <a href="#pbi13611-fig-0005" class="usa-link">5a, b and c</a>). Nevertheless, we extracted the genomic DNA from the four white shoots and chimeric shoots including both green and white leaves. Samples were sequenced to identify any insertions or deletions within the targeted region. There were six kinds of deletions observed in the samples (from 4 bp to 17 bp in length), which caused frameshift mutations in <em>CsPDS1</em> (Figure <a href="#pbi13611-fig-0005" class="usa-link">5d and e</a>). The six kinds of deletions were found in both white shoots and chimeric shoots, and there was no significant difference in mutagenesis efficiencies between them.</p>
+<figure class="fig xbox font-sm" id="pbi13611-fig-0005"><h4 class="obj_head">Figure 5.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><img class="graphic" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10df/11385967/baca091f4879/PBI-19-1979-g002.jpg" loading="lazy" id="jats-graphic-9" height="630" width="709" alt="Figure 5"></p>
+<div class="p text-right font-secondary"><a href="figure/pbi13611-fig-0005/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Representative images of gene‐edited shoots and sequencing results of indels at the desired place. (a) A gene‐edited shoot germinated from the callus that displayed photobleaching. (b and c) Chimeric tissues with the upper shoot green and lower shoot white (red arrows) as well as white shoots in developmental abnormalities (white arrows). (d) and (e) Sequencing results of indels at the desired place and their chromatograms. The black arrows indicate the mutations. The red line denotes the guide3‐sgRNA target sequence. The blue line denotes the protospacer adjacent motif (PAM) sequence serves as a binding signal for Cas9.</p></figcaption></figure><p>When estimating different developmental regulators on shoot organogenesis, pG41sg empty vector was delivered to the immature embryo hypocotyls via infection by AGL1. The first fully expanded leaf was sampled from each of the regenerated shoots after a 6‐week incubation and identified with the primers (AtU6‐F1/R1) specific to the T‐DNA sequence of pG41sg. We finally obtained one transgenic seedling G41‐1 carrying the T‐DNA fragment. To propagate more seedlings and confirm whether the pG41sg T‐DNA has been inserted into the G41‐1 genome stably, the G41‐1 stem was cut into pieces and incubated in the regeneration medium containing kanamycin for 6 weeks. There were five shoots germinated from the stem explants of G41‐1 (Figure <a href="#pbi13611-fig-0006" class="usa-link">6a</a>), which were transferred to the root‐induction medium and then planted in soil condition. The first fully expanded leaves were sampled every three weeks for the transgenic screening (Figure <a href="#pbi13611-fig-0006" class="usa-link">6b</a>). Meanwhile, eleven chimeric seedlings which contained mutagenesis at <em>CsPDS1</em> were randomly selected and transferred to the soil after incubation in the root‐induction medium. Their first fully expanded leaves were sampled for screening too. In the second round of screening, the eleven chimeric plants were identified as non‐transgenic plants based on the PCR result (Figure <a href="#pbi13611-fig-0006" class="usa-link">6c</a>), which means these plants have lost the T‐DNA fragment in new leaves. However, the five shoots germinated from G41‐1 were identified as transgenic based on transgenic‐specific PCR results with two pairs of primers AtU6‐F1/R1 and CsCAS9F2/R2 (Figure <a href="#pbi13611-fig-0006" class="usa-link">6d and e</a>), which confirmed the stable T‐DNA insertion within the cannabis genome.</p>
+<figure class="fig xbox font-sm" id="pbi13611-fig-0006"><h4 class="obj_head">Figure 6.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><img class="graphic" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10df/11385967/ce509759153f/PBI-19-1979-g001.jpg" loading="lazy" id="jats-graphic-11" height="591" width="709" alt="Figure 6"></p>
+<div class="p text-right font-secondary"><a href="figure/pbi13611-fig-0006/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Transgenic cannabis seedlings and results of transgenic screening. (a) Shoots regenerated from stems of the transgenic seedling. In the estimation of developmental regulator effects on shoot organogenesis, we obtained one transgenic seedling G41‐1 carrying the pG41sg T‐DNA fragment. Then G41‐1 stem was cut into pieces and incubated in the regeneration medium containing kanamycin for 6 weeks. There are five shoots germinated from the stem explant. (b) A transgenic seedling regenerated from the G41‐1 stem. All the five shoots were transferred to soil after a 5‐week incubation in the root‐induction medium. The first fully expanded leaves were sampled every three weeks when growing in greenhouse. Red circle: sampling in the first round of screening; white circle: sampling in the second round of screening. (c) Transgenic‐specific PCR result of the chimeric plants containing mutagenesis at <em>CsPDS1</em>. Eleven chimeric seedlings (chim1‐11) were randomly selected and transferred to soil after incubation in the root‐induction medium. Since their first fully expanded leaves lost the T‐DNA fragment, these plants were identified as no transgenic with primers AtU6‐F1/R1 in the second round of screening. P: DNA sample of pG41sg, N: DNA sample of no transgenic plant; white arrows: specific PCR product. (d) and (e) Transgenic‐specific PCR results of the five seedlings regenerated from G41‐1. In the second round of screening, these plants (Cas9‐1 to Cas 9‐5) were identified as transgenic plants based on transgenic‐specific PCR results amplified with primers AtU6‐F1/R1 and CsCAS9F2/R2.</p></figcaption></figure></section></section><section id="pbi13611-sec-0006"><h2 class="pmc_sec_title">Discussion</h2>
+<p>Tissue culture has been widely used to advance plant research by transgenesis and gene‐editing technologies (Azeez and Busov, <a href="#pbi13611-bib-0003" class="usa-link" aria-describedby="pbi13611-bib-0003">2021</a>; Li <em>et al</em>., <a href="#pbi13611-bib-0014" class="usa-link" aria-describedby="pbi13611-bib-0014">2020</a>; Liu <em>et al</em>., <a href="#pbi13611-bib-0015" class="usa-link" aria-describedby="pbi13611-bib-0015">2019</a>). Although successful regeneration of transformed seedlings has been reported in some species, it is still the bottleneck for the <em>C</em>. <em>sativa</em> to produce transgenic or gene‐edited plants. Only the cannabis hairy roots were verified to be susceptible to the infection with <em>A</em>. <em>rhizogenes</em>, which induced transformed root cultures in a short time (Wahby <em>et al</em>., <a href="#pbi13611-bib-0023" class="usa-link" aria-describedby="pbi13611-bib-0023">2013</a>). Until recently, the transient GUS expression and PDS gene silencing were detected in cannabis tissues using agrobacterium or agroinfiltration mediated transformation (Deguchi <em>et al</em>., <a href="#pbi13611-bib-0007" class="usa-link" aria-describedby="pbi13611-bib-0007">2020</a>; Sorokin <em>et al</em>., <a href="#pbi13611-bib-0022" class="usa-link" aria-describedby="pbi13611-bib-0022">2020</a>). A nanoparticle‐based method was used to overexpress multiple transgenes in the transient transformation of Cannabis, as an effective carrier to introduce foreign DNA fragments simultaneously (Ahmed <em>et al</em>., <a href="#pbi13611-bib-0001" class="usa-link" aria-describedby="pbi13611-bib-0001">2021</a>). Although transient expression analysis can be applied to study the gene function, stable transformation protocols are still the foundation to enhance cannabis phenotypes through genetic engineering.</p>
+<p>Calli derived from mature plants or immature embryos were two main sources for <em>Agrobacterium</em>‐mediated transformation in plant species (Debernardi <em>et al</em>., <a href="#pbi13611-bib-0006" class="usa-link" aria-describedby="pbi13611-bib-0006">2020</a>; Kong <em>et al</em>., <a href="#pbi13611-bib-0012" class="usa-link" aria-describedby="pbi13611-bib-0012">2020</a>). Cannabis explants from seedlings or plants have already been demonstrated to be less susceptible to transformation, which can only be used for transient expression (Deguchi <em>et al</em>., <a href="#pbi13611-bib-0007" class="usa-link" aria-describedby="pbi13611-bib-0007">2020</a>; Sorokin <em>et al</em>., <a href="#pbi13611-bib-0022" class="usa-link" aria-describedby="pbi13611-bib-0022">2020</a>). Our focus turned to the calli developed from immature embryos, since embryogenic calli provided a large number of embryogenic competent cells that were extremely susceptible to transformation by <em>Agrobacterium</em> (Leelavathi <em>et al</em>., <a href="#pbi13611-bib-0013" class="usa-link" aria-describedby="pbi13611-bib-0013">2004</a>). In our protocol, an additional step of 4‐week incubation in callus induction was applied to explants after infection treatment. To estimate the effect of explant types on embryogenic calli induction, the embryo hypocotyls of immature grains were collected approximately 10 days, 15 days, 20 days and 25 days after anthesis. True leaves, cotyledons and hypocotyls from seedlings were dissected and cultured as control since these explants showed high regeneration ability in the previous reports (Chaohua <em>et al</em>., <a href="#pbi13611-bib-0005" class="usa-link" aria-describedby="pbi13611-bib-0005">2016</a>; Galán‐Ávila <em>et al</em>., <a href="#pbi13611-bib-0010" class="usa-link" aria-describedby="pbi13611-bib-0010">2020</a>). In the pre‐experiment, we also estimated the callus induction rate of immature cotyledons, the regeneration rate was lower than the seedling explants, the relevant data was not mentioned here. After a 4‐week incubation, hypocotyls collected 15 days after anthesis (D15) produced more calli as well as more shoots compared to other explants.</p>
+<p>Since the shoot regeneration efficiency also varied greatly among diﬀerent cannabis varieties (Sorokin <em>et al</em>., <a href="#pbi13611-bib-0022" class="usa-link" aria-describedby="pbi13611-bib-0022">2020</a>), we estimated the genotype effect of one hundred cannabis varieties obtained from the national germplasm bank. These varieties were planted in field conditions, and their D15 hypocotyls were dissected to compare the regeneration differences. In Figure <a href="#pbi13611-fig-0002" class="usa-link">2</a>, significant differences can be observed between the varieties evaluated. DMG278 achieved the highest shoot induction rate of 7.09%, which was higher than for YUNMA7 (6.12%). Based on the effect estimation of different explant types and cannabis varieties, D15 hypocotyls from DMG278 were selected as the model explant for the <em>Agrobacterium</em>‐mediated transformation.</p>
+<p>For plant species recalcitrant to regeneration, it has been observed that overexpression of developmental regulators showed positive influences on shoot organogenesis (Debernardi <em>et al</em>., <a href="#pbi13611-bib-0006" class="usa-link" aria-describedby="pbi13611-bib-0006">2020</a>; Kong <em>et al</em>., <a href="#pbi13611-bib-0012" class="usa-link" aria-describedby="pbi13611-bib-0012">2020</a>; Lowe <em>et al</em>., <a href="#pbi13611-bib-0017" class="usa-link" aria-describedby="pbi13611-bib-0017">2018</a>). To increase the regeneration efficiency of cannabis calli, we cloned the cannabis candidate genes homologous to <em>ZmWUS2</em>, <em>NbSTM</em>, <em>NbIPT</em>, <em>OsGRF4</em> and <em>AtGIF1</em>, which were effective in several monocot and dicot plant species (Debernardi <em>et al</em>., <a href="#pbi13611-bib-0006" class="usa-link" aria-describedby="pbi13611-bib-0006">2020</a>; Kong <em>et al</em>., <a href="#pbi13611-bib-0012" class="usa-link" aria-describedby="pbi13611-bib-0012">2020</a>; Lowe <em>et al</em>., <a href="#pbi13611-bib-0017" class="usa-link" aria-describedby="pbi13611-bib-0017">2018</a>), designed ten combinations and delivered these chimeras into D15 hypocotyls. The average regeneration efficiencies for the <em>CsGRF3–CsGIF1</em> chimera and four chimeras harbouring <em>CsWUS4</em> were 1.7‐fold higher than that for the empty vector control, while no significant differences were observed between <em>CsSBH1</em>, <em>CsIPT3</em>, <em>CsSBH1</em>‐<em>CsIPT3</em> and control. The <em>CsGRF3–CsGIF1</em> chimera performed the best among all the regulators, with the regeneration efficiency of 13.43% compared to 7.88% in the control. To create more editing events, we assessed the mutagenesis efficiency of the six targeted regions designed for <em>CsPDS1</em> by transient expression in the cannabis protoplasts. The mutagenesis efficiency for guide3 was 7.55%, significantly higher than that of the other regions.</p>
+<p>In this study, we increased the regeneration efficiency by optimizing the explant, variety, developmental regulator and gene‐editing tool. There were finally four calli generated white seedlings with <em>CsPDS1</em> edited, which account for 2.48% of the generated shoots. Most of the transgenic shoots were chimeric tissues, that lost the T‐DNA fragment of pG41sg in new leaves when growing in the greenhouse two months later. Fortunately, we obtained one transgenic plant carrying the T‐DNA fragment when estimating the <em>CsGRF3–CsGIF1</em> chimera effect on regeneration frequency. To confirm whether the pG41sg T‐DNA has been inserted into the plant genome stably, we propagated the transgenic plant by direct <em>in vitro</em> regeneration from the stem explants. Two pairs of primers were prepared identifying the transgenic plants, which were designed to amplify the regions near the two ends of the T‐DNA insertion. The T‐DNA was identified as integrating with the genome by these specific primers in five regenerated seedlings, which were planted in greenhouse. After 6 weeks, the T‐DNA can still be identified by PCR from the new leaves on the top, conforming to the stable T‐DNA insertion that can be transmitted into progeny.</p>
+<p>In conclusion, this study constitutes the first report of successful gene editing as well as stable transformation in <em>C</em>. <em>sativa</em>. By optimizing the explant, variety, developmental regulator and gene‐editing tool, we developed a protocol for <em>Agrobacterium</em>‐mediated transformation in <em>C</em>. <em>sativa</em>. This method therefore can play an important role in functional genomics of cannabis genes and release the real potential of gene editing in the production of improved cannabis varieties.</p></section><section id="pbi13611-sec-0007"><h2 class="pmc_sec_title">Methods</h2>
+<section id="pbi13611-sec-0008"><h3 class="pmc_sec_title">Plant material and growth conditions</h3>
+<p>One hundred cannabis varieties were analyzed in this study, which were obtained from the materials stored in the national germplasm bank of Institute of Bast Fiber Crops (IBFC), Chinese Academy of Agriculture Sciences. Most of these varieties were collected from 21 provinces of China, and 19 commercial cultivars from US, Canada, Germany, France, Russia, Ukraine, Poland, Morocco, Netherlands, and Slovenia. Field experiments were conducted during the growing season in 2020 at the Changsha Agro‐Eco‐Experimental Station of the IBFC, located in the south‐central part of China (28°20’ N latitude, 112°69’ E longitude, 63 m elevation). All the varieties were randomly sown in the plots (24 m<sup>2</sup> for each pot), with four replications. Immature grains were collected from spikes approximately 10 days, 15 days, 20 days and 25 days after anthesis, sterilized for 25 min in the solution of 2% (vol/vol) sodium hypochlorite followed by 5 min in 75% (vol/vol) ethanol, and washed three times with the sterilized water. Immature embryo hypocotyls (about 0.6 cm in length) were isolated with scalpels and collected for transformation. Mature seeds from hemp strain YUNMA7, a widely planted cultivar in YUNNAN (China), were surface sterilized and germinated in plastic petri dishes containing the autoclaved Murashige &amp; Skoog (MS) medium. True leaves, cotyledons and hypocotyls were dissected from 17‐days‐old seedlings and employed as explants. The recipes of all the mediums mentioned in regeneration and transformation were listed in Table <a href="#pbi13611-sup-0001" class="usa-link">S1</a>.</p></section><section id="pbi13611-sec-0009"><h3 class="pmc_sec_title">
+<em>Agrobacterium</em> strains and binary plasmids</h3>
+<p>
+<em>Agrobacterium tumefaciens</em> strain (AGL1) carrying a nopaline Ti plasmid pTiBo542DT was used in our study (Biomed <sup>®</sup>, Beijing, China). The coding regions of <em>CsWUS4</em>, <em>CsSBH1</em>, <em>CsIPT3</em>, <em>CsGRF3</em> and <em>CsGIF1</em> were amplified using cDNA generated from YUNMA7 leaves (Figure <a href="#pbi13611-sup-0001" class="usa-link">S2</a> and Table <a href="#pbi13611-sup-0001" class="usa-link">S2</a>). To develop the vectors coexpressing developmental regulators (DRs) and genome‐editing components, PCR fragments were cloned into pDONR vector with the MultiSite Gateway Pro Plus Kit (Invitrogen, Carlsbad, CA) and overlapped to generate the chimeras. The CaMV 35S promoter and NOS terminator for controlling the gene expression were cloned and assembled before and after the developmental regulators by In‐fusion (Takara Bio USA) into the pKSE401 binary vector from the laboratory of Dr. Chen (China Agricultural University), which contains a codon‐optimized Cas9 and gRNA scaffold for insertion of target sequence (Addgene, 6220). These modified pKSE401vectors were transformed into AGL1 to evaluate their effect on shoot regeneration of diﬀerent cannabis cultivars. After validating the regeneration rate in different vector treatments, we assembled the gRNA construct targeting the coding region of <em>CsPDS1</em> gene into the modified vector providing the best performance in shoot regeneration.</p></section><section id="pbi13611-sec-0010"><h3 class="pmc_sec_title">Cloning of <em>CsPDS1</em> fragment and selection of CRISPR/Cas9 target sites</h3>
+<p>Genomic DNA was extracted from seedlings according to a modified CTAB method (Dvorak <em>et al</em>., <a href="#pbi13611-bib-0009" class="usa-link" aria-describedby="pbi13611-bib-0009">1988</a>). Primers PDS‐F6 and PDS‐R6 were designed to amplify the fragments of <em>CsPDS1</em> (Table <a href="#pbi13611-sup-0001" class="usa-link">S2</a>). The PCR amplification was completed with TIANGEN DNA polymerase (Beijing, China) in a total volume of 50 μL, with the reaction conditions: 94 °C for 5 min; 35 cycles of 94 °C for 10 s, 58 °C for 10 s, and 72 °C for 50 s; and 72 °C for 10 min. The PCR products were purified with the Gel Extraction Kit (TIANGEN Scientific, China), and then analyzed by Sanger sequencing (Sangon Biotech, China). All possible CRISPR target sites within <em>CsPDS1</em> were identified with the online software CHOPCHOP (<a href="https://chopchop.cbu.uib.no/" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://chopchop.cbu.uib.no/</a>). Six candidates of CRISPR target sites were selected based on the genomic location and potential off‐target scores. Each of the targeting portions was synthesized as a pair of reverse complementary oligonucleotides, assembled into the <em>CsGRF3–CsGIF1–</em>pKSE401 (pG41sg) vector by GoldenGate reaction assembly (NEB, Hitchin, UK). These constructs were transformed into <em>Agrobacterium</em> strain AGL1 separately.</p></section><section id="pbi13611-sec-0011"><h3 class="pmc_sec_title">Assessment of the mutagenesis efficiency</h3>
+<p>Protoplast isolation and transfection were performed following Borgato <em>et al</em>. (<a href="#pbi13611-bib-0004" class="usa-link" aria-describedby="pbi13611-bib-0004">2007</a>) for Solanaceae. The protoplasts were transferred into plates, which were precoated with 1% BSA solution. To calculate the efficiency of transformation, five micrograms of pA7‐GFP plasmid (Katrin Czempinski, Potsdam University, Germany) in 15 μL volume was mixed with 50 μL of protoplasts gently. Protoplasts were cultured in the dark at room temperature for 18 h. The GFP signal was estimated using the Leica DMI8 inverted fluorescent microscope with the excitation‐wavelength 488 nm. The pG41sg constructs expressing gRNA targeting the <em>CsPDS1</em> gene were co‐transformed into protoplasts and incubated in the dark for 48 h. For DNA isolation, protoplasts were pooled by centrifugation and extracted using a Plant Genomic DNA Extraction Kit (TIANGEN Scientific, China). Genomic regions of <em>CsPDS1</em> gene harbouring the gRNA targets were PCR amplified and detect the efficiency of mutation by deep sequencing which was performed following Kang <em>et al</em>. (<a href="#pbi13611-bib-0011" class="usa-link" aria-describedby="pbi13611-bib-0011">2018</a>).</p></section><section id="pbi13611-sec-0012"><h3 class="pmc_sec_title">
+<em>Agrobacterium</em>‐mediated plant transformation</h3>
+<p>
+<em>Agrobacterium</em> strain containing the DR‐modified vector was used to infect the explants. Single colony of AGL1 was selected and grown in YEP liquid media containing 50 mg/L kanamycin and 20 mg/L rifampicin in an incubator shaker 200 rpm overnight at 28°C. A. tumefaciens culture was centrifuged at 3500<strong>
+<em>g</em>
+</strong> for 30 min at room temperature. The supernatant was removed and the pellet was resuspended using MS media with 7.5 m<span class="font-variant-small-caps">m</span> MgCl<sub>2</sub>. The culture was centrifuged at 2000 x <em>g</em> and resuspended using liquid MS media with 5 m<span class="font-variant-small-caps">m</span> MgSO4 (pH = 5.4) to reach the final OD600 = 0.1. The explants were infected for 40 min and then transferred to the MS medium. After 3 days of cultivation, the explants were rinsed in sterile water three times and transferred to the selection medium which was renewed every two weeks. Kanamycin‐resistant shoots were cut and transferred to the root‐induction medium.</p></section><section id="pbi13611-sec-0013"><h3 class="pmc_sec_title">Molecular analysis and detection of mutations</h3>
+<p>Two pairs of primers (AtU6‐F1/R1 and CsCAS9F2/R2) were used to identify transgenic plants containing the T‐DNA fragment fused into the genome (Table <a href="#pbi13611-sup-0001" class="usa-link">S2</a>). The positive plants were deep sequenced to identify any insertions or deletions within the targeted region. The phenotypes of the transgenic plants were photographed and described in the results.</p></section><section id="pbi13611-sec-0014"><h3 class="pmc_sec_title">Data analysis</h3>
+<p>Factors evaluated in this study were explant, variety and developmental regulator. Each factor was analyzed using eight biological replicates at least, and each biological replicate consisted explants from 10 to 15 different seedlings of the same variety. To evaluate significant differences between factors, Kruskal–Wallis non‐parametric test and pairwise Wilcoxon test (<em>P</em> &lt; 0.01) were used. Statistical analysis was carried out using the SPSS statistical package (version 16.0; SPSS Inc., Chicago, IL).</p></section></section><section id="pbi13611-sec-0016"><h2 class="pmc_sec_title">Conflict of interest</h2>
+<p>The authors declare no conflict of interest.</p></section><section id="pbi13611-sec-0017"><h2 class="pmc_sec_title">Author contributions</h2>
+<p>X.Z. designed the experiments, analyzed the results. X.Z. and L.L. wrote the manuscript. G.X. and C. C. participated in most of the experiments under X.Z.’s direction. The project was conceived, planned and supervised by Q.T. and J.S. Other authors helped with the field work. All authors discussed the results and provided feedback on the manuscript.</p></section><section id="sec17"><h2 class="pmc_sec_title">Supporting information</h2>
+<section class="sm xbox font-sm" id="pbi13611-sup-0001"><div class="caption p">
+<p>
+<strong>Table S1</strong> Recipes.</p>
+<p>
+<strong>Table S2</strong> Primers used in this study.</p>
+<p>
+<strong>Figure S1</strong> PEG‐mediated transformation of cannabis protoplasts.</p>
+<p>
+<strong>Figure S2</strong> cDNA sequences of the developmental regulators (<em>CsWUS4</em>, <em>CsSBH1</em>, <em>CsIPT3</em>, <em>CsGRF3</em> and <em>CsGIF1</em>) and <em>CsPDS1</em>.</p>
+</div>
+<div class="media p"><div class="caption">
+<a href="/articles/instance/11385967/bin/PBI-19-1979-s001.docx" data-ga-action="click_feat_suppl" class="usa-link">PBI-19-1979-s001.docx</a><sup> (726.3KB, docx) </sup>
+</div></div></section></section><section id="pbi13611-sec-0015" class="ack"><h2 class="pmc_sec_title">Acknowledgements</h2>
+<p>We appreciate Dr. Katrin Czempinski (Potsdam University, Germany) for providing the pA7‐GFP plasmid. This research was supported by grants from the Agricultural Science and Technology Innovation Program of the Chinese Academy of Agricultural Science [grant number ASTIP‐IBFSC01] and Basic Research Foundation of IBFC.</p></section><section id="notes1"><p>
+
+
+Zhang, X.
+, 
+Xu, G.
+, 
+Cheng, C.
+, 
+Lei, L.
+, 
+Sun, J.
+, 
+Xu, Y.
+, 
+Deng, C.
+, 
+Dai, Z.
+, 
+Yang, Z.
+, 
+Chen, X.
+, 
+Liu, C.
+, 
+Tang, Q.
+and 
+Su, J.
+ (2021) Establishment of an <em>Agrobacterium</em>‐mediated genetic transformation and CRISPR/Cas9‐mediated targeted mutagenesis in Hemp (<em>Cannabis Sativa</em> L.). Plant Biotechnol J, 10.1111/pbi.13611
+
+</p>
+<section id="pbi13611-ntgp-0001" class="fn-group"><div class="fn-group p font-secondary-light font-sm"><div class="fn p" id="pbi13611-note-0001"><p>
+<sup>†</sup>These authors contributed equally to this article.</p></div></div></section></section><section id="_ci93_" lang="en" class="contrib-info"><h2 class="pmc_sec_title">Contributor Information</h2>
+<p>Qing Tang, Email: sujianguang@caas.cn.</p>
+<p>Jianguang Su, Email: zhangxiaoyuyyy@gmail.com.</p></section><section id="pbi13611-bibl-0001" class="ref-list"><h2 class="pmc_sec_title">References</h2>
+<section id="pbi13611-bibl-0001_sec2"><ol class="ref-list font-sm">
+<li id="pbi13611-bib-0001">
+<cite>
+
+Ahmed, S.
+, 
+Gao, X.
+, 
+Jahan, M.A.
+, 
+Adams, M.
+, 
+Wu, N.
+ and 
+Kovinich, N.
+ (2021) Nanoparticle‐based genetic transformation of <em>Cannabis sativa</em>
+. J. Biotechnol.
+326, 48–51.
+</cite> [<a href="https://doi.org/10.1016/j.jbiotec.2020.12.014" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/33373624/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J.%20Biotechnol.&amp;title=Nanoparticle%E2%80%90based%20genetic%20transformation%20of%20Cannabis%20sativa&amp;author=S.%20Ahmed&amp;author=X.%20Gao&amp;author=M.A.%20Jahan&amp;author=M.%20Adams&amp;author=N.%20Wu&amp;volume=326&amp;publication_year=2021&amp;pages=48-51&amp;pmid=33373624&amp;doi=10.1016/j.jbiotec.2020.12.014&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0002">
+<cite>
+
+Aliekperova, N.
+, 
+Kosyachenko, К.
+ and 
+Kaniura, O.
+ (2020) Perspectives on formation of medical cannabis market in Ukraine based on holistic approach. J. Cannabis Res.
+2, 1–19.</cite> [<a href="https://doi.org/10.1186/s42238-020-00044-y" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7819340/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/33526139/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J.%20Cannabis%20Res.&amp;title=Perspectives%20on%20formation%20of%20medical%20cannabis%20market%20in%20Ukraine%20based%20on%20holistic%20approach&amp;author=N.%20Aliekperova&amp;author=%D0%9A.%20Kosyachenko&amp;author=O.%20Kaniura&amp;volume=2&amp;publication_year=2020&amp;pages=1-19&amp;pmid=33526139&amp;doi=10.1186/s42238-020-00044-y&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0003">
+<cite>
+
+Azeez, A.
+ and 
+Busov, V.
+ (2021) CRISPR/Cas9‐mediated single and biallelic knockout of poplar <em>STERILE</em>
+<em>APETALA</em>
+<em>(PopSAP)</em> leads to complete reproductive sterility. Plant Biotechnol. J.
+19, 23–25.
+</cite> [<a href="https://doi.org/10.1111/pbi.13451" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7769228/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/32663371/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Plant%20Biotechnol.%20J.&amp;title=CRISPR/Cas9%E2%80%90mediated%20single%20and%20biallelic%20knockout%20of%20poplar%20STERILE%20APETALA%20(PopSAP)%20leads%20to%20complete%20reproductive%20sterility&amp;author=A.%20Azeez&amp;author=V.%20Busov&amp;volume=19&amp;publication_year=2021&amp;pages=23-25&amp;pmid=32663371&amp;doi=10.1111/pbi.13451&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0004">
+<cite>
+
+Borgato, L.
+, 
+Pisani, F.
+ and 
+Furini, A.
+ (2007) Plant regeneration from leaf protoplasts of <em>Solanum</em>
+<em>virginianum</em> L. (Solanaceae). Plant Cell Tissue Organ Cult.
+88, 247–252.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=Plant%20Cell%20Tissue%20Organ%20Cult.&amp;title=Plant%20regeneration%20from%20leaf%20protoplasts%20of%20Solanum%20virginianum%20L.%20(Solanaceae)&amp;author=L.%20Borgato&amp;author=F.%20Pisani&amp;author=A.%20Furini&amp;volume=88&amp;publication_year=2007&amp;pages=247-252&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0005">
+<cite>
+
+Cheng, C.
+, 
+Zang, G.
+, 
+Zhao, L.
+, 
+Gao, C.
+, 
+Tang, Q.
+, 
+Chen, J.
+, 
+Guo, X.
+
+<em>et al</em>. (2016) A rapid shoot regeneration protocol from the cotyledons of hemp (<em>Cannabis sativa</em> L.). Ind. Crops Prod.
+83, 61–65.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=Ind.%20Crops%20Prod.&amp;title=A%20rapid%20shoot%20regeneration%20protocol%20from%20the%20cotyledons%20of%20hemp%20(Cannabis%20sativa%20L.)&amp;author=C.%20Cheng&amp;author=G.%20Zang&amp;author=L.%20Zhao&amp;author=C.%20Gao&amp;author=Q.%20Tang&amp;volume=83&amp;publication_year=2016&amp;pages=61-65&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0006">
+<cite>
+
+Debernardi, J.M.
+, 
+Tricoli, D.M.
+, 
+Ercoli, M.F.
+, 
+Hayta, S.
+, 
+Ronald, P.
+, 
+Palatnik, J.F.
+ and 
+Dubcovsky, J.
+ (2020) A GRF–GIF chimeric protein improves the regeneration efficiency of transgenic plants. Nat. Biotechnol.
+38, 1274–1279.
+</cite> [<a href="https://doi.org/10.1038/s41587-020-0703-0" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7642171/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/33046875/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nat.%20Biotechnol.&amp;title=A%20GRF%E2%80%93GIF%20chimeric%20protein%20improves%20the%20regeneration%20efficiency%20of%20transgenic%20plants&amp;author=J.M.%20Debernardi&amp;author=D.M.%20Tricoli&amp;author=M.F.%20Ercoli&amp;author=S.%20Hayta&amp;author=P.%20Ronald&amp;volume=38&amp;publication_year=2020&amp;pages=1274-1279&amp;pmid=33046875&amp;doi=10.1038/s41587-020-0703-0&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0007">
+<cite>
+
+Deguchi, M.
+, 
+Bogush, D.
+, 
+Weeden, H.
+, 
+Spuhler, Z.
+, 
+Potlakayala, S.
+, 
+Kondo, T.
+, 
+ZhanyuanJ, Z.
+
+<em>et al</em>. (2020) Establishment and optimization of a hemp (<em>Cannabis sativa</em> L.) agroinfiltration system for gene expression and silencing studies. Sci. Rep.
+10, 1–11.
+</cite> [<a href="https://doi.org/10.1038/s41598-020-60323-9" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7044430/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/32103049/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Sci.%20Rep.&amp;title=Establishment%20and%20optimization%20of%20a%20hemp%20(Cannabis%20sativa%20L.)%20agroinfiltration%20system%20for%20gene%20expression%20and%20silencing%20studies&amp;author=M.%20Deguchi&amp;author=D.%20Bogush&amp;author=H.%20Weeden&amp;author=Z.%20Spuhler&amp;author=S.%20Potlakayala&amp;volume=10&amp;publication_year=2020&amp;pages=1-11&amp;pmid=32103049&amp;doi=10.1038/s41598-020-60323-9&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0008">
+<cite>
+
+Duan, P.
+, 
+Ni, S.
+, 
+Wang, J.
+, 
+Zhang, B.
+, 
+Xu, R.
+, 
+Wang, Y.
+, 
+Chen, H.
+
+<em>et al</em>. (2015) Regulation of <em>OsGRF4</em> by OsmiR396 controls grain size and yield in rice. Nat. Plants,
+2, 1–5.</cite> [<a href="https://doi.org/10.1038/nplants.2015.203" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27250749/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nat.%20Plants,&amp;title=Regulation%20of%20OsGRF4%20by%20OsmiR396%20controls%20grain%20size%20and%20yield%20in%20rice&amp;author=P.%20Duan&amp;author=S.%20Ni&amp;author=J.%20Wang&amp;author=B.%20Zhang&amp;author=R.%20Xu&amp;volume=2&amp;publication_year=2015&amp;pages=1-5&amp;pmid=27250749&amp;doi=10.1038/nplants.2015.203&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0009">
+<cite>
+
+Dvorak, J.
+, 
+McGuire, P.E.
+ and 
+Cassidy, B.
+ (1988) Apparent sources of the A genomes of wheats inferred from polymorphism in abundance and restriction fragment length of repeated nucleotide sequences. Genome,
+30, 680–689.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=Genome,&amp;title=Apparent%20sources%20of%20the%20A%20genomes%20of%20wheats%20inferred%20from%20polymorphism%20in%20abundance%20and%20restriction%20fragment%20length%20of%20repeated%20nucleotide%20sequences&amp;author=J.%20Dvorak&amp;author=P.E.%20McGuire&amp;author=B.%20Cassidy&amp;volume=30&amp;publication_year=1988&amp;pages=680-689&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0010">
+<cite>
+
+Galán‐Ávila, A.
+, 
+García‐Fortea, E.
+, 
+Prohens, J.
+ and 
+Herraiz, F.J.
+ (2020) Development of a direct in vitro plant regeneration protocol from <em>Cannabis sativa</em> L. seedling explants: developmental morphology of shoot regeneration and ploidy level of regenerated plants. Front. Plant Sci.
+11, 645.
+</cite> [<a href="https://doi.org/10.3389/fpls.2020.00645" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7326123/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/32670304/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Front.%20Plant%20Sci.&amp;title=Development%20of%20a%20direct%20in%C2%A0vitro%20plant%20regeneration%20protocol%20from%20Cannabis%20sativa%20L.%20seedling%20explants:%20developmental%20morphology%20of%20shoot%20regeneration%20and%20ploidy%20level%20of%20regenerated%20plants&amp;author=A.%20Gal%C3%A1n%E2%80%90%C3%81vila&amp;author=E.%20Garc%C3%ADa%E2%80%90Fortea&amp;author=J.%20Prohens&amp;author=F.J.%20Herraiz&amp;volume=11&amp;publication_year=2020&amp;pages=645&amp;pmid=32670304&amp;doi=10.3389/fpls.2020.00645&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0011">
+<cite>
+
+Kang, B.C.
+, 
+Yun, J.Y.
+, 
+Kim, S.T.
+, 
+Shin, Y.
+, 
+Ryu, J.
+, 
+Choi, M.
+, 
+Woo, J.W.
+
+<em>et al</em>. (2018) Precision genome engineering through adenine base editing in plants. Nat. Plants,
+4, 427–431.
+</cite> [<a href="https://doi.org/10.1038/s41477-018-0178-x" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29867128/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nat.%20Plants,&amp;title=Precision%20genome%20engineering%20through%20adenine%20base%20editing%20in%20plants&amp;author=B.C.%20Kang&amp;author=J.Y.%20Yun&amp;author=S.T.%20Kim&amp;author=Y.%20Shin&amp;author=J.%20Ryu&amp;volume=4&amp;publication_year=2018&amp;pages=427-431&amp;pmid=29867128&amp;doi=10.1038/s41477-018-0178-x&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0012">
+<cite>
+
+Kong, J.
+, 
+Martin‐Ortigosa, S.
+, 
+Finer, J.
+, 
+Orchard, N.
+, 
+Gunadi, A.
+, 
+Batts, L.A.
+, 
+Thakare, D.
+
+<em>et al</em>. (2020) Overexpression of the transcription factor <em>GROWTH‐REGULATING</em>
+<em>FACTOR5</em> improves transformation of dicot and monocot species. Front. Plant Sci.
+11, 1389.</cite> [<a href="https://doi.org/10.3389/fpls.2020.572319" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7585916/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/33154762/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Front.%20Plant%20Sci.&amp;title=Overexpression%20of%20the%20transcription%20factor%20GROWTH%E2%80%90REGULATING%20FACTOR5%20improves%20transformation%20of%20dicot%20and%20monocot%20species&amp;author=J.%20Kong&amp;author=S.%20Martin%E2%80%90Ortigosa&amp;author=J.%20Finer&amp;author=N.%20Orchard&amp;author=A.%20Gunadi&amp;volume=11&amp;publication_year=2020&amp;pages=1389&amp;pmid=33154762&amp;doi=10.3389/fpls.2020.572319&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0013">
+<cite>
+
+Leelavathi, S.
+, 
+Sunnichan, V.G.
+, 
+Kumria, R.
+, 
+Vijaykanth, G.P.
+, 
+Bhatnagar, R.K.
+ and 
+Reddy, V.S.
+ (2004) A simple and rapid <em>Agrobacterium</em>‐mediated transformation protocol for cotton (<em>Gossypium hirsutum</em> L.): embryogenic calli as a source to generate large numbers of transgenic plants. Plant Cell Rep.
+22, 465–470.
+</cite> [<a href="https://doi.org/10.1007/s00299-003-0710-x" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/13680138/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Plant%20Cell%20Rep.&amp;title=A%20simple%20and%20rapid%20Agrobacterium%E2%80%90mediated%20transformation%20protocol%20for%20cotton%20(Gossypium%20hirsutum%20L.):%20embryogenic%20calli%20as%20a%20source%20to%20generate%20large%20numbers%20of%20transgenic%20plants&amp;author=S.%20Leelavathi&amp;author=V.G.%20Sunnichan&amp;author=R.%20Kumria&amp;author=G.P.%20Vijaykanth&amp;author=R.K.%20Bhatnagar&amp;volume=22&amp;publication_year=2004&amp;pages=465-470&amp;pmid=13680138&amp;doi=10.1007/s00299-003-0710-x&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0014">
+<cite>
+
+Li, Q.
+, 
+Wu, G.
+, 
+Zhao, Y.
+, 
+Wang, B.
+, 
+Zhao, B.
+, 
+Kong, D.
+ and 
+Wei, H.
+ (2020) CRISPR/Cas9‐mediated knockout and overexpression studies reveal a role of maize phytochrome C in regulating flowering time and plant height. Plant Biotechnol. J.
+18, 2520–2532.
+</cite> [<a href="https://doi.org/10.1111/pbi.13429" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7680541/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/32531863/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Plant%20Biotechnol.%20J.&amp;title=CRISPR/Cas9%E2%80%90mediated%20knockout%20and%20overexpression%20studies%20reveal%20a%20role%20of%20maize%20phytochrome%20C%20in%20regulating%20flowering%20time%20and%20plant%20height&amp;author=Q.%20Li&amp;author=G.%20Wu&amp;author=Y.%20Zhao&amp;author=B.%20Wang&amp;author=B.%20Zhao&amp;volume=18&amp;publication_year=2020&amp;pages=2520-2532&amp;pmid=32531863&amp;doi=10.1111/pbi.13429&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0015">
+<cite>
+
+Liu, Y.
+, 
+Wang, Y.
+, 
+Xu, S.
+, 
+Tang, X.
+, 
+Zhao, J.
+, 
+Yu, C.
+, 
+Guo, H.
+
+<em>et al</em>. (2019) Efficient genetic transformation and CRISPR/Cas9‐mediated genome editing in <em>Lemna aequinoctialis</em>
+. Plant Biotechnol. J.
+17, 2143–2152.
+</cite> [<a href="https://doi.org/10.1111/pbi.13128" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6790374/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30972865/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Plant%20Biotechnol.%20J.&amp;title=Efficient%20genetic%20transformation%20and%20CRISPR/Cas9%E2%80%90mediated%20genome%20editing%20in%20Lemna%20aequinoctialis&amp;author=Y.%20Liu&amp;author=Y.%20Wang&amp;author=S.%20Xu&amp;author=X.%20Tang&amp;author=J.%20Zhao&amp;volume=17&amp;publication_year=2019&amp;pages=2143-2152&amp;pmid=30972865&amp;doi=10.1111/pbi.13128&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0016">
+<cite>
+
+Liu, Y.
+, 
+Zhu, P.
+, 
+Cai, S.
+, 
+Haughn, G.
+ and 
+Page, J.E.
+ (2021) Three novel transcription factors involved in cannabinoid biosynthesis in <em>Cannabis sativa</em> L. Plant Mol. Biol.
+2021, 1–17.</cite> [<a href="https://doi.org/10.1007/s11103-021-01129-9" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/33625643/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Plant%20Mol.%20Biol.&amp;title=Three%20novel%20transcription%20factors%20involved%20in%20cannabinoid%20biosynthesis%20in%20Cannabis%20sativa%20L&amp;author=Y.%20Liu&amp;author=P.%20Zhu&amp;author=S.%20Cai&amp;author=G.%20Haughn&amp;author=J.E.%20Page&amp;volume=2021&amp;publication_year=2021&amp;pages=1-17&amp;pmid=33625643&amp;doi=10.1007/s11103-021-01129-9&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0017">
+<cite>
+
+Lowe, K.
+, 
+La Rota, M.
+, 
+Hoerster, G.
+, 
+Hastings, C.
+, 
+Wang, N.
+, 
+Chamberlin, M.
+, 
+Wu, E.
+
+<em>et al</em>. (2018) Rapid genotype “independent” <em>Zea</em>
+<em>mays</em> L. (maize) transformation via direct somatic embryogenesis. In Vitro Cell Dev. Biol. Plant,
+54, 240–252.
+</cite> [<a href="https://doi.org/10.1007/s11627-018-9905-2" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5954046/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29780216/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=In%20Vitro%20Cell%20Dev.%20Biol.%20Plant,&amp;title=Rapid%20genotype%20%E2%80%9Cindependent%E2%80%9D%20Zea%20mays%20L.%20(maize)%20transformation%20via%20direct%20somatic%20embryogenesis&amp;author=K.%20Lowe&amp;author=M.%20La%20Rota&amp;author=G.%20Hoerster&amp;author=C.%20Hastings&amp;author=N.%20Wang&amp;volume=54&amp;publication_year=2018&amp;pages=240-252&amp;pmid=29780216&amp;doi=10.1007/s11627-018-9905-2&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0018">
+<cite>
+
+Luo, G.
+ and 
+Palmgren, M.
+ (2020) GRF‐GIF chimeras boost plant regeneration. Trends Plant Sci.
+26, 201–204.
+</cite> [<a href="https://doi.org/10.1016/j.tplants.2020.12.001" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/33349565/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Trends%20Plant%20Sci.&amp;title=GRF%E2%80%90GIF%20chimeras%20boost%20plant%20regeneration&amp;author=G.%20Luo&amp;author=M.%20Palmgren&amp;volume=26&amp;publication_year=2020&amp;pages=201-204&amp;pmid=33349565&amp;doi=10.1016/j.tplants.2020.12.001&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0019">
+<cite>
+
+Maher, M.F.
+, 
+Nasti, R.A.
+, 
+Vollbrecht, M.
+, 
+Starker, C.G.
+, 
+Clark, M.D.
+ and 
+Voytas, D.F.
+ (2020) Plant gene editing through de novo induction of meristems. Nat. Biotechnol.
+38, 84–89.
+</cite> [<a href="https://doi.org/10.1038/s41587-019-0337-2" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6954279/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/31844292/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nat.%20Biotechnol.&amp;title=Plant%20gene%20editing%20through%20de%20novo%20induction%20of%20meristems&amp;author=M.F.%20Maher&amp;author=R.A.%20Nasti&amp;author=M.%20Vollbrecht&amp;author=C.G.%20Starker&amp;author=M.D.%20Clark&amp;volume=38&amp;publication_year=2020&amp;pages=84-89&amp;pmid=31844292&amp;doi=10.1038/s41587-019-0337-2&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0020">
+<cite>
+
+Russo, E.B.
+, 
+Jiang, H.E.
+, 
+Li, X.
+, 
+Sutton, A.
+, 
+Carboni, A.
+, 
+Del Bianco, F.
+, 
+Mandolino, G.
+
+<em>et al</em>. (2008) Phytochemical and genetic analyses of ancient cannabis from Central Asia. J. Exp. Bot.
+59, 4171–4182.
+</cite> [<a href="https://doi.org/10.1093/jxb/ern260" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2639026/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19036842/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J.%20Exp.%20Bot.&amp;title=Phytochemical%20and%20genetic%20analyses%20of%20ancient%20cannabis%20from%20Central%20Asia&amp;author=E.B.%20Russo&amp;author=H.E.%20Jiang&amp;author=X.%20Li&amp;author=A.%20Sutton&amp;author=A.%20Carboni&amp;volume=59&amp;publication_year=2008&amp;pages=4171-4182&amp;pmid=19036842&amp;doi=10.1093/jxb/ern260&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0021">
+<cite>
+
+Shimano, S.
+, 
+Hibara, K.I.
+, 
+Furuya, T.
+, 
+Arimura, S.I.
+, 
+Tsukaya, H.
+ and 
+Itoh, J.I.
+ (2018) Conserved functional control, but distinct regulation, of cell proliferation in rice and Arabidopsis leaves revealed by comparative analysis of <em>GRF‐INTERACTING FACTOR 1</em> orthologs. Development,
+145, 7.</cite> [<a href="https://doi.org/10.1242/dev.159624" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29567670/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Development,&amp;title=Conserved%20functional%20control,%20but%20distinct%20regulation,%20of%20cell%20proliferation%20in%20rice%20and%20Arabidopsis%20leaves%20revealed%20by%20comparative%20analysis%20of%20GRF%E2%80%90INTERACTING%20FACTOR%201%20orthologs&amp;author=S.%20Shimano&amp;author=K.I.%20Hibara&amp;author=T.%20Furuya&amp;author=S.I.%20Arimura&amp;author=H.%20Tsukaya&amp;volume=145&amp;publication_year=2018&amp;pages=7&amp;pmid=29567670&amp;doi=10.1242/dev.159624&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0022">
+<cite>
+
+Sorokin, A.
+, 
+Yadav, N.S.
+, 
+Gaudet, D.
+ and 
+Kovalchuk, I.
+ (2020) Transient expression of the <em>β‐glucuronidase</em> gene in <em>Cannabis sativa</em> varieties. Plant Signal Behav.
+15, 1780037.
+</cite> [<a href="https://doi.org/10.1080/15592324.2020.1780037" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC8570765/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/32552427/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Plant%20Signal%20Behav.&amp;title=Transient%20expression%20of%20the%20%CE%B2%E2%80%90glucuronidase%20gene%20in%20Cannabis%20sativa%20varieties&amp;author=A.%20Sorokin&amp;author=N.S.%20Yadav&amp;author=D.%20Gaudet&amp;author=I.%20Kovalchuk&amp;volume=15&amp;publication_year=2020&amp;pages=1780037&amp;pmid=32552427&amp;doi=10.1080/15592324.2020.1780037&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="pbi13611-bib-0023">
+<cite>
+
+Wahby, I.
+, 
+Caba, J.M.
+ and 
+Ligero, F.
+ (2013) 
+<em>Agrobacterium</em> infection of hemp (<em>Cannabis sativa</em> L.): establishment of hairy root cultures. J. Plant Interact.
+8, 312–320.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=J.%20Plant%20Interact.&amp;title=Agrobacterium%20infection%20of%20hemp%20(Cannabis%20sativa%20L.):%20establishment%20of%20hairy%20root%20cultures&amp;author=I.%20Wahby&amp;author=J.M.%20Caba&amp;author=F.%20Ligero&amp;volume=8&amp;publication_year=2013&amp;pages=312-320&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+</ol></section></section><section id="_ad93_" lang="en" class="associated-data"><h2 class="pmc_sec_title">Associated Data</h2>
+<p class="font-secondary"><em>This section collects any data citations, data availability statements, or supplementary materials included in this article.</em></p>
+<section id="_adsm93_" lang="en" class="supplementary-materials"><h3 class="pmc_sec_title">Supplementary Materials</h3>
+<section class="sm xbox font-sm" id="db_ds_supplementary-material1_reqid_"><div class="caption p">
+<p>
+<strong>Table S1</strong> Recipes.</p>
+<p>
+<strong>Table S2</strong> Primers used in this study.</p>
+<p>
+<strong>Figure S1</strong> PEG‐mediated transformation of cannabis protoplasts.</p>
+<p>
+<strong>Figure S2</strong> cDNA sequences of the developmental regulators (<em>CsWUS4</em>, <em>CsSBH1</em>, <em>CsIPT3</em>, <em>CsGRF3</em> and <em>CsGIF1</em>) and <em>CsPDS1</em>.</p>
+</div>
+<div class="media p"><div class="caption">
+<a href="/articles/instance/11385967/bin/PBI-19-1979-s001.docx" data-ga-action="click_feat_suppl" class="usa-link">PBI-19-1979-s001.docx</a><sup> (726.3KB, docx) </sup>
+</div></div></section></section></section></section><footer class="p courtesy-note font-secondary font-sm text-center"><hr class="headless">
+<p>Articles from Plant Biotechnology Journal are provided here courtesy of <strong>Society for Experimental Biology (SEB) and the Association of Applied Biologists (AAB) and John Wiley and Sons, Ltd</strong></p></footer></section></article>
+
+                      
+
+                    </main>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+
+<!-- Secondary navigation placeholder -->
+<div class="pmc-sidenav desktop:grid-col-4 display-flex">
+    <section class="pmc-sidenav__container" aria-label="Article resources and navigation">
+        <button type="button" class="usa-button pmc-sidenav__container__close usa-button--unstyled">
+            <img src="/static/img/usa-icons/close.svg" role="img" alt="Close" />
+        </button>
+    <div class="display-none desktop:display-block">
+       <section class="margin-top-4 desktop:margin-top-0">
+              <h2 class="margin-top-0">ACTIONS</h2>
+           <ul class="usa-list usa-list--unstyled usa-list--actions">
+               
+               <li>
+                     <a
+                             href="https://doi.org/10.1111/pbi.13611"
+                             class="usa-button usa-button--outline width-24 font-xs display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                             target="_blank"
+                             rel="noreferrer noopener"
+                             data-ga-category="actions"
+                             data-ga-action="click"
+                             data-ga-label="publisher_link_desktop"
+                     >
+                         <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img" hidden>
+                            <use xlink:href="/static/img/sprite.svg#launch"></use>
+                         </svg>
+                         <span class="display-inline-flex flex-justify-center flex-1 padding-right-2">View on publisher site</span>
+                     </a>
+               </li>
+               
+               
+               <li>
+                    <a
+                            href="pdf/PBI-19-1979.pdf"
+                            class="usa-button usa-button--outline width-24 display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="pdf_download_desktop"
+                    >
+                         <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img" hidden>
+                            <use xlink:href="/static/img/sprite.svg#file_download"></use>
+                        </svg>
+                        <span class="display-inline-flex flex-justify-center flex-1">PDF (6.2 MB)</span>
+                    </a>
+               </li>
+               
+                
+               <li>
+                   <button role="button" class="usa-button width-24 citation-dialog-trigger display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                        aria-label="Open dialog with citation text in different styles"
+                        data-ga-category="actions"
+                        data-ga-action="open"
+                        data-ga-label="cite_desktop"
+                        data-all-citations-url="/resources/citations/8486249/"
+                        data-citation-style="nlm"
+                        data-download-format-link="/resources/citations/8486249/export/"
+                    >
+                        <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img" hidden>
+                            <use xlink:href="/static/img/sprite.svg#format_quote"></use>
+                        </svg>
+                       <span class="display-inline-flex flex-justify-center flex-1 button-label">Cite</span>
+                    </button>
+               </li>
+                
+               <li>
+
+                        <button class="usa-button width-24 collections-dialog-trigger collections-button display-inline-flex flex-align-center flex-justify-start padding-left-1 collections-button-empty"
+                              aria-label="Save article in MyNCBI collections."
+                              data-ga-category="actions"
+                              data-ga-action="click"
+                              data-ga-label="collections_button_desktop"
+                              data-collections-open-dialog-enabled="false"
+                              data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC8486249%2F%23open-collections-dialog"
+                              data-in-collections="false">
+                            <svg class="usa-icon width-3 height-3 usa-icon--bookmark-full" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/action-bookmark-full.svg#icon"></use>
+                            </svg>
+                            <svg class="usa-icon width-3 height-3 usa-icon--bookmark-empty" aria-hidden="true" focusable="false" role="img" hidden>
+                                <use xlink:href="/static/img/action-bookmark-empty.svg#icon"></use>
+                            </svg>
+                            <span class="display-inline-flex flex-justify-center flex-1">Collections</span>
+                       </button>
+               </li>
+               <li class="pmc-permalink">
+                    <button
+                            type="button"
+                            class="usa-button width-24 display-inline-flex flex-align-center flex-justify padding-left-1 shadow-none"
+                            aria-label="Show article permalink"
+                            aria-expanded="false"
+                            aria-haspopup="true"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="permalink_desktop"
+                    >
+                         <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img" hidden>
+                            <use xlink:href="/static/img/sprite.svg#share"></use>
+                        </svg>
+                        <span class="display-inline-flex flex-justify-center flex-1 button-label">Permalink</span>
+                    </button>
+                   
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486249/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#content_copy"></use>
+                  </svg>
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+               </li>
+           </ul>
+       </section>
+     </div>
+
+        <section class="pmc-resources margin-top-6 desktop:margin-top-4" data-page-path="/articles/PMC8486249/">
+            <h2 class="margin-top-0">RESOURCES</h2>
+            
+                <div class="usa-accordion usa-accordion--multiselectable" data-allow-multiple>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-similar-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_similar_articles"
+                        data-ga-label="/articles/PMC8486249/"
+                        data-action-open="open_similar_articles"
+                        data-action-close="close_similar_articles"
+                        >
+                            Similar articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-similar-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/similar-article-links/33960612/"
+                            
+                    >
+                        
+                    </div>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-cited-by-other-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_cited_by"
+                        data-ga-label="/articles/PMC8486249/"
+                        data-action-open="open_cited_by"
+                        data-action-close="close_cited_by"
+                        >
+                             Cited by other articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-cited-by-other-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/cited-by-links/33960612/"
+                            
+                    >
+                          
+                    </div>
+                    
+                        <h3 class="usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="resources-links-to-ncbi-databases"
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_NCBI_links"
+                            data-ga-label="/articles/PMC8486249/"
+                            data-action-open="open_NCBI_links"
+                            data-action-close="close_NCBI_link"
+                            >
+                                 Links to NCBI Databases
+                            </button>
+                        </h3>
+                        <div
+                                id="resources-links-to-ncbi-databases"
+                                class="usa-accordion__content usa-prose"
+                                data-source-url="/resources/db-links/8486249/"
+                        >
+                        </div>
+                    
+                    
+                </div>
+            
+        </section>
+
+
+        <section
+        class="usa-in-page-nav usa-in-page-nav--wide margin-top-6 desktop:margin-top-4"
+        data-title-text="On this page"
+        data-title-heading-level="h2"
+        data-scroll-offset="0"
+        data-root-margin="-10% 0px -80% 0px"
+        data-main-content-selector="main"
+        data-threshold="1"
+        hidden
+        ></section>
+    </section>
+</div>
+
+
+        
+
+<div class="overlay" role="dialog" aria-label="Citation Dialog" hidden>
+    <div class="dialog citation-dialog" aria-hidden="true">
+        <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+            <h2 class="usa-modal__heading margin-0">Cite</h2>
+             <button type="button" class="usa-button usa-button--unstyled close-overlay text-black width-auto"  tabindex="1">
+                <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#close"></use>
+                </svg>
+             </button>
+        </div>
+
+        
+
+<div class="citation-text-block">
+  <div class="citation-text margin-bottom-2"></div>
+  <ul class="usa-list usa-list--unstyled display-inline-flex flex-justify width-full flex-align-center">
+      <li>
+        <button
+          class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center copy-button dialog-focus"
+          data-ga-category="save_share"
+          data-ga-action="cite"
+          data-ga-label="copy"
+          tabindex="2">
+            <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img">
+                <use xlink:href="/static/img/sprite.svg#content_copy"></use>
+            </svg>
+            <span>Copy</span>
+        </button>
+      </li>
+      <li>
+          <a
+              href="#"
+              role="button"
+              class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center export-button"
+              data-ga-category="save_share"
+              data-ga-action="cite"
+              data-ga-label="download"
+              title="Download a file for external citation management software"
+              tabindex="3">
+                <svg class="usa-icon width-3 height-3" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/static/img/sprite.svg#file_download"></use>
+                </svg>
+                <span class="display-none mobile-lg:display-inline">Download .nbib</span>
+                <span class="display-inline mobile-lg:display-none">.nbib</span>
+            </a>
+      </li>
+      <li>
+          
+
+<div class="display-inline-flex flex-align-center">
+  <label class="usa-label margin-top-0">Format:</label>
+  <select aria-label="Format" class="usa-select citation-style-selector padding-1 margin-top-0 border-0 padding-right-4" tabindex="4" >
+    
+      <option data-style-url-name="ama"
+              value="AMA"
+              >
+        AMA
+      </option>
+    
+      <option data-style-url-name="apa"
+              value="APA"
+              >
+        APA
+      </option>
+    
+      <option data-style-url-name="mla"
+              value="MLA"
+              >
+        MLA
+      </option>
+    
+      <option data-style-url-name="nlm"
+              value="NLM"
+              selected="selected">
+        NLM
+      </option>
+    
+  </select>
+</div>
+      </li>
+  </ul>
+</div>
+    </div>
+</div>
+
+        <div class="overlay" role="dialog" hidden>
+  <div id="collections-action-dialog" class="dialog collections-dialog" aria-hidden="true">
+   <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+        <h2 class="usa-modal__heading margin-0">Add to Collections</h2>
+    </div>
+    <div class="collections-action-panel action-panel">
+      
+
+
+<form id="collections-action-dialog-form"
+      class="usa-form maxw-full collections-action-panel-form action-panel-content action-form action-panel-smaller-selectors"
+      data-existing-collections-url="/list-existing-collections/"
+      data-add-to-existing-collection-url="/add-to-existing-collection/"
+      data-create-and-add-to-new-collection-url="/create-and-add-to-new-collection/"
+      data-myncbi-max-collection-name-length="100"
+      data-collections-root-url="https://www.ncbi.nlm.nih.gov/myncbi/collections/">
+
+    <input type="hidden" name="csrfmiddlewaretoken" value="ToM3WiiDqdFYqSZ8RGoiwHenmCoXv2ivrxAAVXmOu7b4o1hs06zUx3naWryk2eRg">
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-new"
+            class="usa-radio__input usa-radio__input--tile collections-new  margin-top-0"
+            name="collections"
+            value="new"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_new" />
+            <label class="usa-radio__label" for="collections-action-dialog-new">Create a new collection</label>
+        </div>
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-existing"
+            class="usa-radio__input usa-radio__input--tile collections-existing"
+            name="collections"
+            value="existing"
+            checked="true"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_existing" />
+            <label class="usa-radio__label" for="collections-action-dialog-existing">Add to an existing collection</label>
+        </div>
+    </fieldset>
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="action-panel-control-wrap new-collections-controls">
+           <label for="collections-action-dialog-add-to-new" class="usa-label margin-top-0">
+                Name your collection
+               <abbr title="required" class="usa-hint usa-hint--required text-no-underline">*</abbr>
+          </label>
+          <input
+            type="text"
+            name="add-to-new-collection"
+            id="collections-action-dialog-add-to-new"
+            class="usa-input collections-action-add-to-new"
+            pattern="[^&quot;&amp;=&lt;&gt;/]*" title="The following characters are not allowed in the Name field: &quot;&amp;=&lt;&gt;/"
+            maxlength=""
+            data-ga-category="collections_button"
+            data-ga-action="create_collection"
+            data-ga-label="non_favorties_collection"
+            required
+          />
+        </div>
+        <div class="action-panel-control-wrap existing-collections-controls">
+             <label for="collections-action-dialog-add-to-existing" class="usa-label margin-top-0">
+                Choose a collection
+              </label>
+              <select id="collections-action-dialog-add-to-existing"
+                      class="usa-select collections-action-add-to-existing"
+                      data-ga-category="collections_button"
+                      data-ga-action="select_collection"
+                      data-ga-label="($('.collections-action-add-to-existing').val() === 'Favorites') ? 'Favorites' : 'non_favorites_collection'">
+              </select>
+              <div class="collections-retry-load-on-error usa-input-error-message selection-validation-message">
+                Unable to load your collection due to an error<br>
+                <a href="#">Please try again</a>
+              </div>
+        </div>
+    </fieldset>
+
+    <div class="display-inline-flex">
+        <button class="usa-button margin-top-0 action-panel-submit"
+            type="submit"
+            data-loading-label="Adding..."
+            data-pinger-ignore
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="add">
+          Add
+        </button>
+        <button class="usa-button usa-button--outline margin-top-0 action-panel-cancel"
+                aria-label="Close 'Add to Collections' panel"
+                ref="linksrc=close_collections_panel"
+                data-ga-category="collections_button"
+                data-ga-action="click"
+                data-ga-label="cancel">
+          Cancel
+        </button>
+    </div>
+</form>
+    </div>
+  </div>
+</div>
+
+        
+
+      </div>
+    </div>
+  </div>
+
+
+
+        
+    
+    
+
+<footer class="ncbi-footer ncbi-dark-background " >
+    
+        <div class="ncbi-footer__icon-section">
+            <div class="ncbi-footer__social-header">
+                Follow NCBI
+            </div>
+
+            <div class="grid-container ncbi-footer__ncbi-social-icons-container">
+                
+                    <a href="https://twitter.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="40"
+                             height="40"
+                             viewBox="0 0 40 40"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on X (formerly known as Twitter)</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.facebook.com/ncbi.nlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="16"
+                             height="29"
+                             focusable="false"
+                             aria-hidden="true"
+                             viewBox="0 0 16 29"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3.8809 21.4002C3.8809 19.0932 3.8809 16.7876 3.8809 14.478C3.8809 14.2117 3.80103 14.1452 3.54278 14.1492C2.53372 14.1638 1.52334 14.1492 0.514288 14.1598C0.302626 14.1598 0.248047 14.0972 0.248047 13.8936C0.256034 12.4585 0.256034 11.0239 0.248047 9.58978C0.248047 9.37013 0.302626 9.30224 0.528931 9.3049C1.53798 9.31688 2.54837 9.3049 3.55742 9.31555C3.80103 9.31555 3.8809 9.26097 3.87957 9.00272C3.87158 8.00565 3.85428 7.00592 3.90753 6.00884C3.97142 4.83339 4.31487 3.73115 5.04437 2.78467C5.93095 1.63318 7.15699 1.09005 8.56141 0.967577C10.5582 0.79319 12.555 0.982221 14.5518 0.927641C14.7102 0.927641 14.7462 0.99287 14.7449 1.13664C14.7449 2.581 14.7449 4.02668 14.7449 5.47104C14.7449 5.67604 14.6517 5.68669 14.4946 5.68669C13.4523 5.68669 12.4113 5.68669 11.3703 5.68669C10.3506 5.68669 9.92057 6.10868 9.90593 7.13904C9.89661 7.7647 9.91525 8.39303 9.89794 9.01869C9.88995 9.26364 9.96583 9.31822 10.2015 9.31688C11.7204 9.30623 13.2393 9.31688 14.7595 9.3049C15.0257 9.3049 15.0723 9.3728 15.0444 9.62439C14.89 10.9849 14.7515 12.3467 14.6144 13.7085C14.5691 14.1571 14.5785 14.1585 14.1458 14.1585C12.8386 14.1585 11.5313 14.1665 10.2254 14.1518C9.95119 14.1518 9.89794 14.2317 9.89794 14.4899C9.90593 19.0799 9.89794 23.6752 9.91125 28.2612C9.91125 28.5674 9.8407 28.646 9.53186 28.6433C7.77866 28.6273 6.02414 28.6366 4.27094 28.634C3.82499 28.634 3.87158 28.6992 3.87158 28.22C3.87602 25.9472 3.87913 23.6739 3.8809 21.4002Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on Facebook</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.linkedin.com/company/ncbinlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="25"
+                             height="23"
+                             viewBox="0 0 26 24"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M14.6983 9.98423C15.6302 9.24808 16.5926 8.74754 17.6762 8.51991C19.673 8.09126 21.554 8.30824 23.1262 9.7526C24.2351 10.7723 24.7529 12.1115 25.0165 13.5612C25.1486 14.3363 25.2105 15.1218 25.2015 15.9081C25.2015 18.3043 25.2015 20.6898 25.2082 23.0806C25.2082 23.3468 25.1549 23.444 24.8621 23.4414C23.1297 23.4272 21.3992 23.4272 19.6704 23.4414C19.4041 23.4414 19.3429 23.3588 19.3442 23.1019C19.3535 20.5194 19.3442 17.9368 19.3442 15.3543C19.3442 14.0005 18.3258 12.9448 17.0266 12.9488C15.7273 12.9528 14.6983 14.0071 14.6983 15.361C14.6983 17.9328 14.6917 20.5047 14.6983 23.0753C14.6983 23.3708 14.6198 23.444 14.3296 23.4427C12.6185 23.4294 10.9079 23.4294 9.19779 23.4427C8.93155 23.4427 8.86099 23.3735 8.86232 23.1086C8.8783 19.7619 8.88628 16.4144 8.88628 13.066C8.88628 11.5688 8.87874 10.0708 8.86365 8.57182C8.86365 8.3575 8.90758 8.27896 9.14054 8.28029C10.9048 8.29094 12.6687 8.29094 14.4321 8.28029C14.6464 8.28029 14.6983 8.34818 14.6983 8.54653C14.6903 9.00047 14.6983 9.45441 14.6983 9.98423Z">
+                            </path>
+                            <path d="M6.55316 15.8443C6.55316 18.2564 6.55316 20.6699 6.55316 23.082C6.55316 23.3629 6.48127 23.4388 6.19906 23.4374C4.47737 23.4241 2.75568 23.4241 1.03399 23.4374C0.767751 23.4374 0.69986 23.3629 0.701191 23.1006C0.709178 18.2648 0.709178 13.4281 0.701191 8.59053C0.701191 8.34026 0.765089 8.27237 1.01669 8.2737C2.74991 8.28435 4.48048 8.28435 6.20838 8.2737C6.47462 8.2737 6.5465 8.33627 6.54517 8.6065C6.54783 11.0186 6.55316 13.4308 6.55316 15.8443Z">
+                            </path>
+                            <path d="M3.65878 0.243898C5.36804 0.243898 6.58743 1.45529 6.58743 3.1406C6.58743 4.75801 5.32145 5.95742 3.60819 5.96807C3.22177 5.97614 2.83768 5.90639 2.47877 5.76299C2.11985 5.61959 1.79344 5.40546 1.51897 5.13334C1.24449 4.86123 1.02755 4.53668 0.881058 4.17902C0.734563 3.82136 0.661505 3.43788 0.666231 3.05141C0.67555 1.42601 1.9362 0.242566 3.65878 0.243898Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on LinkedIn</span>
+                    </a>
+                
+
+                
+                    <a href="https://github.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="28"
+                             height="27"
+                             viewBox="0 0 28 28"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M16.7228 20.6334C17.5057 20.5527 18.2786 20.3944 19.0301 20.1608C21.3108 19.4193 22.5822 17.8259 22.963 15.4909C23.1228 14.5112 23.1814 13.5287 22.9883 12.5437C22.8106 11.6423 22.4013 10.8028 21.8007 10.1076C21.7526 10.0605 21.7197 10 21.7064 9.934C21.6931 9.86799 21.7 9.79952 21.7262 9.73748C22.0856 8.6206 21.9711 7.51969 21.601 6.42677C21.582 6.3497 21.5345 6.2827 21.468 6.23923C21.4016 6.19577 21.3211 6.17906 21.2429 6.19248C20.7329 6.21649 20.2313 6.33051 19.7611 6.52928C19.1103 6.7908 18.4899 7.12198 17.9104 7.51703C17.84 7.56996 17.7581 7.60551 17.6713 7.62078C17.5846 7.63605 17.4954 7.6306 17.4112 7.60489C15.2596 7.05882 13.0054 7.06203 10.8554 7.61421C10.7806 7.63586 10.7018 7.63967 10.6253 7.62534C10.5487 7.611 10.4766 7.57892 10.4148 7.53167C9.64788 7.03247 8.85171 6.58918 7.96368 6.33359C7.65781 6.24338 7.34123 6.19458 7.02239 6.18849C6.94879 6.17986 6.87462 6.19893 6.81432 6.242C6.75402 6.28507 6.71191 6.34904 6.69621 6.42145C6.32342 7.51437 6.2209 8.61527 6.56307 9.73348C6.59635 9.84264 6.64694 9.93316 6.54177 10.0516C5.47666 11.2604 5.09988 12.6834 5.19574 14.2676C5.2663 15.4244 5.46201 16.5466 6.01454 17.5769C6.84399 19.1171 8.21664 19.9119 9.85158 20.3352C10.3938 20.4706 10.9444 20.5698 11.4998 20.632C11.5384 20.7492 11.4506 20.7798 11.408 20.8291C11.1734 21.1179 10.9894 21.4441 10.8634 21.7942C10.7622 22.0458 10.8315 22.4039 10.6065 22.5516C10.263 22.7766 9.83827 22.8485 9.42421 22.8871C8.17936 23.0056 7.26471 22.4877 6.6283 21.4348C6.25552 20.8184 5.76956 20.3325 5.08523 20.0663C4.76981 19.9325 4.42139 19.8967 4.08537 19.9638C3.7898 20.029 3.73788 20.1901 3.93891 20.4111C4.03639 20.5234 4.14989 20.6207 4.27575 20.6999C4.9796 21.1318 5.51717 21.7884 5.80152 22.5636C6.37002 23.9973 7.48039 24.5697 8.93825 24.6323C9.43741 24.6575 9.93768 24.615 10.4254 24.5058C10.5892 24.4672 10.6531 24.4872 10.6517 24.6762C10.6451 25.4936 10.6637 26.3123 10.6517 27.131C10.6517 27.6635 10.1684 27.9297 9.58663 27.7393C8.17396 27.2671 6.84977 26.5631 5.66838 25.656C2.59555 23.2891 0.720966 20.1861 0.217704 16.3376C-0.357453 11.9127 0.911353 8.00824 3.98551 4.73881C6.11909 2.42656 8.99932 0.939975 12.1203 0.540191C16.5351 -0.0601815 20.4347 1.14323 23.7232 4.16373C26.2449 6.47869 27.724 9.37672 28.1048 12.7726C28.5828 17.0325 27.3686 20.7945 24.4768 23.9827C22.9762 25.6323 21.0956 26.8908 18.9982 27.6488C18.8783 27.6927 18.7585 27.738 18.636 27.7726C18.0356 27.9404 17.6189 27.6395 17.6189 27.0098C17.6189 25.7452 17.6308 24.4806 17.6295 23.2159C17.6329 22.9506 17.6128 22.6856 17.5696 22.4238C17.4325 21.6664 17.3419 21.484 16.7228 20.6334Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on GitHub</span>
+                    </a>
+                
+
+                
+                    <a href="https://ncbiinsights.ncbi.nlm.nih.gov/"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="26"
+                             height="26"
+                             viewBox="0 0 27 27"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M23.7778 26.4574C23.1354 26.3913 22.0856 26.8024 21.636 26.3087C21.212 25.8444 21.4359 24.8111 21.324 24.0347C19.9933 14.8323 14.8727 8.80132 6.09057 5.85008C4.37689 5.28406 2.58381 4.99533 0.779072 4.99481C0.202773 4.99481 -0.0229751 4.83146 0.00455514 4.21479C0.0660406 3.08627 0.0660406 1.95525 0.00455514 0.826734C-0.0413285 0.0815827 0.259669 -0.0193618 0.896534 0.00266238C6.96236 0.222904 12.3693 2.24179 16.9889 6.16209C22.9794 11.2478 26.1271 17.7688 26.4372 25.648C26.4629 26.294 26.3179 26.5271 25.6609 26.4684C25.0827 26.417 24.4991 26.4574 23.7778 26.4574Z">
+                            </path>
+                            <path d="M14.8265 26.441C14.0924 26.441 13.2371 26.6795 12.6626 26.3786C12.0092 26.0372 12.3781 25.0644 12.246 24.378C11.1154 18.5324 6.6849 14.5497 0.74755 14.1001C0.217135 14.0615 -0.0104482 13.9422 0.0134113 13.3659C0.0519536 12.1454 0.0482829 10.9213 0.0134113 9.69524C-0.00127145 9.14464 0.196946 9.03268 0.703502 9.04736C9.21217 9.27128 16.5994 16.2511 17.2804 24.7231C17.418 26.4446 17.418 26.4446 15.6579 26.4446H14.832L14.8265 26.441Z">
+                            </path>
+                            <path d="M3.58928 26.4555C2.64447 26.4618 1.73584 26.0925 1.06329 25.4289C0.39073 24.7653 0.00933763 23.8617 0.0030097 22.9169C-0.00331824 21.9721 0.365937 21.0635 1.02954 20.3909C1.69315 19.7184 2.59675 19.337 3.54156 19.3306C4.48637 19.3243 5.39499 19.6936 6.06755 20.3572C6.7401 21.0208 7.1215 21.9244 7.12782 22.8692C7.13415 23.814 6.7649 24.7226 6.10129 25.3952C5.43768 26.0677 4.53409 26.4491 3.58928 26.4555Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI RSS feed</span>
+                    </a>
+                
+            </div>
+        </div>
+    
+
+    <div data-testid="gridContainer"
+         class="grid-container ncbi-footer__container">
+        <div class="grid-row ncbi-footer__main-content-container"
+             data-testid="grid">
+            
+                <div class="ncbi-footer__column">
+                    
+                        <p class="ncbi-footer__circled-icons-heading">
+                            Connect with NLM
+                        </p>
+                    
+
+                    <div class="ncbi-footer__circled-icons-list">
+                        
+                            <a href=https://twitter.com/nlm_nih class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="32"
+                                     height="32"
+                                     viewBox="0 0 40 40"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on X (formerly known as Twitter)</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.facebook.com/nationallibraryofmedicine class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="13"
+                                     height="24"
+                                     viewBox="0 0 13 24"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M4.11371 23.1369C4.11371 23.082 4.11371 23.0294 4.11371 22.9745V12.9411H0.817305C0.6709 12.9411 0.670898 12.9411 0.670898 12.8016C0.670898 11.564 0.670898 10.3287 0.670898 9.09341C0.670898 8.97903 0.705213 8.95158 0.815017 8.95158C1.8673 8.95158 2.91959 8.95158 3.97417 8.95158H4.12057V8.83263C4.12057 7.8055 4.12057 6.7738 4.12057 5.74897C4.1264 4.92595 4.31387 4.11437 4.66959 3.37217C5.12916 2.38246 5.94651 1.60353 6.95717 1.1921C7.64827 0.905008 8.3913 0.764035 9.13953 0.778051C10.0019 0.791777 10.8644 0.830666 11.7268 0.860404C11.8869 0.860404 12.047 0.894717 12.2072 0.90158C12.2964 0.90158 12.3261 0.940469 12.3261 1.02968C12.3261 1.5421 12.3261 2.05452 12.3261 2.56465C12.3261 3.16857 12.3261 3.7725 12.3261 4.37642C12.3261 4.48165 12.2964 4.51367 12.1912 4.51138C11.5369 4.51138 10.8804 4.51138 10.2261 4.51138C9.92772 4.51814 9.63058 4.5526 9.33855 4.61433C9.08125 4.6617 8.84537 4.78881 8.66431 4.97766C8.48326 5.16652 8.3662 5.40755 8.32972 5.66661C8.28476 5.89271 8.26027 6.1224 8.25652 6.35289C8.25652 7.19014 8.25652 8.02969 8.25652 8.86923C8.25652 8.89439 8.25652 8.91955 8.25652 8.95615H12.0219C12.1797 8.95615 12.182 8.95616 12.1614 9.10714C12.0768 9.76596 11.9876 10.4248 11.9029 11.0813C11.8312 11.6319 11.7626 12.1824 11.697 12.733C11.6719 12.9434 11.6787 12.9434 11.4683 12.9434H8.26338V22.899C8.26338 22.979 8.26338 23.0591 8.26338 23.1392L4.11371 23.1369Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on Facebook</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.youtube.com/user/NLMNIH class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="21"
+                                     height="15"
+                                     viewBox="0 0 21 15"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M19.2561 1.47914C18.9016 1.15888 18.5699 0.957569 17.2271 0.834039C15.5503 0.678484 13.2787 0.655608 11.563 0.65332H9.43556C7.71987 0.65332 5.4483 0.678484 3.77151 0.834039C2.43098 0.957569 2.097 1.15888 1.74242 1.47914C0.813665 2.32097 0.619221 4.62685 0.598633 6.89384C0.598633 7.31781 0.598633 7.74101 0.598633 8.16345C0.626084 10.4121 0.827391 12.686 1.74242 13.521C2.097 13.8412 2.4287 14.0425 3.77151 14.1661C5.4483 14.3216 7.71987 14.3445 9.43556 14.3468H11.563C13.2787 14.3468 15.5503 14.3216 17.2271 14.1661C18.5676 14.0425 18.9016 13.8412 19.2561 13.521C20.1712 12.6929 20.3725 10.451 20.3999 8.22064C20.3999 7.74025 20.3999 7.25986 20.3999 6.77946C20.3725 4.54907 20.1689 2.30724 19.2561 1.47914ZM8.55942 10.5311V4.65201L13.5601 7.50005L8.55942 10.5311Z"
+                                          fill="white" />
+                                </svg>
+                                <span class="usa-sr-only">NLM on YouTube</span>
+                            </a>
+                        
+                    </div>
+                </div>
+            
+
+            
+                <address class="ncbi-footer__address ncbi-footer__column">
+                    
+        <p>
+            <a class="usa-link usa-link--external"
+            href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,
+            -77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!
+            4d-77.0988323"
+            rel="noopener noreferrer" target="_blank">National Library of Medicine
+            <br/> 8600 Rockville Pike<br/> Bethesda, MD 20894</a>
+        </p>
+    
+                </address>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/web_policies.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Web Policies
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            FOIA
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://support.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Help
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/accessibility.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Accessibility
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/careers/careers.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Careers
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+        </div>
+
+        
+            <div class="grid-row grid-col-12" data-testid="grid">
+                <ul class="ncbi-footer__bottom-links-list">
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NLM
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NIH
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.usa.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            USA.gov
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+    </div>
+</footer>
+
+    
+
+
+        
+        
+    
+  <script  type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/pinger/pinger.js"> </script>
+
+
+    
+        
+
+<button class="back-to-top" data-ga-category="pagination" data-ga-action="back_to_top">
+    <label>Back to Top</label>
+    <svg class="usa-icon order-0" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/static/img/sprite.svg#arrow_upward"></use>
+    </svg>
+</button>
+    
+
+
+        
+    
+    
+    
+        
+    <script type="application/javascript">
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: '/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+</script>
+    <script type="module" crossorigin="" src="/static/assets/base-133c6271.js"></script>
+    
+    <script type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/jquery/jquery-3.6.0.min.js">&#xA0;</script>
+    <script type="text/javascript">
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    </script>
+
+
+    <script type="text/javascript">var exports = {};</script>
+     <script src="/static/CACHE/js/output.13b077bc3ffd.js"></script>
+
+    <script type="module" crossorigin="" src="/static/assets/article-44d04358.js"></script>
+    
+    
+
+    </body>
+</html>

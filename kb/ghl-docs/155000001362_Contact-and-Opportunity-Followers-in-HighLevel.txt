@@ -1,0 +1,61 @@
+---
+Title: Contact and Opportunity Followers in HighLevel
+Category: Contacts
+URL: https://help.gohighlevel.com/support/solutions/articles/155000001362-contact-and-opportunity-followers-in-highlevel
+Word Count: 285
+Scraped: 2025-10-29T01:42:18.786230
+---
+
+The ‘Followers’ feature for Contacts and Opportunities allows multiple users to follow and access the same record. This provides you the ability to add up to 10 users as followers who are able to view and edit the CRM record when the "Only Assigned Data" user permission is turned on.
+TABLE OF CONTENTS
+What Are Followers?
+Follower Permissions & Limitations
+Contact Followers
+Opportunity Followers
+Key Points
+What Are Followers?
+Followers are users added to a contact or opportunity who gain access to view and manage that record,
+even if they normally have restricted data access
+under the "Only Assigned Data" permission setting.
+Follower Permissions & Limitations
+Followers inherit the same permissions as the record owner.
+This allows them to
+view and edit
+the contact or opportunity information.
+However, they
+cannot modify the ownership itself
+— i.e., they
+cannot change the owner
+of the record.
+Contact Followers
+Followers can be added to contacts on the detailed page of the record.
+Opportunity Followers
+Add followers to opportunities in the "Opportunity Details" on the Edit/Add opportunity modal
+Key Points
+Followers help improve collaboration across teams.
+They are especially useful when combined with
+workflows
+, allowing automatic follower assignments.
+Use this feature strategically to maintain visibility and access without compromising ownership hierarchy.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article

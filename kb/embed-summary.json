@@ -1,0 +1,30 @@
+{
+  "embeddedAt": "2025-10-29T00:38:23.928Z",
+  "config": {
+    "batchSize": 100,
+    "source": "all",
+    "model": "Xenova/all-MiniLM-L6-v2",
+    "dimension": 384
+  },
+  "totals": {
+    "chunks": 126,
+    "documents": 126
+  },
+  "collections": [
+    {
+      "collection": "ghl-knowledge-base",
+      "chunks": 32,
+      "documents": 32
+    },
+    {
+      "collection": "ghl-knowledge-base",
+      "chunks": 63,
+      "documents": 63
+    },
+    {
+      "collection": "ghl-knowledge-base",
+      "chunks": 31,
+      "documents": 31
+    }
+  ]
+}

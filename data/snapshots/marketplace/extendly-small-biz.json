@@ -1,0 +1,34 @@
+{
+  "snapshot_name": "Extendly Ultimate Small Business Snapshot",
+  "snapshot_id": "extendly-small-biz",
+  "industry": "General / Small Business",
+  "use_case": "Complete automation for any small business, compatible with multiple niches",
+  "target_audience": "Small business owners across multiple industries",
+  "pricing_model": "Paid",
+  "version": "1.0.0",
+  "last_updated": "2025-01-01",
+  "author": "Extendly",
+  "description": {
+    "overview": "The Ultimate Small Business Snapshot includes complete automation for ANY small business and is compatible with multiple niches. Designed to be the fastest path to launching a functional business automation system.",
+    "key_benefits": [
+      "Compatible with multiple business niches",
+      "Complete automation workflows included",
+      "Ready-to-use landing pages and funnels",
+      "Pre-built email and SMS sequences"
+    ],
+    "ideal_for": [
+      "New businesses needing quick setup",
+      "Agencies onboarding multiple clients",
+      "Small businesses wanting to automate operations"
+    ]
+  },
+  "components": {},
+  "tags": [
+    "small-business",
+    "multi-niche",
+    "automation",
+    "extendly"
+  ],
+  "source_url": "",
+  "scraped_from_marketplace": true
+}
