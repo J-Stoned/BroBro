@@ -1,25 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(powershell -Command:*)",
-      "Bash(dir /b \"c:\\Users\\justi\\BroBro\\kb_temp\" 2)",
-      "Bash(nul)",
-      "Bash(dir /b \"c:\\Users\\justi\\BroBro\\FIXES\" 2)",
-      "Bash(dir /b \"c:\\Users\\justi\\BroBro\")",
-      "Bash(findstr:*)",
-      "Bash(cmd /c \"dir /b | find /i temp && echo Found temp folders || echo No temp folders found\")",
-      "Bash(find:*)",
-      "Bash(cat:*)",
-      "Bash(done)",
-      "Bash(test:*)",
-      "Bash(git init:*)",
-      "Bash(git config:*)",
-      "Bash(npm audit:*)",
-      "Bash(npm run build:*)",
-      "Bash(python -m py_compile:*)",
-      "Bash(del nul /f)",
-      "Bash(del \"data\\youtube-tutorials\\nul\" /f)",
-      "Bash(git add:*)"
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
