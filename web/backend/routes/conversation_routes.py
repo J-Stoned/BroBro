@@ -10,12 +10,19 @@ from pydantic import BaseModel, Field
 from typing import Optional, Dict, Any, List
 from chat.conversation_manager import get_conversation_manager
 import logging
+import json
+import sqlite3
+from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
 # Initialize router
 router = APIRouter(prefix="/api/conversations", tags=["conversations"])
 conversation_manager = get_conversation_manager()
+
+# Database path for preferences queries
+_backend_dir = Path(__file__).parent.parent
+DB_PATH = _backend_dir / "database" / "conversations.db"
 
 
 # ============================================================================
@@ -190,6 +197,125 @@ async def search_conversations(
         raise HTTPException(status_code=500, detail=str(e))
 
 
+# ============================================================================
+# USER PREFERENCES ENDPOINTS
+# ============================================================================
+
+class PreferencesRequest(BaseModel):
+    """Request to update user preferences"""
+    theme: Optional[str] = Field(None, description="Theme (light or dark)")
+    notification_enabled: Optional[bool] = Field(None, description="Enable notifications")
+    auto_save_enabled: Optional[bool] = Field(None, description="Enable auto-save")
+    preferences: Optional[Dict[str, Any]] = Field(None, description="Additional preferences JSON")
+
+
+@router.get("/preferences")
+async def get_preferences(session_id: str = Query(..., description="Session ID")) -> ConversationResponse:
+    """
+    Get user preferences for a session
+
+    - **session_id**: Session identifier
+
+    Returns user preferences (theme, notifications, etc.)
+    """
+    try:
+        conn = sqlite3.connect(str(DB_PATH))
+        cursor = conn.cursor()
+
+        cursor.execute("""
+            SELECT theme, notification_enabled, auto_save_enabled,
+                   preferences_json, created_at, updated_at
+            FROM user_preferences
+            WHERE session_id = ?
+        """, (session_id,))
+
+        row = cursor.fetchone()
+        conn.close()
+
+        if not row:
+            # Return defaults if no preferences exist
+            return ConversationResponse(
+                success=True,
+                data={
+                    "theme": "light",
+                    "notification_enabled": True,
+                    "auto_save_enabled": True,
+                    "preferences": {}
+                }
+            )
+
+        return ConversationResponse(
+            success=True,
+            data={
+                "theme": row[0],
+                "notification_enabled": bool(row[1]),
+                "auto_save_enabled": bool(row[2]),
+                "preferences": json.loads(row[3]) if row[3] else {},
+                "created_at": row[4],
+                "updated_at": row[5]
+            }
+        )
+    except Exception as e:
+        logger.error(f"Error fetching preferences: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.put("/preferences")
+async def update_preferences(
+    session_id: str = Query(..., description="Session ID"),
+    theme: Optional[str] = Query(None, description="Theme (light or dark)"),
+    notification_enabled: Optional[bool] = Query(None, description="Enable notifications"),
+    auto_save_enabled: Optional[bool] = Query(None, description="Enable auto-save"),
+    preferences: Optional[str] = Query(None, description="Additional preferences as JSON string")
+) -> ConversationResponse:
+    """
+    Update user preferences for a session
+
+    - **session_id**: Session identifier
+    - **theme**: Theme preference (light or dark)
+    - **notification_enabled**: Enable notifications
+    - **auto_save_enabled**: Enable auto-save
+    - **preferences**: Additional preferences as JSON string
+    """
+    try:
+        # Default values for optional parameters
+        theme = theme or "light"
+        notification_enabled = notification_enabled if notification_enabled is not None else True
+        auto_save_enabled = auto_save_enabled if auto_save_enabled is not None else True
+
+        # Parse preferences JSON
+        prefs_json = "{}"
+        if preferences:
+            prefs_json = json.dumps(json.loads(preferences))
+
+        conn = sqlite3.connect(str(DB_PATH))
+        cursor = conn.cursor()
+
+        # Upsert preferences
+        cursor.execute("""
+            INSERT INTO user_preferences
+            (session_id, theme, notification_enabled, auto_save_enabled, preferences_json, updated_at)
+            VALUES (?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+            ON CONFLICT(session_id) DO UPDATE SET
+                theme = excluded.theme,
+                notification_enabled = excluded.notification_enabled,
+                auto_save_enabled = excluded.auto_save_enabled,
+                preferences_json = excluded.preferences_json,
+                updated_at = CURRENT_TIMESTAMP
+        """, (session_id, theme, int(notification_enabled), int(auto_save_enabled), prefs_json))
+
+        conn.commit()
+        conn.close()
+
+        return ConversationResponse(
+            success=True,
+            data={"message": "Preferences updated successfully"}
+        )
+    except Exception as e:
+        logger.error(f"Error updating preferences: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 @router.get("/{conversation_id}")
 async def get_conversation(conversation_id: str) -> ConversationResponse:
     """
@@ -331,126 +457,6 @@ async def get_messages(
 
     except Exception as e:
         logger.error(f"Error getting messages: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-# ============================================================================
-# USER PREFERENCES ENDPOINTS
-# ============================================================================
-
-class PreferencesRequest(BaseModel):
-    """Request to update user preferences"""
-    theme: Optional[str] = Field(None, description="Theme (light or dark)")
-    notification_enabled: Optional[bool] = Field(None, description="Enable notifications")
-    auto_save_enabled: Optional[bool] = Field(None, description="Enable auto-save")
-    preferences: Optional[Dict[str, Any]] = Field(None, description="Additional preferences JSON")
-
-
-@router.get("/preferences")
-async def get_preferences(session_id: str = Query(..., description="Session ID")) -> ConversationResponse:
-    """
-    Get user preferences for a session
-
-    - **session_id**: Session identifier
-
-    Returns user preferences (theme, notifications, etc.)
-    """
-    try:
-        conn = conversation_manager._get_db_connection()
-        cursor = conn.cursor()
-
-        cursor.execute("""
-            SELECT theme, notification_enabled, auto_save_enabled,
-                   preferences_json, created_at, updated_at
-            FROM user_preferences
-            WHERE session_id = ?
-        """, (session_id,))
-
-        row = cursor.fetchone()
-        conn.close()
-
-        if not row:
-            # Return defaults if no preferences exist
-            return ConversationResponse(
-                success=True,
-                data={
-                    "theme": "light",
-                    "notification_enabled": True,
-                    "auto_save_enabled": True,
-                    "preferences": {}
-                }
-            )
-
-        return ConversationResponse(
-            success=True,
-            data={
-                "theme": row[0],
-                "notification_enabled": bool(row[1]),
-                "auto_save_enabled": bool(row[2]),
-                "preferences": json.loads(row[3]) if row[3] else {},
-                "created_at": row[4],
-                "updated_at": row[5]
-            }
-        )
-    except Exception as e:
-        logger.error(f"Error fetching preferences: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-@router.put("/preferences")
-async def update_preferences(
-    session_id: str = Query(..., description="Session ID"),
-    theme: Optional[str] = Query(None, description="Theme (light or dark)"),
-    notification_enabled: Optional[bool] = Query(None, description="Enable notifications"),
-    auto_save_enabled: Optional[bool] = Query(None, description="Enable auto-save"),
-    preferences: Optional[str] = Query(None, description="Additional preferences as JSON string")
-) -> ConversationResponse:
-    """
-    Update user preferences for a session
-
-    - **session_id**: Session identifier
-    - **theme**: Theme preference (light or dark)
-    - **notification_enabled**: Enable notifications
-    - **auto_save_enabled**: Enable auto-save
-    - **preferences**: Additional preferences as JSON string
-    """
-    try:
-        # Default values for optional parameters
-        theme = theme or "light"
-        notification_enabled = notification_enabled if notification_enabled is not None else True
-        auto_save_enabled = auto_save_enabled if auto_save_enabled is not None else True
-
-        # Parse preferences JSON
-        prefs_json = "{}"
-        if preferences:
-            import json as json_lib
-            prefs_json = json_lib.dumps(json_lib.loads(preferences))
-
-        conn = conversation_manager._get_db_connection()
-        cursor = conn.cursor()
-
-        # Upsert preferences
-        cursor.execute("""
-            INSERT INTO user_preferences
-            (session_id, theme, notification_enabled, auto_save_enabled, preferences_json, updated_at)
-            VALUES (?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
-            ON CONFLICT(session_id) DO UPDATE SET
-                theme = excluded.theme,
-                notification_enabled = excluded.notification_enabled,
-                auto_save_enabled = excluded.auto_save_enabled,
-                preferences_json = excluded.preferences_json,
-                updated_at = CURRENT_TIMESTAMP
-        """, (session_id, theme, int(notification_enabled), int(auto_save_enabled), prefs_json))
-
-        conn.commit()
-        conn.close()
-
-        return ConversationResponse(
-            success=True,
-            data={"message": "Preferences updated successfully"}
-        )
-    except Exception as e:
-        logger.error(f"Error updating preferences: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
 

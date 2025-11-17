@@ -227,15 +227,17 @@ const ChatInterface = ({
       }, 60000); // 60 second timeout for Claude API
 
       // Story 8.2 & 8.4: Display Claude's answer with sources
+      // Safely extract data from result
+      const data = result?.data || result || {};
       const assistantMessage = {
         id: Date.now() + 1,
         role: 'assistant',
-        content: result.data.answer,
-        sources: result.data.sources,
+        content: data.answer || data.response || '',
+        sources: data.sources || [],
         timestamp: new Date().toISOString(),
-        searchTime: result.data.search_time_ms,
-        generationTime: result.data.generation_time_ms,
-        totalTime: result.data.total_time_ms
+        searchTime: data.search_time_ms || 0,
+        generationTime: data.generation_time_ms || 0,
+        totalTime: data.total_time_ms || 0
       };
 
       setMessages(prev => [...prev, assistantMessage]);
