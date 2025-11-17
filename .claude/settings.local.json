@@ -3,7 +3,18 @@
     "allow": [
       "Bash(sqlite3:*)",
       "Bash(python3:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(killall:*)",
+      "Bash(npm run:*)",
+      "Bash(python -m py_compile:*)",
+      "Bash(node -c:*)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)",
+      "Bash(taskkill /F /IM python.exe)",
+      "Bash(find:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(where:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,8 +1,23 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { ChevronLeft, ChevronRight, Plus, Trash2, Edit2, MessageSquare, Pin, Archive, Search, X, Loader } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Plus, Trash2, Edit2, MessageSquare, Pin, Archive, Search, X, Loader, Settings, LogOut, Info, Download, Keyboard } from 'lucide-react';
 import * as conversationApi from '../api/conversationApi';
-import { getSessionId } from '../utils/sessionManager';
+import { getSessionId, clearSessionId } from '../utils/sessionManager';
+import { getPreferences, updatePreferences } from '../api/preferencesApi';
+import { exportConversations } from '../api/conversationApi';
+import { ShortcutsHelp } from './ShortcutsHelp';
 import './ChatHistorySidebar.css';
+
+// Elite: Universal navigation function - works in any context
+const navigate = (path) => {
+  // Try React Router first if available via context
+  const routerNav = window.__routerNavigate;
+  if (routerNav) {
+    routerNav(path);
+  } else {
+    // Fallback to standard navigation
+    window.location.href = path;
+  }
+};
 
 /**
  * ChatHistorySidebar Component
@@ -29,11 +44,14 @@ const ChatHistorySidebar = ({
   const [renaming, setRenaming] = useState(null);
   const [newTitle, setNewTitle] = useState('');
   const [error, setError] = useState(null);
-  const [backendFilter, setBackendFilter] = useState(null); // null = all, 'claude' or 'gemini'
   const [showArchived, setShowArchived] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [searching, setSearching] = useState(false);
   const [searchResults, setSearchResults] = useState(null); // null = not searching, [] = no results
+  const [profileMenuOpen, setProfileMenuOpen] = useState(false);
+  const [showShortcuts, setShowShortcuts] = useState(false);
+  const [showAbout, setShowAbout] = useState(false);
+  const [showExportDialog, setShowExportDialog] = useState(false);
   const searchTimeoutRef = useRef(null);
   const sessionId = getSessionId();
 
@@ -43,7 +61,7 @@ const ChatHistorySidebar = ({
     setSearchQuery('');
     setSearchResults(null);
     loadConversations();
-  }, [sessionId, backendFilter, showArchived]);
+  }, [sessionId, showArchived]);
 
   // Debounced search handler
   useEffect(() => {
@@ -78,8 +96,7 @@ const ChatHistorySidebar = ({
       const result = await conversationApi.listConversations(sessionId, {
         limit: 100,
         offset: 0,
-        archived: showArchived,
-        backend: backendFilter
+        archived: showArchived
       });
       setConversations(result.conversations || []);
     } catch (err) {
@@ -96,7 +113,6 @@ const ChatHistorySidebar = ({
 
     try {
       const result = await conversationApi.searchConversations(sessionId, searchQuery, {
-        backend: backendFilter,
         archived: showArchived,
         limit: 50
       });
@@ -107,6 +123,40 @@ const ChatHistorySidebar = ({
       setSearchResults([]);
     } finally {
       setSearching(false);
+    }
+  };
+
+  const handleLogout = () => {
+    if (window.confirm('Are you sure you want to log out? This will clear your session.')) {
+      clearSessionId();
+      localStorage.clear();
+      window.location.reload();
+    }
+  };
+
+  const handleExport = async (format) => {
+    try {
+      await exportConversations(sessionId, format, true);
+      setShowExportDialog(false);
+      setProfileMenuOpen(false);
+    } catch (error) {
+      console.error('Export failed:', error);
+      alert('Export failed. Please try again.');
+    }
+  };
+
+  const handleThemeToggle = async () => {
+    try {
+      const prefs = await getPreferences(sessionId);
+      const newTheme = prefs.theme === 'light' ? 'dark' : 'light';
+      await updatePreferences(sessionId, { theme: newTheme });
+
+      // Apply theme to document
+      document.documentElement.setAttribute('data-theme', newTheme);
+
+      setProfileMenuOpen(false);
+    } catch (error) {
+      console.error('Theme toggle failed:', error);
     }
   };
 
@@ -326,18 +376,6 @@ const ChatHistorySidebar = ({
 
       {/* Filter Bar */}
       <div className="filter-bar">
-        {/* Backend Filter Dropdown */}
-        <select
-          className="backend-filter"
-          value={backendFilter || ''}
-          onChange={e => setBackendFilter(e.target.value || null)}
-          title="Filter conversations by backend"
-        >
-          <option value="">All Backends</option>
-          <option value="claude">Claude</option>
-          <option value="gemini">Gemini</option>
-        </select>
-
         {/* Show Archived Toggle */}
         <button
           className={`archive-toggle ${showArchived ? 'active' : ''}`}
@@ -476,6 +514,12 @@ const ChatHistorySidebar = ({
               className={`conversation-item ${currentConversationId === conversation.id ? 'active' : ''}`}
               onClick={() => handleSelectConversation(conversation.id)}
             >
+              {/* Backend Badge */}
+              <span
+                className={`backend-badge ${conversation.backend_type || 'claude'}`}
+                title={conversation.backend_type || 'claude'}
+              />
+
               <div className="conversation-content">
                 {renaming === conversation.id ? (
                   <input
@@ -549,6 +593,129 @@ const ChatHistorySidebar = ({
           </>
         )}
       </div>
+
+      {/* Profile Menu Footer */}
+      <div className="sidebar-footer">
+        <div
+          className="profile-banner"
+          onClick={() => setProfileMenuOpen(!profileMenuOpen)}
+        >
+          <div className="profile-avatar">
+            {sessionId?.substring(0, 2).toUpperCase() || 'US'}
+          </div>
+          <div className="profile-info">
+            <div className="profile-name">User</div>
+            <div className="profile-session">Session Active</div>
+          </div>
+          <div className={`profile-menu-icon ${profileMenuOpen ? 'open' : ''}`}>
+            ▲
+          </div>
+        </div>
+
+        {profileMenuOpen && (
+          <div className="profile-menu">
+            <button
+              className="profile-menu-item"
+              onClick={() => {
+                setShowShortcuts(true);
+                setProfileMenuOpen(false);
+              }}
+            >
+              <Keyboard size={18} />
+              <span>Keyboard Shortcuts</span>
+            </button>
+
+            <button
+              className="profile-menu-item"
+              onClick={() => {
+                navigate('/settings');
+                setProfileMenuOpen(false);
+              }}
+            >
+              <Settings size={18} />
+              <span>Settings</span>
+            </button>
+
+            <button
+              className="profile-menu-item"
+              onClick={handleThemeToggle}
+            >
+              <span className="menu-icon">🌓</span>
+              <span>Toggle Theme</span>
+            </button>
+
+            <button
+              className="profile-menu-item"
+              onClick={() => setShowExportDialog(!showExportDialog)}
+            >
+              <Download size={18} />
+              <span>Export Data</span>
+            </button>
+
+            {showExportDialog && (
+              <div className="export-submenu">
+                <button onClick={() => handleExport('json')}>
+                  Export as JSON
+                </button>
+                <button onClick={() => handleExport('markdown')}>
+                  Export as Markdown
+                </button>
+              </div>
+            )}
+
+            <button
+              className="profile-menu-item"
+              onClick={() => {
+                setShowAbout(true);
+                setProfileMenuOpen(false);
+              }}
+            >
+              <Info size={18} />
+              <span>About BroBro</span>
+            </button>
+
+            <button
+              className="profile-menu-item logout"
+              onClick={handleLogout}
+            >
+              <LogOut size={18} />
+              <span>Log Out</span>
+            </button>
+          </div>
+        )}
+      </div>
+
+      {/* Modals */}
+      {showShortcuts && (
+        <ShortcutsHelp
+          isOpen={showShortcuts}
+          onClose={() => setShowShortcuts(false)}
+        />
+      )}
+
+      {showAbout && (
+        <div
+          className="modal-overlay"
+          onClick={() => setShowAbout(false)}
+        >
+          <div
+            className="modal-content"
+            onClick={e => e.stopPropagation()}
+          >
+            <h2>About BroBro</h2>
+            <p><strong>Version:</strong> 2.0.0</p>
+            <p>
+              <strong>Description:</strong> Your Bro for anything Business, GHL, Cannabis and Tissue Culture
+            </p>
+            <p><strong>Powered by:</strong></p>
+            <ul>
+              <li>Anthropic Claude</li>
+              <li>Google Gemini File Search</li>
+            </ul>
+            <button onClick={() => setShowAbout(false)}>Close</button>
+          </div>
+        </div>
+      )}
     </div>
   );
 };

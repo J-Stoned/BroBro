@@ -289,6 +289,69 @@ export const searchConversations = async (
   };
 };
 
+/**
+ * Export conversations for a session
+ * @param {string} sessionId - Session identifier
+ * @param {string} formatType - Export format (json or markdown)
+ * @param {boolean} includeArchived - Include archived conversations
+ * @returns {Promise<Object>} Export data
+ */
+export async function exportConversations(
+  sessionId,
+  formatType = 'json',
+  includeArchived = true
+) {
+  try {
+    const params = new URLSearchParams({
+      session_id: sessionId,
+      format_type: formatType,
+      include_archived: includeArchived
+    });
+
+    const response = await fetch(
+      `${API_BASE_URL}/api/conversations/export?${params.toString()}`,
+      {
+        method: 'POST'
+      }
+    );
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+    const exportContent = data.data || data;
+
+    // Determine file type and content
+    let blob;
+    let filename = exportContent.filename || `brobro-export.${formatType}`;
+
+    if (formatType === 'json') {
+      // Convert JSON object back to string
+      const jsonString = JSON.stringify(exportContent.content, null, 2);
+      blob = new Blob([jsonString], { type: 'application/json' });
+    } else {
+      // Markdown
+      blob = new Blob([exportContent.content], { type: 'text/markdown' });
+    }
+
+    // Trigger download
+    const url = window.URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    window.URL.revokeObjectURL(url);
+    document.body.removeChild(a);
+
+    return { success: true, filename };
+  } catch (error) {
+    console.error('Error exporting conversations:', error);
+    throw error;
+  }
+}
+
 export default {
   createConversation,
   listConversations,
@@ -301,4 +364,5 @@ export default {
   archiveConversation,
   unarchiveConversation,
   searchConversations,
+  exportConversations
 };

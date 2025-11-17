@@ -116,6 +116,9 @@ class ConversationManager:
             # Migration V3: Add FTS5 full-text search
             self._migrate_v3_add_fts5(cursor, conn)
 
+            # Migration V4: Add user_preferences table
+            self._migrate_v4_add_user_preferences(cursor, conn)
+
         except Exception as e:
             logger.error(f"Error running migrations: {e}")
             conn.rollback()
@@ -259,6 +262,40 @@ class ConversationManager:
                   DELETE FROM messages_fts WHERE rowid = old.id;
                   INSERT INTO messages_fts(rowid, content) VALUES (new.id, new.content);
                 END
+            """)
+
+            self._mark_migration_applied(cursor, version, name)
+            conn.commit()
+            logger.info(f"Migration V{version} ({name}) completed successfully")
+
+        except Exception as e:
+            logger.error(f"Error applying migration V{version} ({name}): {e}")
+            conn.rollback()
+            raise
+
+    def _migrate_v4_add_user_preferences(self, cursor, conn):
+        """Migration V4: Add user_preferences table for storing user settings"""
+        version = 4
+        name = "add_user_preferences_table"
+
+        if self._is_migration_applied(cursor, version, name):
+            logger.info(f"Migration V{version} ({name}) already applied, skipping")
+            return
+
+        try:
+            logger.info(f"Running migration V{version}: {name}")
+
+            # Create user_preferences table
+            cursor.execute("""
+                CREATE TABLE IF NOT EXISTS user_preferences (
+                    session_id TEXT PRIMARY KEY,
+                    theme TEXT DEFAULT 'light',
+                    notification_enabled BOOLEAN DEFAULT 1,
+                    auto_save_enabled BOOLEAN DEFAULT 1,
+                    preferences_json TEXT DEFAULT '{}',
+                    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+                    updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
+                )
             """)
 
             self._mark_migration_applied(cursor, version, name)

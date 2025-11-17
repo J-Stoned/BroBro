@@ -336,6 +336,10 @@
   color: #6b7280;
   text-align: center;
   flex: 1;
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  margin: 2rem;
 }
 
 .empty-state-alt svg {

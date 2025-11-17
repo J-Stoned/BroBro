@@ -418,7 +418,7 @@ const ChatInterface = ({
           <MessageSquare size={24} />
           <div>
             <h2>Chat with BroBro</h2>
-            <p>Ask me anything about GoHighLevel</p>
+            <p>BroBro</p>
           </div>
         </div>
 
@@ -483,7 +483,7 @@ const ChatInterface = ({
           <div className="empty-state">
             <Bot size={64} />
             <h3>Start a conversation</h3>
-            <p>Ask me about GoHighLevel workflows, automation, integrations, or anything else!</p>
+            <p>Your Bro for anything Business, GHL, Cannabis and Tissue Culture</p>
             <div className="example-prompts">
               <button onClick={() => setInputMessage('How do I create a lead nurture workflow?')}>
                 Create a lead nurture workflow
@@ -630,7 +630,7 @@ const ChatInterface = ({
           <textarea
             ref={inputRef}
             className="chat-input"
-            placeholder="Ask me anything about GoHighLevel..."
+            placeholder="BroBro"
             value={inputMessage}
             onChange={(e) => setInputMessage(e.target.value)}
             onKeyPress={handleKeyPress}
