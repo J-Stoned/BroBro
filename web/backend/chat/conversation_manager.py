@@ -15,8 +15,12 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-# Database path
-DB_PATH = Path("web/backend/database/conversations.db")
+# Database path - use absolute path relative to module location
+# __file__ is the module location, .parent.parent gets to backend/, then database/
+import os
+_module_dir = os.path.dirname(os.path.abspath(__file__))  # chat/
+_backend_dir = os.path.dirname(_module_dir)  # backend/
+DB_PATH = Path(_backend_dir) / "database" / "conversations.db"
 
 
 class ConversationManager:
