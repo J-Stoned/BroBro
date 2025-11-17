@@ -334,8 +334,7 @@ class ConversationManager:
             search_query = """
                 SELECT DISTINCT c.id, c.session_id, c.title, c.created_at, c.updated_at,
                        c.archived, COALESCE(c.pinned, FALSE) as pinned,
-                       COALESCE(c.backend_type, 'claude') as backend_type,
-                       snippet(messages_fts, 0, '<mark>', '</mark>', '...', 15) as excerpt
+                       COALESCE(c.backend_type, 'claude') as backend_type
                 FROM messages_fts
                 JOIN messages m ON messages_fts.rowid = m.id
                 JOIN conversations c ON m.conversation_id = c.id
@@ -368,8 +367,7 @@ class ConversationManager:
                     'updated_at': row[4],
                     'archived': bool(row[5]),
                     'pinned': bool(row[6]),
-                    'backend_type': row[7],
-                    'excerpt': row[8]
+                    'backend_type': row[7]
                 })
 
             return {
