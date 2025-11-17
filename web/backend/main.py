@@ -45,6 +45,8 @@ from routes.ai_generation_routes import router as ai_generation_router
 from routes.version_control_routes import router as version_control_router
 # Import Gemini File Search routes (Google AI Integration)
 from routes.gemini_routes import router as gemini_router
+# Import Conversation/Chat History routes
+from routes.conversation_routes import router as conversation_router
 # Import Collaboration WebSocket (Enhancement 9)
 from websocket.collaboration_server import collaboration_manager
 from fastapi import WebSocket, WebSocketDisconnect
@@ -175,6 +177,9 @@ app.include_router(version_control_router)
 
 # Register Gemini File Search routes (Google AI Integration)
 app.include_router(gemini_router)
+
+# Register Conversation/Chat History routes
+app.include_router(conversation_router)
 
 # Initialize Claude API client (Gemini File Search initialized in gemini_routes)
 claude_client: Optional[Anthropic] = None

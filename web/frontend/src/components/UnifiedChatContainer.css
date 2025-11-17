@@ -1,0 +1,49 @@
+/* UnifiedChatContainer.css - Layout for sidebar + chat */
+
+.unified-chat-container {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+/* Chat Area */
+.chat-area {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-left: 320px;
+  transition: margin-left 0.3s ease;
+  overflow: hidden;
+}
+
+.chat-area.sidebar-collapsed {
+  margin-left: 60px;
+}
+
+/* Ensure chat interface fills the space */
+.chat-area > * {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Responsive - Tablet */
+@media (max-width: 768px) {
+  .chat-area {
+    margin-left: 280px;
+  }
+}
+
+/* Responsive - Mobile */
+@media (max-width: 480px) {
+  .unified-chat-container {
+    flex-direction: column;
+  }
+
+  .chat-area {
+    margin-left: 0;
+    position: relative;
+  }
+}
