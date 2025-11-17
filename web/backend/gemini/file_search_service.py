@@ -8,6 +8,11 @@ import json
 from google import genai
 from google.genai import types
 from typing import Optional, Dict, Any, List
+import traceback
+import logging
+
+# Set up logging
+logger = logging.getLogger(__name__)
 
 class GeminiFileSearchService:
     """
@@ -117,8 +122,13 @@ class GeminiFileSearchService:
             }
 
         except Exception as e:
+            error_response = self._categorize_error(e)
+            logger.error(f"Query failed: {error_response['error_type']}: {str(e)}", exc_info=True)
             return {
-                'error': str(e),
+                'error': error_response['user_message'],
+                'error_type': error_response['error_type'],
+                'status_code': error_response.get('status_code'),
+                'retry_after': error_response.get('retry_after'),
                 'answer': None,
                 'citations': [],
                 'success': False
@@ -237,7 +247,8 @@ STYLE:
 
         except Exception as e:
             # Fallback to estimation on error
-            print(f"[WARNING] Token counting failed: {e}. Using estimation.")
+            error_response = self._categorize_error(e)
+            logger.warning(f"Token counting failed ({error_response['error_type']}): {e}. Using estimation.")
             total_chars = sum(len(msg.get('content', '')) for msg in messages)
             if system_prompt:
                 total_chars += len(system_prompt)
@@ -331,9 +342,11 @@ Keep under 500 tokens while retaining ALL critical information."""
             }
 
         except Exception as e:
-            print(f"[ERROR] Summarization failed: {e}. Returning original messages.")
+            error_response = self._categorize_error(e)
+            logger.error(f"Summarization failed ({error_response['error_type']}): {e}", exc_info=True)
             return {
-                'error': str(e),
+                'error': error_response['user_message'],
+                'error_type': error_response['error_type'],
                 'summary': None,
                 'compacted_messages': messages,
                 'token_count': self.count_tokens(messages),
@@ -495,8 +508,13 @@ Keep under 500 tokens while retaining ALL critical information."""
             }
 
         except Exception as e:
+            error_response = self._categorize_error(e)
+            logger.error(f"Chat failed ({error_response['error_type']}): {str(e)}", exc_info=True)
             return {
-                'error': str(e),
+                'error': error_response['user_message'],
+                'error_type': error_response['error_type'],
+                'status_code': error_response.get('status_code'),
+                'retry_after': error_response.get('retry_after'),
                 'answer': None,
                 'success': False
             }
@@ -508,6 +526,72 @@ Keep under 500 tokens while retaining ALL critical information."""
             'model': self.model,
             'configured': self.is_configured()
         }
+
+    def _categorize_error(self, error: Exception) -> Dict[str, Any]:
+        """
+        Categorize API errors and provide user-friendly messages
+
+        Args:
+            error: The exception that occurred
+
+        Returns:
+            Dict with error_type, user_message, status_code, and retry_after
+        """
+        error_str = str(error).lower()
+        error_type_str = type(error).__name__
+
+        # Gemini API errors
+        if '503' in error_str or 'service unavailable' in error_str:
+            return {
+                'error_type': 'SERVICE_UNAVAILABLE',
+                'status_code': 503,
+                'user_message': 'The AI service is temporarily unavailable. Please try again in a few moments.',
+                'retry_after': 30
+            }
+        elif '429' in error_str or 'rate limit' in error_str or 'quota' in error_str:
+            return {
+                'error_type': 'RATE_LIMITED',
+                'status_code': 429,
+                'user_message': 'Too many requests. Please wait a moment before asking another question.',
+                'retry_after': 60
+            }
+        elif '401' in error_str or 'unauthorized' in error_str or 'invalid api key' in error_str:
+            return {
+                'error_type': 'AUTH_ERROR',
+                'status_code': 401,
+                'user_message': 'Authentication failed. Please check your API configuration.',
+                'retry_after': None
+            }
+        elif '400' in error_str or 'bad request' in error_str or 'invalid' in error_str:
+            return {
+                'error_type': 'INVALID_REQUEST',
+                'status_code': 400,
+                'user_message': 'Invalid request. Please rephrase your question and try again.',
+                'retry_after': None
+            }
+        elif 'connection' in error_str or 'timeout' in error_str or 'network' in error_str:
+            return {
+                'error_type': 'NETWORK_ERROR',
+                'status_code': None,
+                'user_message': 'Network error. Please check your connection and try again.',
+                'retry_after': 10
+            }
+        elif 'store' in error_str or 'file search' in error_str.lower():
+            return {
+                'error_type': 'CONFIG_ERROR',
+                'status_code': None,
+                'user_message': 'Knowledge base is not properly configured. Please contact support.',
+                'retry_after': None
+            }
+        else:
+            # Generic error
+            logger.error(f"Uncategorized error ({error_type_str}): {error_str}", exc_info=True)
+            return {
+                'error_type': 'UNKNOWN_ERROR',
+                'status_code': None,
+                'user_message': 'An unexpected error occurred. Please try again.',
+                'retry_after': 10
+            }
 
 
 # Singleton instance

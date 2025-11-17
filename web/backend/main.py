@@ -29,6 +29,14 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Import middleware components
+from middleware.logging_middleware import LoggingMiddleware
+from middleware.performance_middleware import PerformanceMiddleware
+from utils.error_logger import StructuredLogger as ErrorLogger, configure_logging
+
+# Configure structured error logging
+configure_logging(log_level=os.getenv('LOG_LEVEL', 'INFO'))
+
 # Import GHL routes
 from routes.ghl_routes import router as ghl_router
 # Import Workflow routes (Epic 12)
@@ -153,6 +161,11 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Register middleware stack (order matters - LIFO for request processing)
+# Performance tracking should be before logging to capture accurate timing
+app.add_middleware(PerformanceMiddleware)
+app.add_middleware(LoggingMiddleware)
 
 # Register GHL API routes (Epic 11: API Integration)
 app.include_router(ghl_router)
@@ -295,7 +308,12 @@ async def startup_event():
         claude_client = None
 
 
-# Health check endpoint
+# Health check endpoint with sampling to reduce logging noise
+# Track health check calls to implement sampling
+import random
+_health_check_counter = 0
+_health_check_sample_rate = 0.1  # Log 10% of health checks (every ~10th call)
+
 @app.get("/health", response_model=HealthResponse)
 @app.get("/api/health", response_model=HealthResponse)
 async def health_check():
@@ -305,7 +323,15 @@ async def health_check():
 
     BroBro Backend uses Gemini File Search (primary) + Claude API (synthesis).
     No ChromaDB dependency - cloud-based knowledge management via Gemini.
+
+    Logging: Health checks are sampled (10%) to reduce log noise from monitoring.
     """
+    global _health_check_counter
+    _health_check_counter += 1
+
+    # Determine if this health check should be logged
+    should_log_health = random.random() < _health_check_sample_rate
+
     # Check if Gemini API key is configured (the primary search method)
     gemini_api_key = os.getenv('GOOGLE_API_KEY') or os.getenv('GOOGLE_GEMINI_API_KEY') or os.getenv('GEMINI_API_KEY')
 
@@ -322,6 +348,8 @@ async def health_check():
     is_healthy = all(apis_available.values())  # Both APIs required
 
     if is_healthy:
+        if should_log_health:
+            logger.debug(f"Health check #{_health_check_counter}: OK (sampled)")
         return HealthResponse(
             status="healthy",
             message="BroBro Backend operational - Gemini File Search + Claude API ready",
@@ -332,6 +360,7 @@ async def health_check():
         )
     else:
         missing_apis = [k for k, v in apis_available.items() if not v]
+        logger.warning(f"Health check #{_health_check_counter}: FAILED - Missing APIs: {missing_apis}")
         return HealthResponse(
             status="unhealthy",
             message=f"Missing required APIs: {', '.join(missing_apis)}. Set GOOGLE_API_KEY and ANTHROPIC_API_KEY.",
@@ -472,7 +501,7 @@ async def quick_search(
 # Chat endpoint - AI-powered responses using Claude API + Gemini File Search
 @app.post("/api/chat", response_model=ChatResponse)
 @limiter.limit("10/minute")
-async def chat(request: ChatRequest, request_obj: Request):
+async def chat(request: Request, chat_request: ChatRequest):
     """
     AI-powered chat endpoint using Claude API + Gemini File Search
 
@@ -508,7 +537,7 @@ async def chat(request: ChatRequest, request_obj: Request):
         if gemini_service.is_configured():
             # Query Gemini File Search
             gemini_result = gemini_service.query(
-                question=request.query,
+                question=chat_request.query,
                 max_tokens=2048,
                 include_citations=True
             )
@@ -519,7 +548,7 @@ async def chat(request: ChatRequest, request_obj: Request):
 
                 # Extract citations as sources
                 citations = gemini_result.get('citations', [])
-                for i, citation in enumerate(citations[:request.n_results], 1):
+                for i, citation in enumerate(citations[:chat_request.n_results], 1):
                     search_results.append(SearchResponseItem(
                         content=citation.get('text', ''),
                         relevance_score=0.95,  # Gemini doesn't provide scores, use high default
@@ -550,11 +579,11 @@ async def chat(request: ChatRequest, request_obj: Request):
 
         # Add conversation history if provided
         # CRITICAL FIX: Handle tool_use/tool_result blocks properly
-        if request.conversation_history:
+        if chat_request.conversation_history:
             # We need to validate the entire conversation for tool_use/tool_result pairing
             validated_messages = []
-            
-            for i, msg in enumerate(request.conversation_history):
+
+            for i, msg in enumerate(chat_request.conversation_history):
                 # Skip messages with media
                 if 'image' in msg or 'images' in msg or 'media' in msg:
                     logger.warning(f"Skipping message {i} that contains image/media field")
@@ -667,7 +696,7 @@ async def chat(request: ChatRequest, request_obj: Request):
 
         # Add current query with Gemini File Search context
         # Gemini already provided relevant context, Claude will refine and expand on it
-        user_message = f"""User Question: {request.query}
+        user_message = f"""User Question: {chat_request.query}
 
 Relevant Information from GHL Knowledge Base (via Gemini File Search):
 {context}
@@ -697,7 +726,7 @@ Guidelines:
 Focus on practical, implementable advice that users can apply immediately to their GHL accounts."""
 
         # Smart model selection: Use Haiku for speed, Sonnet for deep thinking
-        use_sonnet = any(phrase in request.query.lower() for phrase in [
+        use_sonnet = any(phrase in chat_request.query.lower() for phrase in [
             "think really hard",
             "think deeply",
             "analyze deeply",

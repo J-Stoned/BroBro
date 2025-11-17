@@ -47,26 +47,33 @@ async def get_status():
 async def query_knowledge_base(request: QueryRequest):
     """
     Query the GHL WHIZ knowledge base
-    
+
     Returns AI-generated answer with citations from your documents
     """
     service = get_gemini_service()
-    
+
     if not service.is_configured():
         raise HTTPException(
             status_code=503,
             detail="Gemini File Search not configured. Please set GOOGLE_API_KEY and run the upload script."
         )
-    
+
     result = service.query(
         question=request.question,
         max_tokens=request.max_tokens,
         include_citations=request.include_citations
     )
-    
+
     if not result.get('success', False):
-        raise HTTPException(status_code=500, detail=result.get('error', 'Unknown error'))
-    
+        # Use categorized error response with proper status code
+        status_code = result.get('status_code', 500)
+        error_detail = {
+            'error': result.get('error', 'Unknown error'),
+            'error_type': result.get('error_type'),
+            'retry_after': result.get('retry_after')
+        }
+        raise HTTPException(status_code=status_code, detail=error_detail)
+
     return result
 
 
@@ -74,17 +81,17 @@ async def query_knowledge_base(request: QueryRequest):
 async def chat_with_knowledge_base(request: ChatRequest):
     """
     Multi-turn chat with knowledge base context
-    
+
     Maintains conversation history for follow-up questions
     """
     service = get_gemini_service()
-    
+
     if not service.is_configured():
         raise HTTPException(
             status_code=503,
             detail="Gemini File Search not configured"
         )
-    
+
     messages = [{"role": m.role, "content": m.content} for m in request.messages]
 
     result = service.chat(
@@ -93,10 +100,17 @@ async def chat_with_knowledge_base(request: ChatRequest):
         max_tokens=request.max_tokens,
         temperature=request.temperature
     )
-    
+
     if not result.get('success', False):
-        raise HTTPException(status_code=500, detail=result.get('error', 'Unknown error'))
-    
+        # Use categorized error response with proper status code
+        status_code = result.get('status_code', 500)
+        error_detail = {
+            'error': result.get('error', 'Unknown error'),
+            'error_type': result.get('error_type'),
+            'retry_after': result.get('retry_after')
+        }
+        raise HTTPException(status_code=status_code, detail=error_detail)
+
     return result
 
 
@@ -156,10 +170,14 @@ async def compact_conversation(request: ChatRequest):
     )
 
     if result.get('error'):
-        raise HTTPException(
-            status_code=500,
-            detail=result['error']
-        )
+        # Use categorized error response with proper status code
+        status_code = result.get('status_code', 500)
+        error_detail = {
+            'error': result['error'],
+            'error_type': result.get('error_type'),
+            'retry_after': result.get('retry_after')
+        }
+        raise HTTPException(status_code=status_code, detail=error_detail)
 
     return {
         'summary': result['summary'],
