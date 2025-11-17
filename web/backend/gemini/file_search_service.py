@@ -4,6 +4,7 @@ Integrates Google's File Search API with GHL WHIZ
 """
 
 import os
+import json
 from google import genai
 from google.genai import types
 from typing import Optional, Dict, Any, List
@@ -26,7 +27,8 @@ class GeminiFileSearchService:
         if not api_key:
             raise ValueError("GOOGLE_API_KEY or GEMINI_API_KEY environment variable required")
 
-        self.client = genai.Client()
+        # Initialize client with explicit API key (best practice)
+        self.client = genai.Client(api_key=api_key)
 
         # Try environment variable first (preferred)
         self.store_id = os.environ.get('GEMINI_FILE_SEARCH_STORE_ID')
@@ -75,25 +77,24 @@ class GeminiFileSearchService:
             }
         
         try:
-            # Create the file search tool configuration
+            # Create the file search tool configuration using proper types
+            file_search_config = types.FileSearch(
+                fileSearchStoreNames=[self.store_id]
+            )
+            tool_config = types.Tool(fileSearch=file_search_config)
+
             response = self.client.models.generate_content(
                 model=self.model,
                 contents=question,
                 config=types.GenerateContentConfig(
                     max_output_tokens=max_tokens,
-                    tools=[
-                        types.Tool(
-                            file_search=types.FileSearch(
-                                file_search_store_names=[self.store_id]
-                            )
-                        )
-                    ]
+                    tools=[tool_config]
                 )
             )
-            
+
             # Extract answer
             answer = response.text if hasattr(response, 'text') else str(response)
-            
+
             # Extract citations if available
             citations = []
             if include_citations and hasattr(response, 'candidates'):
@@ -106,7 +107,7 @@ class GeminiFileSearchService:
                                     'source': getattr(chunk, 'source', 'Unknown'),
                                     'content': getattr(chunk, 'content', '')[:200]
                                 })
-            
+
             return {
                 'answer': answer,
                 'citations': citations,
@@ -114,7 +115,7 @@ class GeminiFileSearchService:
                 'store_id': self.store_id,
                 'success': True
             }
-            
+
         except Exception as e:
             return {
                 'error': str(e),
@@ -299,10 +300,10 @@ Keep under 500 tokens while retaining ALL critical information."""
             response = self.client.models.generate_content(
                 model=self.model,
                 contents=summary_prompt,
-                config=types.GenerateContentConfig(
-                    max_output_tokens=1000,
-                    temperature=0.1  # Low temperature for factual accuracy
-                )
+                config={
+                    'max_output_tokens': 1000,
+                    'temperature': 0.1  # Low temperature for factual accuracy
+                }
             )
 
             summary_text = response.text
@@ -456,25 +457,24 @@ Keep under 500 tokens while retaining ALL critical information."""
                 contents = [{'role': 'user', 'parts': [{'text': system_prompt}]}]
 
             # If store_id is configured, use File Search; otherwise use regular chat
-            config_kwargs = {
-                'max_output_tokens': max_tokens,
-                'temperature': temperature,
-            }
-
+            tools = None
             if self.store_id:
                 # Use File Search if configured
-                config_kwargs['tools'] = [
-                    types.Tool(
-                        file_search=types.FileSearch(
-                            file_search_store_names=[self.store_id]
-                        )
-                    )
-                ]
+                file_search_config = types.FileSearch(
+                    fileSearchStoreNames=[self.store_id]
+                )
+                tools = [types.Tool(fileSearch=file_search_config)]
+
+            config = types.GenerateContentConfig(
+                max_output_tokens=max_tokens,
+                temperature=temperature,
+                tools=tools
+            )
 
             response = self.client.models.generate_content(
                 model=self.model,
                 contents=contents,
-                config=types.GenerateContentConfig(**config_kwargs)
+                config=config
             )
 
             response_text = response.text if hasattr(response, 'text') else str(response)

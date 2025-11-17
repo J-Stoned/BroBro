@@ -105,12 +105,43 @@ const UnifiedSearchBar = ({ onSearch, onClose }) => {
     }, 300);
   };
 
+  // Handle immediate search (no debounce) - used when user presses Enter
+  const handleSearchImmediate = async () => {
+    if (!query.trim()) {
+      return;
+    }
+
+    // Cancel any pending debounced search
+    if (searchTimeoutRef.current) {
+      clearTimeout(searchTimeoutRef.current);
+    }
+
+    setIsSearching(true);
+
+    try {
+      saveToRecent(query);
+      await onSearch(query);
+    } catch (error) {
+      console.error('Search failed:', error);
+    } finally {
+      setIsSearching(false);
+    }
+  };
+
   // Handle input change
   const handleInputChange = (e) => {
     const value = e.target.value;
     setQuery(value);
     setShowRecent(false);
     handleSearch(value);
+  };
+
+  // Handle Enter key press
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      handleSearchImmediate();
+    }
   };
 
   // Handle recent search click
@@ -157,6 +188,7 @@ const UnifiedSearchBar = ({ onSearch, onClose }) => {
           value={query}
           onChange={handleInputChange}
           onFocus={handleFocus}
+          onKeyDown={handleKeyDown}
           autoComplete="off"
         />
 

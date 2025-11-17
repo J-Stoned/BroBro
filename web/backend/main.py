@@ -250,6 +250,21 @@ async def startup_event():
     """Initialize backend services on startup (Gemini File Search + Claude API)"""
     global claude_client
 
+    # Debug: Log Python environment
+    import sys
+    logger.info(f"Python executable: {sys.executable}")
+    logger.info(f"Python version: {sys.version}")
+
+    # Debug: Check google-genai version
+    try:
+        import google.genai
+        logger.info(f"google-genai module location: {google.genai.__file__}")
+        from google.genai import types
+        logger.info(f"types module location: {types.__file__}")
+        logger.info(f"types.FileSearch exists: {hasattr(types, 'FileSearch')}")
+    except Exception as e:
+        logger.error(f"Error checking google-genai: {e}")
+
     try:
         # Initialize Claude API client (for /api/chat synthesis)
         anthropic_api_key = os.getenv('ANTHROPIC_API_KEY')
@@ -782,16 +797,18 @@ async def search_unified(
         search_time_ms = (time.time() - start_time) * 1000
 
         if not gemini_result.get('success', False):
+            error_msg = gemini_result.get('error', 'Unknown error')
+            logger.error(f"Gemini search failed: {error_msg}")
             raise HTTPException(
                 status_code=500,
-                detail=f"Search failed: {gemini_result.get('error', 'Unknown error')}"
+                detail=f"Search failed: {error_msg}"
             )
 
         # Extract results from Gemini response
         citations = gemini_result.get('citations', [])
-        results = []
+        results_array = []
         for i, citation in enumerate(citations[:limit]):
-            results.append({
+            results_array.append({
                 'id': f"result-{i}",
                 'title': citation.get('title', 'Result'),
                 'content': citation.get('text', ''),
@@ -799,12 +816,26 @@ async def search_unified(
                 'relevance_score': 0.95
             })
 
+        # Restructure results to match frontend expectations
+        top_answer = results_array[0] if results_array else None
+        results_structured = {
+            "topAnswer": top_answer,
+            "documentation": results_array,
+            "commands": [],
+            "total_by_type": {
+                "documentation": len(results_array),
+                "commands": 0
+            }
+        }
+
         return {
             "success": True,
             "data": {
                 "query": query,
-                "total_results": len(results),
-                "results": results,
+                "intent": "GENERAL_SEARCH",
+                "total_results": len(results_array),
+                "results": results_structured,
+                "suggestions": [],
                 "search_time_ms": round(search_time_ms, 2)
             }
         }
@@ -819,8 +850,18 @@ async def search_unified(
             "error": str(e),
             "data": {
                 "query": query,
+                "intent": "GENERAL_SEARCH",
                 "total_results": 0,
-                "results": [],
+                "results": {
+                    "topAnswer": None,
+                    "documentation": [],
+                    "commands": [],
+                    "total_by_type": {
+                        "documentation": 0,
+                        "commands": 0
+                    }
+                },
+                "suggestions": [],
                 "search_time_ms": 0
             }
         }
@@ -951,7 +992,7 @@ if __name__ == "__main__":
         "main:app",
         host="0.0.0.0",
         port=port,
-        reload=True,
+        reload=False,  # Disabled to prevent module caching issues
         log_level="info",
         timeout_keep_alive=600  # 10 minute keep-alive for long-running requests
     )

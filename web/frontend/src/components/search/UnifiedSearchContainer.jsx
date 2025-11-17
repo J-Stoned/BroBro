@@ -13,6 +13,7 @@ import React, { useState } from 'react';
 import UnifiedSearchBar from './UnifiedSearchBar';
 import SearchResults from './SearchResults';
 import { getErrorText } from '../../utils/api';
+import API_CONFIG from '../../config/api';
 import './UnifiedSearch.css';
 
 const UnifiedSearchContainer = () => {
@@ -32,7 +33,7 @@ const UnifiedSearchContainer = () => {
 
     try {
       const response = await fetch(
-        `http://localhost:8000/api/search/unified?query=${encodeURIComponent(query)}&limit=20`
+        `${API_CONFIG.BASE_URL}/api/search/unified?query=${encodeURIComponent(query)}&limit=20`
       );
 
       if (!response.ok) {
