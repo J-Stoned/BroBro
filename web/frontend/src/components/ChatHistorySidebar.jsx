@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronLeft, ChevronRight, Plus, Trash2, Edit2, MessageSquare } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Plus, Trash2, Edit2, MessageSquare, Pin, Archive } from 'lucide-react';
 import * as conversationApi from '../api/conversationApi';
 import { getSessionId } from '../utils/sessionManager';
 import './ChatHistorySidebar.css';
@@ -29,12 +29,14 @@ const ChatHistorySidebar = ({
   const [renaming, setRenaming] = useState(null);
   const [newTitle, setNewTitle] = useState('');
   const [error, setError] = useState(null);
+  const [backendFilter, setBackendFilter] = useState(null); // null = all, 'claude' or 'gemini'
+  const [showArchived, setShowArchived] = useState(false);
   const sessionId = getSessionId();
 
-  // Load conversations on mount and when session changes
+  // Load conversations on mount and when session or filters change
   useEffect(() => {
     loadConversations();
-  }, [sessionId]);
+  }, [sessionId, backendFilter, showArchived]);
 
   const loadConversations = async () => {
     setLoading(true);
@@ -44,7 +46,8 @@ const ChatHistorySidebar = ({
       const result = await conversationApi.listConversations(sessionId, {
         limit: 100,
         offset: 0,
-        archived: false
+        archived: showArchived,
+        backend: backendFilter
       });
       setConversations(result.conversations || []);
     } catch (err) {
@@ -126,6 +129,52 @@ const ChatHistorySidebar = ({
     }
   };
 
+  const handleTogglePin = async (conversationId, e) => {
+    e.stopPropagation();
+
+    const conversation = conversations.find(c => c.id === conversationId);
+    const newPinnedStatus = !conversation?.pinned;
+
+    try {
+      const updated = await conversationApi.updateConversation(conversationId, {
+        pinned: newPinnedStatus
+      });
+
+      // Update in list - will resort due to dependency change
+      setConversations(prev =>
+        prev.map(c => (c.id === conversationId ? { ...c, pinned: updated.pinned } : c))
+      );
+    } catch (err) {
+      console.error('Failed to update pin status:', err);
+      setError(err.message);
+    }
+  };
+
+  const handleToggleArchive = async (conversationId, e) => {
+    e.stopPropagation();
+
+    const conversation = conversations.find(c => c.id === conversationId);
+    const newArchivedStatus = !conversation?.archived;
+
+    try {
+      const updated = await conversationApi.updateConversation(conversationId, {
+        archived: newArchivedStatus
+      });
+
+      // Remove from list (will be filtered out unless showing archived)
+      if (!showArchived) {
+        setConversations(prev => prev.filter(c => c.id !== conversationId));
+      } else {
+        setConversations(prev =>
+          prev.map(c => (c.id === conversationId ? { ...c, archived: updated.archived } : c))
+        );
+      }
+    } catch (err) {
+      console.error('Failed to update archive status:', err);
+      setError(err.message);
+    }
+  };
+
   const formatTimestamp = (isoString) => {
     if (!isoString) return '';
 
@@ -177,16 +226,44 @@ const ChatHistorySidebar = ({
         </button>
       </div>
 
-      {/* New Chat Button */}
-      <button
-        className="new-chat-btn"
-        onClick={handleNewConversation}
-        disabled={loading}
-        title="Start a new conversation"
-      >
-        <Plus size={16} />
-        <span>New Chat</span>
-      </button>
+      {/* Controls Bar */}
+      <div className="sidebar-controls">
+        {/* New Chat Button */}
+        <button
+          className="new-chat-btn"
+          onClick={handleNewConversation}
+          disabled={loading}
+          title="Start a new conversation"
+        >
+          <Plus size={16} />
+          <span>New Chat</span>
+        </button>
+      </div>
+
+      {/* Filter Bar */}
+      <div className="filter-bar">
+        {/* Backend Filter Dropdown */}
+        <select
+          className="backend-filter"
+          value={backendFilter || ''}
+          onChange={e => setBackendFilter(e.target.value || null)}
+          title="Filter conversations by backend"
+        >
+          <option value="">All Backends</option>
+          <option value="claude">Claude</option>
+          <option value="gemini">Gemini</option>
+        </select>
+
+        {/* Show Archived Toggle */}
+        <button
+          className={`archive-toggle ${showArchived ? 'active' : ''}`}
+          onClick={() => setShowArchived(!showArchived)}
+          title={showArchived ? 'Hide archived' : 'Show archived'}
+        >
+          <Archive size={14} />
+          <span>{showArchived ? 'Archived' : 'Active'}</span>
+        </button>
+      </div>
 
       {/* Error Message */}
       {error && (
@@ -250,6 +327,20 @@ const ChatHistorySidebar = ({
               {/* Action Buttons */}
               {renaming !== conversation.id && (
                 <div className="conversation-actions">
+                  <button
+                    className={`action-btn pin-btn ${conversation.pinned ? 'active' : ''}`}
+                    onClick={e => handleTogglePin(conversation.id, e)}
+                    title={conversation.pinned ? 'Unpin conversation' : 'Pin conversation'}
+                  >
+                    <Pin size={14} />
+                  </button>
+                  <button
+                    className="action-btn archive-btn"
+                    onClick={e => handleToggleArchive(conversation.id, e)}
+                    title={conversation.archived ? 'Restore conversation' : 'Archive conversation'}
+                  >
+                    <Archive size={14} />
+                  </button>
                   <button
                     className="action-btn rename-btn"
                     onClick={e => {

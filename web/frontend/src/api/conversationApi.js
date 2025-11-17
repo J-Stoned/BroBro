@@ -64,11 +64,12 @@ export const createConversation = async (sessionId, title = null) => {
  * @param {number} options.limit - Max results (default: 100)
  * @param {number} options.offset - Pagination offset (default: 0)
  * @param {boolean} options.archived - Include archived (default: false)
+ * @param {string} options.backend - Filter by backend ('claude' or 'gemini', optional)
  * @returns {Promise} Object with conversations array and metadata
  */
 export const listConversations = async (
   sessionId,
-  { limit = 100, offset = 0, archived = false } = {}
+  { limit = 100, offset = 0, archived = false, backend = null } = {}
 ) => {
   const params = new URLSearchParams({
     session_id: sessionId,
@@ -76,6 +77,10 @@ export const listConversations = async (
     offset,
     archived,
   });
+
+  if (backend) {
+    params.append('backend', backend);
+  }
 
   const url = `${API_BASE}?${params.toString()}`;
   const response = await fetch(url);
@@ -115,17 +120,19 @@ export const getConversation = async (conversationId) => {
 };
 
 /**
- * Update conversation metadata (title, archived status)
+ * Update conversation metadata (title, archived status, pin status)
  * @param {string} conversationId - Conversation ID
  * @param {object} updates - Updates to apply
  * @param {string} updates.title - New title (optional)
  * @param {boolean} updates.archived - Archive status (optional)
+ * @param {boolean} updates.pinned - Pin status (optional)
  * @returns {Promise} Updated conversation data
  */
-export const updateConversation = async (conversationId, { title = null, archived = null } = {}) => {
+export const updateConversation = async (conversationId, { title = null, archived = null, pinned = null } = {}) => {
   const data = {};
   if (title !== null) data.title = title;
   if (archived !== null) data.archived = archived;
+  if (pinned !== null) data.pinned = pinned;
 
   const response = await apiRequest('PUT', `/${conversationId}`, data);
 
