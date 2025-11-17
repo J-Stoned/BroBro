@@ -3,6 +3,7 @@ import UnifiedSearchContainer from './components/search/UnifiedSearchContainer';
 import SetupManagement from './components/SetupManagement';
 import ChatInterface from './components/ChatInterface';
 import GeminiChatInterface from './components/GeminiChatInterface';
+import UnifiedChatContainer from './components/UnifiedChatContainer';
 import CommandLibrary from './components/CommandLibrary';
 import WorkflowBuilder from './components/WorkflowBuilder';
 import WorkflowErrorBoundary from './components/WorkflowErrorBoundary';
@@ -96,9 +97,7 @@ function App() {
       {/* Main Content */}
       <main className="app-main">
         {activeTab === 'chat' && (
-          chatBackend === 'claude' ?
-            <ChatInterface onBackendChange={setChatBackend} /> :
-            <GeminiChatInterface chatBackend={chatBackend} onBackendChange={setChatBackend} />
+          <UnifiedChatContainer defaultBackend={chatBackend} />
         )}
         {activeTab === 'commands' && <CommandLibrary onUseInChat={handleUseInChat} />}
         {activeTab === 'workflows' && (
