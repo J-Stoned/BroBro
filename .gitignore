@@ -53,3 +53,7 @@ Thumbs.db
 tmp/
 temp/
 *.tmp
+
+# Archive and third-party dependencies
+_archive/
+BMAD-METHOD/

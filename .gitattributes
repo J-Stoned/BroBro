@@ -1,0 +1,43 @@
+# Git attributes for language statistics and handling
+
+# Archive - don't count in GitHub language stats
+_archive/** linguist-vendored
+
+# Third-party dependencies - don't count in stats
+BMAD-METHOD/** linguist-vendored
+node_modules/** linguist-vendored
+
+# Documentation files
+*.md linguist-documentation
+docs/** linguist-documentation
+
+# Test files
+**/__tests__/** linguist-generated
+**/tests/** linguist-generated
+**/test/** linguist-generated
+
+# Configuration files
+*.config.js linguist-generated
+vite.config.js linguist-generated
+jest.config.js linguist-generated
+
+# Build outputs
+build/** linguist-generated
+dist/** linguist-generated
+
+# Line endings (normalize to LF)
+* text=auto
+*.py text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
