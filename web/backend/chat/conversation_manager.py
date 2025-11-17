@@ -607,7 +607,8 @@ class ConversationManager:
         conversation_id: str,
         title: Optional[str] = None,
         archived: Optional[bool] = None,
-        pinned: Optional[bool] = None
+        pinned: Optional[bool] = None,
+        backend_type: Optional[str] = None
     ) -> Dict[str, Any]:
         """
         Update conversation metadata
@@ -617,6 +618,7 @@ class ConversationManager:
             title: New title (optional)
             archived: Archive status (optional)
             pinned: Pin status (optional)
+            backend_type: Backend type (optional)
 
         Returns:
             Dict with updated conversation
@@ -642,6 +644,10 @@ class ConversationManager:
                 if archived:
                     updates.append('pinned = ?')
                     params.append(0)
+
+            if backend_type is not None:
+                updates.append('backend_type = ?')
+                params.append(backend_type)
 
             if pinned is not None:
                 updates.append('pinned = ?')

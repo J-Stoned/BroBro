@@ -33,6 +33,7 @@ class UpdateConversationRequest(BaseModel):
     title: Optional[str] = Field(None, description="New conversation title")
     archived: Optional[bool] = Field(None, description="Archive status")
     pinned: Optional[bool] = Field(None, description="Pin status")
+    backend_type: Optional[str] = Field(None, description="Backend type (claude or gemini)")
 
 
 class AddMessageRequest(BaseModel):
@@ -143,6 +144,52 @@ async def list_conversations(
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@router.get("/search")
+async def search_conversations(
+    session_id: str = Query(..., description="Session identifier"),
+    q: str = Query(..., description="Search query"),
+    backend: Optional[str] = Query(None, description="Filter by backend type (claude or gemini)"),
+    archived: bool = Query(False, description="Include archived conversations"),
+    limit: int = Query(20, ge=1, le=100, description="Maximum number of results")
+) -> ConversationListResponse:
+    """
+    Search conversations by message content using full-text search
+
+    - **session_id**: User's session identifier (required)
+    - **q**: Search query string (required)
+    - **backend**: Filter by backend type ('claude' or 'gemini', optional)
+    - **archived**: Include archived conversations (default: false)
+    - **limit**: Maximum results (default: 20, max: 100)
+
+    Returns conversations that contain matching message content, sorted by relevance and pinned status
+    """
+    try:
+        result = conversation_manager.search_conversations(
+            session_id=session_id,
+            query=q,
+            backend_type=backend,
+            archived=archived,
+            limit=limit
+        )
+
+        if result.get('success'):
+            return ConversationListResponse(
+                success=True,
+                conversations=result.get('conversations', []),
+                total=result.get('total', 0),
+                limit=limit,
+                offset=0
+            )
+        else:
+            raise HTTPException(status_code=400, detail=result.get('error'))
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Error searching conversations: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 @router.get("/{conversation_id}")
 async def get_conversation(conversation_id: str) -> ConversationResponse:
     """
@@ -171,12 +218,13 @@ async def update_conversation(
     request: UpdateConversationRequest
 ) -> ConversationResponse:
     """
-    Update conversation metadata (title, archived status, pin status)
+    Update conversation metadata (title, archived status, pin status, backend type)
 
     - **conversation_id**: ID of the conversation to update
     - **title**: New conversation title (optional)
     - **archived**: Archive status (optional, auto-unpins when set to true)
     - **pinned**: Pin status (optional)
+    - **backend_type**: Backend type ('claude' or 'gemini', optional)
 
     Returns the updated conversation details
     """
@@ -185,7 +233,8 @@ async def update_conversation(
             conversation_id=conversation_id,
             title=request.title,
             archived=request.archived,
-            pinned=request.pinned
+            pinned=request.pinned,
+            backend_type=request.backend_type
         )
 
         if result.get('success'):
@@ -282,50 +331,4 @@ async def get_messages(
 
     except Exception as e:
         logger.error(f"Error getting messages: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-@router.get("/search")
-async def search_conversations(
-    session_id: str = Query(..., description="Session identifier"),
-    q: str = Query(..., description="Search query"),
-    backend: Optional[str] = Query(None, description="Filter by backend type (claude or gemini)"),
-    archived: bool = Query(False, description="Include archived conversations"),
-    limit: int = Query(20, ge=1, le=100, description="Maximum number of results")
-) -> ConversationListResponse:
-    """
-    Search conversations by message content using full-text search
-
-    - **session_id**: User's session identifier (required)
-    - **q**: Search query string (required)
-    - **backend**: Filter by backend type ('claude' or 'gemini', optional)
-    - **archived**: Include archived conversations (default: false)
-    - **limit**: Maximum results (default: 20, max: 100)
-
-    Returns conversations that contain matching message content, sorted by relevance and pinned status
-    """
-    try:
-        result = conversation_manager.search_conversations(
-            session_id=session_id,
-            query=q,
-            backend_type=backend,
-            archived=archived,
-            limit=limit
-        )
-
-        if result.get('success'):
-            return ConversationListResponse(
-                success=True,
-                conversations=result.get('conversations', []),
-                total=result.get('total', 0),
-                limit=limit,
-                offset=0
-            )
-        else:
-            raise HTTPException(status_code=400, detail=result.get('error'))
-
-    except HTTPException:
-        raise
-    except Exception as e:
-        logger.error(f"Error searching conversations: {e}")
         raise HTTPException(status_code=500, detail=str(e))

@@ -17,7 +17,16 @@ import './GeminiChatInterface.css';
  * Single conversation view with large message bubbles and bottom search input
  */
 
-const GeminiChatInterface = ({ initialMessage = '', onMessageUsed, onBackendChange, chatBackend = 'gemini' }) => {
+const GeminiChatInterface = ({
+  initialMessage = '',
+  onMessageUsed,
+  onBackendChange,
+  chatBackend = 'gemini',
+  conversationId = null,
+  disableLocalStorage = false,
+  onAutoSaveMessage = null,
+  onFirstMessage = null
+}) => {
   // State management
   const [messages, setMessages] = useState([]);
   const [inputMessage, setInputMessage] = useState('');

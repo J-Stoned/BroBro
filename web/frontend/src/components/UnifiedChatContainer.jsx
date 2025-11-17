@@ -11,6 +11,7 @@ import './UnifiedChatContainer.css';
  *
  * Combines ChatHistorySidebar with ChatInterface/GeminiChatInterface.
  * Handles:
+ * - LocalStorage migration to backend on first load
  * - Conversation creation and selection
  * - Message auto-saving to backend
  * - Switching between Claude and Gemini backends
@@ -24,17 +25,121 @@ const UnifiedChatContainer = ({
   const [currentBackend, setCurrentBackend] = useState(defaultBackend);
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
   const [autoSaveEnabled, setAutoSaveEnabled] = useState(true);
+  const [migrationComplete, setMigrationComplete] = useState(false);
   const sessionId = getSessionId();
+
+  // Migrate localStorage data to backend on first load
+  useEffect(() => {
+    const migrateLocalStorageData = async () => {
+      try {
+        // Check if migration has already been done
+        const migrated = localStorage.getItem('brobro-migrated-to-backend');
+        if (migrated) {
+          setMigrationComplete(true);
+          return;
+        }
+
+        // Migrate Claude conversations from localStorage
+        const claudeData = localStorage.getItem('brobro-conversation');
+        if (claudeData) {
+          try {
+            const parsedData = JSON.parse(claudeData);
+            if (parsedData && typeof parsedData === 'object') {
+              // Create conversation with Claude backend
+              const newConv = await conversationApi.createConversation(sessionId, 'Migrated Claude Conversation');
+
+              // Add messages if they exist
+              if (Array.isArray(parsedData.messages)) {
+                for (const msg of parsedData.messages) {
+                  await conversationApi.addMessage(
+                    newConv.id,
+                    msg.role || 'user',
+                    msg.content || '',
+                    { migrated_from: 'localStorage', original_timestamp: msg.timestamp }
+                  );
+                }
+              }
+
+              // Update conversation with backend_type
+              if (newConv.id) {
+                await conversationApi.updateConversation(newConv.id, {
+                  title: parsedData.title || 'Migrated Claude Conversation',
+                  backend_type: 'claude'
+                });
+              }
+            }
+          } catch (err) {
+            console.error('Failed to migrate Claude conversation:', err);
+          }
+        }
+
+        // Migrate Gemini conversations from localStorage
+        const geminiData = localStorage.getItem('brobro-gemini-conversation');
+        if (geminiData) {
+          try {
+            const parsedData = JSON.parse(geminiData);
+            if (parsedData && typeof parsedData === 'object') {
+              // Create conversation with Gemini backend
+              const newConv = await conversationApi.createConversation(sessionId, 'Migrated Gemini Conversation');
+
+              // Add messages if they exist
+              if (Array.isArray(parsedData.messages)) {
+                for (const msg of parsedData.messages) {
+                  await conversationApi.addMessage(
+                    newConv.id,
+                    msg.role || 'user',
+                    msg.content || '',
+                    { migrated_from: 'localStorage', original_timestamp: msg.timestamp }
+                  );
+                }
+              }
+
+              // Update conversation with backend_type
+              if (newConv.id) {
+                await conversationApi.updateConversation(newConv.id, {
+                  title: parsedData.title || 'Migrated Gemini Conversation',
+                  backend_type: 'gemini'
+                });
+              }
+            }
+          } catch (err) {
+            console.error('Failed to migrate Gemini conversation:', err);
+          }
+        }
+
+        // Mark migration as complete
+        localStorage.setItem('brobro-migrated-to-backend', 'true');
+        setMigrationComplete(true);
+      } catch (err) {
+        console.error('LocalStorage migration error:', err);
+        setMigrationComplete(true); // Continue anyway
+      }
+    };
+
+    migrateLocalStorageData();
+  }, [sessionId]);
 
   // Handle new conversation
   const handleNewConversation = (newConversation) => {
     setSelectedConversationId(newConversation.id);
+    setCurrentBackend(newConversation.backend_type || 'claude');
   };
 
   // Handle conversation selection
   const handleSelectConversation = async (conversationId) => {
     setSelectedConversationId(conversationId);
-    // Messages will be loaded by the chat component
+
+    // Fetch conversation details to get backend_type
+    try {
+      const convDetails = await conversationApi.getConversation(conversationId);
+      if (convDetails && convDetails.conversation) {
+        const backend = convDetails.conversation.backend_type || 'claude';
+        setCurrentBackend(backend);
+      }
+    } catch (err) {
+      console.error('Failed to fetch conversation details:', err);
+      // Continue with default backend
+    }
   };
 
   // Helper function to auto-save messages
@@ -71,6 +176,17 @@ const UnifiedChatContainer = ({
     }
   };
 
+  // Only render chat interface after migration is complete
+  if (!migrationComplete) {
+    return (
+      <div className="unified-chat-container">
+        <div className="migration-loading">
+          <p>Initializing chat system...</p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="unified-chat-container">
       {/* Chat History Sidebar */}
@@ -87,12 +203,14 @@ const UnifiedChatContainer = ({
         {currentBackend === 'claude' ? (
           <ChatInterface
             conversationId={selectedConversationId}
+            disableLocalStorage={true}
             onFirstMessage={handleFirstMessage}
             onAutoSaveMessage={autoSaveMessage}
           />
         ) : (
           <GeminiChatInterface
             conversationId={selectedConversationId}
+            disableLocalStorage={true}
             onFirstMessage={handleFirstMessage}
             onAutoSaveMessage={autoSaveMessage}
           />

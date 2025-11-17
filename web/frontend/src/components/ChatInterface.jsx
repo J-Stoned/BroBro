@@ -38,7 +38,14 @@ import './ChatInterface.css';
  * 8.8: Comprehensive error handling
  */
 
-const ChatInterface = ({ initialMessage = '', onMessageUsed }) => {
+const ChatInterface = ({
+  initialMessage = '',
+  onMessageUsed,
+  conversationId = null,
+  disableLocalStorage = false,
+  onAutoSaveMessage = null,
+  onFirstMessage = null
+}) => {
   // Story 8.1: Message state management
   const [messages, setMessages] = useState([]);
   const [inputMessage, setInputMessage] = useState('');
@@ -84,13 +91,18 @@ const ChatInterface = ({ initialMessage = '', onMessageUsed }) => {
     }
   }, [initialMessage, onMessageUsed]);
 
-  // Story 8.5: localStorage functions
+  // Story 8.5: localStorage functions (skip if disableLocalStorage is true)
   const loadConversationFromStorage = () => {
+    if (disableLocalStorage || conversationId) {
+      // Don't load from localStorage if we're using backend storage
+      return;
+    }
+
     try {
       const saved = localStorage.getItem('brobro-conversation');
       if (saved) {
         const parsed = JSON.parse(saved);
-        
+
         // CRITICAL FIX: If conversation is too large (>50MB stored), it's likely corrupted
         // Clear it and start fresh
         if (saved.length > 50000000) {
@@ -98,7 +110,7 @@ const ChatInterface = ({ initialMessage = '', onMessageUsed }) => {
           localStorage.removeItem('brobro-conversation');
           return;
         }
-        
+
         // Limit to last 20 messages maximum to prevent size explosion
         const limited = Array.isArray(parsed) ? parsed.slice(-20) : [];
         setMessages(limited);
@@ -116,11 +128,16 @@ const ChatInterface = ({ initialMessage = '', onMessageUsed }) => {
   };
 
   const saveConversationToStorage = () => {
+    if (disableLocalStorage || conversationId) {
+      // Don't save to localStorage if we're using backend storage
+      return;
+    }
+
     try {
       // CRITICAL FIX: Limit to maximum 30 messages to prevent storage bloat
       // Keep only the most recent messages
       const recentMessages = messages.slice(-30);
-      
+
       // Sanitize each message - only save essential fields
       const sanitizedMessages = recentMessages.map(msg => ({
         id: msg.id,
@@ -132,9 +149,9 @@ const ChatInterface = ({ initialMessage = '', onMessageUsed }) => {
           sourcesCount: msg.sources.length // Just store count, not full source data
         })
       }));
-      
+
       const serialized = JSON.stringify(sanitizedMessages);
-      
+
       // Check size before saving - abort if > 1MB
       if (serialized.length > 1000000) {
         console.warn('[WARN] Conversation too large for localStorage, truncating to 10 messages');
@@ -184,6 +201,14 @@ const ChatInterface = ({ initialMessage = '', onMessageUsed }) => {
     setError(null);
     setBackendOffline(false);
 
+    // Auto-save user message to backend
+    if (conversationId && onAutoSaveMessage) {
+      onAutoSaveMessage(conversationId, 'user', userMessage.content);
+    } else if (!conversationId && onFirstMessage) {
+      // First message - call onFirstMessage to create conversation
+      onFirstMessage(conversationId, userMessage.content);
+    }
+
     try {
       // Story 8.3: Call chat API (Claude-powered) using API utility
       // IMPORTANT: Only send role and content, filter out any other fields (images, etc)
@@ -214,6 +239,17 @@ const ChatInterface = ({ initialMessage = '', onMessageUsed }) => {
       };
 
       setMessages(prev => [...prev, assistantMessage]);
+
+      // Auto-save assistant message to backend
+      if (conversationId && onAutoSaveMessage) {
+        const metadata = {
+          sources: assistantMessage.sources,
+          searchTime: assistantMessage.searchTime,
+          generationTime: assistantMessage.generationTime,
+          totalTime: assistantMessage.totalTime
+        };
+        onAutoSaveMessage(conversationId, 'assistant', assistantMessage.content, metadata);
+      }
 
     } catch (err) {
       // Story 8.8: Enhanced error handling with user-friendly messages

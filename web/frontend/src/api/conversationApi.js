@@ -241,6 +241,54 @@ export const unarchiveConversation = async (conversationId) => {
   return updateConversation(conversationId, { archived: false });
 };
 
+/**
+ * Search conversations by message content
+ * @param {string} sessionId - User's session ID
+ * @param {string} query - Search query string
+ * @param {object} options - Search options
+ * @param {string} options.backend - Filter by backend ('claude' or 'gemini', optional)
+ * @param {boolean} options.archived - Include archived conversations (default: false)
+ * @param {number} options.limit - Max results (default: 20)
+ * @returns {Promise} Object with conversations array and metadata
+ */
+export const searchConversations = async (
+  sessionId,
+  query,
+  { backend = null, archived = false, limit = 20 } = {}
+) => {
+  const params = new URLSearchParams({
+    session_id: sessionId,
+    q: query,
+    archived,
+    limit,
+  });
+
+  if (backend) {
+    params.append('backend', backend);
+  }
+
+  const url = `${API_BASE}/search?${params.toString()}`;
+  const response = await fetch(url);
+
+  if (!response.ok) {
+    const error = await response.json();
+    throw new Error(error.detail || 'Failed to search conversations');
+  }
+
+  const data = await response.json();
+
+  if (!data.success) {
+    throw new Error(data.error || 'Failed to search conversations');
+  }
+
+  return {
+    conversations: data.conversations || [],
+    total: data.total || 0,
+    limit: data.limit || limit,
+    offset: 0,
+  };
+};
+
 export default {
   createConversation,
   listConversations,
@@ -252,4 +300,5 @@ export default {
   renameConversation,
   archiveConversation,
   unarchiveConversation,
+  searchConversations,
 };
